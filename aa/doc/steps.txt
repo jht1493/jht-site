@@ -6,3 +6,10 @@ npm install turndown
 
 npm install fs-extra
 
+strip by search an replace
+---
+  window.jstiming.load.tick('cl'); 
+
+---
+[![John Henry Thompson - Invent Your Future](_/rsrc/1329567069254/config/customLogo.gif-revision=6.png)](index.html)
+---
