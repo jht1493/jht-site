@@ -712,5 +712,5 @@ Leah Buechley's video: Great way to combine a  bunch of things: art, direct man
 
 1-10 of 14
 
-[Sign in](https://accounts.google.com/ServiceLogin?continue=http://sites.google.com/a/johnhenrythompson.com/jht/the-art-of-learning/learning-creative-learning&service=jotspot)|[Recent Site Activity](../system/app/pages/recentChanges.html)|[Report Abuse](http://sites.google.com/a/johnhenrythompson.com/jht/system/app/pages/reportAbuse)|[Print Page](javascript:;)|Powered By **[Google Sites](http://sites.google.com/site)**
+[Google Sites](http://sites.google.com/site)**
 

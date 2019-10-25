@@ -53,8 +53,11 @@ function visit_files_at_path(rpath, func) {
 // [Sign in]';
 // const strip_to = ', this);';
 
-const strip_from = "window.jstiming.load.tick('sjl');";
-const strip_to = ', this);';
+// const strip_from = "window.jstiming.load.tick('sjl');";
+// const strip_to = ', this);';
+
+const strip_from = '[Sign in](https://accounts.google.com';
+const strip_to = '**';
 
 function strip(inpath, filename) {
   let str = fs.readFileSync(inpath) + '';

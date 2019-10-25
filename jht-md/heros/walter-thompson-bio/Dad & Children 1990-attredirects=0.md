@@ -18,5 +18,5 @@ We're sorry, but we were unable to locate the page you requested.
 
 *   [Dad & Children 1990? wht\_family.jpg](http://www.johnhenrythompson.com/heros/walter-thompson-bio/Dad%20%26%20Children%201990)
 
-[Sign in](https://accounts.google.com/ServiceLogin?continue=http://sites.google.com/a/johnhenrythompson.com/jht/heros/walter-thompson-bio/Dad%2520%26%2520Children%25201990&service=jotspot)|[Recent Site Activity](../../system/app/pages/recentChanges.html)|[Report Abuse](http://sites.google.com/a/johnhenrythompson.com/jht/system/app/pages/reportAbuse)|[Print Page](javascript:;)|Powered By **[Google Sites](http://sites.google.com/site)**
+[Google Sites](http://sites.google.com/site)**
 

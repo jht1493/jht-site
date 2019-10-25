@@ -77,4 +77,4 @@ That's an IBM PC second edition, 1984.
 
 Subpages (4): [Ancestors](home/who-am-i.html) [Brief Bio](home/bio.html) [interview 2010](home/interview-2010.html) [Interviews 1994 - 2012](home/interviews.html)
 
-[Sign in](https://accounts.google.com/ServiceLogin?continue=http://sites.google.com/a/johnhenrythompson.com/jht/home&service=jotspot)|[Recent Site Activity](system/app/pages/recentChanges.html)|[Report Abuse](http://sites.google.com/a/johnhenrythompson.com/jht/system/app/pages/reportAbuse)|[Print Page](javascript:;)|Powered By **[Google Sites](http://sites.google.com/site)**
+[Google Sites](http://sites.google.com/site)**
