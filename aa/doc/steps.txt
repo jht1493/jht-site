@@ -30,3 +30,6 @@ window.jstiming.load.tick('render'); JOT\_postEvent('usercontentrendered', this)
 [![John Henry Thompson - Invent Your Future](../../_/rsrc/1329567069254/config/customLogo.gif-revision=6.png)](../../index.html)
 ---
 ## [John Henry Thompson - Invent Your Future](../index.html)
+---
+[http://www.papert.org/articles/HardFun.html](http://www.papert.org/articles/HardFun.html)
+[Notes](../notes.html)‎ > ‎
