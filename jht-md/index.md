@@ -1,7 +1,5 @@
 John Henry Thompson - Invent Your Future
 
-## [John Henry Thompson - Invent Your Future](index.html)
-
 ### About me
 
 This is the personal web site of John Henry Thompson.

@@ -1,7 +1,5 @@
 Notes - John Henry Thompson - Invent Your Future
 
-## [John Henry Thompson - Invent Your Future](index.html)
-
 ### Notes
 
 ![](_/rsrc/1570087315000/system/app/images/icon_feed.gif) [ Subscribe to posts](http://www.johnhenrythompson.com/notes/posts.xml)

@@ -1,7 +1,5 @@
 Ancestors
 
-## [John Henry Thompson - Invent Your Future](../index.html)
-
 [About me](../home.html)‎ > ‎
 
 ### Ancestors

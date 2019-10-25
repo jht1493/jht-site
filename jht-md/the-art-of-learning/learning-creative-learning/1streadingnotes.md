@@ -1,9 +1,6 @@
-01 Session Reading Notes - John Henry Thompson - Invent Your Future [![John Henry Thompson - Invent Your Future](../../_/rsrc/1329567069254/config/customLogo.gif-revision=6.png)](../../index.html)
+01 Session Reading Notes - John Henry Thompson
 
-[John Henry Thompson - Invent Your Future](../../index.html)
-------------------------------------------------------------
 
-../../system/app/pages/sitemap/hierarchy.html)
     
 
 [2\. The Art of Learning](../../the-art-of-learning.html)‎ > ‎[Learning Creative Learning](../learning-creative-learning.html)‎ > ‎

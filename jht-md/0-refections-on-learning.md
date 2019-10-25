@@ -1,7 +1,5 @@
 0\. Reflections - John Henry Thompson - Invent Your Future
 
-## [John Henry Thompson - Invent Your Future](index.html)
-
 ### 0\. Reflections
 
 # [\[ DICE is here \]](3-dice.html)

@@ -1,7 +1,5 @@
 Blog - John Henry Thompson - Invent Your Future
 
-## [John Henry Thompson - Invent Your Future](index.html)
-
 ### Blog
 
 What's on the colored mind?

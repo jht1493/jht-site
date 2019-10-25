@@ -1,6 +1,4 @@
-Learning Creative Learning - John Henry Thompson - Invent Your Future [![John Henry Thompson - Invent Your Future](../_/rsrc/1329567069254/config/customLogo.gif-revision=6.png)](../index.html)
-
-## [John Henry Thompson - Invent Your Future](../index.html)
+Learning Creative Learning - John Henry Thompson - Invent Your Future
 
 [2\. The Art of Learning](../the-art-of-learning.html)‎ > ‎
 
