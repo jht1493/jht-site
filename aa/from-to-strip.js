@@ -48,9 +48,12 @@ function visit_files_at_path(rpath, func) {
 // const strip_from = '//<!\\[CDATA\\[ function JOT';
 // const strip_to = '\\]\\]> ';
 
-const strip_from = 'Comments\n\
-\n\
-[Sign in]';
+// const strip_from = 'Comments\n\
+// \n\
+// [Sign in]';
+// const strip_to = ', this);';
+
+const strip_from = "window.jstiming.load.tick('sjl');";
 const strip_to = ', this);';
 
 function strip(inpath, filename) {
