@@ -75,7 +75,7 @@ function strip(inpath, filename) {
     subcount++;
     if (!sub.startsWith('(http://')) {
       repcount++;
-      sub = sub.substring(0, sub.length - 4) + 'md';
+      sub = sub.substring(0, sub.length - 4) + 'md)';
     }
     return sub;
   });
