@@ -56,8 +56,11 @@ Recent experiments:
 
 #### DICE Images thru time
 
-[![](_/rsrc/1540258178968/home/IMG_5174.jpg)](http://www.johnhenrythompson.com/home/IMG_5174.jpg?attredirects=0)
+[DICE 2018 Demo](http://youtube.com/watch?v=z1cH5ou8OkA)
 
+[half bw, half colored](http://youtube.com/watch?v=Z6z09QfPaW0)
+
+[![](_/rsrc/1540258178968/home/IMG_5174.jpg)](http://www.johnhenrythompson.com/home/IMG_5174.jpg?attredirects=0)
 2018 DICE: Iron Pixel
 
 [![](_/rsrc/1330015952311/home/glasses-height=228&width=320.png)](http://www.youtube.com/watch?v=a8xpj3_LyQM)  
