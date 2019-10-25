@@ -41,7 +41,7 @@ I worked in the computer center every day after school from four until eight o'c
 
 I was fortunate to have a strong **support network** that helped me fulfill my desire to learn the mysteries the computer. By working in a real research facility I experienced direct, tangible applications of the knowledge I acquired in the classroom. My parents gave me the **belief** in fulfilling my dreams and the **hope** of education. Once I expressed by **goal**, by school, my teachers, and special social programs help me implement my **plan.** I took personal charge of my learning by working directly on projects that built on my personal **passion**.
 
-[![](_/rsrc/1488992517046/0-refections-on-learning/Computer%20Club%20766x597-height=249&width=320.jpg)](http://www.johnhenrythompson.com/0-refections-on-learning/Computer%20Club%20766x597.jpg?attredirects=0)
+[![](_png/jht-hs-grad-cu.png)](_png/jht-hs-grad=cu.png) [![](_/rsrc/1488992517046/0-refections-on-learning/Computer%20Club%20766x597-height=249&width=320.jpg)](http://www.johnhenrythompson.com/0-refections-on-learning/Computer%20Club%20766x597.jpg?attredirects=0)
 [Proud member of my 1977 high school computer club.](http://bxscience.edu/index.jsp)
 
 ## Learning computers today
