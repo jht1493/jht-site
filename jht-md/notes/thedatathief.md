@@ -9,7 +9,7 @@ The Data Thief - John Henry Thompson - Invent Your Future [![John Henry Thompson
 
 ### The Data Thief
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Apr 6, 2013, 6:17 AM by John Henry Thompson   \[ updated Jul 11, 2013, 10:26 AM \]
+posted Apr 6, 2013, 6:17 AM by John Henry Thompson   \[ updated Jul 11, 2013, 10:26 AM \]
 
 John Akomfrah: "The Last Angel of History"  
 [http://homevideo.icarusfilms.com/new97/the\_last\_.html](http://homevideo.icarusfilms.com/new97/the_last_.html)  

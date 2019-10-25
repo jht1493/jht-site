@@ -10,7 +10,7 @@
 
 ### 08 Session
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Apr 8, 2013, 4:27 AM by John Henry Thompson   \[ updated Jul 15, 2013, 11:29 PM \]
+posted Apr 8, 2013, 4:27 AM by John Henry Thompson   \[ updated Jul 15, 2013, 11:29 PM \]
 
 April 8: Motivation and Persistence (Session 8)
 

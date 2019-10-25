@@ -9,7 +9,7 @@ paula-madison - John Henry Thompson - Invent Your Future [![John Henry Thompson 
 
 ### paula-madison
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jul 15, 2014, 2:47 AM by John Henry Thompson
+posted Jul 15, 2014, 2:47 AM by John Henry Thompson
 
   
 

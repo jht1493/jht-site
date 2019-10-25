@@ -9,7 +9,7 @@ Kareem Abdul-Jabar, Yoga and Bruce lee - John Henry Thompson - Invent Your Futur
 
 ### Kareem Abdul-Jabar, Yoga and Bruce lee
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted May 13, 2013, 6:35 AM by John Henry Thompson
+posted May 13, 2013, 6:35 AM by John Henry Thompson
 
   
 [http://grimmly2007.blogspot.co.uk/2012/07/kareem-abdul-jabar-yoga-and-bruce-lee.html](http://grimmly2007.blogspot.co.uk/2012/07/kareem-abdul-jabar-yoga-and-bruce-lee.html)  

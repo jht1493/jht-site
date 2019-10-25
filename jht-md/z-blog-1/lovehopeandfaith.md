@@ -9,7 +9,7 @@ Love, Hope and Faith - John Henry Thompson - Invent Your Future [![John Henry Th
 
 ### Love, Hope and Faith
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 9, 2016, 1:13 AM by John Henry Thompson
+posted Nov 9, 2016, 1:13 AM by John Henry Thompson
 
 Choosing Love, Hope and Faith over Fear, Uncertainty and Doubt.
 

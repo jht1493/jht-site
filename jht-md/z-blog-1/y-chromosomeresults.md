@@ -9,7 +9,7 @@ Y-chromosome results - John Henry Thompson - Invent Your Future [![John Henry Th
 
 ### Y-chromosome results
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Apr 20, 2012, 9:05 PM by John Henry Thompson   \[ updated Apr 21, 2012, 4:38 AM \]
+posted Apr 20, 2012, 9:05 PM by John Henry Thompson   \[ updated Apr 21, 2012, 4:38 AM \]
 
 [![](../_/rsrc/1334981110632/z-blog-1/y-chromosomeresults/Y-chromosome.png)](http://www.johnhenrythompson.com/z-blog-1/y-chromosomeresults/Y-chromosome.png?attredirects=0)
 

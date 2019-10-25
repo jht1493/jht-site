@@ -9,7 +9,7 @@ Solo practice video update - John Henry Thompson - Invent Your Future [![John He
 
 ### Solo practice video update
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 31, 2013, 9:50 PM by John Henry Thompson   \[ updated Apr 1, 2013, 11:58 AM \]
+posted Mar 31, 2013, 9:50 PM by John Henry Thompson   \[ updated Apr 1, 2013, 11:58 AM \]
 
   
 [Added video: Year Two - 5 months, Ashtanga Primary #231.](http://www.youtube.com/watch?v=zjJI_3KuGR0)  

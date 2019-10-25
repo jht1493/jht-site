@@ -10,7 +10,7 @@
 
 ### 00 Here we go
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 7, 2013, 9:56 AM by John Henry Thompson   \[ updated May 4, 2013, 8:46 AM \]
+posted Feb 7, 2013, 9:56 AM by John Henry Thompson   \[ updated May 4, 2013, 8:46 AM \]
 
 Signed up for the online course [Learning Creative Learning](http://learn.media.mit.edu/index.html), offered by the MIT Media Lab.  
 Looking forward to sharing with this vibrant community.  

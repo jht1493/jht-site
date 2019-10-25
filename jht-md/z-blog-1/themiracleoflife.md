@@ -9,7 +9,7 @@ The Miracle of Life - John Henry Thompson - Invent Your Future [![John Henry Tho
 
 ### The Miracle of Life
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 6, 2012, 7:41 PM by John Henry Thompson
+posted Feb 6, 2012, 7:41 PM by John Henry Thompson
 
 My body knows so much more than I will ever know.  
 

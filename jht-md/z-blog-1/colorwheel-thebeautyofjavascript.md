@@ -9,7 +9,7 @@ Color Wheel - the beauty of javascript - John Henry Thompson - Invent Your Futur
 
 ### Color Wheel - the beauty of javascript
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Dec 27, 2016, 8:49 PM by John Henry Thompson
+posted Dec 27, 2016, 8:49 PM by John Henry Thompson
 
 [![](../_/rsrc/1482900596557/z-blog-1/colorwheel-thebeautyofjavascript/0colorwheel.png)](http://www.johnhenrythompson.com/z-blog-1/colorwheel-thebeautyofjavascript/0colorwheel.png?attredirects=0)
 

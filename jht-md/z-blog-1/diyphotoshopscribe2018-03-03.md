@@ -9,7 +9,7 @@ D.I.Y. Photoshop @ Scribe 2018-03-03 - John Henry Thompson - Invent Your Future 
 
 ### D.I.Y. Photoshop @ Scribe 2018-03-03
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jan 14, 2018, 5:50 PM by John Henry Thompson   \[ updated Feb 17, 2018, 8:43 AM by John Henry Thompson \]
+posted Jan 14, 2018, 5:50 PM by John Henry Thompson   \[ updated Feb 17, 2018, 8:43 AM by John Henry Thompson \]
 
 (Event for two sessions. Link now retired. -JHT 2018-02-18)  
 

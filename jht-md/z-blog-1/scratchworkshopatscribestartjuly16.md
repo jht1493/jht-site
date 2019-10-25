@@ -9,7 +9,7 @@ Scratch Workshop at Scribe, July 16, 23, 30, Aug 6 - John Henry Thompson - Inven
 
 ### Scratch Workshop at Scribe, July 16, 23, 30, Aug 6
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jun 19, 2013, 9:48 PM by John Henry Thompson   \[ updated Jun 29, 2013, 7:52 AM \]
+posted Jun 19, 2013, 9:48 PM by John Henry Thompson   \[ updated Jun 29, 2013, 7:52 AM \]
 
 [http://scribe.org/workshops/playlearncreativeapproachlearningcomputerprogramming](http://scribe.org/workshops/playlearncreativeapproachlearningcomputerprogramming)  
   

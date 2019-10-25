@@ -9,7 +9,7 @@ SongClips update - John Henry Thompson - Invent Your Future [![John Henry Thomps
 
 ### SongClips update
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 19, 2011, 9:04 PM by John Henry Thompson   \[ updated Nov 19, 2011, 9:05 PM \]
+posted Nov 19, 2011, 9:04 PM by John Henry Thompson   \[ updated Nov 19, 2011, 9:05 PM \]
 
 Updated SongClips pages.  
   

@@ -9,7 +9,7 @@ Starting on Book 2 Patanjali's Yoga Sutras - John Henry Thompson - Invent Your F
 
 ### Starting on Book 2 Patanjali's Yoga Sutras
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 4, 2012, 8:05 PM by John Henry Thompson
+posted Feb 4, 2012, 8:05 PM by John Henry Thompson
 
 [Starting entering Book 2 of Patanjali's Yoga Sutras](../yoga/patanjani/book-2.html)  
   

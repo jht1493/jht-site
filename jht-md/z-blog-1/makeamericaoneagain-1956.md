@@ -9,7 +9,7 @@ Make America One Again - 1956 - John Henry Thompson - Invent Your Future [![John
 
 ### Make America One Again - 1956
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Oct 19, 2016, 9:10 PM by John Henry Thompson   \[ updated Oct 19, 2016, 9:10 PM \]
+posted Oct 19, 2016, 9:10 PM by John Henry Thompson   \[ updated Oct 19, 2016, 9:10 PM \]
 
 Make America One Again - What happened in 1956?  
 Let's return to the original USA motto: Out of many ONE!

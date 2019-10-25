@@ -9,7 +9,7 @@ Re-Birth by Black Hole: And Other Cosmic Quandaries - John Henry Thompson - Inve
 
 ### Re-Birth by Black Hole: And Other Cosmic Quandaries
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 28, 2012, 1:30 PM by John Henry Thompson   \[ updated Nov 28, 2012, 1:31 PM \]
+posted Nov 28, 2012, 1:30 PM by John Henry Thompson   \[ updated Nov 28, 2012, 1:31 PM \]
 
 Current listening and reading:  
   

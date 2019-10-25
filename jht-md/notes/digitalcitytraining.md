@@ -9,7 +9,7 @@ Digital City training - John Henry Thompson - Invent Your Future [![John Henry T
 
 ### Digital City training
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jan 31, 2013, 2:47 AM by John Henry Thompson   \[ updated Jan 31, 2013, 2:49 AM \]
+posted Jan 31, 2013, 2:47 AM by John Henry Thompson   \[ updated Jan 31, 2013, 2:49 AM \]
 
 Digital City training  
 by Marc Canter  

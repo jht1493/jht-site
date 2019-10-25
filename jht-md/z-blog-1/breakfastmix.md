@@ -9,7 +9,7 @@ Breakfast mix - John Henry Thompson - Invent Your Future [![John Henry Thompson 
 
 ### Breakfast mix
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 11, 2012, 10:51 AM by John Henry Thompson
+posted Mar 11, 2012, 10:51 AM by John Henry Thompson
 
 [![](../_/rsrc/1331488274068/z-blog-1/breakfastmix/IMG_0397-height=200&width=149.jpg)](http://www.johnhenrythompson.com/z-blog-1/breakfastmix/IMG_0397.jpg?attredirects=0)  
 The breakfast mix:  

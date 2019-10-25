@@ -9,7 +9,7 @@ Ashtanga Practice Number 99 - John Henry Thompson - Invent Your Future [![John H
 
 ### Ashtanga Practice Number 99
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jul 10, 2011, 11:42 AM by John Henry Thompson   \[ updated Jul 13, 2011, 4:28 AM \]
+posted Jul 10, 2011, 11:42 AM by John Henry Thompson   \[ updated Jul 13, 2011, 4:28 AM \]
 
 [Practice by the pool](http://www.youtube.com/watch?v=upCetKXWseE). iPhone over heated in the sun so only got first 8 minutes of 90 minute practice.  
   

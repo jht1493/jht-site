@@ -9,7 +9,7 @@ Red Burns - John Henry Thompson - Invent Your Future [![John Henry Thompson - In
 
 ### Red Burns
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Dec 27, 2013, 10:15 AM by John Henry Thompson
+posted Dec 27, 2013, 10:15 AM by John Henry Thompson
 
 Red Burns created a place she couldn’t wait to get to every day — the Interactive Telecommunications Program. “Part think tank, lab, playground and atelier,” ....  
 [http://www.nytimes.com/news/the-lives-they-lived/2013/12/21/red-burns/](http://www.nytimes.com/news/the-lives-they-lived/2013/12/21/red-burns/)  

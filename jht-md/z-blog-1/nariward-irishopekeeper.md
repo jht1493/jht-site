@@ -9,7 +9,7 @@ NARI WARD - 'Iris Hope Keeper' - John Henry Thompson - Invent Your Future [![Joh
 
 ### NARI WARD - 'Iris Hope Keeper'
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jul 9, 2013, 5:36 AM by John Henry Thompson   \[ updated Jul 9, 2013, 5:38 AM \]
+posted Jul 9, 2013, 5:36 AM by John Henry Thompson   \[ updated Jul 9, 2013, 5:38 AM \]
 
 Nari completed a piece in honor of his mother during is year in Italy:  
 [http://www.galleriacontinua.com/italiano/mostra.html?id\_mostra=249](http://www.galleriacontinua.com/italiano/mostra.html?id_mostra=249)  

@@ -9,7 +9,7 @@ Free Angela and All Political Prisoners - John Henry Thompson - Invent Your Futu
 
 ### Free Angela and All Political Prisoners
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 28, 2013, 9:12 AM by John Henry Thompson
+posted Nov 28, 2013, 9:12 AM by John Henry Thompson
 
 A very interesting documentary.  
 Too bad it was only show for one evening.  

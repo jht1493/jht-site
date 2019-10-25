@@ -9,7 +9,7 @@ DICE is coming! - John Henry Thompson - Invent Your Future [![John Henry Thompso
 
 ### DICE is coming!
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Dec 16, 2017, 12:04 PM by John Henry Thompson
+posted Dec 16, 2017, 12:04 PM by John Henry Thompson
 
 DICE is coming! (sent last month - blogged for legacy)
 

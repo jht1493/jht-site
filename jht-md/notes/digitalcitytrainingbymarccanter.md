@@ -9,7 +9,7 @@ Digital City training by Marc Canter - John Henry Thompson - Invent Your Future 
 
 ### Digital City training by Marc Canter
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 25, 2013, 5:20 AM by John Henry Thompson
+posted Mar 25, 2013, 5:20 AM by John Henry Thompson
 
 [http://www.youtube.com/playlist?list=PL8095E64ED4F65A88](http://www.youtube.com/playlist?list=PL8095E64ED4F65A88)  
 

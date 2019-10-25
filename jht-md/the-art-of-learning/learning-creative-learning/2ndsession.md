@@ -10,7 +10,7 @@
 
 ### 02 Session
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 13, 2013, 6:07 PM by John Henry Thompson   \[ updated May 4, 2013, 8:44 AM \]
+posted Feb 13, 2013, 6:07 PM by John Henry Thompson   \[ updated May 4, 2013, 8:44 AM \]
 
 Readings and Reflection:
 

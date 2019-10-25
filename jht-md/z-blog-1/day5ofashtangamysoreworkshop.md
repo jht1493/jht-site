@@ -9,7 +9,7 @@ Day 5 of Ashtanga Mysore workshop - John Henry Thompson - Invent Your Future [![
 
 ### Day 5 of Ashtanga Mysore workshop
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Sep 23, 2011, 6:26 AM by John Henry Thompson   \[ updated Oct 3, 2011, 6:41 PM \]
+posted Sep 23, 2011, 6:26 AM by John Henry Thompson   \[ updated Oct 3, 2011, 6:41 PM \]
 
 I did it! Monday to Friday of 6:30am Mysore style Asthanga practice.  
 I'm ready of early morning practice.  

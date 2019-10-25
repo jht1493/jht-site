@@ -9,7 +9,7 @@ Artists in Residence – Benjamin Bergery and Jim Campbell - John Henry Thompson
 
 ### Artists in Residence – Benjamin Bergery and Jim Campbell
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jan 6, 2017, 7:44 PM by John Henry Thompson   \[ updated Sep 25, 2017, 9:45 AM \]
+posted Jan 6, 2017, 7:44 PM by John Henry Thompson   \[ updated Sep 25, 2017, 9:45 AM \]
 
   
 

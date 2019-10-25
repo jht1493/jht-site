@@ -9,7 +9,7 @@ Ashtanga (Eight Limb) Yoga - John Henry Thompson - Invent Your Future [![John He
 
 ### Ashtanga (Eight Limb) Yoga
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jun 5, 2011, 9:23 PM by John Henry Thompson   \[ updated Jul 26, 2011, 7:53 PM \]
+posted Jun 5, 2011, 9:23 PM by John Henry Thompson   \[ updated Jul 26, 2011, 7:53 PM \]
 
 Patanjali 1.1: The restraint of the modifications of the mind-stuff (CHITTA) is Yoga.  
   

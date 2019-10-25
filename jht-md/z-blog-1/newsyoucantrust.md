@@ -9,7 +9,7 @@ News you can trust - John Henry Thompson - Invent Your Future [![John Henry Thom
 
 ### News you can trust
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Oct 19, 2016, 9:13 PM by John Henry Thompson   \[ updated Oct 20, 2016, 2:50 AM \]
+posted Oct 19, 2016, 9:13 PM by John Henry Thompson   \[ updated Oct 20, 2016, 2:50 AM \]
 
 News you can trust
 

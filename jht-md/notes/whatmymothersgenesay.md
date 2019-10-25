@@ -9,7 +9,7 @@ What my mother's genes says about me - John Henry Thompson - Invent Your Future 
 
 ### What my mother's genes says about me
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 26, 2012, 12:52 PM by John Henry Thompson   \[ updated Jan 31, 2013, 3:02 AM \]
+posted Nov 26, 2012, 12:52 PM by John Henry Thompson   \[ updated Jan 31, 2013, 3:02 AM \]
 
 According to https://genographic.nationalgeographic.com  
   

@@ -9,7 +9,7 @@ Digital Jam 2.0 Team followup in Chile - John Henry Thompson - Invent Your Futur
 
 ### Digital Jam 2.0 Team followup in Chile
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted May 15, 2013, 4:49 PM by John Henry Thompson
+posted May 15, 2013, 4:49 PM by John Henry Thompson
 
 Jamaica - The Hub Of Innovation And Entrepreneurship In The Caribbean?  
   

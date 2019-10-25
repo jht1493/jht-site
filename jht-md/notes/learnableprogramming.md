@@ -9,7 +9,7 @@ Learnable Programming - John Henry Thompson - Invent Your Future [![John Henry T
 
 ### Learnable Programming
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 28, 2012, 1:25 PM by John Henry Thompson   \[ updated Nov 28, 2012, 9:40 PM \]
+posted Nov 28, 2012, 1:25 PM by John Henry Thompson   \[ updated Nov 28, 2012, 9:40 PM \]
 
 Khan Academy updates computer science section:  
 [http://www.khanacademy.org/cs](http://www.khanacademy.org/cs)  

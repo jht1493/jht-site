@@ -9,7 +9,7 @@ Magnet Color Ribbon - John Henry Thompson - Invent Your Future [![John Henry Tho
 
 ### Magnet Color Ribbon
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jun 11, 2011, 7:36 AM by John Henry Thompson   \[ updated Jun 11, 2011, 7:42 AM \]
+posted Jun 11, 2011, 7:36 AM by John Henry Thompson   \[ updated Jun 11, 2011, 7:42 AM \]
 
   
 

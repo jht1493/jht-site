@@ -9,7 +9,7 @@ Lucas Film Days - John Henry Thompson - Invent Your Future [![John Henry Thompso
 
 ### Lucas Film Days
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 2, 2013, 3:45 PM by John Henry Thompson   \[ updated Nov 2, 2013, 9:07 PM \]
+posted Nov 2, 2013, 3:45 PM by John Henry Thompson   \[ updated Nov 2, 2013, 9:07 PM \]
 
 The story of Pixar begins with George Lucas,  
 writes Michael Rubin in his book:  

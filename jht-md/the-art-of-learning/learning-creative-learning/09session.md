@@ -10,7 +10,7 @@
 
 ### 09 Session
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted May 4, 2013, 8:42 AM by John Henry Thompson   \[ updated May 6, 2013, 8:19 PM \]
+posted May 4, 2013, 8:42 AM by John Henry Thompson   \[ updated May 6, 2013, 8:19 PM \]
 
 April 29: Tinkering (Session 9)
 

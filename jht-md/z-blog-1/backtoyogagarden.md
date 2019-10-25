@@ -9,7 +9,7 @@ Back to Yoga Garden - John Henry Thompson - Invent Your Future [![John Henry Tho
 
 ### Back to Yoga Garden
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 4, 2012, 3:48 PM by John Henry Thompson   \[ updated Mar 6, 2012, 9:42 AM \]
+posted Mar 4, 2012, 3:48 PM by John Henry Thompson   \[ updated Mar 6, 2012, 9:42 AM \]
 
 First time back to [Yoga Garden's](http://www.yogagardennarberth.com/) Sunday morning Ashtanga class since Oct 30 of 2011, over 4 months ago.  
 This is my Ashtanga primary series practice number 151.  

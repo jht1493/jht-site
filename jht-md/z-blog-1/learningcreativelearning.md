@@ -9,7 +9,7 @@ Learning Creative Learning - John Henry Thompson - Invent Your Future [![John He
 
 ### Learning Creative Learning
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 7, 2013, 4:49 PM by John Henry Thompson
+posted Feb 7, 2013, 4:49 PM by John Henry Thompson
 
 Enrolled in online course [Learning Creative Learning](../the-art-of-learning/learning-creative-learning.html) offered by MIT Media Lab.  
 Looks like it will be lots of fun.  

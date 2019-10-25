@@ -9,7 +9,7 @@ Prepare for era of trumpery - John Henry Thompson - Invent Your Future [![John H
 
 ### Prepare for era of trumpery
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Oct 25, 2016, 12:11 PM by John Henry Thompson   \[ updated Oct 25, 2016, 12:14 PM \]
+posted Oct 25, 2016, 12:11 PM by John Henry Thompson   \[ updated Oct 25, 2016, 12:14 PM \]
 
 Post Hillary victory: Prepare for the continued, possible worsen, era of trumpery: 
 

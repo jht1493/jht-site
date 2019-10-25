@@ -9,7 +9,7 @@ Jamaica Trip photos - John Henry Thompson - Invent Your Future [![John Henry Tho
 
 ### Jamaica Trip photos
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted May 12, 2012, 12:26 PM by John Henry Thompson
+posted May 12, 2012, 12:26 PM by John Henry Thompson
 
 [Added Apr 27 - May 5 2012, Jamaica Trip photos](../family.html)  
 

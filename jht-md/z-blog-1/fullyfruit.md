@@ -9,7 +9,7 @@ Fully Fruit - John Henry Thompson - Invent Your Future [![John Henry Thompson - 
 
 ### Fully Fruit
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jun 8, 2012, 11:13 AM by John Henry Thompson
+posted Jun 8, 2012, 11:13 AM by John Henry Thompson
 
 [![](../_/rsrc/1339179234524/z-blog-1/fullyfruit/fully-fruit-height=320&width=239.jpg)](http://www.johnhenrythompson.com/z-blog-1/fullyfruit/fully-fruit.jpg?attredirects=0)  
 Four apples, three oranges, 2 cups water.  

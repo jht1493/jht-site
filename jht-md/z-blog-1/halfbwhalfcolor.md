@@ -9,7 +9,7 @@ half bw, half color - John Henry Thompson - Invent Your Future [![John Henry Tho
 
 ### half bw, half color
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 28, 2012, 8:13 PM by John Henry Thompson
+posted Feb 28, 2012, 8:13 PM by John Henry Thompson
 
 [![](../_/rsrc/1330488795159/z-blog-1/halfbwhalfcolor/half-bw-half-color-height=155&width=200.png)](http://www.youtube.com/watch?v=KcnDiXHzOmk)
 

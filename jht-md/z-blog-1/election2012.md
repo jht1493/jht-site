@@ -9,7 +9,7 @@ Election 2012 a landside for Obama - John Henry Thompson - Invent Your Future [!
 
 ### Election 2012 a landside for Obama
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 11, 2012, 8:04 AM by John Henry Thompson   \[ updated Nov 28, 2012, 1:48 PM \]
+posted Nov 11, 2012, 8:04 AM by John Henry Thompson   \[ updated Nov 28, 2012, 1:48 PM \]
 
 Obama in 2012 and 2008 exceeds G. W. Bush in 2000 and 2004 on all fronts, electoral college count and popular vote.  
 Obama should celebrate his double landside as did Bush in 2004.  

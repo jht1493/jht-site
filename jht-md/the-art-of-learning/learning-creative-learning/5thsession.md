@@ -10,7 +10,7 @@
 
 ### 05 Session
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 7, 2013, 2:43 AM by John Henry Thompson   \[ updated May 4, 2013, 8:43 AM \]
+posted Mar 7, 2013, 2:43 AM by John Henry Thompson   \[ updated May 4, 2013, 8:43 AM \]
 
 Readings in Preparation for Session 5:Open Learning
 

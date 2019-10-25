@@ -9,7 +9,7 @@ Learning Creative Learning : Notes & Links - John Henry Thompson - Invent Your F
 
 ### Learning Creative Learning : Notes & Links
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 9, 2013, 12:00 PM by John Henry Thompson   \[ updated Feb 13, 2013, 4:40 PM \]
+posted Feb 9, 2013, 12:00 PM by John Henry Thompson   \[ updated Feb 13, 2013, 4:40 PM \]
 
 [http://www.ted.com/talks/a\_j\_jacobs\_year\_of\_living\_biblically.html](http://www.ted.com/talks/a_j_jacobs_year_of_living_biblically.html)
 

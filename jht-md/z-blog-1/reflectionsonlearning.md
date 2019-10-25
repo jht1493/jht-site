@@ -9,7 +9,7 @@ Reflections on Learning - John Henry Thompson - Invent Your Future [![John Henry
 
 ### Reflections on Learning
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jan 16, 2011, 10:54 AM by John Henry Thompson   \[ updated Jan 16, 2011, 10:56 AM \]
+posted Jan 16, 2011, 10:54 AM by John Henry Thompson   \[ updated Jan 16, 2011, 10:56 AM \]
 
 Uploaded [Reflections on learning](../the-art-of-learning/reflections.html) article. Started working on this in 2005.
 

@@ -9,7 +9,7 @@ temple.edu/uccp/ - John Henry Thompson - Invent Your Future [![John Henry Thomps
 
 ### temple.edu/uccp/
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 8, 2013, 11:25 AM by John Henry Thompson
+posted Feb 8, 2013, 11:25 AM by John Henry Thompson
 
 [http://www.temple.edu/uccp/](http://www.temple.edu/uccp/)  
 The University Community Collaborative of Philadelpiha @ Temple U.  

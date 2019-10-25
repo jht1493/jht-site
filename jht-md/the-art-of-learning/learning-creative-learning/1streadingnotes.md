@@ -10,7 +10,7 @@
 
 ### 01 Session Reading Notes
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 9, 2013, 7:13 AM by John Henry Thompson   \[ updated May 4, 2013, 8:45 AM \]
+posted Feb 9, 2013, 7:13 AM by John Henry Thompson   \[ updated May 4, 2013, 8:45 AM \]
 
 [Kindergarten approach...](http://web.media.mit.edu/%7Emres/papers/CC2007-handout.pdf)
 

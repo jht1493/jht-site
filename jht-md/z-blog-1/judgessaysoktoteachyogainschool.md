@@ -9,7 +9,7 @@ Judges says ok to teach Yoga in school - John Henry Thompson - Invent Your Futur
 
 ### Judges says ok to teach Yoga in school
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jul 3, 2013, 7:14 AM by John Henry Thompson
+posted Jul 3, 2013, 7:14 AM by John Henry Thompson
 
   
 [http://www.guardian.co.uk/world/2013/jul/02/judge-yoga-promote-hinduism-californian-schools](http://www.guardian.co.uk/world/2013/jul/02/judge-yoga-promote-hinduism-californian-schools)  

@@ -9,7 +9,7 @@ Who Am I - John Henry Thompson - Invent Your Future [![John Henry Thompson - Inv
 
 ### Who Am I
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jan 28, 2013, 2:34 AM by John Henry Thompson
+posted Jan 28, 2013, 2:34 AM by John Henry Thompson
 
 [Who Am I](../home/who-am-i.html) - added page about my DNA  
 

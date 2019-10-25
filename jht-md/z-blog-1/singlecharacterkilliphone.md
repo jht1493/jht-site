@@ -9,7 +9,7 @@ Single Character Kill iPhone - John Henry Thompson - Invent Your Future [![John 
 
 ### Single Character Kill iPhone
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 19, 2018, 1:38 PM by John Henry Thompson   \[ updated Feb 19, 2018, 1:39 PM \]
+posted Feb 19, 2018, 1:38 PM by John Henry Thompson   \[ updated Feb 19, 2018, 1:39 PM \]
 
   
 

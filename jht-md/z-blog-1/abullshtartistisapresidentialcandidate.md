@@ -9,7 +9,7 @@ Tr\*mp: Bullsh\*t artist, presidential candidate! - John Henry Thompson - Invent
 
 ### Tr\*mp: Bullsh\*t artist, presidential candidate!
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Oct 19, 2016, 9:18 PM by John Henry Thompson   \[ updated Oct 20, 2016, 2:54 AM \]
+posted Oct 19, 2016, 9:18 PM by John Henry Thompson   \[ updated Oct 20, 2016, 2:54 AM \]
 
 ...fact checkers rate Trump's statements as entirely false 52% of the time compared to Clinton's 12%... Why do people trust him? Read on...
 

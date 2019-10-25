@@ -9,7 +9,7 @@ apache-foundation-and-facebook-standoff-over-reactjs-license - John Henry Thomps
 
 ### apache-foundation-and-facebook-standoff-over-reactjs-license
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Aug 24, 2017, 4:45 AM by John Henry Thompson
+posted Aug 24, 2017, 4:45 AM by John Henry Thompson
 
 [http://windowsitpro.com/open-source/apache-foundation-and-facebook-standoff-over-reactjs-license](http://windowsitpro.com/open-source/apache-foundation-and-facebook-standoff-over-reactjs-license)
 

@@ -9,7 +9,7 @@ The Emergence of Video Processing Tools - John Henry Thompson - Invent Your Futu
 
 ### The Emergence of Video Processing Tools
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Sep 9, 2017, 2:43 PM by John Henry Thompson   \[ updated Sep 9, 2017, 2:45 PM \]
+posted Sep 9, 2017, 2:43 PM by John Henry Thompson   \[ updated Sep 9, 2017, 2:45 PM \]
 
 This is the full documentation of the book launch panel @the New Museum, NYC for The Emergence of Video Processing Tools: Television Becoming Unglued, edited by Sherry Miller Hocking, Kathy High and Mona Jimenez. You can purchase this book online at:   
 [amazon.com/The-Emergence-Video-Processing-Tools/dp/184150663X](http://www.amazon.com/The-Emergence-Video-Processing-Tools/dp/184150663X)

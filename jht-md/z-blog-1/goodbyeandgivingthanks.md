@@ -9,7 +9,7 @@ Goodbye and Giving Thanks - John Henry Thompson - Invent Your Future [![John Hen
 
 ### Goodbye and Giving Thanks
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 10, 2011, 4:47 PM by John Henry Thompson   \[ updated Nov 30, 2012, 10:41 PM \]
+posted Nov 10, 2011, 4:47 PM by John Henry Thompson   \[ updated Nov 30, 2012, 10:41 PM \]
 
 November 1st was my practice #142 of Ashtanga primary series  at the gym. The next day my recurring lower back problem came back. I first had problems with by lower back as a teen. Back in September 2006 I had an performed MRI, it reported:  
 

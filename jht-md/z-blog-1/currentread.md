@@ -9,7 +9,7 @@ Current read: 1493 - John Henry Thompson - Invent Your Future [![John Henry Thom
 
 ### Current read: 1493
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Oct 11, 2012, 11:52 PM by John Henry Thompson   \[ updated Oct 11, 2012, 11:58 PM \]
+posted Oct 11, 2012, 11:52 PM by John Henry Thompson   \[ updated Oct 11, 2012, 11:58 PM \]
 
 [1493: Uncovering the New World Columbus Created](http://www.amazon.com/1493-Uncovering-World-Columbus-Created/dp/0307278247)  
   

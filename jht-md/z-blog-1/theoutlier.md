@@ -9,7 +9,7 @@ The Outlier - John Henry Thompson - Invent Your Future [![John Henry Thompson - 
 
 ### The Outlier
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 20, 2013, 9:39 PM by John Henry Thompson   \[ updated Mar 22, 2013, 12:07 PM \]
+posted Mar 20, 2013, 9:39 PM by John Henry Thompson   \[ updated Mar 22, 2013, 12:07 PM \]
 
 I was ask recently if i was an outlier, in the statistical sense:  
  "a data point on a graph or in a set of results that is very much bigger or smaller than the next nearest data point."  

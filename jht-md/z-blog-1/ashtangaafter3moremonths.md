@@ -9,7 +9,7 @@ Ashtanga after 3 more months - John Henry Thompson - Invent Your Future [![John 
 
 ### Ashtanga after 3 more months
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Apr 3, 2011, 2:18 AM by John Henry Thompson   \[ updated Jul 14, 2011, 7:30 PM \]
+posted Apr 3, 2011, 2:18 AM by John Henry Thompson   \[ updated Jul 14, 2011, 7:30 PM \]
 
 Recording of my Ashtanga primary series practice after 3 months, approximately 90 days, about 29 sessions since last recording: [John Henry Thompson Ashtanga 2011-03](http://www.youtube.com/watch?v=L6M3EDv51Tk)
 

@@ -9,7 +9,7 @@ In transition from j4u2.com - John Henry Thompson - Invent Your Future [![John H
 
 ### In transition from j4u2.com
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 17, 2010, 4:54 AM by John Henry Thompson   \[ updated Jan 11, 2011, 2:51 PM \]
+posted Feb 17, 2010, 4:54 AM by John Henry Thompson   \[ updated Jan 11, 2011, 2:51 PM \]
 
 Created this site to experiment with better way to maintain web site. I was using wordpress on j4u2.com, but google sites is much easier and has features more closely matching how I want the site to look.
 

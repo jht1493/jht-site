@@ -9,7 +9,7 @@ Designed For Living - John Henry Thompson - Invent Your Future [![John Henry Tho
 
 ### Designed For Living
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jul 15, 2013, 9:16 AM by John Henry Thompson   \[ updated Sep 9, 2013, 12:32 AM \]
+posted Jul 15, 2013, 9:16 AM by John Henry Thompson   \[ updated Sep 9, 2013, 12:32 AM \]
 
   
 [http://glog.glennf.com/blog/2013/9/6/yahoos-logo-reveals-the-worst-aspects-of-engineering-mindset](http://glog.glennf.com/blog/2013/9/6/yahoos-logo-reveals-the-worst-aspects-of-engineering-mindset)  

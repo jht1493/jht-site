@@ -9,7 +9,7 @@ Day 2 of Ashtanga Mysore workshop - John Henry Thompson - Invent Your Future [![
 
 ### Day 2 of Ashtanga Mysore workshop
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Sep 20, 2011, 4:31 PM by John Henry Thompson   \[ updated Sep 23, 2011, 6:46 AM \]
+posted Sep 20, 2011, 4:31 PM by John Henry Thompson   \[ updated Sep 23, 2011, 6:46 AM \]
 
 Second morning getting up at 5am for 6:30 am Ashtanga Mysore workshop with [Jill Manning](http://www.jillmanning.com/).  
 Able to put in required hours of  regular work after practice.  

@@ -9,7 +9,7 @@ african-americans-many-rivers-to-cross - John Henry Thompson - Invent Your Futur
 
 ### african-americans-many-rivers-to-cross
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 12, 2014, 5:41 PM by John Henry Thompson   \[ updated Apr 22, 2014, 6:08 PM \]
+posted Feb 12, 2014, 5:41 PM by John Henry Thompson   \[ updated Apr 22, 2014, 6:08 PM \]
 
 For History Month.  
 Six centuries, six hours:  

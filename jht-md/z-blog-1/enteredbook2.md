@@ -9,7 +9,7 @@ Entered Book 2 - John Henry Thompson - Invent Your Future [![John Henry Thompson
 
 ### Entered Book 2
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 21, 2012, 9:39 PM by John Henry Thompson   \[ updated Feb 22, 2012, 8:45 PM \]
+posted Feb 21, 2012, 9:39 PM by John Henry Thompson   \[ updated Feb 22, 2012, 8:45 PM \]
 
 [Entered Book 2 of Patanjali's Yoga Sutra Comparision](../yoga/patanjani/book-2.html)  
 

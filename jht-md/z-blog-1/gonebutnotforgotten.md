@@ -9,7 +9,7 @@ Gone but not forgotten - John Henry Thompson - Invent Your Future [![John Henry 
 
 ### Gone but not forgotten
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 3, 2017, 10:45 AM by John Henry Thompson   \[ updated Feb 3, 2017, 10:51 AM \]
+posted Feb 3, 2017, 10:45 AM by John Henry Thompson   \[ updated Feb 3, 2017, 10:51 AM \]
 
 Remember this day: Jan 20, 2017 \- last day of hope before entering the era of trumpery. 
 

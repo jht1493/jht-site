@@ -9,7 +9,7 @@ Ashtanga Video Log Updated - John Henry Thompson - Invent Your Future [![John He
 
 ### Ashtanga Video Log Updated
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Sep 8, 2011, 10:35 PM by John Henry Thompson
+posted Sep 8, 2011, 10:35 PM by John Henry Thompson
 
 In [My Yoga Journey](../yoga/yoga-journey.html) added jumps into video from images of the asanas (postures).  
 

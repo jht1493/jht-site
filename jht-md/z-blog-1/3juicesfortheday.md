@@ -9,7 +9,7 @@
 
 ### 3 Juices for the day.
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 18, 2012, 3:31 AM by John Henry Thompson
+posted Feb 18, 2012, 3:31 AM by John Henry Thompson
 
 Three for the day: banana, dates, and almonds; pineapple, orange, and apple; collard green, kale, ginger, garlic + previous:  
   

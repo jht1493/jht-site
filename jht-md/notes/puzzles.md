@@ -9,7 +9,7 @@ Puzzles - John Henry Thompson - Invent Your Future [![John Henry Thompson - Inve
 
 ### Puzzles
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jul 13, 2013, 8:59 PM by John Henry Thompson
+posted Jul 13, 2013, 8:59 PM by John Henry Thompson
 
   
 [http://news.cnet.com/8301-1023\_3-57593602-93/google-tackles-rubiks-cube-with-museum-partnership/](http://news.cnet.com/8301-1023_3-57593602-93/google-tackles-rubiks-cube-with-museum-partnership/)  

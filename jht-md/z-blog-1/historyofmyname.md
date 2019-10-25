@@ -9,7 +9,7 @@ History of my name - John Henry Thompson - Invent Your Future [![John Henry Thom
 
 ### History of my name
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 31, 2012, 2:17 AM by John Henry Thompson   \[ updated Mar 31, 2012, 2:37 AM \]
+posted Mar 31, 2012, 2:17 AM by John Henry Thompson   \[ updated Mar 31, 2012, 2:37 AM \]
 
 *   My family and cousins call me "Johnnie"
 *   In 6th grade, immigrating from England to Brooklyn USA, I briefly had the nick name "England."

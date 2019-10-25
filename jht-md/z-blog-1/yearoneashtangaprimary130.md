@@ -9,7 +9,7 @@ Year One Ashtanga Primary #130 - John Henry Thompson - Invent Your Future [![Joh
 
 ### Year One Ashtanga Primary #130
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Oct 3, 2011, 12:01 AM by John Henry Thompson   \[ updated Oct 3, 2011, 6:30 PM \]
+posted Oct 3, 2011, 12:01 AM by John Henry Thompson   \[ updated Oct 3, 2011, 6:30 PM \]
 
 [My practice of Ashtanga Primary Series after one year](http://www.youtube.com/watch?v=1JmGc0qyk78). Practice number 130.  
 Recorded on low res camera of iPhone about 5pm at my local gym.  

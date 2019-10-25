@@ -9,7 +9,7 @@ Back in the Gym - John Henry Thompson - Invent Your Future [![John Henry Thompso
 
 ### Back in the Gym
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Dec 23, 2011, 7:12 AM by John Henry Thompson   \[ updated Dec 23, 2011, 7:13 AM \]
+posted Dec 23, 2011, 7:12 AM by John Henry Thompson   \[ updated Dec 23, 2011, 7:13 AM \]
 
 Back in the gym for a short workout. Capoeira warm up and Ashtanga standing sequence (about 20 minutes). It has been about 7 weeks since last full workout.  
 

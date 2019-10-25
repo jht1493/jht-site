@@ -9,7 +9,7 @@ Bruce Lee and Finger Pointing to the Moon - John Henry Thompson - Invent Your Fu
 
 ### Bruce Lee and Finger Pointing to the Moon
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 23, 2012, 7:02 AM by John Henry Thompson   \[ updated Mar 23, 2012, 9:28 AM \]
+posted Mar 23, 2012, 7:02 AM by John Henry Thompson   \[ updated Mar 23, 2012, 9:28 AM \]
 
 Paraphrasing Bruce Lee from movie "Enter Dragon", he's giving personal martial arts instruction to a young boy:  
 

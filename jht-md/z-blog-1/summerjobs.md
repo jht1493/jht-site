@@ -9,7 +9,7 @@ Summer Jobs - John Henry Thompson - Invent Your Future [![John Henry Thompson - 
 
 ### Summer Jobs
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jul 2, 2013, 1:26 PM by John Henry Thompson
+posted Jul 2, 2013, 1:26 PM by John Henry Thompson
 
   
 [http://ow.ly/i/2orei/original](http://ow.ly/i/2orei/original)  

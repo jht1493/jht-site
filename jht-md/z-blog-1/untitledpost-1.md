@@ -9,7 +9,7 @@ iPad Keyboard - John Henry Thompson - Invent Your Future [![John Henry Thompson 
 
 ### iPad Keyboard
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jun 12, 2011, 5:26 PM by John Henry Thompson   \[ updated Jul 14, 2011, 7:30 PM \]
+posted Jun 12, 2011, 5:26 PM by John Henry Thompson   \[ updated Jul 14, 2011, 7:30 PM \]
 
 Purchased Apple keyboard for my iPad. It has a nice feel. Its big enough to type without errors.
 

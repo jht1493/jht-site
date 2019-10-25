@@ -9,7 +9,7 @@ Big Numbers - John Henry Thompson - Invent Your Future [![John Henry Thompson - 
 
 ### Big Numbers
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jun 11, 2011, 6:33 PM by John Henry Thompson   \[ updated Mar 5, 2016, 7:35 AM \]
+posted Jun 11, 2011, 6:33 PM by John Henry Thompson   \[ updated Mar 5, 2016, 7:35 AM \]
 
 [![](../_/rsrc/1307842980243/z-blog-1/bignumbers/10x10x10-height=149&width=200.jpg)](http://www.johnhenrythompson.com/z-blog-1/bignumbers/10x10x10.jpg?attredirects=0)
 

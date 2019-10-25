@@ -9,7 +9,7 @@ SongClips app Update - John Henry Thompson - Invent Your Future [![John Henry Th
 
 ### SongClips app Update
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 11, 2011, 1:08 PM by John Henry Thompson
+posted Feb 11, 2011, 1:08 PM by John Henry Thompson
 
 Update SongClips for the iPad.
 

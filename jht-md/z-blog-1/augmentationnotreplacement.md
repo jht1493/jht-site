@@ -9,7 +9,7 @@ Augmentation not replacement. - John Henry Thompson - Invent Your Future [![John
 
 ### Augmentation not replacement.
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Sep 26, 2017, 4:59 AM by John Henry Thompson
+posted Sep 26, 2017, 4:59 AM by John Henry Thompson
 
 "the most effective way to solve problems was to augment human intelligence and develop ways of building collective intelligence"  
 

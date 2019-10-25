@@ -9,7 +9,7 @@ revitalizing - John Henry Thompson - Invent Your Future [![John Henry Thompson -
 
 ### revitalizing
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 15, 2012, 8:45 AM by John Henry Thompson   \[ updated Feb 24, 2012, 6:58 PM \]
+posted Feb 15, 2012, 8:45 AM by John Henry Thompson   \[ updated Feb 24, 2012, 6:58 PM \]
 
 For a while I have been struggling to find a way to eat more veggies. On January 23 I purchased a blender and started making veggies juices. 2 - 4 cups of veggies a day since then. Problem solved.  
   

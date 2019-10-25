@@ -9,7 +9,7 @@ Day 3 of Ashtanga Mysore workshop - John Henry Thompson - Invent Your Future [![
 
 ### Day 3 of Ashtanga Mysore workshop
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Sep 21, 2011, 3:37 PM by John Henry Thompson
+posted Sep 21, 2011, 3:37 PM by John Henry Thompson
 
 At the mid point in workshop. Still feels right. Back a little sore.  
 Feeling like establishing early morning practice after the workshop ends Friday.  

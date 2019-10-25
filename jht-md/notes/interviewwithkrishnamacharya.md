@@ -9,7 +9,7 @@ Interview With krishnamacharya - John Henry Thompson - Invent Your Future [![Joh
 
 ### Interview With krishnamacharya
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jan 31, 2013, 12:56 PM by John Henry Thompson
+posted Jan 31, 2013, 12:56 PM by John Henry Thompson
 
 [http://grimmly2007.blogspot.co.uk/2013/01/interview-with-krishnamacharya.html](http://grimmly2007.blogspot.co.uk/2013/01/interview-with-krishnamacharya.html)  
 

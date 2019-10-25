@@ -10,7 +10,7 @@
 
 ### 01 Session - Feb 11, 2013
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 7, 2013, 10:27 AM by John Henry Thompson   \[ updated May 4, 2013, 8:45 AM \]
+posted Feb 7, 2013, 10:27 AM by John Henry Thompson   \[ updated May 4, 2013, 8:45 AM \]
 
 Reading assignment:  
 [All I Really Need to Know (About Creative Thinking) I Learned (By Studying How Children Learn) in Kindergarten.](http://web.media.mit.edu/%7Emres/papers/CC2007-handout.pdf)  

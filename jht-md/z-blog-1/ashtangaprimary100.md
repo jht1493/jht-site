@@ -9,7 +9,7 @@ Ashtanga Primary Number 100 - John Henry Thompson - Invent Your Future [![John H
 
 ### Ashtanga Primary Number 100
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jul 12, 2011, 7:42 PM by John Henry Thompson   \[ updated Jul 20, 2011, 3:45 PM \]
+posted Jul 12, 2011, 7:42 PM by John Henry Thompson   \[ updated Jul 20, 2011, 3:45 PM \]
 
 My 100th practice of Ashtanga Primary Series.  
 Recorded full practice, about 60 minutes, on my iPhone, but hardware problem prevent full upload to desktop. I am able to upload 10 minutes at time directly to youtube:  

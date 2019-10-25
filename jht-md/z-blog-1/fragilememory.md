@@ -9,7 +9,7 @@ Fragile Digital Memory - John Henry Thompson - Invent Your Future [![John Henry 
 
 ### Fragile Digital Memory
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 5, 2016, 5:42 AM by John Henry Thompson   \[ updated Oct 20, 2016, 2:36 AM \]
+posted Mar 5, 2016, 5:42 AM by John Henry Thompson   \[ updated Oct 20, 2016, 2:36 AM \]
 
 The digital media is so fragile.
 

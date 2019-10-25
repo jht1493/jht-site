@@ -10,7 +10,7 @@
 
 ### 04 Session
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 3, 2013, 4:26 AM by John Henry Thompson   \[ updated May 4, 2013, 8:44 AM \]
+posted Mar 3, 2013, 4:26 AM by John Henry Thompson   \[ updated May 4, 2013, 8:44 AM \]
 
 **Readings in Preparation for Session 4 (Mar 4): Powerful Ideas**
 

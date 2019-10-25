@@ -9,7 +9,7 @@ Slavery in North America - John Henry Thompson - Invent Your Future [![John Henr
 
 ### Slavery in North America
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jan 5, 2017, 4:45 PM by John Henry Thompson   \[ updated Jan 5, 2017, 8:19 PM \]
+posted Jan 5, 2017, 4:45 PM by John Henry Thompson   \[ updated Jan 5, 2017, 8:19 PM \]
 
 [![](../_/rsrc/1483676321294/z-blog-1/slavery/slavery-265-seg-99-civil-196-crop.png)](http://www.johnhenrythompson.com/z-blog-1/slavery/slavery-265-seg-99-civil-196-crop.png?attredirects=0)
 

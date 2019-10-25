@@ -9,7 +9,7 @@ The US is not a democracy but an oligarchy, study concludes - John Henry Thompso
 
 ### The US is not a democracy but an oligarchy, study concludes
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Apr 22, 2014, 6:02 PM by John Henry Thompson   \[ updated Mar 5, 2016, 7:13 AM \]
+posted Apr 22, 2014, 6:02 PM by John Henry Thompson   \[ updated Mar 5, 2016, 7:13 AM \]
 
   
 The article: [http://www.upi.com/Top\_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/#ixzz2zfPL8ZhD](http://www.upi.com/Top_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/#ixzz2zfPL8ZhD)  

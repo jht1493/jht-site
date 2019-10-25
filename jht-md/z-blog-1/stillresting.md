@@ -9,7 +9,7 @@ Still Resting - John Henry Thompson - Invent Your Future [![John Henry Thompson 
 
 ### Still Resting
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 19, 2011, 10:41 AM by John Henry Thompson   \[ updated Nov 19, 2011, 7:20 PM \]
+posted Nov 19, 2011, 10:41 AM by John Henry Thompson   \[ updated Nov 19, 2011, 7:20 PM \]
 
 Still resting from irritated L5-S1 causing pain in left hip and leg.
 

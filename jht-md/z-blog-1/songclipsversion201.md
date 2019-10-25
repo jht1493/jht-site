@@ -9,7 +9,7 @@ SongClips Version 2.0.1 - John Henry Thompson - Invent Your Future [![John Henry
 
 ### SongClips Version 2.0.1
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 2, 2013, 10:58 AM by John Henry Thompson
+posted Feb 2, 2013, 10:58 AM by John Henry Thompson
 
 [SongClips iOS app updated to support videos](https://itunes.apple.com/us/app/songclips/id335528135?mt=8).  
   

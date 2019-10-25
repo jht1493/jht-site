@@ -9,7 +9,7 @@ Workstream team takes first prize - John Henry Thompson - Invent Your Future [![
 
 ### Workstream team takes first prize
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted May 20, 2013, 5:52 PM by John Henry Thompson   \[ updated May 20, 2013, 6:18 PM \]
+posted May 20, 2013, 5:52 PM by John Henry Thompson   \[ updated May 20, 2013, 6:18 PM \]
 
   
 [http://www.philly.com/philly/business/technology/20130425\_Jeff\_Gelles\_\_High\_school\_team\_puts\_together\_a\_winning\_app.html](http://www.philly.com/philly/business/technology/20130425_Jeff_Gelles__High_school_team_puts_together_a_winning_app.html)  

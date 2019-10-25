@@ -9,7 +9,7 @@ Africans in The Americas - John Henry Thompson - Invent Your Future [![John Henr
 
 ### Africans in The Americas
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jun 29, 2013, 6:55 AM by John Henry Thompson   \[ updated Sep 1, 2014, 9:22 AM \]
+posted Jun 29, 2013, 6:55 AM by John Henry Thompson   \[ updated Sep 1, 2014, 9:22 AM \]
 
 [http://www.pbs.org/wnet/african-americans-many-rivers-to-cross/](http://www.pbs.org/wnet/african-americans-many-rivers-to-cross/)  
 Noted Harvard scholar Henry Louis Gates, Jr. recounts the full trajectory of African-American history in his groundbreaking new six-part series The African Americans: Many Rivers to Cross with Henry Louis Gates, Jr. (Unfortunately as of Sep 2014 not available for online video streaming)  

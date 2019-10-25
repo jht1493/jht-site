@@ -9,7 +9,7 @@ The way out - John Henry Thompson - Invent Your Future [![John Henry Thompson - 
 
 ### The way out
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 22, 2012, 11:28 PM by John Henry Thompson
+posted Mar 22, 2012, 11:28 PM by John Henry Thompson
 
 Jill: "The way out is to go in"  
 

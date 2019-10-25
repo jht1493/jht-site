@@ -9,7 +9,7 @@ mit-offers-a-free-online-course-on-global-poverty - John Henry Thompson - Invent
 
 ### mit-offers-a-free-online-course-on-global-poverty
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 8, 2013, 11:32 AM by John Henry Thompson
+posted Feb 8, 2013, 11:32 AM by John Henry Thompson
 
 [http://borgenproject.org/mit-offers-a-free-online-course-on-global-poverty/](http://borgenproject.org/mit-offers-a-free-online-course-on-global-poverty/)  
 

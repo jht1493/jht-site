@@ -9,7 +9,7 @@ Entering the era of trumpery! - John Henry Thompson - Invent Your Future [![John
 
 ### Entering the era of trumpery!
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 9, 2016, 11:57 AM by John Henry Thompson   \[ updated Nov 9, 2016, 1:33 PM \]
+posted Nov 9, 2016, 11:57 AM by John Henry Thompson   \[ updated Nov 9, 2016, 1:33 PM \]
 
 [Entering the era of trumpery!](http://www.dictionary.com/browse/trumpery?s=t)
 

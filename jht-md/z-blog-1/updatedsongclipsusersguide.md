@@ -9,7 +9,7 @@ Updated SongClips Users Guide - John Henry Thompson - Invent Your Future [![John
 
 ### Updated SongClips Users Guide
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 16, 2012, 7:48 PM by John Henry Thompson   \[ updated Feb 17, 2012, 10:48 AM \]
+posted Feb 16, 2012, 7:48 PM by John Henry Thompson   \[ updated Feb 17, 2012, 10:48 AM \]
 
 [Using responsive css for update SongClips Users Guide](http://www.j4u2.com/songclips)  
   

@@ -9,7 +9,7 @@ No gym - John Henry Thompson - Invent Your Future [![John Henry Thompson - Inven
 
 ### No gym
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 20, 2011, 10:17 PM by John Henry Thompson
+posted Nov 20, 2011, 10:17 PM by John Henry Thompson
 
 No gym for over two weeks now. Miss it.  
 

@@ -9,7 +9,7 @@ Part of a whole - John Henry Thompson - Invent Your Future [![John Henry Thompso
 
 ### Part of a whole
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Apr 10, 2012, 4:17 AM by John Henry Thompson   \[ updated Apr 10, 2012, 4:19 AM \]
+posted Apr 10, 2012, 4:17 AM by John Henry Thompson   \[ updated Apr 10, 2012, 4:19 AM \]
 
   
 

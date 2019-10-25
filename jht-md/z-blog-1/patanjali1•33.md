@@ -9,7 +9,7 @@ Patanjali Yoga Sutra 1•33 - John Henry Thompson - Invent Your Future [![John H
 
 ### Patanjali Yoga Sutra 1•33
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jul 26, 2011, 7:42 PM by John Henry Thompson   \[ updated Jul 31, 2011, 10:57 AM \]
+posted Jul 26, 2011, 7:42 PM by John Henry Thompson   \[ updated Jul 31, 2011, 10:57 AM \]
 
 By cultivating attitudes of  
 friendliness towards the happy,  

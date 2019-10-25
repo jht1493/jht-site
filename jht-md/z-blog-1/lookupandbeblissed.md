@@ -9,7 +9,7 @@ Look up and be Blissed! - John Henry Thompson - Invent Your Future [![John Henry
 
 ### Look up and be Blissed!
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Dec 8, 2016, 9:27 AM by John Henry Thompson   \[ updated Dec 10, 2016, 6:09 AM \]
+posted Dec 8, 2016, 9:27 AM by John Henry Thompson   \[ updated Dec 10, 2016, 6:09 AM \]
 
 Look up and be Blissed! 
 

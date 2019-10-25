@@ -9,7 +9,7 @@ Keeping software alive - John Henry Thompson - Invent Your Future [![John Henry 
 
 ### Keeping software alive
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Dec 21, 2016, 11:04 PM by John Henry Thompson   \[ updated Dec 21, 2016, 11:17 PM \]
+posted Dec 21, 2016, 11:04 PM by John Henry Thompson   \[ updated Dec 21, 2016, 11:17 PM \]
 
 "ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files"
 

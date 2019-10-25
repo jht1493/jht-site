@@ -9,7 +9,7 @@ Cannot edit from iPad! - John Henry Thompson - Invent Your Future [![John Henry 
 
 ### Cannot edit from iPad!
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 24, 2011, 9:14 PM by John Henry Thompson   \[ updated Jul 14, 2011, 9:19 PM \]
+posted Mar 24, 2011, 9:14 PM by John Henry Thompson   \[ updated Jul 14, 2011, 9:19 PM \]
 
   
 Trying HTML mode Ok. That works. No rich text, but better then nothing

@@ -9,7 +9,7 @@ The Paris Exposition of 1900 - John Henry Thompson - Invent Your Future [![John 
 
 ### The Paris Exposition of 1900
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 6, 2016, 8:41 PM by John Henry Thompson
+posted Mar 6, 2016, 8:41 PM by John Henry Thompson
 
 [The Paris Exposition of 1900 included a display devoted to the history and "present conditions" of African Americans](http://metadeepmix.com/webdb/webdb/)  
 

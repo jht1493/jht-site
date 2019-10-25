@@ -9,7 +9,7 @@ Programming circles on Khan Academy - John Henry Thompson - Invent Your Future [
 
 ### Programming circles on Khan Academy
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 30, 2012, 11:16 PM by John Henry Thompson   \[ updated Nov 30, 2012, 11:17 PM \]
+posted Nov 30, 2012, 11:16 PM by John Henry Thompson   \[ updated Nov 30, 2012, 11:17 PM \]
 
 Black & White  
 [http://www.khanacademy.org/cs/circle-on-edge-range2/1101307624](http://www.khanacademy.org/cs/circle-on-edge-range2/1101307624)  

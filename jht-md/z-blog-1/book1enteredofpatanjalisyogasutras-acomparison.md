@@ -9,7 +9,7 @@ Book 1 Entered of Patanjali's Yoga Sutras - A Comparison - John Henry Thompson -
 
 ### Book 1 Entered of Patanjali's Yoga Sutras - A Comparison
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 1, 2012, 6:18 PM by John Henry Thompson   \[ updated Feb 4, 2012, 8:04 PM \]
+posted Feb 1, 2012, 6:18 PM by John Henry Thompson   \[ updated Feb 4, 2012, 8:04 PM \]
 
 [I've entered Book 1 of Patanjali's Yoga Sutras comparing three different translations.](../yoga/patanjani/book-1.html)  
   

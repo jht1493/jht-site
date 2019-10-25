@@ -9,7 +9,7 @@ Free State of Jones - John Henry Thompson - Invent Your Future [![John Henry Tho
 
 ### Free State of Jones
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jan 10, 2017, 9:42 PM by John Henry Thompson   \[ updated Jan 10, 2017, 9:45 PM \]
+posted Jan 10, 2017, 9:42 PM by John Henry Thompson   \[ updated Jan 10, 2017, 9:45 PM \]
 
   
 

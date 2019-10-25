@@ -9,7 +9,7 @@ RIP Dr. Engelbart - John Henry Thompson - Invent Your Future [![John Henry Thomp
 
 ### RIP Dr. Engelbart
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Jul 8, 2013, 4:54 AM by John Henry Thompson   \[ updated Jul 9, 2013, 5:59 AM \]
+posted Jul 8, 2013, 4:54 AM by John Henry Thompson   \[ updated Jul 9, 2013, 5:59 AM \]
 
   
 [http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html?pagewanted=all&\_r=0](http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html?pagewanted=all&_r=0)  

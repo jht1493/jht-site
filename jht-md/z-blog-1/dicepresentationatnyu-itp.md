@@ -9,7 +9,7 @@ DICE presentation at NYU-ITP - John Henry Thompson - Invent Your Future [![John 
 
 ### DICE presentation at NYU-ITP
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 21, 2017, 8:37 AM by John Henry Thompson   \[ updated Dec 16, 2017, 12:08 PM \]
+posted Nov 21, 2017, 8:37 AM by John Henry Thompson   \[ updated Dec 16, 2017, 12:08 PM \]
 
 Thank you Shindy!
 

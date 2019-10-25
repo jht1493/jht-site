@@ -9,7 +9,7 @@ Stardust - John Henry Thompson - Invent Your Future [![John Henry Thompson - Inv
 
 ### Stardust
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Feb 7, 2013, 5:52 PM by John Henry Thompson   \[ updated Feb 10, 2013, 3:14 AM \]
+posted Feb 7, 2013, 5:52 PM by John Henry Thompson   \[ updated Feb 10, 2013, 3:14 AM \]
 
 [http://vimeo.com/58626695](http://vimeo.com/58626695)  
 PostPanic director Mischa Rozema's new short film, Stardust, is a story about Voyager 1 (the unmanned spacecraft launched in 1977 to explore the outer solar system). The probe is the furthest man-made object from the sun and witnesses unimaginable beauty and destruction.  

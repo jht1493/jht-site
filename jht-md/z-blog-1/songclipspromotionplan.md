@@ -9,7 +9,7 @@ SongClips promotion plan - John Henry Thompson - Invent Your Future [![John Henr
 
 ### SongClips promotion plan
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Mar 22, 2011, 9:20 PM by John Henry Thompson
+posted Mar 22, 2011, 9:20 PM by John Henry Thompson
 
 Create instructional pages for using SongClips.
 

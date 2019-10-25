@@ -9,7 +9,7 @@ Facebook snap shot - John Henry Thompson - Invent Your Future [![John Henry Thom
 
 ### Facebook snap shot
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Sep 12, 2017, 2:56 PM by John Henry Thompson
+posted Sep 12, 2017, 2:56 PM by John Henry Thompson
 
 I will not be silenced, nor locked into facebook.
 

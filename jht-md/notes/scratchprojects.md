@@ -9,7 +9,7 @@ Scratch Projects - John Henry Thompson - Invent Your Future [![John Henry Thomps
 
 ### Scratch Projects
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 28, 2012, 9:39 PM by John Henry Thompson   \[ updated Nov 30, 2012, 11:14 PM \]
+posted Nov 28, 2012, 9:39 PM by John Henry Thompson   \[ updated Nov 30, 2012, 11:14 PM \]
 
 planets-1 - created 2009  
 [http://scratch.mit.edu/projects/jht1900/411219](http://scratch.mit.edu/projects/jht1900/411219)  

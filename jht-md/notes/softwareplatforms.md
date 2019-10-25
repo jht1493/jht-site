@@ -9,7 +9,7 @@ Software Platforms - John Henry Thompson - Invent Your Future [![John Henry Thom
 
 ### Software Platforms
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Sep 24, 2013, 6:08 AM by John Henry Thompson
+posted Sep 24, 2013, 6:08 AM by John Henry Thompson
 
   
 [http://arstechnica.com/gadgets/2013/09/fancy-node-js-based-blogging-app-ghost-goes-live-to-backers/](http://arstechnica.com/gadgets/2013/09/fancy-node-js-based-blogging-app-ghost-goes-live-to-backers/)  

@@ -9,7 +9,7 @@ The Great Migration Project - John Henry Thompson - Invent Your Future [![John H
 
 ### The Great Migration Project
 
-//<!\[CDATA\[ function JOT\_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) { var relTimeStr = JOT\_formatRelativeToNow(timestamp, isSiteLocale); if (relTimeStr) { if (isSiteLocale) { document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } else { document.write('<span timestamp="' + timestamp + '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>'); } } else { document.write(absTimeStr); } } //\]\]> posted Nov 7, 2016, 3:00 PM by John Henry Thompson   \[ updated Nov 8, 2016, 1:07 AM \]
+posted Nov 7, 2016, 3:00 PM by John Henry Thompson   \[ updated Nov 8, 2016, 1:07 AM \]
 
 **The Great Migration Project** explores the historic tide of African Americans moving North that changed Philadelphia, America and the world
 
