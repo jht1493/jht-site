@@ -14,7 +14,9 @@ This is the personal web site of John Henry Thompson.
 
 - [Interviews 1994 - 2012](home/interviews.md)
 
-[![](http://www.j4u2.com/jht/images/jt_cu.jpg)](http://www.j4u2.com/jht/images/jt_cu.jpg)
+<!-- [![](http://www.j4u2.com/jht/images/jt_cu.jpg)](http://www.j4u2.com/jht/images/jt_cu.jpg) -->
+
+[![](_/rsrc/1295207567308/the-art-of-learning/reflections/colorized-jht-height=320&width=240.jpg)](http://www.johnhenrythompson.com/the-art-of-learning/reflections/colorized-jht.jpg?attredirects=0)
 
 I like to see how the pixels work, that's why this image looks so fuzzy...
 
@@ -30,9 +32,9 @@ I want to make it easy for people to use the computer as an expressive instrumen
 
 > [online javascript class at codehs.com](http://codehs.com/go/7444)
 
-[My videos on youtube.com/user/jht1900](http://www.youtube.com/user/jht1900)
+> [My videos on youtube.com/user/jht1900](http://www.youtube.com/user/jht1900)
 
-[My other website www.j4u2.com](http://www.j4u2.com/)
+> [My other website www.j4u2.com](http://www.j4u2.com/)
 
 >
 
@@ -40,15 +42,15 @@ What  the web says about me:
 
 > [Connecting the past to the present with Laura Powers](https://www.youtube.com/watch?v=46rz6-uD_E4&list=PL_nujIbA6R4sYW-PQ0QNAu8vqJgPhUFeC) 2015
 
-[John Henry Thompson - www.black-inventor.com](http://www.black-inventor.com/John-Thompson.asp)
+> [John Henry Thompson - www.black-inventor.com](http://www.black-inventor.com/John-Thompson.asp)
 
-[John Thompson - www.ieeeghn.org](http://www.ieeeghn.org/wiki/index.php/John_Thompson)
+> [John Thompson - www.ieeeghn.org](http://www.ieeeghn.org/wiki/index.php/John_Thompson)
 
 Other links
 
-[Jervis Thompson - my little bro](http://www.jervo.com/blog/da-lingo-kid/)
+> [Jervis Thompson - my little bro](http://www.jervo.com/blog/da-lingo-kid/)
 
-[“NYU/ITP Black Genius Award 1997” video](http://www.youtube.com/watch?v=9OesTbXh5us)
+> [“NYU/ITP Black Genius Award 1997” video](http://www.youtube.com/watch?v=9OesTbXh5us)
 
 Recent experiments:
 
