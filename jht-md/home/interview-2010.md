@@ -1,6 +1,6 @@
 interview 2010
 
-[About me](../home.md)‎ > ‎
+[About me](../README.md)‎ > ‎
 
 ## interview 2010
 
