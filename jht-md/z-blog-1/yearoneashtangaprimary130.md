@@ -3,37 +3,6 @@ Year One Ashtanga Primary #130 - John Henry Thompson - Invent Your Future [![Joh
 [John Henry Thompson - Invent Your Future](../index.html)
 ---------------------------------------------------------
 
-Search this site
-
-*   [About me](../home.html)
-    
-*   [0\. Reflections](../0-refections-on-learning.html)
-    
-*   [1\. Learn to Code](../learning-to-program.html)
-    
-*   [2\. The Art of Learning](../the-art-of-learning.html)
-    
-*   [3\. DICE](../3-dice.html)
-    
-*   [4\. History](../4-history.html)
-    
-*   [5\. Respect](../heros.html)
-    
-*   [Artifacts](../artifacts.html)
-    
-*   [Blog](../z-blog-1.html)
-    
-*   [Garden](../4-garden.html)
-    
-*   [iPhone Apps](../iphone-apps.html)
-    
-*   [Notes](../notes.html)
-    
-*   [Photos](../family.html)
-    
-*   [Yoga](../yoga.html)
-    
-*   [Sitemap](../system/app/pages/sitemap/hierarchy.html)
     
 
 [Blog](../z-blog-1.html)‎ > ‎

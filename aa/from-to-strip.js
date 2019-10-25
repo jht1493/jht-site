@@ -32,28 +32,29 @@ function visit_files_at_path(rpath, func) {
       }
     } else {
       if (fullpath.endsWith('.md')) {
-        console.log(filename);
-        strip(fullpath);
-        fcount++;
+        // console.log(filename);
+        strip(fullpath, filename);
       }
       // func({ path: fullpath, filename: filename });
     }
   }
 }
 
-const strip_from = 'Search this site\
-\
+const strip_from = 'Search this site\n\
+\n\
 *   ';
 const strip_to = '*   [Sitemap](';
 
-function strip(inpath) {
+function strip(inpath, filename) {
   let str = fs.readFileSync(inpath) + '';
   const index = str.indexOf(strip_from);
   if (index >= 0) {
-    tindex = str.indexOf(strip_to, index + strip_from.length);
+    const tindex = str.indexOf(strip_to, index + strip_from.length);
     if (tindex >= 0) {
       str = str.substring(0, index) + str.substring(tindex + strip_to.length);
       fs.writeFileSync(inpath, str);
+      console.log(filename);
+      fcount++;
     }
   }
 }
