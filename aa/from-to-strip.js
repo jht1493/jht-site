@@ -40,10 +40,13 @@ function visit_files_at_path(rpath, func) {
   }
 }
 
-const strip_from = 'Search this site\n\
-\n\
-*   ';
-const strip_to = '*   [Sitemap](';
+// const strip_from = 'Search this site\n\
+// \n\
+// *   ';
+// const strip_to = '*   [Sitemap](';
+
+const strip_from = '//<!\\[CDATA\\[ function JOT';
+const strip_to = '\\]\\]> ';
 
 function strip(inpath, filename) {
   let str = fs.readFileSync(inpath) + '';
