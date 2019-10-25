@@ -54,7 +54,7 @@ Other links
 
 Recent experiments:
 
-#### DICE 2018 Demo
+#### DICE Images thru time
 
 [![](_/rsrc/1540258178968/home/IMG_5174.jpg)](http://www.johnhenrythompson.com/home/IMG_5174.jpg?attredirects=0)
 
