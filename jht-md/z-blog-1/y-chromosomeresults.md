@@ -1,10 +1,5 @@
 Y-chromosome results 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Y-chromosome results

@@ -1,10 +1,5 @@
 Digital City training by Marc Canter 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Notes](../notes.html)‎ > ‎
 
 ### Digital City training by Marc Canter

@@ -1,10 +1,5 @@
 Breadfruit 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [2\. The Art of Learning](../the-art-of-learning.html)‎ > ‎
 
 ### Breadfruit

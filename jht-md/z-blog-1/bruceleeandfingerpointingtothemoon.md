@@ -1,10 +1,5 @@
 Bruce Lee and Finger Pointing to the Moon 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Bruce Lee and Finger Pointing to the Moon

@@ -1,10 +1,5 @@
 Part of a whole 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Part of a whole

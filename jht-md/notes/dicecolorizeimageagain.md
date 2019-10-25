@@ -1,10 +1,5 @@
 Dice colorize on the move (again) 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Notes](../notes.html)‎ > ‎
 
 ### Dice colorize on the move (again)

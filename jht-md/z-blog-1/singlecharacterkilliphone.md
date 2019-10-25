@@ -1,10 +1,5 @@
 Single Character Kill iPhone 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Single Character Kill iPhone

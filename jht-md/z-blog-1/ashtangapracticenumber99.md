@@ -1,10 +1,5 @@
 Ashtanga Practice Number 99 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Ashtanga Practice Number 99

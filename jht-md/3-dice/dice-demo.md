@@ -1,10 +1,5 @@
 DICE-demo 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [3\. DICE](../3-dice.html)‎ > ‎
 
 ### DICE-demo

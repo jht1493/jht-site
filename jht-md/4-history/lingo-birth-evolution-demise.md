@@ -1,10 +1,5 @@
 Lingo: Birth, Evolution, Demise. 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [4\. History](../4-history.html)‎ > ‎
 
 ### Lingo: Birth, Evolution, Demise.

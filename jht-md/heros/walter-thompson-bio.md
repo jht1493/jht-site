@@ -1,10 +1,5 @@
 Walter Thompson Bio 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [5\. Respect](../heros.html)‎ > ‎
 
 ### Walter Thompson Bio

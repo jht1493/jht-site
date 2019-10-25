@@ -1,10 +1,5 @@
 Reflections on Learning 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Reflections on Learning

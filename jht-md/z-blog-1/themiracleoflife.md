@@ -1,10 +1,5 @@
 The Miracle of Life 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### The Miracle of Life

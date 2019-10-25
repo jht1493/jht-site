@@ -1,10 +1,5 @@
 Africans in The Americas 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Notes](../notes.html)‎ > ‎
 
 ### Africans in The Americas

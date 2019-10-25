@@ -1,10 +1,5 @@
 Patanjali's Yoga Sutras - A Comparison 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Patanjali's Yoga Sutras - A Comparison

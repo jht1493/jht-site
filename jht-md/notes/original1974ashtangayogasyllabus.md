@@ -1,10 +1,5 @@
 'Original' 1974 Ashtanga yoga Syllabus 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Notes](../notes.html)‎ > ‎
 
 ### 'Original' 1974 Ashtanga yoga Syllabus

@@ -1,10 +1,5 @@
 Entering the era of trumpery! 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Entering the era of trumpery!

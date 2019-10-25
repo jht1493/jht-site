@@ -1,10 +1,5 @@
 Digital Jam 2.0 Team followup in Chile 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Digital Jam 2.0 Team followup in Chile

@@ -1,10 +1,5 @@
 Morning colored mind... 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Morning colored mind...

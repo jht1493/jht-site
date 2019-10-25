@@ -1,10 +1,5 @@
 Cannot edit from iPad! 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Cannot edit from iPad!

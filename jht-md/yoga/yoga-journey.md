@@ -1,10 +1,5 @@
 My Yoga Journey (2004 - 2013) 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Yoga](../yoga.html)‎ > ‎
 
 ### My Yoga Journey (2004 - 2013)

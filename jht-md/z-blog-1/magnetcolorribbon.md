@@ -1,10 +1,5 @@
 Magnet Color Ribbon 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Magnet Color Ribbon

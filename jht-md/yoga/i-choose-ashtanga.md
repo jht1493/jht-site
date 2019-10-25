@@ -1,10 +1,5 @@
 I Choose Ashtanga (2008) 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Yoga](../yoga.html)‎ > ‎
 
 ### I Choose Ashtanga (2008)

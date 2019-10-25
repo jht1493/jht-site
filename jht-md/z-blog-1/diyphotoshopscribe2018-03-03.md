@@ -1,10 +1,5 @@
 D.I.Y. Photoshop @ Scribe 2018-03-03 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### D.I.Y. Photoshop @ Scribe 2018-03-03

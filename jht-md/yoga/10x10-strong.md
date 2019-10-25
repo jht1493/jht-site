@@ -1,10 +1,5 @@
 10x10•Strong (2016) 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Yoga](../yoga.html)‎ > ‎
 
 ### 10x10•Strong (2016)

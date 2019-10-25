@@ -1,10 +1,5 @@
 Nutrition 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Notes](../notes.html)‎ > ‎
 
 ### Nutrition

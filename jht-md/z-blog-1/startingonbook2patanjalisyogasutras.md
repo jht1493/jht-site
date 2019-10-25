@@ -1,10 +1,5 @@
 Starting on Book 2 Patanjali's Yoga Sutras 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Starting on Book 2 Patanjali's Yoga Sutras

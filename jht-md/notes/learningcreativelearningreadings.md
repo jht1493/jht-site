@@ -1,10 +1,5 @@
 Learning Creative Learning : Notes & Links 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Notes](../notes.html)‎ > ‎
 
 ### Learning Creative Learning : Notes & Links

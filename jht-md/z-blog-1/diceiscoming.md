@@ -1,10 +1,5 @@
 DICE is coming! 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### DICE is coming!

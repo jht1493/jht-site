@@ -1,10 +1,5 @@
 Election 2012 a landside for Obama 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Election 2012 a landside for Obama

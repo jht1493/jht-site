@@ -1,10 +1,5 @@
 temple.edu/uccp/ 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Notes](../notes.html)‎ > ‎
 
 ### temple.edu/uccp/

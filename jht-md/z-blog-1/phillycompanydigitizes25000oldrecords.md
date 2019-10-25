@@ -1,10 +1,5 @@
 Philly company digitizes 25,000 old records 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Philly company digitizes 25,000 old records

@@ -1,10 +1,5 @@
 What my mother's genes says about me 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Notes](../notes.html)‎ > ‎
 
 ### What my mother's genes says about me

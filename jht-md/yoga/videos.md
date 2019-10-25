@@ -1,10 +1,5 @@
 Videos 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Yoga](../yoga.html)‎ > ‎
 
 ### Videos

@@ -1,10 +1,5 @@
 In transition from j4u2.com 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### In transition from j4u2.com

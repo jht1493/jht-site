@@ -1,10 +1,5 @@
 Scratch Workshop at Scribe, July 16, 23, 30, Aug 6 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Scratch Workshop at Scribe, July 16, 23, 30, Aug 6

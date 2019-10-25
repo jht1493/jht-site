@@ -1,10 +1,5 @@
 SongClips Version 2.0.1 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### SongClips Version 2.0.1

@@ -76,5 +76,3 @@ Color Dance - colorized music video.
 That's an IBM PC second edition, 1984.
 
 Subpages (4): [Ancestors](home/who-am-i.html) [Brief Bio](home/bio.html) [interview 2010](home/interview-2010.html) [Interviews 1994 - 2012](home/interviews.html)
-
-[Google Sites](http://sites.google.com/site)**

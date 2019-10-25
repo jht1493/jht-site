@@ -1,10 +1,5 @@
 3 Juices for the day. 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### 3 Juices for the day.

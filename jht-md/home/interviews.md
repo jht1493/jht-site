@@ -1,10 +1,5 @@
 Interviews 1994 - 2012 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [About me](../home.html)‎ > ‎
 
 ### Interviews 1994 - 2012

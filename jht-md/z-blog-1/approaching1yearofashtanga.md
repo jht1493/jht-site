@@ -1,10 +1,5 @@
 Approaching 1 year of Ashtanga 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Approaching 1 year of Ashtanga

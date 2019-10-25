@@ -1,10 +1,5 @@
 Judges says ok to teach Yoga in school 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Judges says ok to teach Yoga in school

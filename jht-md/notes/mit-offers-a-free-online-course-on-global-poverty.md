@@ -1,10 +1,5 @@
 mit-offers-a-free-online-course-on-global-poverty 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Notes](../notes.html)‎ > ‎
 
 ### mit-offers-a-free-online-course-on-global-poverty

@@ -1,10 +1,5 @@
 Ashtanga Practice #143 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Ashtanga Practice #143

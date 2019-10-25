@@ -1,9 +1,6 @@
-Learning Creative Learning - John Henry Thompson - Invent Your Future  [![John Henry Thompson - Invent Your Future](../_/rsrc/1329567069254/config/customLogo.gif-revision=6.png)](../index.html)
+Learning Creative Learning - John Henry Thompson - Invent Your Future [![John Henry Thompson - Invent Your Future](../_/rsrc/1329567069254/config/customLogo.gif-revision=6.png)](../index.html)
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
+## [John Henry Thompson - Invent Your Future](../index.html)
 
 [2\. The Art of Learning](../the-art-of-learning.html)‎ > ‎
 
@@ -13,8 +10,7 @@ Learning Creative Learning - John Henry Thompson - Invent Your Future  [![John H
 Online course offered by MIT Media Lab  
 [Course Syllabus](http://learn.media.mit.edu/syllabus.html)  
 [Course Calendar](https://www.google.com/calendar/embed?src=po09dc728rriivgq9fp38kfjts@group.calendar.google.com&ctz=America/New_York+%0A&pli=1&gsessionid=KPuahPZsbWX2k0TcQ7CiVQ)  
-[Our study group: lcl-75](https://plus.google.com/u/0/communities/115061078189318157465)  
-  
+[Our study group: lcl-75](https://plus.google.com/u/0/communities/115061078189318157465)
 
 ![](../_/rsrc/1570087315000/system/app/images/icon_feed.gif) [ Subscribe to posts](http://www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning/posts.xml)
 
@@ -22,20 +18,17 @@ Online course offered by MIT Media Lab
 
 posted May 29, 2013, 6:26 AM by John Henry Thompson
 
-  
-Coding is for Everybody: Learning through Creating, Personalizing, Sharing, and Reflecting with Scratch  
-  
-Kick off event: Creating Jun 3 4:00 PM PST  
-  
-[http://connectedlearning.tv/coding-everybody-learning-through-creating-personalizing-sharing-and-reflecting](http://connectedlearning.tv/coding-everybody-learning-through-creating-personalizing-sharing-and-reflecting)  
-  
+Coding is for Everybody: Learning through Creating, Personalizing, Sharing, and Reflecting with Scratch
+
+Kick off event: Creating Jun 3 4:00 PM PST
+
+[http://connectedlearning.tv/coding-everybody-learning-through-creating-personalizing-sharing-and-reflecting](http://connectedlearning.tv/coding-everybody-learning-through-creating-personalizing-sharing-and-reflecting)
 
 #### [11 Session](learning-creative-learning/11session.html)
 
 posted May 13, 2013, 6:44 AM by John Henry Thompson
 
-May 13: Reflections(Session 11)  
-  
+May 13: Reflections(Session 11)
 
 #### [10 Session](learning-creative-learning/10session.html)
 
@@ -50,48 +43,31 @@ Panelists: Karen Brennan, Amon Millner
 
 [Video for Session 10](http://www.youtube.com/watch?v=uubwqM4AFtg&feature=c4-feed-u)
 
-  
-
 Readings in Preparation for Session 10:
-
-  
 
 \* Karen Brennan (2012):[ScratchEd: Developing support for educators as designers](http://web.media.mit.edu/~kbrennan/files/Brennan_ScratchEd_Meetups.pdf), in Designing with teachers: Participatory professional development in education.
 
-  
-
 \* Amon Millner (2012):[Computer as Chalk: Supporting Youth as Designers of Tangible User Interfaces](http://llk.media.mit.edu/courses/readings/Millner-Constructionism.pdf). Constructionism 2012 conference.
-
-  
 
 Activity: Create a tutorial (using any media) to help someone learn to do something that you explored in the class (such as Scratch)
 
-  
-
 Additional Resources:
-
-  
 
 \* Karen Brennan (2012):[Best of Both Worlds: Issues of Structure and Agency in Computational Creation, In and Out of School](http://web.media.mit.edu/~kbrennan/files/dissertation/Brennan_Dissertation.pdf), PhD dissertation.
 
-  
-
 \* Amon Millner (2010):[Computers as Chalk: Cultivating and Sustaining Communities of Youth as Designers of Tangible User Interfaces](http://web.media.mit.edu/~millner/papers/millner-phd-dissertation.pdf). PhD dissertation (recommended: Chapter 6).
 
-Not dependent on technology - ok to use minimum tech.  
-  
+Not dependent on technology - ok to use minimum tech.
 
-Amon: growing mindset - I can learn.  
-  
+Amon: growing mindset - I can learn.
 
-Karen: the power of failure. ScratchED: help teachers.  
+Karen: the power of failure. ScratchED: help teachers.
 
-\- authoring  
+\- authoring
 
-\- sharing  
+\- sharing
 
-\- learning aspirations  
-  
+\- learning aspirations
 
 #### [09 Session](learning-creative-learning/09session.html)
 
@@ -99,31 +75,19 @@ posted May 4, 2013, 8:42 AM by John Henry Thompson   \[ updated May 6, 2013, 8:
 
 April 29: Tinkering (Session 9)
 
-  
-
 [Video for Session 9](http://llk.media.mit.edu/courses/video.php?provider=youtube&vid=VNKyFhQbHQs)
 
 Panelists: Karen Wilkinson, Mike Petrich, Eric Rosenbaum
 
 Readings in Preparation for Session 9:
 
-  
-
 \* Mike Petrich, Karen Wilkinson, and Bronwyn Bevan (2013): [It Looks Like Fun, But Are They Learning?](http://tinkering.exploratorium.edu/wp-content/themes/tinkeringsite/resources/PetrichWilkinsonBevan-ItLooksLikeFun.pdf), in Design, Make, Play
-
-  
 
 \* Mitchel Resnick & Eric Rosenbaum (2013):[Designing for Tinkerability](http://web.media.mit.edu/~mres/papers/designing-for-tinkerability.pdf), in Design, Make, Play.
 
-  
-
 Activity: Option 1: Explore physical+digital tinkering with[MaKey MaKey](http://www.makeymakey.com/) (if you have one). Option 2: Try out some of the examples from[ ](http://www.arvindguptatoys.com/films.html)[Arvind Gupta](http://www.arvindguptatoys.com/films.html) (such as[ ](http://www.youtube.com/watch?v=ZQGHRcj8qVc)[spinning toys](http://www.youtube.com/watch?v=ZQGHRcj8qVc)). Option 3: Try out some of the activities from the[ ](http://tinkering.exploratorium.edu/activities/)[Tinkering Studio](http://tinkering.exploratorium.edu/activities/) at the Exploratorium.
 
-  
-
 Additional Resources:
-
-  
 
 \* Luigi Anzivino and Karen Wilkinson (2012):[Tinkering by Design: Thoughtful Design Leads to Breakthroughs in Thinking](http://llk.media.mit.edu/courses/readings/AnzivinoWilkinson-TinkeringByDesign.pdf)
 
@@ -132,60 +96,47 @@ Additional Resources:
 
 \* Sherry Turkle & Seymour Papert (1990).[Epistemological Pluralism](http://www.papert.org/articles/EpistemologicalPluralism.html). Signs (journal article).
 
-  
+"tinkering with tinkerability"
 
-"tinkering with tinkerability"  
-  
+Mindfest - 1999. take mindstorm beyond robots contest.
 
-Mindfest - 1999. take mindstorm beyond robots contest.  
-  
-
-Playful Invention & Exploration Network  
-  
+Playful Invention & Exploration Network
 
 Mike & Karen: at exploratorium tinkering studio.  
-robots to create enironment - shadows and light.  
+robots to create enironment - shadows and light.
 
-floor based programs  
+floor based programs
 
-being comfortable to being uncomfortable. don't avoid failure.  
+being comfortable to being uncomfortable. don't avoid failure.
 
-enviroment designed to support learning exploring  
+enviroment designed to support learning exploring
 
-how to get started: others engaged / residue of past projects.  
+how to get started: others engaged / residue of past projects.
 
-tinkering: comfortable with learning a phenonmenom / play with problem more than solve it / developing these instincts  
+tinkering: comfortable with learning a phenonmenom / play with problem more than solve it / developing these instincts
 
-makes sense as you go along, then share with others.  
+makes sense as you go along, then share with others.
 
-  
+Tinkering vs. planing
 
-Tinkering vs. planing  
-  
 Eric Rosenbaum: Makey Makey (with Jay). Developed in exploratorium.  
-Designing for Tinkerability:  
+Designing for Tinkerability:
 
-\- immediate feed back  
+\- immediate feed back
 
-\- Fluid experimentation: easy to try things out  
+\- Fluid experimentation: easy to try things out
 
-\- Open exploration: try out lots of things.  
-  
+\- Open exploration: try out lots of things.
 
-Transform your problem in to a space that you can tinker and explore.  
-  
+Transform your problem in to a space that you can tinker and explore.
 
-Conversation with material -material can talk back.  
-  
+Conversation with material -material can talk back.
 
-Challenge is how to assess the learning since it make have impact over time. Using an ethographic approach to capture learning. Video doc to find exemplar moments.  
-  
+Challenge is how to assess the learning since it make have impact over time. Using an ethographic approach to capture learning. Video doc to find exemplar moments.
 
-Wipe out phenonmenon - remembering the beginners mind.  
-  
+Wipe out phenonmenon - remembering the beginners mind.
 
-\> Next two weeks: think about building course into community.  
-  
+\> Next two weeks: think about building course into community.
 
 #### [08 Session](learning-creative-learning/8thsession.html)
 
@@ -194,8 +145,6 @@ posted Apr 8, 2013, 4:27 AM by John Henry Thompson   \[ updated Jul 15, 2013, 1
 April 8: Motivation and Persistence (Session 8)
 
 Panelists: Avi Kaplan, Ricarose Roque, Natalie Rusk
-
-  
 
 Readings in Preparation for Session 8:
 
@@ -207,11 +156,7 @@ Readings in Preparation for Session 8:
 
 \* Edited by Natalie Rusk (2013): [Notes on Motivation: Designing Environments to Support a Learning Goal Orientation](http://llk.media.mit.edu/courses/readings/LCL_Motivation_Learning_Goals.pdf)
 
-  
-
 Activity: Tell about something you’ve worked on that you felt was meaningful and motivating. Explain what made you feel motivated. If you were designing a learning experience or environment, what would you do to help others feel motivated and engaged?
-
-  
 
 Additional Resources:
 
@@ -228,8 +173,6 @@ Pink on Drive:
 \- Mastery
 
 \- Purpose
-
-  
 
 This American Life: Back to School
 
@@ -255,85 +198,59 @@ make poor highly capable
 
 [How Children Succeed - Paul Tough](http://www.amazon.com/gp/product/0547564651/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0547564651&linkCode=as2&tag=thiamelif-20)
 
-  
-
 My activity: [Yoga](../yoga.html).
-
-  
 
 [From video session.](http://www.youtube.com/watch?v=uu4Ay08NX1E&feature=c4-feed)
 
-  
-
 Avi Kaplan - temple univ. motivation study. What is purpose for motivation of student.
-
-  
 
 Mitch story on motivation - camp trip stories. experience vs. measurable goal. beauty of learning experience vs. accumulating badges.
 
-  
-
 Natalie - how do people keeping going when failure & frustration. Keep going if core is learning goal (develop abilities, improve self)
 
-  
-
- Aspect  
+Aspect  
 \---------------
 
- Learning Goal Environment  
+Learning Goal Environment  
 \------------------------------------------------
 
- Task
+Task
 
- Personally meaningful
+Personally meaningful
 
- Authority
+Authority
 
- Learners make choices
+Learners make choices
 
- Recognition
+Recognition
 
- Learning from mistakes; sharing ideas
+Learning from mistakes; sharing ideas
 
- Grouping
+Grouping
 
- Interests; diverse abilities
+Interests; diverse abilities
 
- Evaluation
+Evaluation
 
- Improvement
+Improvement
 
- Time
+Time
 
- Work at own pace
+Work at own pace
 
- 
-
- source: Kaplan & Maehr, 2007
-
-  
+source: Kaplan & Maehr, 2007
 
 Ricarose Roque - Scratchers starting co-labs. site decided to support co-labs with contest. co-lab challenge --> co-lab camp. Promote constructive feedback.
 
 Issue: competition as motivator.
 
-  
-
 Mitch: how to design to give recognition with out it becoming point system. how to foster constructive feedback. develop identity and roles (advisor, guide).
-
-  
 
 Sources of Intrinsic Motivation:
 
 Competence - Purpose - Autonomy - Belonging
 
 (e.g. Deci & Ryan, 2000; Turner et. al. 2011)
-
-  
-
-  
-
-  
 
 #### [07 Session](learning-creative-learning/7thsession.html)
 
@@ -345,7 +262,7 @@ Panelists: Geetha Narayanan, Natalie Rusk
 
 Readings in Preparation for Session 7:
 
-\* Natalie Rusk, Mitchel Resnick, & Stina Cooke (2009):[Origins and Guiding Principles of the Computer Clubhouse](http://web.media.mit.edu/%7Emres/papers/Clubhouse/clubhouse-origins.pdf), in The Computer Clubhouse: Constructionism and Creativity in Youth Communities.  
+\* Natalie Rusk, Mitchel Resnick, & Stina Cooke (2009):[Origins and Guiding Principles of the Computer Clubhouse](http://web.media.mit.edu/%7Emres/papers/Clubhouse/clubhouse-origins.pdf), in The Computer Clubhouse: Constructionism and Creativity in Youth Communities.
 
 - En Español from Eduteka.org: [Origen y Principios Guía del Club Juvenil de Informática](http://www.eduteka.org/modulos/9/272/2077/1)
 
@@ -363,7 +280,7 @@ Here are some questions you may want to note when visiting. You could focus on o
 7.  Interests - Where do the ideas for the projects come from? Are the projects based on individual, group, or community interests?
 8.  Learning Community - Do people help each other learn?  Are there mentors in the space? Is there a trajectory of participation from newcomer to leadership roles?
 9.  Values - How do people treat each other in the community? Are there community guidelines or values that are discussed or agreed upon?
-10.  Space - Which aspects of the physical space support the creative learning process? What materials are available?
+10. Space - Which aspects of the physical space support the creative learning process? What materials are available?
 
 Additional Resources:
 
@@ -373,11 +290,9 @@ Additional Resources:
 
 Great intro to STEAM  
 [http://stemtosteam.org](http://stemtosteam.org/)  
-[http://seadnetwork.wordpress.com](http://seadnetwork.wordpress.com/)  
-  
-[Turn STEM into STEAM with arts education - John Maeda.](http://seattletimes.com/html/opinion/2020721289_johnmaedaopedxml.html)
+[http://seadnetwork.wordpress.com](http://seadnetwork.wordpress.com/)
 
-  
+[Turn STEM into STEAM with arts education - John Maeda.](http://seattletimes.com/html/opinion/2020721289_johnmaedaopedxml.html)
 
 Roger Malina (2013:  
 John Maeda, President of the Rhode Island School of Design instigated compelling testimony to the U.S. Congress (STEMtoSTEAM.org, n.d.) articulating three types of arguments. First is the “creativity and innovation argument” that good ideas often come from friction or exploration at the boundaries of disciplines. Second, the ‘jobs of the future’ argument; that no government predicted the explosive growth of the game industries and social media industries, but many of the concepts came out of the arts and humanities community, and the cultural sector....The third argument is the ‘social and cultural innovation argument’. Most inventions are never socially adopted often for no good reason than the lack of design of the cultural appropriation process. We live in ‘silos’ even in this networked age (that often reinforces like-minded connectivity rather than divergent thinking). In the innovation industry there are now ‘accelerators’ that act as transitional spaces between the R and D and business incubator environment (Healthbox, n.d.).
@@ -390,15 +305,11 @@ The dangerous idea is that school reform, in India in particular, but across the
 \- stories  
 \- slow learning
 
-  
-Seymour Papert (1980): mentions Samba, leads me to Capoiera and neighborhood Yoga schools: [http://yogagardennarberth.com/workshops/](http://yogagardennarberth.com/workshops/)  
-  
-  
+Seymour Papert (1980): mentions Samba, leads me to Capoiera and neighborhood Yoga schools: [http://yogagardennarberth.com/workshops/](http://yogagardennarberth.com/workshops/)
+
 Creative space: [http://sweetmabel.com](http://sweetmabel.com/)/  
 [http://www.sweetmabelart.blogspot.com/p/open-studio.html](http://www.sweetmabelart.blogspot.com/p/open-studio.html)  
-Build a workbench and created mosaic in March.  
-
-  
+Build a workbench and created mosaic in March.
 
 Computer Club House Principles
 
@@ -417,8 +328,6 @@ Computer Club House Principles
 4\. Respect & Trust
 
 \- Critical to building a community
-
-  
 
 #### [06 Session](learning-creative-learning/session6.html)
 
@@ -440,7 +349,7 @@ Activity:
 
 Remixing in Scratch
 
-(1) Log on to Scratch. (If you’re new to Scratch, go to [New to Scratch?](https://docs.google.com/a/johnhenrythompson.com/document/d/1A8hndR0lc5RLOyWyK8vFJ8kdb90BR3G6_VJGAouCKjc/pub?embedded=true#id.tpndimeqiqcm))  
+(1) Log on to Scratch. (If you’re new to Scratch, go to [New to Scratch?](https://docs.google.com/a/johnhenrythompson.com/document/d/1A8hndR0lc5RLOyWyK8vFJ8kdb90BR3G6_VJGAouCKjc/pub?embedded=true#id.tpndimeqiqcm))
 
 (2) Explore projects in the [Scratch website](http://scratch.mit.edu/) and find a project you would like to remix.
 
@@ -452,8 +361,6 @@ Remixing in Scratch
 (6) Add your project to the [\[LCL\] Remix Gallery](http://scratch.mit.edu/galleries/view/194608).
 
 (7) Reflect on the experience and share your thoughts with the [G+ community](https://plus.google.com/u/1/communities/106132864609383396284)
-
-  
 
 Fischer (2011) - good summary of state of the art:  
 wikipedia - http://www.wikipedia.org  
@@ -473,23 +380,19 @@ conceptualize, create, and evolve
 socio-technical environments that  
 not only technically enable and  
 support users’ participation, but  
-also successfully encourage it."  
-  
+also successfully encourage it."
+
 "Will the power of the  
 collective human mind aided by  
 technology improve further or are  
 there major drawbacks to come  
 (as Socrates argued would be the  
 consequences of reading and writing)?"  
-[Thoth challenge](../heros/professor-john-fray/thoth.html) - every technology has positive / negative.  
-  
+[Thoth challenge](../heros/professor-john-fray/thoth.html) - every technology has positive / negative.
+
 • Meta-design  
 • Social creativity,  
-• Richer ecologies of participation  
-  
-  
-  
-  
+• Richer ecologies of participation
 
 #### [05 Session](learning-creative-learning/5thsession.html)
 
@@ -517,17 +420,17 @@ Activity:
 
 Teach & Learn = Ask & Answer
 
-1) Go to[stackexchange.com/sites](http://stackexchange.com/sites) and choose a site that you find interesting
+1. Go to[stackexchange.com/sites](http://stackexchange.com/sites) and choose a site that you find interesting
 
-2) Post (at least) one question and answer someone else’s question (at least one)
+2. Post (at least) one question and answer someone else’s question (at least one)
 
-3) Reflect: What aspects of the experience contribute to a sense of a learning community? What aspects limit a sense of community?
+3. Reflect: What aspects of the experience contribute to a sense of a learning community? What aspects limit a sense of community?
 
 Learning Match (extra activity)
 
-1) Think of something you’re willing to teach to another participant in the course. And think of something you would like to learn.
+1. Think of something you’re willing to teach to another participant in the course. And think of something you would like to learn.
 
-2) Later in the week, we will provide a matching tool to connect teachers and learners.
+2. Later in the week, we will provide a matching tool to connect teachers and learners.
 
 mooc in context: the re.mooc in Africa - Stephen Downes
 
@@ -541,7 +444,7 @@ cMOOC vs. xMOOC - content vs. network
 
 middle: ds106, series of tasks - creative projects
 
-network approach: non-linear 
+network approach: non-linear
 
 eg. connectivist MOOCs
 
@@ -549,15 +452,9 @@ wide range of ways to participate
 
 you define success, eg. been able to do something (new)
 
-  
-
 [http://leanin.org](http://leanin.org)
 
-  
-
 [http://www.teachdigital.org/welcome/](http://www.teachdigital.org/welcome/)
-
-  
 
 Notes from the session video:
 
@@ -569,25 +466,15 @@ Audrey blogger gal: "crack it open and look more deeply"
 
 \- github software sharing vs. essay blogging
 
-Phillip: activism 
-
-  
+Phillip: activism
 
 debugging the your mind - reflection and problem solving
 
-  
-
 Audrey: learn together. Group is smater than individual.
-
-  
 
 outliner / elite - does your experience work for others?
 
-  
-
 Audrey: optimizing for passion and curiosity
-
-  
 
 #### [04 Session](learning-creative-learning/4thsession.html)
 
@@ -621,15 +508,9 @@ In order to be completely enfranchised in the 21st century, it will be very impo
 "children are willing to go to any lengths to learn very difficult things and endure almost an endless succession of "failures" in the process if they have a sense that the activity is an integral part of their culture." - "rite of passage" motivation.  
 \- "create an embedded environment and support classroom teachers with visiting experts"  
 \- children start off loving to learn, and most can learn anything the culture throws at them. But they are best at learning ideas that seem to be an integral part of the surrounding culture  
-\- aim at being idea based, not media based  
-  
+\- aim at being idea based, not media based
+
 Powerful idea: My dad saying "You can accomplish anything you set your mind to with the right education." and me believing it.
-
-  
-
-  
-
-  
 
 #### [03 Session](learning-creative-learning/3rdsession.html)
 
@@ -661,19 +542,19 @@ For this week's activity, create an Scratch project about things you like to do,
 
 Things I Like To Do Activity
 
-1) Create a Scratch project about things you like to do.
+1. Create a Scratch project about things you like to do.
 
-2) Share your project on the [Scratch website](http://scratch.mit.edu/).
+2. Share your project on the [Scratch website](http://scratch.mit.edu/).
 
-3) Add the project to the [LCL: What We Like To Do gallery](http://scratch.mit.edu/galleries/view/192539)
+3. Add the project to the [LCL: What We Like To Do gallery](http://scratch.mit.edu/galleries/view/192539)
 
-4) Share your thoughts about your experience and challenges in making your project with your group
+4. Share your thoughts about your experience and challenges in making your project with your group
 
 New to Scratch?
 
-1) For an overview, watch the[Scratch Intro Video](http://scratch.mit.edu/static-locale/html/video_us.html) on the[Scratch home page](http://scratch.mit.edu/).
+1. For an overview, watch the[Scratch Intro Video](http://scratch.mit.edu/static-locale/html/video_us.html) on the[Scratch home page](http://scratch.mit.edu/).
 
-2) Follow the steps for[Getting Started with Scratch](http://info.scratch.mit.edu/Support/Get_Started). You can access helpful resources on the[Support](http://scratch.mit.edu/support) page, including Scratch in multiple[languages](http://info.scratch.mit.edu/Languages).
+2. Follow the steps for[Getting Started with Scratch](http://info.scratch.mit.edu/Support/Get_Started). You can access helpful resources on the[Support](http://scratch.mit.edu/support) page, including Scratch in multiple[languages](http://info.scratch.mit.edu/Languages).
 
 3)[Download](http://infoscratch.media.mit.edu/Scratch_1.4_Download) and install the Scratch software.
 
@@ -689,28 +570,15 @@ Additional Resources
 
 \* Seymour Papert (1980). Mindstorms ([Introduction: Computers for Children](http://llk.media.mit.edu/courses/readings/Mindstorms_Intro.pdf),[Chapter 2: Mathophobia: The Fear of Learning](http://llk.media.mit.edu/courses/readings/mindstorms-chap2.pdf),[Chapter 3: Turtle Geometry: A Mathematics Made for Learning](http://llk.media.mit.edu/courses/readings/mindstorms-chap3.pdf)).
 
-  
-
 [http://makered.org](http://makered.org/)
-
-  
 
 [scratch gallery](http://scratch.mit.edu/galleries/view/192539)
 
 [  
 my scratch projects](http://scratch.mit.edu/users/jht1900)
 
-  
-
-  
-
 [![](../_/rsrc/1361806544319/the-art-of-learning/learning-creative-learning/3rdsession/heart-2013-02-25-height=151&width=200.jpg)](http://beta.scratch.mit.edu/projects/10061669/)
-
-  
 
 Leah Buechley's video: Great way to combine a  bunch of things: art, direct manipulation, visualization: reminded me of the Question-Answer book I build for a science project in 9th grade.
 
 1-10 of 14
-
-[Google Sites](http://sites.google.com/site)**
-

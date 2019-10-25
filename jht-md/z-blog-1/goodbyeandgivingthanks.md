@@ -1,10 +1,5 @@
 Goodbye and Giving Thanks 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Goodbye and Giving Thanks

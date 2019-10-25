@@ -1,10 +1,5 @@
 Professor John Fray 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [5\. Respect](../heros.html)‎ > ‎
 
 ### Professor John Fray

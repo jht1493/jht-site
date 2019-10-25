@@ -1,10 +1,5 @@
 Ashtanga after 3 more months 
 
-[John Henry Thompson - Invent Your Future](../index.html)
----------------------------------------------------------
-
-    
-
 [Blog](../z-blog-1.html)‎ > ‎
 
 ### Ashtanga after 3 more months
