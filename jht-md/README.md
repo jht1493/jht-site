@@ -54,7 +54,7 @@ Other links
 
 Recent experiments:
 
-#### DICE Images thru time
+#### DICE Images
 
 [DICE 2018 Demo](http://youtube.com/watch?v=z1cH5ou8OkA)
 
