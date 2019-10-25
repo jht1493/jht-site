@@ -17,8 +17,7 @@ function exclude(fname) {
   return 0;
 }
 
-// Call func on all file at path
-function visit_files_at_path(rpath, func) {
+function visit_files_at_path(rpath) {
   var filenames = fs.readdirSync(rpath);
   for (var filename of filenames) {
     if (exclude(filename)) continue;

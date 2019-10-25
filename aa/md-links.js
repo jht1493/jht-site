@@ -17,8 +17,7 @@ function exclude(fname) {
   return 0;
 }
 
-// Call func on all file at path
-function visit_files_at_path(rpath, func) {
+function visit_files_at_path(rpath) {
   init_search();
   var filenames = fs.readdirSync(rpath);
   for (var filename of filenames) {
@@ -41,22 +40,7 @@ function visit_files_at_path(rpath, func) {
   }
 }
 
-// const strip_from = 'Search this site\n\
-// \n\
-// *   ';
-// const strip_to = '*   [Sitemap](';
-
-// const strip_from = '//<!\\[CDATA\\[ function JOT';
-// const strip_to = '\\]\\]> ';
-
-// const strip_from = 'Comments\n\
-// \n\
-// [Sign in]';
-// const strip_to = ', this);';
-
-// const strip_from = "window.jstiming.load.tick('sjl');";
-// const strip_to = ', this);';
-
+// Search for links (*.html) and convert to (*.md)
 const match = '\\([^\\(]*?\\.html\\)';
 let regx;
 
@@ -93,6 +77,3 @@ visit_files_at_path(opath);
 console.log('fcount=' + fcount);
 console.log('subcount=' + subcount);
 console.log('repcount=' + repcount);
-
-// fcount=419
-// window.jstiming.load.tick('scl');
