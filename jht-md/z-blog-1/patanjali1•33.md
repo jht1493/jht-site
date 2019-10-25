@@ -1,6 +1,6 @@
 Patanjali Yoga Sutra 1•33 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Patanjali Yoga Sutra 1•33
 

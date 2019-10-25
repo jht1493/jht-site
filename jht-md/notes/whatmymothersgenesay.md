@@ -1,6 +1,6 @@
 What my mother's genes says about me 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### What my mother's genes says about me
 

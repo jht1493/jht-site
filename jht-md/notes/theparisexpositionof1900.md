@@ -1,6 +1,6 @@
 The Paris Exposition of 1900 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### The Paris Exposition of 1900
 

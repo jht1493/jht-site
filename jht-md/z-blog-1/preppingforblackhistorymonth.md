@@ -1,6 +1,6 @@
 Prepping for Black History Month 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Prepping for Black History Month
 

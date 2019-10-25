@@ -1,6 +1,6 @@
 Breadfruit 
 
-[2\. The Art of Learning](../the-art-of-learning.html)‎ > ‎
+[2\. The Art of Learning](../the-art-of-learning.md)‎ > ‎
 
 ### Breadfruit
 

@@ -1,6 +1,6 @@
 3 Juices for the day. 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### 3 Juices for the day.
 

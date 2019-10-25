@@ -6,13 +6,13 @@ This is the personal web site of John Henry Thompson.
 
 #### Subpage Listing
 
-- [Ancestors](home/who-am-i.html)
+- [Ancestors](home/who-am-i.md)
 
-- [Brief Bio](home/bio.html)
+- [Brief Bio](home/bio.md)
 
-- [interview 2010](home/interview-2010.html)
+- [interview 2010](home/interview-2010.md)
 
-- [Interviews 1994 - 2012](home/interviews.html)
+- [Interviews 1994 - 2012](home/interviews.md)
 
 [![](http://www.j4u2.com/jht/images/jt_cu.jpg)](http://www.j4u2.com/jht/images/jt_cu.jpg)
 
@@ -20,11 +20,11 @@ I like to see how the pixels work, that's why this image looks so fuzzy...
 
 I want to make it easy for people to use the computer as an expressive instrument, and to inspire people to learn about themselves and the world.
 
-> [Current project: DICE](3-dice.html)
+> [Current project: DICE](3-dice.md)
 
 >
 
-> [Where I work.](iphone-apps.html)
+> [Where I work.](iphone-apps.md)
 
 > [Photohacker workshop](https://github.com/jht1900/photohacker).
 
@@ -54,7 +54,7 @@ Recent experiments:
 
 #### DICE 2018 Demo
 
-[Patanjali 4.17 "An object is known or unknown depending on whether or not the mind gets colored by it."](yoga/patanjani/book-4/417.html)
+[Patanjali 4.17 "An object is known or unknown depending on whether or not the mind gets colored by it."](yoga/patanjani/book-4/417.md)
 
 [![](_/rsrc/1540258178968/home/IMG_5174.jpg)](http://www.johnhenrythompson.com/home/IMG_5174.jpg?attredirects=0)
 
@@ -73,4 +73,4 @@ Color Dance - colorized music video.
 [![](_/rsrc/1307476195091/home/83_jt_ibm_pc.jpg)](http://www.johnhenrythompson.com/home/83_jt_ibm_pc.jpg?attredirects=0)  
 That's an IBM PC second edition, 1984.
 
-Subpages (4): [Ancestors](home/who-am-i.html) [Brief Bio](home/bio.html) [interview 2010](home/interview-2010.html) [Interviews 1994 - 2012](home/interviews.html)
+Subpages (4): [Ancestors](home/who-am-i.md) [Brief Bio](home/bio.md) [interview 2010](home/interview-2010.md) [Interviews 1994 - 2012](home/interviews.md)

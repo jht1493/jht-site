@@ -1,6 +1,6 @@
 A game to play 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### A game to play
 

@@ -1,6 +1,6 @@
 Tr\*mp: Bullsh\*t artist, presidential candidate! 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Tr\*mp: Bullsh\*t artist, presidential candidate!
 

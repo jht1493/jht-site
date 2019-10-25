@@ -1,6 +1,6 @@
 apache-foundation-and-facebook-standoff-over-reactjs-license 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### apache-foundation-and-facebook-standoff-over-reactjs-license
 

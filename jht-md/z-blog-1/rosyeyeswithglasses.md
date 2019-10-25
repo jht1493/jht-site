@@ -1,6 +1,6 @@
 Rosy eyes with glasses 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Rosy eyes with glasses
 

@@ -1,6 +1,6 @@
 SongClips Version 2.0.1 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### SongClips Version 2.0.1
 

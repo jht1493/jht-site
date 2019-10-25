@@ -1,6 +1,6 @@
 Discovering an Enslaved Artist and His Masterpiece 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Discovering an Enslaved Artist and His Masterpiece
 

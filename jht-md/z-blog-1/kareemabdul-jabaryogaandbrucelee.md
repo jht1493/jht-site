@@ -1,6 +1,6 @@
 Kareem Abdul-Jabar, Yoga and Bruce lee 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Kareem Abdul-Jabar, Yoga and Bruce lee
 

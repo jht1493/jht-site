@@ -1,6 +1,6 @@
 temple.edu/uccp/ 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### temple.edu/uccp/
 

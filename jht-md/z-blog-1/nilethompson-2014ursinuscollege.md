@@ -1,6 +1,6 @@
 Nile Thompson - 2014 Ursinus College 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Nile Thompson - 2014 Ursinus College
 

@@ -1,19 +1,19 @@
 Brief Bio 
 
-[About me](../home.html)‎ > ‎
+[About me](../home.md)‎ > ‎
 
 ### Brief Bio
 
 Bio For Present Century - 2010's:
 =================================
 
-I am developing [DICE: ](goog_705698171.html)
+I am developing [DICE: ](goog_705698171.md)
 =============================================
 
-> [a platform for exploring art, learning, and computer science.](../3-dice.html)
+> [a platform for exploring art, learning, and computer science.](../3-dice.md)
 > ===============================================================================
 
-I write [iPhone apps for EP Visual Design](../iphone-apps.html).
+I write [iPhone apps for EP Visual Design](../iphone-apps.md).
 ================================================================
 
 I teach computer science and creative learning:
@@ -21,10 +21,10 @@ I teach computer science and creative learning:
 
 [• Youth Workshop: D.I.Y. Photoshop at Scribe Video Feb 2017.](http://www.scribe.org/events/youth-workshop-diy-photoshop)
 
-[• Play to Learn Workshop at Scribe Video in 2014.](../the-art-of-learning/play-to-learn.html)
+[• Play to Learn Workshop at Scribe Video in 2014.](../the-art-of-learning/play-to-learn.md)
 ==============================================================================================
 
-[• Play to Learn Workshop at Scribe Video in July 2013. ](../the-art-of-learning/play-to-learn/2013-edition.html)
+[• Play to Learn Workshop at Scribe Video in July 2013. ](../the-art-of-learning/play-to-learn/2013-edition.md)
 =================================================================================================================
 
 • [Mobile application workshop in Jamaica 2012](http://jamaica-gleaner.com/gleaner/20120504/lead/lead9.html). 

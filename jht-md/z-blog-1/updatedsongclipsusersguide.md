@@ -1,6 +1,6 @@
 Updated SongClips Users Guide 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Updated SongClips Users Guide
 

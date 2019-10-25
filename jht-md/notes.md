@@ -4,7 +4,7 @@ Notes - John Henry Thompson - Invent Your Future
 
 ![](_/rsrc/1570087315000/system/app/images/icon_feed.gif) [ Subscribe to posts](http://www.johnhenrythompson.com/notes/posts.xml)
 
-#### [Artists in Residence – Benjamin Bergery and Jim Campbell](notes/artistsinresidencebenjaminbergeryandjimcampbell.html)
+#### [Artists in Residence – Benjamin Bergery and Jim Campbell](notes/artistsinresidencebenjaminbergeryandjimcampbell.md)
 
 posted Jan 6, 2017, 7:44 PM by John Henry Thompson   \[ updated Sep 25, 2017, 9:45 AM \]
 
@@ -18,29 +18,29 @@ posted Jan 6, 2017, 7:44 PM by John Henry Thompson   \[ updated Sep 25, 2017, 9
 
 [https://www.gracecathedral.org/high-praise-jacobs-dream/](https://www.gracecathedral.org/high-praise-jacobs-dream/)
 
-#### [The Paris Exposition of 1900](notes/theparisexpositionof1900.html)
+#### [The Paris Exposition of 1900](notes/theparisexpositionof1900.md)
 
 posted Mar 6, 2016, 8:41 PM by John Henry Thompson
 
 [The Paris Exposition of 1900 included a display devoted to the history and "present conditions" of African Americans](http://metadeepmix.com/webdb/webdb/)
 
-#### [No goto in Swift](notes/nogotoinswift.html)
+#### [No goto in Swift](notes/nogotoinswift.md)
 
 posted Mar 5, 2016, 11:05 AM by John Henry Thompson
 
-There is [no goto statement in Swift](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html).
+There is [no goto statement in Swift](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.md).
 
 Here's a [cumbersome workaround](https://gist.github.com/harlanhaskins/2279e8eed15dbf63b2d2).
 
 Sucks if you have old code that you'd like to convert.
 
-#### [Software Platforms](notes/softwareplatforms.html)
+#### [Software Platforms](notes/softwareplatforms.md)
 
 posted Sep 24, 2013, 6:08 AM by John Henry Thompson
 
 [http://arstechnica.com/gadgets/2013/09/fancy-node-js-based-blogging-app-ghost-goes-live-to-backers/](http://arstechnica.com/gadgets/2013/09/fancy-node-js-based-blogging-app-ghost-goes-live-to-backers/)
 
-#### [Designed For Living](notes/designedforliving.html)
+#### [Designed For Living](notes/designedforliving.md)
 
 posted Jul 15, 2013, 9:16 AM by John Henry Thompson   \[ updated Sep 9, 2013, 12:32 AM \]
 
@@ -48,13 +48,13 @@ posted Jul 15, 2013, 9:16 AM by John Henry Thompson   \[ updated Sep 9, 2013, 1
 
 [http://techland.time.com/2013/07/15/the-flaw-in-microsofts-windows-8-logic/](http://techland.time.com/2013/07/15/the-flaw-in-microsofts-windows-8-logic/)
 
-#### [Puzzles](notes/puzzles.html)
+#### [Puzzles](notes/puzzles.md)
 
 posted Jul 13, 2013, 8:59 PM by John Henry Thompson
 
 [http://news.cnet.com/8301-1023_3-57593602-93/google-tackles-rubiks-cube-with-museum-partnership/](http://news.cnet.com/8301-1023_3-57593602-93/google-tackles-rubiks-cube-with-museum-partnership/)
 
-#### [Nutrition](notes/nutrition.html)
+#### [Nutrition](notes/nutrition.md)
 
 posted Jul 11, 2013, 8:06 AM by John Henry Thompson
 
@@ -62,7 +62,7 @@ posted Jul 11, 2013, 8:06 AM by John Henry Thompson
 
 [http://www.caltonnutrition.com/RFPF.aspx](http://www.caltonnutrition.com/RFPF.aspx)
 
-#### [Africans in The Americas](notes/africansinamerica.html)
+#### [Africans in The Americas](notes/africansinamerica.md)
 
 posted Jun 29, 2013, 6:55 AM by John Henry Thompson   \[ updated Sep 1, 2014, 9:22 AM \]
 
@@ -112,7 +112,7 @@ artinharlem.com - noel donaldson
 
 [http://www.blackyouthproject.com/2013/06/philadelphia-to-close-23-public-schools-while-building-400-million-prison/](http://www.blackyouthproject.com/2013/06/philadelphia-to-close-23-public-schools-while-building-400-million-prison/)
 
-#### [The Data Thief](notes/thedatathief.html)
+#### [The Data Thief](notes/thedatathief.md)
 
 posted Apr 6, 2013, 6:17 AM by John Henry Thompson   \[ updated Jul 11, 2013, 10:26 AM \]
 
@@ -122,7 +122,7 @@ John Akomfrah: "The Last Angel of History"
 Five-dimensional glass memory can store 360TB per disc, rugged enough to outlive the human race  
 [http://www.extremetech.com/extreme/160928-five-dimensional-glass-memory-can-store-360tb-per-disc-rugged-enough-to-outlive-the-human-race](http://www.extremetech.com/extreme/160928-five-dimensional-glass-memory-can-store-360tb-per-disc-rugged-enough-to-outlive-the-human-race)
 
-#### [Digital City training by Marc Canter](notes/digitalcitytrainingbymarccanter.html)
+#### [Digital City training by Marc Canter](notes/digitalcitytrainingbymarccanter.md)
 
 posted Mar 25, 2013, 5:20 AM by John Henry Thompson
 

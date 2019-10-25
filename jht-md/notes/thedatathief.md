@@ -1,6 +1,6 @@
 The Data Thief 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### The Data Thief
 

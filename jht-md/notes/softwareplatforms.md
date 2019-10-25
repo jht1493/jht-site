@@ -1,6 +1,6 @@
 Software Platforms 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Software Platforms
 

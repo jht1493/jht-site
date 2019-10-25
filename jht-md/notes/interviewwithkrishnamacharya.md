@@ -1,6 +1,6 @@
 Interview With krishnamacharya 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Interview With krishnamacharya
 

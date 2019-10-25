@@ -1,6 +1,6 @@
 Morning colored mind... 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Morning colored mind...
 

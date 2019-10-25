@@ -1,6 +1,6 @@
 Videos 
 
-[Yoga](../yoga.html)‎ > ‎
+[Yoga](../yoga.md)‎ > ‎
 
 ### Videos
 

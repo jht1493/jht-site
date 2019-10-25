@@ -1,6 +1,6 @@
 Thoth - John Henry Thompson
 
-[5\. Respect](../../heros.html)‎ > ‎[Professor John Fray](../professor-john-fray.html)‎ > ‎
+[5\. Respect](../../heros.md)‎ > ‎[Professor John Fray](../professor-john-fray.md)‎ > ‎
 
 ### Thoth
 

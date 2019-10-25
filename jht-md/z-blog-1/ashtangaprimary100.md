@@ -1,6 +1,6 @@
 Ashtanga Primary Number 100 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Ashtanga Primary Number 100
 

@@ -1,10 +1,10 @@
 Entered Book 2 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Entered Book 2
 
 posted Feb 21, 2012, 9:39 PM by John Henry Thompson   \[ updated Feb 22, 2012, 8:45 PM \]
 
-[Entered Book 2 of Patanjali's Yoga Sutra Comparision](../yoga/patanjani/book-2.html)  
+[Entered Book 2 of Patanjali's Yoga Sutra Comparision](../yoga/patanjani/book-2.md)  
 

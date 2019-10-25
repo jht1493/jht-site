@@ -3,7 +3,7 @@ The Baby and the Boat - John Henry Thompson
 
     
 
-[5\. Respect](../../heros.html)‎ > ‎[Walter Thompson Bio](../walter-thompson-bio.html)‎ > ‎
+[5\. Respect](../../heros.md)‎ > ‎[Walter Thompson Bio](../walter-thompson-bio.md)‎ > ‎
 
 ### The Baby and the Boat
 

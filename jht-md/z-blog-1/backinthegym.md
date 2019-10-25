@@ -1,6 +1,6 @@
 Back in the Gym 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Back in the Gym
 

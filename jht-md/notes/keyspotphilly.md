@@ -1,6 +1,6 @@
 Keyspot Philly 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Keyspot Philly
 

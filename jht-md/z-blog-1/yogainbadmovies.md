@@ -1,6 +1,6 @@
 Yoga in the movies 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Yoga in the movies
 

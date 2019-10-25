@@ -1,6 +1,6 @@
 Slavery in North America 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Slavery in North America
 

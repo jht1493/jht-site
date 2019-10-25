@@ -1,6 +1,6 @@
 Designed For Living 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Designed For Living
 

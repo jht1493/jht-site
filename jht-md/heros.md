@@ -4,35 +4,35 @@
 
 #### Subpage Listing
 
-- [Pingala](heros/pingala.html)
+- [Pingala](heros/pingala.md)
 
-- [Professor John Fray](heros/professor-john-fray.html)
+- [Professor John Fray](heros/professor-john-fray.md)
 
-  - [Thoth](heros/professor-john-fray/thoth.html)
+  - [Thoth](heros/professor-john-fray/thoth.md)
 
-- [Walter Thompson Bio](heros/walter-thompson-bio.html)
+- [Walter Thompson Bio](heros/walter-thompson-bio.md)
 
-  - [Page 1](heros/walter-thompson-bio/page-1.html)
+  - [Page 1](heros/walter-thompson-bio/page-1.md)
 
-  - [Page 2](heros/walter-thompson-bio/page-2.html)
+  - [Page 2](heros/walter-thompson-bio/page-2.md)
 
-  - [Page 3](heros/walter-thompson-bio/page-3.html)
+  - [Page 3](heros/walter-thompson-bio/page-3.md)
 
-  - [Page 4](heros/walter-thompson-bio/page-4.html)
+  - [Page 4](heros/walter-thompson-bio/page-4.md)
 
-  - [Page 5](heros/walter-thompson-bio/page-5.html)
+  - [Page 5](heros/walter-thompson-bio/page-5.md)
 
-  - [Page 6](heros/walter-thompson-bio/page-6.html)
+  - [Page 6](heros/walter-thompson-bio/page-6.md)
 
-  - [Page 7](heros/walter-thompson-bio/page-7.html)
+  - [Page 7](heros/walter-thompson-bio/page-7.md)
 
-  - [The Baby and the Boat](heros/walter-thompson-bio/his-stories.html)
+  - [The Baby and the Boat](heros/walter-thompson-bio/his-stories.md)
 
 People due much respect and honor:
 
-[Walter Henry Thompson](heros/walter-thompson-bio.html) - my father.
+[Walter Henry Thompson](heros/walter-thompson-bio.md) - my father.
 
-[Professor John Fray](heros/professor-john-fray.html) - a great Jamaican scientist and educator.
+[Professor John Fray](heros/professor-john-fray.md) - a great Jamaican scientist and educator.
 
 [Nari Ward - my cousin who pursued his dream to be a contemporary artist.](http://www.lehmannmaupin.com/artists/nari-ward/press_release/0/artist_video)
 
@@ -64,10 +64,10 @@ Where are the Africans?
 >
 > [Eratosthenes (276 BC - 194 BC)](https://en.wikipedia.org/wiki/Eratosthenes)
 >
-> [Thoth (????BC)](heros/professor-john-fray/thoth.html)
+> [Thoth (????BC)](heros/professor-john-fray/thoth.md)
 
 Where are the Indians?
 
-[Pingala (2??BC)](heros/pingala.html)
+[Pingala (2??BC)](heros/pingala.md)
 
-Subpages (3): [Pingala](heros/pingala.html) [Professor John Fray](heros/professor-john-fray.html) [Walter Thompson Bio](heros/walter-thompson-bio.html)
+Subpages (3): [Pingala](heros/pingala.md) [Professor John Fray](heros/professor-john-fray.md) [Walter Thompson Bio](heros/walter-thompson-bio.md)

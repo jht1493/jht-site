@@ -1,6 +1,6 @@
 half bw, half color 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### half bw, half color
 

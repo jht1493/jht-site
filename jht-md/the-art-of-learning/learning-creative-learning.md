@@ -1,6 +1,6 @@
 Learning Creative Learning - John Henry Thompson - Invent Your Future
 
-[2\. The Art of Learning](../the-art-of-learning.html)‎ > ‎
+[2\. The Art of Learning](../the-art-of-learning.md)‎ > ‎
 
 ### Learning Creative Learning
 
@@ -12,7 +12,7 @@ Online course offered by MIT Media Lab
 
 ![](../_/rsrc/1570087315000/system/app/images/icon_feed.gif) [ Subscribe to posts](http://www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning/posts.xml)
 
-#### [Coding is for Everybody](learning-creative-learning/codingisforeverybody.html)
+#### [Coding is for Everybody](learning-creative-learning/codingisforeverybody.md)
 
 posted May 29, 2013, 6:26 AM by John Henry Thompson
 
@@ -22,13 +22,13 @@ Kick off event: Creating Jun 3 4:00 PM PST
 
 [http://connectedlearning.tv/coding-everybody-learning-through-creating-personalizing-sharing-and-reflecting](http://connectedlearning.tv/coding-everybody-learning-through-creating-personalizing-sharing-and-reflecting)
 
-#### [11 Session](learning-creative-learning/11session.html)
+#### [11 Session](learning-creative-learning/11session.md)
 
 posted May 13, 2013, 6:44 AM by John Henry Thompson
 
 May 13: Reflections(Session 11)
 
-#### [10 Session](learning-creative-learning/10session.html)
+#### [10 Session](learning-creative-learning/10session.md)
 
 posted May 4, 2013, 8:47 AM by John Henry Thompson   \[ updated May 10, 2013, 8:16 PM \]
 
@@ -37,7 +37,7 @@ May 6: Supporting Creative Learning (Session 10)
 Panelists: Karen Brennan, Amon Millner
 
 [  
-](goog_2049212945.html)
+](goog_2049212945.md)
 
 [Video for Session 10](http://www.youtube.com/watch?v=uubwqM4AFtg&feature=c4-feed-u)
 
@@ -67,7 +67,7 @@ Karen: the power of failure. ScratchED: help teachers.
 
 \- learning aspirations
 
-#### [09 Session](learning-creative-learning/09session.html)
+#### [09 Session](learning-creative-learning/09session.md)
 
 posted May 4, 2013, 8:42 AM by John Henry Thompson   \[ updated May 6, 2013, 8:19 PM \]
 
@@ -136,7 +136,7 @@ Wipe out phenonmenon - remembering the beginners mind.
 
 \> Next two weeks: think about building course into community.
 
-#### [08 Session](learning-creative-learning/8thsession.html)
+#### [08 Session](learning-creative-learning/8thsession.md)
 
 posted Apr 8, 2013, 4:27 AM by John Henry Thompson   \[ updated Jul 15, 2013, 11:29 PM \]
 
@@ -196,7 +196,7 @@ make poor highly capable
 
 [How Children Succeed - Paul Tough](http://www.amazon.com/gp/product/0547564651/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0547564651&linkCode=as2&tag=thiamelif-20)
 
-My activity: [Yoga](../yoga.html).
+My activity: [Yoga](../yoga.md).
 
 [From video session.](http://www.youtube.com/watch?v=uu4Ay08NX1E&feature=c4-feed)
 
@@ -250,7 +250,7 @@ Competence - Purpose - Autonomy - Belonging
 
 (e.g. Deci & Ryan, 2000; Turner et. al. 2011)
 
-#### [07 Session](learning-creative-learning/7thsession.html)
+#### [07 Session](learning-creative-learning/7thsession.md)
 
 posted Mar 23, 2013, 6:57 AM by John Henry Thompson   \[ updated May 4, 2013, 8:43 AM \]
 
@@ -327,7 +327,7 @@ Computer Club House Principles
 
 \- Critical to building a community
 
-#### [06 Session](learning-creative-learning/session6.html)
+#### [06 Session](learning-creative-learning/session6.md)
 
 posted Mar 17, 2013, 10:24 AM by John Henry Thompson   \[ updated May 4, 2013, 8:43 AM \]
 
@@ -386,13 +386,13 @@ technology improve further or are
 there major drawbacks to come  
 (as Socrates argued would be the  
 consequences of reading and writing)?"  
-[Thoth challenge](../heros/professor-john-fray/thoth.html) - every technology has positive / negative.
+[Thoth challenge](../heros/professor-john-fray/thoth.md) - every technology has positive / negative.
 
 • Meta-design  
 • Social creativity,  
 • Richer ecologies of participation
 
-#### [05 Session](learning-creative-learning/5thsession.html)
+#### [05 Session](learning-creative-learning/5thsession.md)
 
 posted Mar 7, 2013, 2:43 AM by John Henry Thompson   \[ updated May 4, 2013, 8:43 AM \]
 
@@ -474,7 +474,7 @@ outliner / elite - does your experience work for others?
 
 Audrey: optimizing for passion and curiosity
 
-#### [04 Session](learning-creative-learning/4thsession.html)
+#### [04 Session](learning-creative-learning/4thsession.md)
 
 posted Mar 3, 2013, 4:26 AM by John Henry Thompson   \[ updated May 4, 2013, 8:44 AM \]
 
@@ -510,7 +510,7 @@ In order to be completely enfranchised in the 21st century, it will be very impo
 
 Powerful idea: My dad saying "You can accomplish anything you set your mind to with the right education." and me believing it.
 
-#### [03 Session](learning-creative-learning/3rdsession.html)
+#### [03 Session](learning-creative-learning/3rdsession.md)
 
 posted Feb 21, 2013, 1:14 PM by John Henry Thompson   \[ updated May 4, 2013, 8:44 AM \]
 

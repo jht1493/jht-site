@@ -1,6 +1,6 @@
 Love is wise, hatred is foolish 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Love is wise, hatred is foolish
 

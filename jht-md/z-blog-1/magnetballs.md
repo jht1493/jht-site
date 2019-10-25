@@ -1,6 +1,6 @@
 Magnet Balls 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Magnet Balls
 

@@ -1,6 +1,6 @@
 Look up and be Blissed! 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Look up and be Blissed!
 

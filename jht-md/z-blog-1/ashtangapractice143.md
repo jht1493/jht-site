@@ -1,6 +1,6 @@
 Ashtanga Practice #143 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Ashtanga Practice #143
 

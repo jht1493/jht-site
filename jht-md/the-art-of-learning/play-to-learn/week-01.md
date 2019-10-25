@@ -3,7 +3,7 @@ Play To Learn - Week 01 - John Henry Thompson
 
     
 
-[2\. The Art of Learning](../../the-art-of-learning.html)‎ > ‎[Play to Learn](../play-to-learn.html)‎ > ‎
+[2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Play to Learn](../play-to-learn.md)‎ > ‎
 
 ### Play To Learn - Week 01
 
@@ -55,7 +55,7 @@ Steve Jobs Stanford Commencement Speech 2005
   
 [http://stemtosteam.org](http://stemtosteam.org/)  
   
-[http://www.johnhenrythompson.com/the-art-of-learning/reflections](../reflections.html)  
+[http://www.johnhenrythompson.com/the-art-of-learning/reflections](../reflections.md)  
   
 Scratch Activities:  
 \- Create slide show  

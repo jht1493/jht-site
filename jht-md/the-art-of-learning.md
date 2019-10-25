@@ -12,18 +12,18 @@ Here are my contributions on "The Art of Learning".
 
 #### Articles
 
-- [Breadfruit](the-art-of-learning/breadfrui.html)
+- [Breadfruit](the-art-of-learning/breadfrui.md)
 
-- [Hard Fun 1](the-art-of-learning/hard-fun-1.html)
+- [Hard Fun 1](the-art-of-learning/hard-fun-1.md)
 
-- [Hard Fun 2](the-art-of-learning/hard-fun-2.html)
+- [Hard Fun 2](the-art-of-learning/hard-fun-2.md)
 
-- [Learning Creative Learning](the-art-of-learning/learning-creative-learning.html)
+- [Learning Creative Learning](the-art-of-learning/learning-creative-learning.md)
 
-- [Play to Learn](the-art-of-learning/play-to-learn.html)
+- [Play to Learn](the-art-of-learning/play-to-learn.md)
 
-- [Reflections on Learning](the-art-of-learning/reflections.html)
+- [Reflections on Learning](the-art-of-learning/reflections.md)
 
 [![](_/rsrc/1295207804606/the-art-of-learning/83_balance_wigs.jpg)](http://www.johnhenrythompson.com/the-art-of-learning/83_balance_wigs.jpg?attredirects=0)
 
-Subpages (6): [Breadfruit](the-art-of-learning/breadfrui.html) [Hard Fun 1](the-art-of-learning/hard-fun-1.html) [Hard Fun 2](the-art-of-learning/hard-fun-2.html) [Learning Creative Learning](the-art-of-learning/learning-creative-learning.html) [Play to Learn](the-art-of-learning/play-to-learn.html) [Reflections on Learning](the-art-of-learning/reflections.html)
+Subpages (6): [Breadfruit](the-art-of-learning/breadfrui.md) [Hard Fun 1](the-art-of-learning/hard-fun-1.md) [Hard Fun 2](the-art-of-learning/hard-fun-2.md) [Learning Creative Learning](the-art-of-learning/learning-creative-learning.md) [Play to Learn](the-art-of-learning/play-to-learn.md) [Reflections on Learning](the-art-of-learning/reflections.md)

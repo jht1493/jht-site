@@ -1,6 +1,6 @@
 The University Community Collaborative 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### The University Community Collaborative
 

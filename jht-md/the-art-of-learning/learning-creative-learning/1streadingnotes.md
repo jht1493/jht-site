@@ -3,7 +3,7 @@
 
     
 
-[2\. The Art of Learning](../../the-art-of-learning.html)‎ > ‎[Learning Creative Learning](../learning-creative-learning.html)‎ > ‎
+[2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Learning Creative Learning](../learning-creative-learning.md)‎ > ‎
 
 ### 01 Session Reading Notes
 
@@ -104,7 +104,7 @@ reading vs. taking notes
   
 problem solving vs. exploring  
   
-[pro/con of each technology](../../heros/professor-john-fray/thoth.html)  
+[pro/con of each technology](../../heros/professor-john-fray/thoth.md)  
   
 sharing is key to provide motivation to engage in creative cycle - the fuel for the process.  
   
@@ -136,7 +136,7 @@ plan to use github to share my stuff
 
   
 **Reflect**  
-focus is prerequisite -  [meditation as an aide](../../yoga/patanjani/book-1/12.html).  
+focus is prerequisite -  [meditation as an aide](../../yoga/patanjani/book-1/12.md).  
 should be preferred way to assess students progress - artifacts from their reflection  
 
   
@@ -145,7 +145,7 @@ should be preferred way to assess students progress - artifacts from their refle
 
 \- must rely on trusted source.
 
-[patanjani book 1.7](../../yoga/patanjani/book-1/17.html)  
+[patanjani book 1.7](../../yoga/patanjani/book-1/17.md)  
   
   
 

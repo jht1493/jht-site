@@ -1,6 +1,6 @@
 Fight trumpery - vote! 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Fight trumpery - vote!
 

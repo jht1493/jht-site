@@ -1,6 +1,6 @@
 Prepare for era of trumpery 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Prepare for era of trumpery
 

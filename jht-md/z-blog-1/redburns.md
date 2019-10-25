@@ -1,6 +1,6 @@
 Red Burns 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Red Burns
 

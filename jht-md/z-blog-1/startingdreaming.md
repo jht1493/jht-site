@@ -1,6 +1,6 @@
 Starting dreaming 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Starting dreaming
 

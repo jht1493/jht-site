@@ -1,6 +1,6 @@
 Scratch Projects 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Scratch Projects
 

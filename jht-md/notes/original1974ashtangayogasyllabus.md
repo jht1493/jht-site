@@ -1,6 +1,6 @@
 'Original' 1974 Ashtanga yoga Syllabus 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### 'Original' 1974 Ashtanga yoga Syllabus
 

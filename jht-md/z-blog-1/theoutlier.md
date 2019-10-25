@@ -1,6 +1,6 @@
 The Outlier 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### The Outlier
 

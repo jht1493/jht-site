@@ -1,6 +1,6 @@
 Pingala 
 
-[5\. Respect](../heros.html)‎ > ‎
+[5\. Respect](../heros.md)‎ > ‎
 
 ### Pingala
 

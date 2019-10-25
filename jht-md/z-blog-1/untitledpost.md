@@ -1,6 +1,6 @@
 Ashtanga (Eight Limb) Yoga 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Ashtanga (Eight Limb) Yoga
 

@@ -1,6 +1,6 @@
 K. Pattabhi Jois Video 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### K. Pattabhi Jois Video
 

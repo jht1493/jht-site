@@ -1,6 +1,6 @@
 Started Ashtanga Mysore Workshop with Jill 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Started Ashtanga Mysore Workshop with Jill
 

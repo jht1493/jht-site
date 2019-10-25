@@ -1,6 +1,6 @@
 In transition from j4u2.com 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### In transition from j4u2.com
 

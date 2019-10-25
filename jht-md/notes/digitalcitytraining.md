@@ -1,6 +1,6 @@
 Digital City training 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Digital City training
 

@@ -1,6 +1,6 @@
 Relicensing React, Jest, Flow, and Immutable.js 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Relicensing React, Jest, Flow, and Immutable.js
 

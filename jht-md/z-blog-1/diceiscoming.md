@@ -1,6 +1,6 @@
 DICE is coming! 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### DICE is coming!
 
@@ -16,7 +16,7 @@ Please join me at my presentation:
 
 [https://tisch.nyu.edu/itp/events/fall-2017/dice-with-john-henry-thompson](https://tisch.nyu.edu/itp/events/fall-2017/dice-with-john-henry-thompson)
 
-The talk will be about DICE, a software platform in development to explore learning, art and science: [http://www.johnhenrythompson.com/3-dice](../3-dice.html).
+The talk will be about DICE, a software platform in development to explore learning, art and science: [http://www.johnhenrythompson.com/3-dice](../3-dice.md).
 
 FRIDAY, NOV. 17, 2017. 1:00 PM — 2:30 PM
 

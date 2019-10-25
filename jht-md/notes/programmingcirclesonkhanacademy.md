@@ -1,6 +1,6 @@
 Programming circles on Khan Academy 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Programming circles on Khan Academy
 

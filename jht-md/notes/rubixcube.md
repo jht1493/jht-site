@@ -1,6 +1,6 @@
 Rubix Cube 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Rubix Cube
 

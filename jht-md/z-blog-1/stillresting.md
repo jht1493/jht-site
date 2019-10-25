@@ -1,6 +1,6 @@
 Still Resting 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Still Resting
 

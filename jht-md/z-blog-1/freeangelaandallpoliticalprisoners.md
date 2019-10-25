@@ -1,6 +1,6 @@
 Free Angela and All Political Prisoners 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Free Angela and All Political Prisoners
 

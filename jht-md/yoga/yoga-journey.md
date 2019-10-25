@@ -1,6 +1,6 @@
 My Yoga Journey (2004 - 2013) 
 
-[Yoga](../yoga.html)‎ > ‎
+[Yoga](../yoga.md)‎ > ‎
 
 ### My Yoga Journey (2004 - 2013)
 
@@ -71,9 +71,9 @@ In the workshop Jill helped me with a couple of things. She corrected my dristi 
   
 **Year** **Two** (Nov 2012)  
   
-It has been a bumpy ride on the yoga road since a year ago. In early November 2011 (Practice #143) [my lower back issue flared up and kept me out of practice for about 2 months](../z-blog-1/goodbyeandgivingthanks.html). Slowly I built my practice back up and was able to take another Mysore workshop with Jill Manning on March 20, 2012 (Practice #155,#156,#157). My practice slowed down a little after that.  
+It has been a bumpy ride on the yoga road since a year ago. In early November 2011 (Practice #143) [my lower back issue flared up and kept me out of practice for about 2 months](../z-blog-1/goodbyeandgivingthanks.md). Slowly I built my practice back up and was able to take another Mysore workshop with Jill Manning on March 20, 2012 (Practice #155,#156,#157). My practice slowed down a little after that.  
   
-After Practice #160, April 19, 2012, I went to give a mobile app development workshop in Jamaica. Second day into the workshop my lower back flared up again. I haven't had a full practice since then and only in the last week, after over 7 months, have I been able to do an abbreviated practice. I do about 30 minutes on elliptical cycle, then sun salutation A (5 times), B (3-5 times), standing sequence and then closing sequence, with a few additional asanas thrown in. While on the elliptical I listen to [audio books on astrophysics](../z-blog-1/deathbyblackholeandothercosmicquandaries.html) and study my Ashtanga charts.  
+After Practice #160, April 19, 2012, I went to give a mobile app development workshop in Jamaica. Second day into the workshop my lower back flared up again. I haven't had a full practice since then and only in the last week, after over 7 months, have I been able to do an abbreviated practice. I do about 30 minutes on elliptical cycle, then sun salutation A (5 times), B (3-5 times), standing sequence and then closing sequence, with a few additional asanas thrown in. While on the elliptical I listen to [audio books on astrophysics](../z-blog-1/deathbyblackholeandothercosmicquandaries.md) and study my Ashtanga charts.  
   
 Let's see if I can continue to re-build to a full practice.  
   
@@ -107,7 +107,7 @@ Copyright © 2011-2013 John Henry Thompson. All rights reserved.
 
   
 
-[![](../_/rsrc/1329795151888/yoga/yoga-journey/jht-mid-shot-height=318&width=320.png)](../home.html)
+[![](../_/rsrc/1329795151888/yoga/yoga-journey/jht-mid-shot-height=318&width=320.png)](../home.md)
 
   
 

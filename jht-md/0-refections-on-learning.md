@@ -12,9 +12,9 @@ In his book _“The Children's Machine”_ Seymour Papert observed there is a we
 ## Feelings about learning
 
 [![](_/rsrc/1488993242362/0-refections-on-learning/Dad03-height=320&width=250.jpg)](http://www.johnhenrythompson.com/0-refections-on-learning/Dad03.jpg?attredirects=0)
-[Walter Thompson. Give me love for education.](heros/walter-thompson-bio.html)
+[Walter Thompson. Give me love for education.](heros/walter-thompson-bio.md)
 
-The starting point for me in my learning adventure was emotional. I truly believed that education would provide me with the hope for a better future. I think I got this emotional imprint from [my father](heros/walter-thompson-bio.html). He grew up on a farm in Jamaica with little access to formal education. Although he had to leave school at age 12, he constantly reminded his five children of his love for education and how he was glad we had greater access to school than he had. His appreciation of educational opportunity and his constant praise of our accomplishments in school gave me **belief** and **hope** to focus on education. My father would say “with education you could accomplish anything you set your mind to”.
+The starting point for me in my learning adventure was emotional. I truly believed that education would provide me with the hope for a better future. I think I got this emotional imprint from [my father](heros/walter-thompson-bio.md). He grew up on a farm in Jamaica with little access to formal education. Although he had to leave school at age 12, he constantly reminded his five children of his love for education and how he was glad we had greater access to school than he had. His appreciation of educational opportunity and his constant praise of our accomplishments in school gave me **belief** and **hope** to focus on education. My father would say “with education you could accomplish anything you set your mind to”.
 
 The other emotional component out side of school was my **passion** for drawing, math, solving puzzles and building electronic gadgets. I had a burning desire to figure out how electronic devices work. I built electron motors and radios from circuits described in library books. It was not enough to read about them, I only felt I understood something when I was able to built it and actually see it work.
 
@@ -49,7 +49,7 @@ Today if you have a passion to learn about computer, you will not have to face s
 
 One of my passions now is to help contribute to the **support network** for learners by sharing my stories, and helping others learn programming in new and exciting ways. I wish you good fortune in your learning adventure.
 
-[Visit my Learn to code page to see my latest learn to code workshops and online classes.](learning-to-program.html)
+[Visit my Learn to code page to see my latest learn to code workshops and online classes.](learning-to-program.md)
 
 (c) 2005-2019 John Henry Thompson. All rights reserved.
 

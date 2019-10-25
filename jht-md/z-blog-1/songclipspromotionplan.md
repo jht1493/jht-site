@@ -1,6 +1,6 @@
 SongClips promotion plan 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### SongClips promotion plan
 

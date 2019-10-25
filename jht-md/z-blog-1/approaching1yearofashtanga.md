@@ -1,6 +1,6 @@
 Approaching 1 year of Ashtanga 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Approaching 1 year of Ashtanga
 

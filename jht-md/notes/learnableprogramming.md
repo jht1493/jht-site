@@ -1,6 +1,6 @@
 Learnable Programming 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Learnable Programming
 

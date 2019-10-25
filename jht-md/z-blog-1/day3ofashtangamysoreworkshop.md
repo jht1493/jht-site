@@ -1,6 +1,6 @@
 Day 3 of Ashtanga Mysore workshop 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Day 3 of Ashtanga Mysore workshop
 

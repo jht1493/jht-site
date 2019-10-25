@@ -96,19 +96,19 @@ DICE colored mind: Am I not a black man?
 
 Dice colored mind: selfie test.
 
-[2018-02-03 For DIY Photoshop workshop at Scribe Video.](z-blog-1/diyphotoshopscribe2018-03-03.html)
+[2018-02-03 For DIY Photoshop workshop at Scribe Video.](z-blog-1/diyphotoshopscribe2018-03-03.md)
 
 [![](_/rsrc/1517930817287/3-dice/hand%20colors%20-%20i%20come%20in%20peace-height=320&width=200.jpg)](http://www.johnhenrythompson.com/3-dice/hand%20colors%20-%20i%20come%20in%20peace.jpg?attredirects=0)
 
 Colored mind: I come in peace.
 
-[2018-02-03 For DIY Photoshop workshop at Scribe Video.](z-blog-1/diyphotoshopscribe2018-03-03.html)
+[2018-02-03 For DIY Photoshop workshop at Scribe Video.](z-blog-1/diyphotoshopscribe2018-03-03.md)
 
 [![](_/rsrc/1517931012490/3-dice/doll%20test-height=203&width=320.jpg)](http://www.johnhenrythompson.com/3-dice/doll%20test.jpg?attredirects=0)
 
 DICE colored mind: Doll Test.
 
-[2018-02-03 For DIY Photoshop workshop at Scribe Video.](z-blog-1/diyphotoshopscribe2018-03-03.html)
+[2018-02-03 For DIY Photoshop workshop at Scribe Video.](z-blog-1/diyphotoshopscribe2018-03-03.md)
 
 The colored mind meditates on DICE:
 
@@ -126,7 +126,7 @@ Logo design by Zahra Khosravi at ITP-NYU:
 
 [![](_/rsrc/1513455103487/3-dice/IMG_1173-height=300&width=400.jpg)](http://www.johnhenrythompson.com/3-dice/IMG_1173.jpg?attredirects=0)
 
-[NYU-ITP presentation annoucement](z-blog-1/diceiscoming.html)
+[NYU-ITP presentation annoucement](z-blog-1/diceiscoming.md)
 
 [![](_/rsrc/1510483342422/3-dice/p5%20RGB%20z4-height=200&width=200.jpg)](http://www.johnhenrythompson.com/3-dice/p5%20RGB%20z4.jpg?attredirects=0) [![](_/rsrc/1510483339428/3-dice/p5%20RGB%204k%20hold%20bz-height=200&width=200.jpg)](http://www.johnhenrythompson.com/3-dice/p5%20RGB%204k%20hold%20bz.jpg?attredirects=0) [![](_/rsrc/1510483335762/3-dice/IMG_1081-height=200&width=112.jpg)](http://www.johnhenrythompson.com/3-dice/IMG_1081.jpg?attredirects=0)  [![](_/rsrc/1510483277435/3-dice/IMG_0177-height=150&width=200.jpg)](http://www.johnhenrythompson.com/3-dice/IMG_0177.jpg?attredirects=0) [![](_/rsrc/1510483329743/3-dice/IMG_1075-height=200&width=112.jpg)](http://www.johnhenrythompson.com/3-dice/IMG_1075.jpg?attredirects=0)
 
@@ -191,4 +191,4 @@ flowing from [my early software.](http://j4u2.com/jht/newwork.html)
 
 I sent my cosmic twin, Benjamin B., my DICE app in 2001, he sent back this screen shot.
 
-Subpages (2): [DICE-demo](3-dice/dice-demo.html) [DICE-Privacy](3-dice/dice-privacy.html)
+Subpages (2): [DICE-demo](3-dice/dice-demo.md) [DICE-Privacy](3-dice/dice-privacy.md)

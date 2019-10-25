@@ -1,6 +1,6 @@
 Ancestors
 
-[About me](../home.html)‎ > ‎
+[About me](../home.md)‎ > ‎
 
 ### Ancestors
 

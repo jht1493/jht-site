@@ -1,6 +1,6 @@
 Walter Thompson Bio 
 
-[5\. Respect](../heros.html)‎ > ‎
+[5\. Respect](../heros.md)‎ > ‎
 
 ### Walter Thompson Bio
 
@@ -12,21 +12,21 @@ He past away in 2005, a few days before he was supposed to leave Jamaica to visi
 
 #### Dad's Bio Letter
 
-*   [Page 1](walter-thompson-bio/page-1.html)
+*   [Page 1](walter-thompson-bio/page-1.md)
     
-*   [Page 2](walter-thompson-bio/page-2.html)
+*   [Page 2](walter-thompson-bio/page-2.md)
     
-*   [Page 3](walter-thompson-bio/page-3.html)
+*   [Page 3](walter-thompson-bio/page-3.md)
     
-*   [Page 4](walter-thompson-bio/page-4.html)
+*   [Page 4](walter-thompson-bio/page-4.md)
     
-*   [Page 5](walter-thompson-bio/page-5.html)
+*   [Page 5](walter-thompson-bio/page-5.md)
     
-*   [Page 6](walter-thompson-bio/page-6.html)
+*   [Page 6](walter-thompson-bio/page-6.md)
     
-*   [Page 7](walter-thompson-bio/page-7.html)
+*   [Page 7](walter-thompson-bio/page-7.md)
     
-*   [The Baby and the Boat](walter-thompson-bio/his-stories.html)
+*   [The Baby and the Boat](walter-thompson-bio/his-stories.md)
     
 
   
@@ -207,5 +207,5 @@ The Thompson children with Walter Henry Thompson in the middle. I'm named after 
 
   
 
-Subpages (8): [Page 1](walter-thompson-bio/page-1.html) [Page 2](walter-thompson-bio/page-2.html) [Page 3](walter-thompson-bio/page-3.html) [Page 4](walter-thompson-bio/page-4.html) [Page 5](walter-thompson-bio/page-5.html) [Page 6](walter-thompson-bio/page-6.html) [Page 7](walter-thompson-bio/page-7.html) [The Baby and the Boat](walter-thompson-bio/his-stories.html)
+Subpages (8): [Page 1](walter-thompson-bio/page-1.md) [Page 2](walter-thompson-bio/page-2.md) [Page 3](walter-thompson-bio/page-3.md) [Page 4](walter-thompson-bio/page-4.md) [Page 5](walter-thompson-bio/page-5.md) [Page 6](walter-thompson-bio/page-6.md) [Page 7](walter-thompson-bio/page-7.md) [The Baby and the Boat](walter-thompson-bio/his-stories.md)
 

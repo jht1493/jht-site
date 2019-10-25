@@ -6,7 +6,7 @@ What's on the colored mind?
 
 ![](_/rsrc/1570087315000/system/app/images/icon_feed.gif) [ Subscribe to posts](http://www.johnhenrythompson.com/z-blog-1/posts.xml)
 
-#### [Single Character Kill iPhone](z-blog-1/singlecharacterkilliphone.html)
+#### [Single Character Kill iPhone](z-blog-1/singlecharacterkilliphone.md)
 
 posted Feb 19, 2018, 1:38 PM by John Henry Thompson   \[ updated Feb 19, 2018, 1:39 PM \]
 
@@ -16,7 +16,7 @@ Telugu character
 
 జ్ఞా
 
-#### [D.I.Y. Photoshop @ Scribe 2018-03-03](z-blog-1/diyphotoshopscribe2018-03-03.html)
+#### [D.I.Y. Photoshop @ Scribe 2018-03-03](z-blog-1/diyphotoshopscribe2018-03-03.md)
 
 posted Jan 14, 2018, 5:50 PM by John Henry Thompson   \[ updated Feb 17, 2018, 8:43 AM by John Henry Thompson \]
 
@@ -62,7 +62,7 @@ Cost:
 
 $25, $10 Scribe Member’s Family
 
-#### [DICE is coming!](z-blog-1/diceiscoming.html)
+#### [DICE is coming!](z-blog-1/diceiscoming.md)
 
 posted Dec 16, 2017, 12:04 PM by John Henry Thompson
 
@@ -72,7 +72,7 @@ Please join me at my presentation:
 
 [https://tisch.nyu.edu/itp/events/fall-2017/dice-with-john-henry-thompson](https://tisch.nyu.edu/itp/events/fall-2017/dice-with-john-henry-thompson)
 
-The talk will be about DICE, a software platform in development to explore learning, art and science: [http://www.johnhenrythompson.com/3-dice](3-dice.html).
+The talk will be about DICE, a software platform in development to explore learning, art and science: [http://www.johnhenrythompson.com/3-dice](3-dice.md).
 
 FRIDAY, NOV. 17, 2017. 1:00 PM — 2:30 PM
 
@@ -80,13 +80,13 @@ NYU-ITP, 4TH FLOOR
 
 721 Broadway, New York, NY 10003
 
-#### [DICE presentation at NYU-ITP](z-blog-1/dicepresentationatnyu-itp.html)
+#### [DICE presentation at NYU-ITP](z-blog-1/dicepresentationatnyu-itp.md)
 
 posted Nov 21, 2017, 8:37 AM by John Henry Thompson   \[ updated Dec 16, 2017, 12:08 PM \]
 
 Thank you Shindy!
 
-[http://www.johnhenrythompson.com/z-blog-1/diceiscoming](z-blog-1/diceiscoming.html)
+[http://www.johnhenrythompson.com/z-blog-1/diceiscoming](z-blog-1/diceiscoming.md)
 
 [![](_/rsrc/1511282434170/z-blog-1/dicepresentationatnyu-itp/shindy-nyuitp-dice-2017-11-17.png)](http://www.johnhenrythompson.com/z-blog-1/dicepresentationatnyu-itp/shindy-nyuitp-dice-2017-11-17.png?attredirects=0)
 
@@ -97,7 +97,7 @@ What a fabulous collaboration with the inimitable, computer scientist, engineer 
 Contact JHT at [github.com/jht1493.](https://github.com/jht1493.)  
 Coincidentally, JT was the keynote speaker at a conference which I along with[Marilyn Nance](https://www.facebook.com/sistanance?fref=mentions),[Bathsheba Okwenje](https://www.facebook.com/bathsheba.okwenje?fref=mentions),[Sandra Aluoch Simbiri](https://www.facebook.com/atieno.aluochsimbiri?fref=mentions), Omowale Morgan,[Afua Brown](https://www.facebook.com/afuabrown?fref=mentions), Leticia and many others organized and hosted as students at ITP in 1999!!!
 
-#### [Augmentation not replacement.](z-blog-1/augmentationnotreplacement.html)
+#### [Augmentation not replacement.](z-blog-1/augmentationnotreplacement.md)
 
 posted Sep 26, 2017, 4:59 AM by John Henry Thompson
 
@@ -105,13 +105,13 @@ posted Sep 26, 2017, 4:59 AM by John Henry Thompson
 
 [https://en.wikipedia.org/wiki/Douglas_Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
 
-#### [Relicensing React, Jest, Flow, and Immutable.js](z-blog-1/relicensingreactjestflowandimmutablejs.html)
+#### [Relicensing React, Jest, Flow, and Immutable.js](z-blog-1/relicensingreactjestflowandimmutablejs.md)
 
 posted Sep 25, 2017, 9:43 AM by John Henry Thompson
 
 [https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/)
 
-#### [JavaScript Books](z-blog-1/javascriptbooks.html)
+#### [JavaScript Books](z-blog-1/javascriptbooks.md)
 
 posted Sep 25, 2017, 6:44 AM by John Henry Thompson
 
@@ -129,7 +129,7 @@ I also have the ES6 for Everyone video series shown here (pretty informative and
 
 [http://wesbos.com/courses/](http://wesbos.com/courses/)
 
-#### [Philly company digitizes 25,000 old records](z-blog-1/phillycompanydigitizes25000oldrecords.html)
+#### [Philly company digitizes 25,000 old records](z-blog-1/phillycompanydigitizes25000oldrecords.md)
 
 posted Sep 23, 2017, 5:35 AM by John Henry Thompson
 
@@ -139,7 +139,7 @@ Philly company digitizes 25,000 old records and they're free to download
 
 [https://archive.org/details/georgeblood](https://archive.org/details/georgeblood)
 
-#### [Facebook snap shot](z-blog-1/facebooksnapshot.html)
+#### [Facebook snap shot](z-blog-1/facebooksnapshot.md)
 
 posted Sep 12, 2017, 2:56 PM by John Henry Thompson
 
@@ -147,7 +147,7 @@ I will not be silenced, nor locked into facebook.
 
 [![](_/rsrc/1505253417936/z-blog-1/facebooksnapshot/facebook-2017-09-12.png)](http://www.johnhenrythompson.com/z-blog-1/facebooksnapshot/facebook-2017-09-12.png?attredirects=0)
 
-#### [The Emergence of Video Processing Tools](z-blog-1/theemergenceofvideoprocessingtools-booklaunchpanelnewmuseumnyc.html)
+#### [The Emergence of Video Processing Tools](z-blog-1/theemergenceofvideoprocessingtools-booklaunchpanelnewmuseumnyc.md)
 
 posted Sep 9, 2017, 2:43 PM by John Henry Thompson   \[ updated Sep 9, 2017, 2:45 PM \]
 

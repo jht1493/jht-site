@@ -1,6 +1,6 @@
 Digital Jam 2.0 Team followup in Chile 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Digital Jam 2.0 Team followup in Chile
 

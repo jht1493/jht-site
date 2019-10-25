@@ -1,6 +1,6 @@
 Philly company digitizes 25,000 old records 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Philly company digitizes 25,000 old records
 

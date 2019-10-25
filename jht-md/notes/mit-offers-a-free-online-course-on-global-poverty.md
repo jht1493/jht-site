@@ -1,6 +1,6 @@
 mit-offers-a-free-online-course-on-global-poverty 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### mit-offers-a-free-online-course-on-global-poverty
 

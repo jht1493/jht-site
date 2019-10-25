@@ -16,21 +16,21 @@ Archive of John Henry Thompson's interactive art source code.
 
 #### Subpage Listing
 
-- [Lingo: Birth, Evolution, Demise.](4-history/lingo-birth-evolution-demise.html)
+- [Lingo: Birth, Evolution, Demise.](4-history/lingo-birth-evolution-demise.md)
 
 Some personal and commercial projects over the years:
 
-[200x Collaboration with Professor John Fray](heros/professor-john-fray.html)
+[200x Collaboration with Professor John Fray](heros/professor-john-fray.md)
 
 [200x Video Library: Yoga, Yale African American Courses, ...](http://metadeepmix.com/a2/)
 
 [200x WebDB - W.E.B. Du Bois's Photographs Assembled for 1900 Paris Exposition ](http://metadeepmix.com/webdb/webdb/)
 
-[2017Adobe Director (formerly Macromedia Director) Retired.](artifacts.html)
+[2017Adobe Director (formerly Macromedia Director) Retired.](artifacts.md)
 
-[1987 - 2004 Adobe/Macromedia Director](artifacts.html)
+[1987 - 2004 Adobe/Macromedia Director](artifacts.md)
 
-[1988 Garden of Interactive Delights.](4-garden.html)
+[1988 Garden of Interactive Delights.](4-garden.md)
 
 ###
 
@@ -173,4 +173,4 @@ Praise for Lingo received via Facebook 2017 from Agyenim Wiredu.
 
 "... Sale of Adobe Director and Contribute will stop on February 1, 2017.   We will also stop ongoing updates and support for Adobe Shockwave on Mac devices on March 14th after the last release of the product.Effective April 9, 2019, Adobe Shockwave will be discontinued and the Shockwave player for Windows will no longer be available for download. ..."
 
-Subpages (1): [Lingo: Birth, Evolution, Demise.](4-history/lingo-birth-evolution-demise.html)
+Subpages (1): [Lingo: Birth, Evolution, Demise.](4-history/lingo-birth-evolution-demise.md)

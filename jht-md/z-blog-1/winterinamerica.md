@@ -1,6 +1,6 @@
 Winter in America 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Winter in America
 

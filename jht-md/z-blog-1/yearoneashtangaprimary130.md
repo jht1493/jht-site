@@ -1,6 +1,6 @@
 Year One Ashtanga Primary #130 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Year One Ashtanga Primary #130
 

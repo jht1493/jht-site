@@ -1,6 +1,6 @@
 Election 2012 a landside for Obama 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Election 2012 a landside for Obama
 

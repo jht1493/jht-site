@@ -1,6 +1,6 @@
 Science Quotes 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Science Quotes
 

@@ -1,6 +1,6 @@
 10 Session - John Henry Thompson
 
-[2\. The Art of Learning](../../the-art-of-learning.html)‎ > ‎[Learning Creative Learning](../learning-creative-learning.html)‎ > ‎
+[2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Learning Creative Learning](../learning-creative-learning.md)‎ > ‎
 
 ### 10 Session
 
@@ -11,7 +11,7 @@ May 6: Supporting Creative Learning (Session 10)
 Panelists: Karen Brennan, Amon Millner
 
 [  
-](goog_2049212945.html)
+](goog_2049212945.md)
 
 [Video for Session 10](http://www.youtube.com/watch?v=uubwqM4AFtg&feature=c4-feed-u)
 

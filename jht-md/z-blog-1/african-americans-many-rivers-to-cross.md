@@ -1,6 +1,6 @@
 african-americans-many-rivers-to-cross 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### african-americans-many-rivers-to-cross
 

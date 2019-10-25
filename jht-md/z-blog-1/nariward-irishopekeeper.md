@@ -1,6 +1,6 @@
 NARI WARD - 'Iris Hope Keeper' 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### NARI WARD - 'Iris Hope Keeper'
 

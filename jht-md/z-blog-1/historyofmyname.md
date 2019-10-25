@@ -1,6 +1,6 @@
 History of my name 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### History of my name
 

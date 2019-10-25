@@ -1,6 +1,6 @@
 09 Session - John Henry Thompson
 
-[2\. The Art of Learning](../../the-art-of-learning.html)‎ > ‎[Learning Creative Learning](../learning-creative-learning.html)‎ > ‎
+[2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Learning Creative Learning](../learning-creative-learning.md)‎ > ‎
 
 ### 09 Session
 

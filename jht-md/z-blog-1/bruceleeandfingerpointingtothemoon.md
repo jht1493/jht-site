@@ -1,6 +1,6 @@
 Bruce Lee and Finger Pointing to the Moon 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Bruce Lee and Finger Pointing to the Moon
 

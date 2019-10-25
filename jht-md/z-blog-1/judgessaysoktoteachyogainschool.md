@@ -1,6 +1,6 @@
 Judges says ok to teach Yoga in school 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Judges says ok to teach Yoga in school
 

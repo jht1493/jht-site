@@ -1,6 +1,6 @@
 Dice colorize on the move (again) 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Dice colorize on the move (again)
 

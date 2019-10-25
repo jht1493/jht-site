@@ -1,6 +1,6 @@
 Africans in The Americas 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Africans in The Americas
 

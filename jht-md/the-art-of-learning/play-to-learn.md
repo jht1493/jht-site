@@ -1,6 +1,6 @@
 Play to Learn 
 
-[2\. The Art of Learning](../the-art-of-learning.html)‎ > ‎
+[2\. The Art of Learning](../the-art-of-learning.md)‎ > ‎
 
 ### Play to Learn
 
@@ -19,25 +19,25 @@ Fee: $100. Includes 8 hours of individual lab time
 [Click here to visit scribe.com for workshop location and cost.](http://scribe.org/workshops/playlearncreativeapproachlearningappdevelopment0)  
   
 
-[**Week 1:**](play-to-learn/week-01.html)  
+[**Week 1:**](play-to-learn/week-01.md)  
 The Creative Learning Approach  
 Introduction to Scratch  
 Creating Scratch projects.  
 Re-mixing and Exploring  
   
-[**Week 2:**](play-to-learn/play-to-learn---week-02.html)  
+[**Week 2:**](play-to-learn/play-to-learn---week-02.md)  
 Review of Scratch projects  
 Creative Programming at khanacademy.org/cs  
 Introduction to JavaScript at khanacademy.org/cs  
   
-[**Week 3:**](play-to-learn/play-to-learn---week-03.html)  
+[**Week 3:**](play-to-learn/play-to-learn---week-03.md)  
 
 Review khanacademy.org projects  
 
 Introduction to programming in the Browser with JavaScript and Canvas  
   
 
-[**Week 4:**](play-to-learn/play-to-learn---week-04.html)  
+[**Week 4:**](play-to-learn/play-to-learn---week-04.md)  
 
 Review programming in the Browser with JavaScript and Canvas  
 
@@ -59,10 +59,10 @@ Present favorite projects
   
   
   
-[![](../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/Vision-Explore-Create-Reflect.png)](breadfrui.html)  
+[![](../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/Vision-Explore-Create-Reflect.png)](breadfrui.md)  
   
 
-[![](../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/Imagine-Create-Play-Share-Reflect.png)](learning-creative-learning/session1-feb11.html)  
+[![](../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/Imagine-Create-Play-Share-Reflect.png)](learning-creative-learning/session1-feb11.md)  
   
 
 [![](../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/jht-editdroid.jpg)](http://www.johnhenrythompson.com/the-art-of-learning/play-to-learn/jht-editdroid.jpg?attredirects=0)
@@ -71,5 +71,5 @@ Present favorite projects
 
   
 
-Subpages (5): [2013 Edition](play-to-learn/2013-edition.html) [Play To Learn - Week 01](play-to-learn/week-01.html) [Play To Learn - Week 02](play-to-learn/play-to-learn---week-02.html) [Play To Learn - Week 03](play-to-learn/play-to-learn---week-03.html) [Play To Learn - Week 04](play-to-learn/play-to-learn---week-04.html)
+Subpages (5): [2013 Edition](play-to-learn/2013-edition.md) [Play To Learn - Week 01](play-to-learn/week-01.md) [Play To Learn - Week 02](play-to-learn/play-to-learn---week-02.md) [Play To Learn - Week 03](play-to-learn/play-to-learn---week-03.md) [Play To Learn - Week 04](play-to-learn/play-to-learn---week-04.md)
 

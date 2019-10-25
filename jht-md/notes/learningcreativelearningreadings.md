@@ -1,6 +1,6 @@
 Learning Creative Learning : Notes & Links 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Learning Creative Learning : Notes & Links
 

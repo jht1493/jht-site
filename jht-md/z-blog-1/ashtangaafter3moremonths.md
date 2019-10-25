@@ -1,6 +1,6 @@
 Ashtanga after 3 more months 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Ashtanga after 3 more months
 

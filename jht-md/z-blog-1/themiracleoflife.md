@@ -1,6 +1,6 @@
 The Miracle of Life 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### The Miracle of Life
 

@@ -1,6 +1,6 @@
 The US is not a democracy but an oligarchy, study concludes 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### The US is not a democracy but an oligarchy, study concludes
 

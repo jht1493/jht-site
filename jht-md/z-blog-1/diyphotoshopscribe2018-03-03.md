@@ -1,6 +1,6 @@
 D.I.Y. Photoshop @ Scribe 2018-03-03 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### D.I.Y. Photoshop @ Scribe 2018-03-03
 

@@ -1,6 +1,6 @@
 Puzzles 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Puzzles
 

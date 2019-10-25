@@ -1,6 +1,6 @@
 Love, Hope and Faith 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Love, Hope and Faith
 

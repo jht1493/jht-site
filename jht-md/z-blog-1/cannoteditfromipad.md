@@ -1,6 +1,6 @@
 Cannot edit from iPad! 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Cannot edit from iPad!
 

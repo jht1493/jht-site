@@ -1,6 +1,6 @@
 Patanjali's Yoga Sutras - A Comparison
 
-[Yoga](../yoga.html)‎ > ‎
+[Yoga](../yoga.md)‎ > ‎
 
 ### Patanjali's Yoga Sutras - A Comparison
 
@@ -8,11 +8,11 @@ After taking yoga classes for a while someone asked me what is "Raja Yoga." I wa
 
 Raja Yoga is defined in the ancient text Patanjani's Yoga Sutras. Written circa 5,000 B.C. - 300 A.D, the Sutras are organized into four books:
 
-[Book 1](patanjani/book-1.html) [Book 2](patanjani/book-2.html) [Book 3](patanjani/book-3.html) [Book 4](patanjani/book-4.html)
+[Book 1](patanjani/book-1.md) [Book 2](patanjani/book-2.md) [Book 3](patanjani/book-3.md) [Book 4](patanjani/book-4.md)
 
 The Yoga Sutras have been translated and commented on by many authors over many centuries. Here I compare a few of these translations.
 
-[Click to read the first sutra](patanjani/book-1/11.html)
+[Click to read the first sutra](patanjani/book-1/11.md)
 
 ---
 
@@ -74,4 +74,4 @@ yathā-abhimata-dhyānād-vā ||39||
 
 [![](../_/rsrc/1357256041325/yoga/patanjani/eyes-closed-bound2-height=400&width=275.jpg)](http://www.johnhenrythompson.com/yoga/patanjani/eyes-closed-bound2.jpg?attredirects=0)
 
-Subpages (4): [Book 1](patanjani/book-1.html) [Book 2](patanjani/book-2.html) [Book 3](patanjani/book-3.html) [Book 4](patanjani/book-4.html)
+Subpages (4): [Book 1](patanjani/book-1.md) [Book 2](patanjani/book-2.md) [Book 3](patanjani/book-3.md) [Book 4](patanjani/book-4.md)

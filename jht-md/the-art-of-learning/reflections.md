@@ -1,6 +1,6 @@
 Reflections on Learning
 
-[2\. The Art of Learning](../the-art-of-learning.html)‎ > ‎
+[2\. The Art of Learning](../the-art-of-learning.md)‎ > ‎
 
 ### Reflections on Learning
 
@@ -8,7 +8,7 @@ In his book “_The Children's Machine_” Seymour Papert observed there is a we
 
 ## Feelings about learning
 
-The starting point for me in my learning adventure was emotional. I truly believed that education would provide me with the hope for a better future. I think I got this emotional imprint from [my father](../heros/walter-thompson-bio.html). He grew up on a farm in Jamaica with little access to formal education. Although he had to leave school at age 12, he constantly reminded his five children of his love for education and how he was glad we had greater access to school than he had. His appreciation of educational opportunity and his constant praise of our accomplishments in school gave me **belief** and **hope** to focus on education. My father would say “with education you could accomplish anything you set your mind to”.
+The starting point for me in my learning adventure was emotional. I truly believed that education would provide me with the hope for a better future. I think I got this emotional imprint from [my father](../heros/walter-thompson-bio.md). He grew up on a farm in Jamaica with little access to formal education. Although he had to leave school at age 12, he constantly reminded his five children of his love for education and how he was glad we had greater access to school than he had. His appreciation of educational opportunity and his constant praise of our accomplishments in school gave me **belief** and **hope** to focus on education. My father would say “with education you could accomplish anything you set your mind to”.
 
 The other emotional component out side of school was my **passion** for drawing, math, solving puzzles and building electronic gadgets. I had a burning desire to figure out how electronic devices work. I built electron motors and radios from circuits described in library books. It was not enough to read about them, I only felt I understood something when I was able to built it and actually see it work.
 
@@ -30,7 +30,7 @@ I was fortunate to have a strong **support network** that helped me fulfill my d
 
 Learning computers today
 
-Today if you have a passion to learn about computer, you will not have to face some of the challenges I faced. Affordable computers are in schools, libraries and most homes. As computers have grown more powerful and more popular, computer programming has also evolved. There are a many options for learning computer programming and there are project specially designed to make it easy to learn programming. One example is a project called Scratch being developed by the Life Long Kindergarten group at the MIT Media Lab, ([http://scratch.mit.edu](http://scratch.mit.edu)/). Using Scratch even very young children can to learn programming in a playful, visual environment. Another is the game programming project BlitzMax by Blitz Research ([http://www.blitzbasic.com](http://www.blitzbasic.com)). In BlitzMax, teenagers can write computer games in an easy to learn programming language. More in my other article: [Learn to Program](../learning-to-program.html).
+Today if you have a passion to learn about computer, you will not have to face some of the challenges I faced. Affordable computers are in schools, libraries and most homes. As computers have grown more powerful and more popular, computer programming has also evolved. There are a many options for learning computer programming and there are project specially designed to make it easy to learn programming. One example is a project called Scratch being developed by the Life Long Kindergarten group at the MIT Media Lab, ([http://scratch.mit.edu](http://scratch.mit.edu)/). Using Scratch even very young children can to learn programming in a playful, visual environment. Another is the game programming project BlitzMax by Blitz Research ([http://www.blitzbasic.com](http://www.blitzbasic.com)). In BlitzMax, teenagers can write computer games in an easy to learn programming language. More in my other article: [Learn to Program](../learning-to-program.md).
 
 One of my passions now is to help contribute to the **support network** for learners by sharing my stories, and helping others learn programming in new and exciting ways. I wish you good fortune in your learning adventure.
 

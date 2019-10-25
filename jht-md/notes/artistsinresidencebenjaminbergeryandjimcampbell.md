@@ -1,6 +1,6 @@
 Artists in Residence – Benjamin Bergery and Jim Campbell 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Artists in Residence – Benjamin Bergery and Jim Campbell
 

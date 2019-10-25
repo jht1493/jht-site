@@ -1,6 +1,6 @@
 DICE-Privacy 
 
-[3\. DICE](../3-dice.html)‎ > ‎
+[3\. DICE](../3-dice.md)‎ > ‎
 
 ### DICE-Privacy
 

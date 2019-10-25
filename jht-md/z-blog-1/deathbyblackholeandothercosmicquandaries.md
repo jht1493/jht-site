@@ -1,6 +1,6 @@
 Re-Birth by Black Hole: And Other Cosmic Quandaries 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Re-Birth by Black Hole: And Other Cosmic Quandaries
 

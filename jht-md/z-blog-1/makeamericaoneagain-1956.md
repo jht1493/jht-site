@@ -1,6 +1,6 @@
 Make America One Again - 1956 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Make America One Again - 1956
 

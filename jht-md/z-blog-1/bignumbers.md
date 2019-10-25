@@ -1,6 +1,6 @@
 Big Numbers 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Big Numbers
 

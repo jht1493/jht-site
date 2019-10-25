@@ -1,6 +1,6 @@
 Entering the era of trumpery! 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Entering the era of trumpery!
 

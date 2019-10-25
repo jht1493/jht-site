@@ -1,6 +1,6 @@
 DICE presentation at NYU-ITP 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### DICE presentation at NYU-ITP
 
@@ -8,7 +8,7 @@ posted Nov 21, 2017, 8:37 AM by John Henry Thompson   \[ updated Dec 16, 2017, 
 
 Thank you Shindy!
 
-[http://www.johnhenrythompson.com/z-blog-1/diceiscoming](diceiscoming.html)
+[http://www.johnhenrythompson.com/z-blog-1/diceiscoming](diceiscoming.md)
 
   
 

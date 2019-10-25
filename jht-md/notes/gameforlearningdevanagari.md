@@ -1,6 +1,6 @@
 GAME FOR LEARNING DEVANAGARI 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### GAME FOR LEARNING DEVANAGARI
 

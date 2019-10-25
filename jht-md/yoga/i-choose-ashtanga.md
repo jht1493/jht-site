@@ -1,6 +1,6 @@
 I Choose Ashtanga (2008) 
 
-[Yoga](../yoga.html)‎ > ‎
+[Yoga](../yoga.md)‎ > ‎
 
 ### I Choose Ashtanga (2008)
 
@@ -16,9 +16,9 @@ I choose to physically, mentally, and spiritually challenge myself to sweat, o
 
   
 
-The Ashtanga Primary Series is a  sequence of  postures (asanas) practiced on a regular basis with specific breath,  internal locks (Bandhas), and visual focus (Drishti). It is the first of several series in [](videos.html) Ashtanga Yoga, founded by [K. Pattabhi Jois](http://kpjayi.org/biographies/k-pattabhi-jois).  
+The Ashtanga Primary Series is a  sequence of  postures (asanas) practiced on a regular basis with specific breath,  internal locks (Bandhas), and visual focus (Drishti). It is the first of several series in [](videos.md) Ashtanga Yoga, founded by [K. Pattabhi Jois](http://kpjayi.org/biographies/k-pattabhi-jois).  
   
-[I plan to record my practice every 3 months.](videos.html) Below is my rendition broken down by individual asansa. The video was recorded December 2010, after first 3 months of regular practice. [Other videos at this link.](videos.html)  
+[I plan to record my practice every 3 months.](videos.md) Below is my rendition broken down by individual asansa. The video was recorded December 2010, after first 3 months of regular practice. [Other videos at this link.](videos.md)  
   
 [Samasthiti  "Standing"](http://www.youtube.com/watch?v=bIoiPerB8_Y&cc_load_policy=1#t=0m0s)  
 [Surya Namaskara A #1  "Sun Salutation A"](http://www.youtube.com/watch?v=bIoiPerB8_Y&cc_load_policy=1#t=0m5s)  
@@ -159,16 +159,16 @@ The Ashtanga Primary Series is a  sequence of  postures (asanas) practiced on 
 [On elbows legs horizontal](http://www.youtube.com/watch?v=bIoiPerB8_Y&cc_load_policy=1#t=57m16s)  
 [Child Posture](http://www.youtube.com/watch?v=bIoiPerB8_Y&cc_load_policy=1#t=57m20s)
 
-**[Patanjali's Yoga Sutra - A Comparison](patanjani.html)  
+**[Patanjali's Yoga Sutra - A Comparison](patanjani.md)  
   
 Ashtanga (Eight Limb) Yoga**  
   
-[**Patanjali 1.2:**](patanjani/book-1/12.html)  
+[**Patanjali 1.2:**](patanjani/book-1/12.md)  
 
 The restraint of the modifications of the mind-stuff (CHITTA) is Yoga.  
 
   
-**[Patanjali 2.29](patanjani/book-2/229.html):** The eight limbs of Yoga are:  
+**[Patanjali 2.29](patanjani/book-2/229.md):** The eight limbs of Yoga are:  
 
 1) yama (abstinences)  
 
@@ -181,7 +181,7 @@ The restraint of the modifications of the mind-stuff (CHITTA) is Yoga.
 8) samadhi (contemplation, absorption or superconscious state)  
 
 [  
-**Patanjali 2.30:**](patanjani/book-2/230.html) Yama consists of  
+**Patanjali 2.30:**](patanjani/book-2/230.md) Yama consists of  
 
 non-violence,  
 truthfulness,  
@@ -190,7 +190,7 @@ continence,
 and non-greed  
 
   
-[**Patanjali 2.32:**](patanjani/book-2/232.html) Niyama consists of  
+[**Patanjali 2.32:**](patanjani/book-2/232.md) Niyama consists of  
 
 purity,  
 contentment,  
@@ -199,7 +199,7 @@ study of spiritual books (SVADHYAYA)
 and worship of God \[self-surrender\] (ISVARAPRANIDHANANI).  
 
   
-[**Patanjali 1.33**:](patanjani/book-1/133.html)  
+[**Patanjali 1.33**:](patanjani/book-1/133.md)  
 
 By cultivating attitudes of  
 friendliness towards the happy,  

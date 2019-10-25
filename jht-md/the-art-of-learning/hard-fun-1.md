@@ -1,6 +1,6 @@
 Hard Fun 1
 
-[2\. The Art of Learning](../the-art-of-learning.html)‎ > ‎
+[2\. The Art of Learning](../the-art-of-learning.md)‎ > ‎
 
 ### Hard Fun 1
 

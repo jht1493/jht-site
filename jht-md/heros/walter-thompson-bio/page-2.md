@@ -1,7 +1,7 @@
 Page 2 - John Henry Thompson
 
 
-[5\. Respect](../../heros.html)‎ > ‎[Walter Thompson Bio](../walter-thompson-bio.html)‎ > ‎
+[5\. Respect](../../heros.md)‎ > ‎[Walter Thompson Bio](../walter-thompson-bio.md)‎ > ‎
 
 ### Page 2
 

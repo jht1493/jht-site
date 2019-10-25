@@ -1,6 +1,6 @@
 Magnet Color Ribbon 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Magnet Color Ribbon
 

@@ -1,6 +1,6 @@
 Goodbye and Giving Thanks 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Goodbye and Giving Thanks
 

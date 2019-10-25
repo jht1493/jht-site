@@ -1,6 +1,6 @@
 Why Vote? 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Why Vote?
 

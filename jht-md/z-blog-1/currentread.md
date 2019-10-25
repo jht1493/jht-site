@@ -1,6 +1,6 @@
 Current read: 1493 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Current read: 1493
 

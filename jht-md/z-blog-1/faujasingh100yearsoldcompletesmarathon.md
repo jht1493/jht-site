@@ -1,6 +1,6 @@
 100 years old Fauja Singh completes marathon 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### 100 years old Fauja Singh completes marathon
 

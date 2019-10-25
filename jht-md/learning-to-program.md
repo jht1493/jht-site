@@ -38,11 +38,11 @@ The [computer science section of khan academy](http://www.khanacademy.org/cs) is
 
 Play and Experiment with Code at [codecademy.com](http://www.codecademy.com/)
 
-[Here are a list of resources for mobile application development](../www.j4u2.com/breadfruit/index.html) I gave in Jamaica April and May of 2012.
+[Here are a list of resources for mobile application development](../www.j4u2.com/breadfruit/index.md) I gave in Jamaica April and May of 2012.
 
 If you are just starting out, Scratch is a good first step. With it you can learn the core principle common to all programming languages: variables, conditional statements, flow control, and functions. Then if you wish you can build stand alone applications with BlitzMax, or get wildly creative with Processing. All cost zero dollars, except BlitzMax. But the true cost is the time you are willing to dedicated to learning. It may not be easy, but it can be fun.
 
-[Here is an article I wrote about my experience learning computer programming: Reflections on Learning.](the-art-of-learning/reflections.html)
+[Here is an article I wrote about my experience learning computer programming: Reflections on Learning.](the-art-of-learning/reflections.md)
 
 ---
 

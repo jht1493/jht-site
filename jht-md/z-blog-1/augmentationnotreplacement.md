@@ -1,6 +1,6 @@
 Augmentation not replacement. 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Augmentation not replacement.
 

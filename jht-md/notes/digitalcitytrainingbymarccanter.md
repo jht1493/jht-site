@@ -1,6 +1,6 @@
 Digital City training by Marc Canter 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Digital City training by Marc Canter
 

@@ -3,7 +3,7 @@
 
     
 
-[2\. The Art of Learning](../../the-art-of-learning.html)‎ > ‎[Learning Creative Learning](../learning-creative-learning.html)‎ > ‎
+[2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Learning Creative Learning](../learning-creative-learning.md)‎ > ‎
 
 ### 08 Session
 
@@ -75,7 +75,7 @@ make poor highly capable
 
   
 
-My activity: [Yoga](../../yoga.html).
+My activity: [Yoga](../../yoga.md).
 
   
 

@@ -3,7 +3,7 @@ Coding is for Everybody - John Henry Thompson
 
     
 
-[2\. The Art of Learning](../../the-art-of-learning.html)‎ > ‎[Learning Creative Learning](../learning-creative-learning.html)‎ > ‎
+[2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Learning Creative Learning](../learning-creative-learning.md)‎ > ‎
 
 ### Coding is for Everybody
 

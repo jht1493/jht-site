@@ -1,6 +1,6 @@
 Fully Loaded Greens 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Fully Loaded Greens
 

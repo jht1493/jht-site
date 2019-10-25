@@ -1,13 +1,13 @@
 Professor John Fray 
 
-[5\. Respect](../heros.html)‎ > ‎
+[5\. Respect](../heros.md)‎ > ‎
 
 ### Professor John Fray
 
   
 [Thoth Science Education Program in Jamaica](http://www.youtube.com/watch?v=p95H3xsRuHA)  
   
-[In Plato Phaedrus Letters, Socrates tells a story about Thoth.](professor-john-fray/thoth.html)  
+[In Plato Phaedrus Letters, Socrates tells a story about Thoth.](professor-john-fray/thoth.md)  
   
 Published in the Worcester Telegram & Gazette on 8/12/2007:  
   
@@ -32,7 +32,7 @@ The funeral service will be held at 10 a.m Friday August 17th at the University 
 
   
 
-Subpages (1): [Thoth](professor-john-fray/thoth.html)
+Subpages (1): [Thoth](professor-john-fray/thoth.md)
 
 Č
 

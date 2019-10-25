@@ -1,6 +1,6 @@
 Color Wheel - the beauty of javascript 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Color Wheel - the beauty of javascript
 

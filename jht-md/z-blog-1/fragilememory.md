@@ -1,6 +1,6 @@
 Fragile Digital Memory 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Fragile Digital Memory
 

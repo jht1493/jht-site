@@ -1,6 +1,6 @@
 RIP Dr. Engelbart 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### RIP Dr. Engelbart
 

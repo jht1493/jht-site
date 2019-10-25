@@ -1,6 +1,6 @@
 Y-chromosome results 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Y-chromosome results
 

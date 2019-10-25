@@ -1,6 +1,6 @@
 Nutrition 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Nutrition
 

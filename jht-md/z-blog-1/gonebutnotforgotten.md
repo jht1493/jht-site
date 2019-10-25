@@ -1,6 +1,6 @@
 Gone but not forgotten 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Gone but not forgotten
 

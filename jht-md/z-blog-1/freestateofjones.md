@@ -1,6 +1,6 @@
 Free State of Jones 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Free State of Jones
 

@@ -1,6 +1,6 @@
 Lingo: Birth, Evolution, Demise. 
 
-[4\. History](../4-history.html)‎ > ‎
+[4\. History](../4-history.md)‎ > ‎
 
 ### Lingo: Birth, Evolution, Demise.
 
@@ -30,7 +30,7 @@ Lingo - scripting language for Macromedia Director
 
 `end`
 
-(Classic sequence attributed to Fibonacci should be called [pingala](../heros/pingala.html))
+(Classic sequence attributed to Fibonacci should be called [pingala](../heros/pingala.md))
 
   
 

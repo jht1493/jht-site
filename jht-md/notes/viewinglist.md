@@ -1,6 +1,6 @@
 Viewing List 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Viewing List
 

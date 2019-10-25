@@ -1,6 +1,6 @@
 Workstream team takes first prize 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Workstream team takes first prize
 

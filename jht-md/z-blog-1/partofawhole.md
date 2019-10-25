@@ -1,6 +1,6 @@
 Part of a whole 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Part of a whole
 

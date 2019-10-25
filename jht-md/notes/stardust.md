@@ -1,6 +1,6 @@
 Stardust 
 
-[Notes](../notes.html)‎ > ‎
+[Notes](../notes.md)‎ > ‎
 
 ### Stardust
 

@@ -3,7 +3,7 @@ Play To Learn - Week 02 - John Henry Thompson
 
     
 
-[2\. The Art of Learning](../../the-art-of-learning.html)‎ > ‎[Play to Learn](../play-to-learn.html)‎ > ‎
+[2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Play to Learn](../play-to-learn.md)‎ > ‎
 
 ### Play To Learn - Week 02
 

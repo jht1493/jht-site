@@ -1,6 +1,6 @@
 Scratch Workshop at Scribe, July 16, 23, 30, Aug 6 
 
-[Blog](../z-blog-1.html)‎ > ‎
+[Blog](../z-blog-1.md)‎ > ‎
 
 ### Scratch Workshop at Scribe, July 16, 23, 30, Aug 6
 

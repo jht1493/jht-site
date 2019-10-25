@@ -1,6 +1,6 @@
 10x10•Strong (2016)
 
-[Yoga](../yoga.html)‎ > ‎
+[Yoga](../yoga.md)‎ > ‎
 
 ### 10x10•Strong (2016)
 

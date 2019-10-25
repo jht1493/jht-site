@@ -1,6 +1,6 @@
 06 Session - John Henry Thompson
 
-[2\. The Art of Learning](../../the-art-of-learning.html)‎ > ‎[Learning Creative Learning](../learning-creative-learning.html)‎ > ‎
+[2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Learning Creative Learning](../learning-creative-learning.md)‎ > ‎
 
 ### 06 Session
 
@@ -61,7 +61,7 @@ technology improve further or are
 there major drawbacks to come  
 (as Socrates argued would be the  
 consequences of reading and writing)?"  
-[Thoth challenge](../../heros/professor-john-fray/thoth.html) - every technology has positive / negative.
+[Thoth challenge](../../heros/professor-john-fray/thoth.md) - every technology has positive / negative.
 
 • Meta-design  
 • Social creativity,  
