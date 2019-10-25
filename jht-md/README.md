@@ -50,11 +50,11 @@ Other links
 
 > [“NYU/ITP Black Genius Award 1997” video](http://www.youtube.com/watch?v=9OesTbXh5us)
 
+[Patanjali 4.17 "An object is known or unknown depending on whether or not the mind gets colored by it."](yoga/patanjani/book-4/417.md)
+
 Recent experiments:
 
 #### DICE 2018 Demo
-
-[Patanjali 4.17 "An object is known or unknown depending on whether or not the mind gets colored by it."](yoga/patanjani/book-4/417.md)
 
 [![](_/rsrc/1540258178968/home/IMG_5174.jpg)](http://www.johnhenrythompson.com/home/IMG_5174.jpg?attredirects=0)
 
