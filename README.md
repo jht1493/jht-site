@@ -18,7 +18,7 @@ I am boycotting Facebook.com for their past crimes against democracy and on goin
 
 I plan to remove all my content from their site and their subsidiaries.
 
-Also, I don't want to be locked into google sites. When I stop, or am unable, to paying a subscription fee my google site will disappear. Since github is hosting for free I have a better chance of longevity here. Also content is easier to preserve when it's in a plain text format and not stored in a database.
+I don't want to be locked into google sites. My google site will disappear when I stop or am unable to paying a subscription fee. I am using github for now, because it's hosting for free I have a better chance of longevity here, and content is easier to preserve when it's in a plain text format and not stored in a database.
 
 ## Source
 

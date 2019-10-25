@@ -77,3 +77,7 @@ visit_files_at_path(opath);
 console.log('fcount=' + fcount);
 console.log('subcount=' + subcount);
 console.log('repcount=' + repcount);
+
+// fcount=407
+// subcount=1715
+// repcount=1655
