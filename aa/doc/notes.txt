@@ -7,6 +7,22 @@ npm install turndown
 npm install fs-extra
 
 
+About me
+0. Reflections href="0-refections-on-learning.html"
+1. Learn to Code href="learning-to-program.html"
+2. The Art of Learning href="the-art-of-learning.html"
+3. DICE href="3-dice.html" 
+4. History href="4-history.html"
+5. Respect href="heros.html"
+Artifacts href="artifacts.html"
+Blog href="z-blog-1.html"
+Garden href="4-garden.html"
+iPhone Apps  href="iphone-apps.html"
+Notes href="notes.html"
+Photos href="family.html"
+Yoga href="yoga.html"
+
+
 .html)
 -- search back for ](
 -- if not followed by http://, convert .html to .md

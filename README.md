@@ -8,4 +8,4 @@ John Henry Thompson - A gathering of my personal web sites
 
 - **www.johnhenrythompson.com** directory holds the html web site hosted by google sites.
 - **jht-md** is the google site convert to markdown using scripts in director **aa**.
-- Why? I don't want to be locked into google sites. Once I stop paying subscription fee my google site will disappear. Since github is hosting for free I have a better change of longevity here.
+- Why? I don't want to be locked into google sites. Once I stop paying subscription fee my google site will disappear. Since github is hosting for free I have a better chance of longevity here.
