@@ -71,11 +71,14 @@ function strip(inpath, filename) {
   let str = fs.readFileSync(inpath) + '';
   let change = false;
   str = str.replace(regx, sub => {
-    console.log('sub=' + sub);
+    // console.log('sub=' + sub);
     subcount++;
     if (!sub.startsWith('(http://')) {
       repcount++;
       sub = sub.substring(0, sub.length - 4) + 'md)';
+      change = 1;
+    } else {
+      console.log('http sub=' + sub);
     }
     return sub;
   });
