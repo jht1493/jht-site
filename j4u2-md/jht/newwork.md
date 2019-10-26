@@ -8,7 +8,7 @@
 
 ![](images/tin_work.gif)
 
-**[home](index.html) > new work**
+**[home](index.md) > new work**
 
 JHT new work
 

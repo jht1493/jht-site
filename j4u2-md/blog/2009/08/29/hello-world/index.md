@@ -1,9 +1,9 @@
  Hello world! « John Henry Thompson Blog @import url( "../../../../wp-content/themes/classic2/style.css" );                
 
-[John Henry Thompson Blog](../../../../index.html)
+[John Henry Thompson Blog](../../../../index.md)
 ==================================================
 
-### [Hello world!](index.html)
+### [Hello world!](index.md)
 
 Filed under: [Wordpress](../../../../category/wordpress/index.html "View all posts in Wordpress") — admin @ 12:09 am August 29, 2009
 
@@ -55,7 +55,7 @@ Trying out **theme atahualpa** first. It’s got tons of options. Which maybe wh
     *   [September 2009](../../../09/index.html "September 2009")
     *   [August 2009](../../index.html "August 2009")
 *   Meta:
-    *   [Log in](../../../../wp-login.php.html)
+    *   [Log in](../../../../wp-login.php.md)
     *   [RSS](../../../../feed/index.rss "Syndicate this site using RSS")
     *   [Comments RSS](../../../../comments/feed/index.rss "The latest comments to all posts in RSS")
     *   [Valid XHTML](http://validator.w3.org/check/referer "This page validates as XHTML 1.0 Transitional")

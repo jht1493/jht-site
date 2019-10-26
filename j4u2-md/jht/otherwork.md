@@ -8,7 +8,7 @@
 
 ![](images/tin_work.gif)
 
-**[home](index.html) > other work**
+**[home](index.md) > other work**
 
 JHT other work
 
@@ -17,37 +17,37 @@ art & artifacts
 
 **JHT's art & artifacts over the years**
 
-[1981](art1981.html)  
+[1981](art1981.md)  
 at the   
 art student league
 
-[![](images/art81t2.jpg)](art1981.html)
+[![](images/art81t2.jpg)](art1981.md)
 
-[![](images/art82t2.jpg)](art1982.html)
+[![](images/art82t2.jpg)](art1982.md)
 
-[1982](art1982.html)  
+[1982](art1982.md)  
 at the  
 architecture machine group at MIT
 
-[1983](art1983.html)  
+[1983](art1983.md)  
 at the  
 visible language workshop at MIT
 
-[![](images/art83t2.gif)](art1983.html)
+[![](images/art83t2.gif)](art1983.md)
 
-[![](images/art85t2.gif)](art1985.html)
+[![](images/art85t2.gif)](art1985.md)
 
-[1985](art1985.html)  
+[1985](art1985.md)  
 music videos
 
-[1988](art1988.html)  
+[1988](art1988.md)  
 the garden of interactive delights
 
-[![](images/art88t2.jpg)](art1988.html)
+[![](images/art88t2.jpg)](art1988.md)
 
-[![](images/art89t2.jpg)](art1989.html)
+[![](images/art89t2.jpg)](art1989.md)
 
-[1989](art1989.html)  
+[1989](art1989.md)  
 video painting
 
 **.........................................**

@@ -1,9 +1,9 @@
   John Henry Thompson Blog @import url( "wp-content/themes/classic2/style.css" );           
 
-[John Henry Thompson Blog](index.html)
+[John Henry Thompson Blog](index.md)
 ======================================
 
-### [About Adobe Director](2010/02/13/about-adobe-director/index.html)
+### [About Adobe Director](2010/02/13/about-adobe-director/index.md)
 
 Filed under: [Uncategorized](category/uncategorized/index.html "View all posts in Uncategorized") — admin @ 12:25 am February 13, 2010
 
@@ -12,7 +12,7 @@ Probable from the 1990′s.
 
 Comments Off
 
-### [Digital Bio](2010/02/12/digital-bio/index.html)
+### [Digital Bio](2010/02/12/digital-bio/index.md)
 
 Filed under: [Uncategorized](category/uncategorized/index.html "View all posts in Uncategorized") — admin @ 1:36 pm February 12, 2010
 
@@ -20,7 +20,7 @@ Experimenting with posting bio info.
 
 Comments Off
 
-### [PHP IDE search](2009/09/10/php-ide-search/index.html)
+### [PHP IDE search](2009/09/10/php-ide-search/index.md)
 
 Filed under: [Webdev](category/webdev/index.html "View all posts in Webdev") — admin @ 10:52 am September 10, 2009
 
@@ -114,7 +114,7 @@ xdebug.idekey=komod
 
 Comments Off
 
-### [Added images](2009/08/29/added-images/index.html)
+### [Added images](2009/08/29/added-images/index.md)
 
 Filed under: [Wordpress](category/wordpress/index.html "View all posts in Wordpress") — admin @ 9:09 am August 29, 2009
 
@@ -125,11 +125,11 @@ I’m struggling trying to figure out how to insert image from gallery. Solved: 
 
 Editing on iPhone: must use HTML mode.
 
-[![83_jt_ibm_pc](wp-content/uploads/2009/08/83_jt_ibm_pc-150x150.jpg "83_jt_ibm_pc")](about/83_jt_ibm_pc/index.html)
+[![83_jt_ibm_pc](wp-content/uploads/2009/08/83_jt_ibm_pc-150x150.jpg "83_jt_ibm_pc")](about/83_jt_ibm_pc/index.md)
 
 Comments Off
 
-### [Hello world!](2009/08/29/hello-world/index.html)
+### [Hello world!](2009/08/29/hello-world/index.md)
 
 Filed under: [Wordpress](category/wordpress/index.html "View all posts in Wordpress") — admin @ 12:09 am
 
@@ -179,7 +179,7 @@ Trying out **theme atahualpa** first. It’s got tons of options. Which maybe wh
     *   [September 2009](2009/09/index.html "September 2009")
     *   [August 2009](2009/08/index.html "August 2009")
 *   Meta:
-    *   [Log in](wp-login.php.html)
+    *   [Log in](wp-login.php.md)
     *   [RSS](feed/index.rss "Syndicate this site using RSS")
     *   [Comments RSS](comments/feed/index.rss "The latest comments to all posts in RSS")
     *   [Valid XHTML](http://validator.w3.org/check/referer "This page validates as XHTML 1.0 Transitional")

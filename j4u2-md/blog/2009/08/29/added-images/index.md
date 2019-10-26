@@ -1,9 +1,9 @@
  Added images « John Henry Thompson Blog @import url( "../../../../wp-content/themes/classic2/style.css" );                
 
-[John Henry Thompson Blog](../../../../index.html)
+[John Henry Thompson Blog](../../../../index.md)
 ==================================================
 
-### [Added images](index.html)
+### [Added images](index.md)
 
 Filed under: [Wordpress](../../../../category/wordpress/index.html "View all posts in Wordpress") — admin @ 9:09 am August 29, 2009
 
@@ -14,7 +14,7 @@ I’m struggling trying to figure out how to insert image from gallery. Solved: 
 
 Editing on iPhone: must use HTML mode.
 
-[![83_jt_ibm_pc](../../../../wp-content/uploads/2009/08/83_jt_ibm_pc-150x150.jpg "83_jt_ibm_pc")](../../../../about/83_jt_ibm_pc/index.html)
+[![83_jt_ibm_pc](../../../../wp-content/uploads/2009/08/83_jt_ibm_pc-150x150.jpg "83_jt_ibm_pc")](../../../../about/83_jt_ibm_pc/index.md)
 
 Comments Off
 
@@ -43,7 +43,7 @@ Comments Off
     *   [September 2009](../../../09/index.html "September 2009")
     *   [August 2009](../../index.html "August 2009")
 *   Meta:
-    *   [Log in](../../../../wp-login.php.html)
+    *   [Log in](../../../../wp-login.php.md)
     *   [RSS](../../../../feed/index.rss "Syndicate this site using RSS")
     *   [Comments RSS](../../../../comments/feed/index.rss "The latest comments to all posts in RSS")
     *   [Valid XHTML](http://validator.w3.org/check/referer "This page validates as XHTML 1.0 Transitional")

@@ -7,7 +7,15 @@ const turndownService = new TurndownService();
 // const markdown = turndownService.turndown('<h1>Hello world!</h1>');
 // console.log(markdown);
 
-const opath = '../jht-md';
+// const opath = '../../jht-md';
+// fcount=407
+// subcount=1715
+// repcount=1655
+
+const opath = '../../j4u2-md';
+// fcount=36
+// subcount=247
+// repcount=187
 
 let fcount = 0;
 
@@ -77,7 +85,3 @@ visit_files_at_path(opath);
 console.log('fcount=' + fcount);
 console.log('subcount=' + subcount);
 console.log('repcount=' + repcount);
-
-// fcount=407
-// subcount=1715
-// repcount=1655

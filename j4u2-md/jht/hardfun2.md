@@ -8,10 +8,10 @@
 
 ![](images/tin_cations.gif)
 
-**[home](index.html) > [publications](publications.html) > hard fun 2**
+**[home](index.md) > [publications](publications.md) > hard fun 2**
 
 JHT hard fun 2  
-[hard fun 1](hardfun1.html) hard fun 2
+[hard fun 1](hardfun1.md) hard fun 2
 
   
 Working for Fun

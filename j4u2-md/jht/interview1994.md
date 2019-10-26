@@ -8,10 +8,10 @@
 
 ![](images/tin_cations.gif)
 
-**[home](index.html) > [publications](publications.html) > interview 1994**
+**[home](index.md) > [publications](publications.md) > interview 1994**
 
 JHT interview 1994  
-1994 [1995](interview1995.html) [1997](interview1997.html) [1998](interview1998.html)
+1994 [1995](interview1995.md) [1997](interview1997.md) [1998](interview1998.md)
 
   
 behind the curtain with john "jt" thompson

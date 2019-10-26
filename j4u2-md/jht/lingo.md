@@ -8,7 +8,7 @@
 
 ![](images/tin_cations.gif)
 
-**[home](index.html) > [publications](publications.html) > lingo**
+**[home](index.md) > [publications](publications.md) > lingo**
 
 JHT lingo
 
@@ -20,17 +20,17 @@ Lingo is **a scripting language
 
 **I wrote a book to teach  
 the computer language I invented:  
-**[Macromedia Director Lingo Workshop](lingoworkshop.html)
+**[Macromedia Director Lingo Workshop](lingoworkshop.md)
 
-[![](images/lws_1eng_icon.jpg)](lingoworkshop.html)
+[![](images/lws_1eng_icon.jpg)](lingoworkshop.md)
 
 **Lingo is a powerful,  
 easy to use  
 ****programming language.**
 
-[![](images/fps_icon.jpg.html)](lingoexamples.html)
+[![](images/fps_icon.jpg.md)](lingoexamples.md)
 
-**[play](lingoexamples.html)  
+**[play](lingoexamples.md)  
 with interactive lingo examples!**
 
 **.........................................**

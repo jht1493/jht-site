@@ -8,7 +8,7 @@
 
 ![](images/tin_cations.gif)
 
-[home](index.html) > [publications](publications.html) > **[lingo](lingo.html) > lingo workshop**
+[home](index.md) > [publications](publications.md) > **[lingo](lingo.md) > lingo workshop**
 
 JHT lingo workshop
 

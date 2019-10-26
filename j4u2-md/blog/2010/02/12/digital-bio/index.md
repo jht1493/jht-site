@@ -1,9 +1,9 @@
  Digital Bio « John Henry Thompson Blog @import url( "../../../../wp-content/themes/classic2/style.css" );                
 
-[John Henry Thompson Blog](../../../../index.html)
+[John Henry Thompson Blog](../../../../index.md)
 ==================================================
 
-### [Digital Bio](index.html)
+### [Digital Bio](index.md)
 
 Filed under: [Uncategorized](../../../../category/uncategorized/index.html "View all posts in Uncategorized") — admin @ 1:36 pm February 12, 2010
 
@@ -36,7 +36,7 @@ Comments Off
     *   [September 2009](../../../../2009/09/index.html "September 2009")
     *   [August 2009](../../../../2009/08/index.html "August 2009")
 *   Meta:
-    *   [Log in](../../../../wp-login.php.html)
+    *   [Log in](../../../../wp-login.php.md)
     *   [RSS](../../../../feed/index.rss "Syndicate this site using RSS")
     *   [Comments RSS](../../../../comments/feed/index.rss "The latest comments to all posts in RSS")
     *   [Valid XHTML](http://validator.w3.org/check/referer "This page validates as XHTML 1.0 Transitional")

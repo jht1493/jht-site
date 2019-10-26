@@ -8,10 +8,10 @@
 
 ![](images/tin_cations.gif)
 
-**[home](index.html) > [publications](publications.html) > hard fun 1**
+**[home](index.md) > [publications](publications.md) > hard fun 1**
 
 JHT hard fun 1  
-hard fun 1 [hard fun 2](hardfun2.html)
+hard fun 1 [hard fun 2](hardfun2.md)
 
   
 Computer Games and  

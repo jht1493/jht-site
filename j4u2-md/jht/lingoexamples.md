@@ -8,7 +8,7 @@
 
 ![](images/tin_cations.gif)
 
-[home](index.html) > [publications](publications.html) > **[lingo](lingo.html) > lingo examples**
+[home](index.md) > [publications](publications.md) > **[lingo](lingo.md) > lingo examples**
 
 JHT lingo examples
 
@@ -23,7 +23,7 @@ round &
 round &  
 round...
 
-[![](images/fps_icon.jpg.html)](javascript:openwin('fps2.dir',200,270))
+[![](images/fps_icon.jpg.md)](javascript:openwin('fps2.dir',200,270))
 
 [![](images/dance_icon.jpg)](javascript:openwin('dancer2.dir',450,270))
 

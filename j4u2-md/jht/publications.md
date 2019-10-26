@@ -8,7 +8,7 @@
 
 ![](images/tin_cations.gif)
 
-**[home](index.html) > publications**
+**[home](index.md) > publications**
 
 JHT publications  
 lingo [articles](#articles) [interviews](#interviews) [press kit](#presskit)
@@ -27,9 +27,9 @@ lingo workshop and interactive examples
 the computer language  
  JHT invented
 
-[![](images/lingobook.jpg)](lingo.html)
+[![](images/lingobook.jpg)](lingo.md)
 
-[Lingo](lingo.html) is the scripting language in the Macromedia Director authoring tool.
+[Lingo](lingo.md) is the scripting language in the Macromedia Director authoring tool.
 
 **articles**
 
@@ -41,9 +41,9 @@ From humble beginnings in 1974 with a New York City affirmative action funded af
 
 ![](images/pub_grndancer2.gif)In a continuing series of articles, Thompson discusses how to make games with positive learning challenges that rival the popularity of current video games.
 
-[Hard Fun Part 1 - Computer Games and Learning](hardfun1.html)
+[Hard Fun Part 1 - Computer Games and Learning](hardfun1.md)
 
-[Hard Fun Part 2 - Working for Fun](hardfun2.html)
+[Hard Fun Part 2 - Working for Fun](hardfun2.md)
 
 ![](images/pub_2dancers.gif)
 
@@ -51,13 +51,13 @@ From humble beginnings in 1974 with a New York City affirmative action funded af
 
 [top](#topofpage)
 
-[1994 with Terry Schussler](interview1994.html)
+[1994 with Terry Schussler](interview1994.md)
 
-[1995 with Lingo Users Journal](interview1995.html)
+[1995 with Lingo Users Journal](interview1995.md)
 
-[1997 at Macromedia User Conference](interview1997.html)
+[1997 at Macromedia User Conference](interview1997.md)
 
-[1998 with Director-Online](interview1998.html)
+[1998 with Director-Online](interview1998.md)
 
 ![John Henry Statue](images/johnhenry.jpg)Interviews with  
 John Henry Thompson  

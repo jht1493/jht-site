@@ -21,13 +21,13 @@ John Henry Thompson.
 current & future
 
 *   [New site www.johnhenrythompson.com](http://www.johnhenrythompson.com)
-*   [Old Blog](../blog/index.html)
+*   [Old Blog](../blog/index.md)
 
   
 background
 
-*   [bio](bio.html)
-*   [resume](resume.html)
+*   [bio](bio.md)
+*   [resume](resume.md)
 
 ![](images/jt_cu.jpg)  
 I like to see how the pixels work, that's why this image looks so fuzzy...  
@@ -35,16 +35,16 @@ I like to see how the pixels work, that's why this image looks so fuzzy...
 
 other work
 
-*   [DICE Video Processing Application](newwork.html)
+*   [DICE Video Processing Application](newwork.md)
 *   [Macromedia Director](http://www.adobe.com/products/director/)
-*   art & artifacts: [1981](art1981.html), [1982](art1982.html), [1983](art1983.html), [1985](art1985.html), [1988](art1988.html), [1989](art1989.html)
+*   art & artifacts: [1981](art1981.md), [1982](art1982.md), [1983](art1983.md), [1985](art1985.md), [1988](art1988.md), [1989](art1989.md)
 
   
 publications
 
-*   [lingo](lingo.html): [book](lingoworkshop.html), [examples](lingoexamples.html) (examples require shockwave)
-*   articles on computer games and learning: [Hard Fun 1](hardfun1.html), [Hard Fun 2](hardfun2.html)
-*   interviews: [1994](interview1994.html), [1995](interview1995.html), [1997](interview1997.html), [1998](interview1998.html)
+*   [lingo](lingo.md): [book](lingoworkshop.md), [examples](lingoexamples.md) (examples require shockwave)
+*   articles on computer games and learning: [Hard Fun 1](hardfun1.md), [Hard Fun 2](hardfun2.md)
+*   interviews: [1994](interview1994.md), [1995](interview1995.md), [1997](interview1997.md), [1998](interview1998.md)
 *   [press kit](publications.html#presskit): JHT in the news and print friendly material
 
 **.........................................**

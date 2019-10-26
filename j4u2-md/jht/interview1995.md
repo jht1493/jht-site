@@ -8,10 +8,10 @@
 
 ![](images/tin_cations.gif)
 
-**[home](index.html) > [publications](publications.html) > interview 1995**
+**[home](index.md) > [publications](publications.md) > interview 1995**
 
 JHT interview 1995  
-[1994](interview1994.html) 1995 [1997](interview1997.html) [1998](interview1998.html)
+[1994](interview1994.md) 1995 [1997](interview1997.md) [1998](interview1998.md)
 
   
 **interview for the lingo users journal  
