@@ -22,9 +22,11 @@ I am boycotting Facebook.com for their past crimes against democracy and on goin
 
 I plan to remove all my content from their site and their subsidiaries.
 
-I don't want to be locked into google sites. My google site will disappear when I stop or am unable to paying a subscription fee. I am using github for now, because it's hosting for free I have a better chance of longevity here, and content is easier to preserve when it's in a plain text format and not stored in a database.
+I plan to avoiding content locking. My google site will disappear when I stop or am unable to paying a subscription fee. I am using github for now, because it's hosting for free I have a better chance of longevity here.
 
-## Source
+Content is easier to preserve when it's in a plain text and not locked in a database or embedded in html.
+
+## News sources
 
 [Facebook will pay an unprecedented \$5 billion penalty over privacy breaches.](https://www.cnn.com/2019/07/24/tech/facebook-ftc-settlement/index.html)
 
