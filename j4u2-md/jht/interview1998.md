@@ -54,6 +54,6 @@ When I go into the bookstores and see all the books or surf the web and see some
 
 **.........................................**
 
-� 2001 John Henry Thompson - site by [Pixelyze](http://www.pixelyze.com/) & [CAGE](http://www.cage.nl/)
+(c) 2001 John Henry Thompson - site by [Pixelyze](http://www.pixelyze.com/) & [CAGE](http://www.cage.nl/)
 
 ![](images/spacer.gif)

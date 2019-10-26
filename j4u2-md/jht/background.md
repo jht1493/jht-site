@@ -16,6 +16,6 @@ More details on my work in the industry, teaching, publications, and artwork.
 
 **.........................................**
 
-� 2001 John Henry Thompson - site by [Pixelyze](http://www.pixelyze.com/) & [CAGE](http://www.cage.nl/)
+(c) 2001 John Henry Thompson - site by [Pixelyze](http://www.pixelyze.com/) & [CAGE](http://www.cage.nl/)
 
 ![](images/spacer.gif)

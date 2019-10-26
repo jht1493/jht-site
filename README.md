@@ -8,7 +8,7 @@ John Henry Thompson - A gathering of my personal web sites
 
 ## What's here.
 
-[www_johnhenrythompson_com](www_johnhenrythompson_com) html web site copied from [google sites](http://www.johnhenrythompson.com) using [sitesucker app](https://ricks-apps.com/osx/sitesucker/).
+[johnhenrythompson_com](johnhenrythompson_com) html web site copied from [google sites](http://www.johnhenrythompson.com) using [sitesucker app](https://ricks-apps.com/osx/sitesucker/).
 
 [jht-md](jht-md/README.md) is the google site converted to markdown using scripts in directory [aa](aa).
 

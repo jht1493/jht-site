@@ -155,6 +155,6 @@ Thank you.
 
 **.........................................**
 
-� 2001 John Henry Thompson - site by [Pixelyze](http://www.pixelyze.com/) & [CAGE](http://www.cage.nl/)
+(c) 2001 John Henry Thompson - site by [Pixelyze](http://www.pixelyze.com/) & [CAGE](http://www.cage.nl/)
 
 ![](images/spacer.gif)

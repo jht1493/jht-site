@@ -45,6 +45,6 @@ I get a lot of thrills from coming to conferences like this and having people co
 
 **.........................................**
 
-� 2001 John Henry Thompson - site by [Pixelyze](http://www.pixelyze.com/) & [CAGE](http://www.cage.nl/)
+(c) 2001 John Henry Thompson - site by [Pixelyze](http://www.pixelyze.com/) & [CAGE](http://www.cage.nl/)
 
 ![](images/spacer.gif)
