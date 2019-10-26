@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>John Henry Thompson Blog &#187; Wordpress</title>
+	<atom:link href="http://www.j4u2.com/blog/category/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.j4u2.com/blog</link>
+	<description>Plans, Progress, Problems</description>
+	<lastBuildDate>Sat, 13 Feb 2010 16:56:19 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.0</generator>
+		<item>
+		<title>Added images</title>
+		<link>http://www.j4u2.com/blog/2009/08/29/added-images/</link>
+		<comments>http://www.j4u2.com/blog/2009/08/29/added-images/#comments</comments>
+		<pubDate>Sat, 29 Aug 2009 13:09:11 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.j4u2.com/blog/?p=21</guid>
+		<description><![CDATA[Added images to about page. WordPress can easily upload images but hard to get interesting lay out on the page. I&#8217;m struggling trying to figure out how to insert image from gallery. Solved: need show image first. Editing on iPhone: must use HTML mode.]]></description>
+			<content:encoded><![CDATA[<p>Added images to about page.<br />
+WordPress can easily upload images but hard to get interesting lay out on the page.</p>
+<p>I&#8217;m struggling trying to figure out how to insert image from gallery. Solved: need show image first.</p>
+<p>Editing on iPhone: must use HTML mode.</p>
+<p><a rel="attachment wp-att-16" href="http://www.j4u2.com/blog/?attachment_id=16"><img class="alignnone size-thumbnail wp-image-16" title="83_jt_ibm_pc" src="http://www.j4u2.com/blog/wp-content/uploads/2009/08/83_jt_ibm_pc-150x150.jpg" alt="83_jt_ibm_pc" width="150" height="150" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.j4u2.com/blog/2009/08/29/added-images/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://www.j4u2.com/blog/2009/08/29/hello-world/</link>
+		<comments>http://www.j4u2.com/blog/2009/08/29/hello-world/#comments</comments>
+		<pubDate>Sat, 29 Aug 2009 04:09:51 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.j4u2.com/blog/?p=1</guid>
+		<description><![CDATA[I plan to transition my current personal web site to a dynamic one, using some of the popular CMS/PHP frameworks, such as: WordPress Apostrophe/Symphony Drupal Installed wordpress for by blog. Install top few themes and a few that caught my eye: /pixel/ /ahimsa/ /atahualpa/ /classic/ /default/ /dfblog/ /index.php /indy10/ /inove/ /lightword/ Trying out theme atahualpa first. [...]]]></description>
+			<content:encoded><![CDATA[<p>I plan to transition my current personal web site to a dynamic one, using some of the popular CMS/PHP frameworks, such as:</p>
+<ul>
+<li>WordPress</li>
+<li>Apostrophe/Symphony</li>
+<li>Drupal</li>
+</ul>
+<p>Installed wordpress for by blog. Install top few themes and a few that caught my eye:</p>
+<div>
+<ul>
+<li><strong>/pixel/</strong></li>
+<li><strong>/ahimsa/</strong></li>
+<li><strong>/atahualpa/</strong></li>
+<li><strong>/classic/</strong></li>
+<li><strong>/default/</strong></li>
+<li><strong>/dfblog/</strong></li>
+<li><strong>/index.php</strong></li>
+<li><strong>/indy10/</strong></li>
+<li><strong>/inove/</strong></li>
+<li><strong>/lightword/</strong></li>
+</ul>
+</div>
+<p>Trying out <strong>theme atahualpa</strong> first. It&#8217;s got tons of options. Which maybe why blog appears sluggish sometimes. I choose <strong>theme atahuala</strong> because it has categories and pages on the left wont push down the login, which is on the right.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.j4u2.com/blog/2009/08/29/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

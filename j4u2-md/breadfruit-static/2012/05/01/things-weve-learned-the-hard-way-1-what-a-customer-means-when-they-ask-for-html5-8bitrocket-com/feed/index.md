@@ -1,0 +1,1 @@
+Comments on: Things We’ve Learned The Hard Way #1: What A Customer Means When They Ask For HTML5 « 8bitrocket.com http://j4u2.com/breadfruit-static/2012/05/01/things-weve-learned-the-hard-way-1-what-a-customer-means-when-they-ask-for-html5-8bitrocket-com/ Can Jamaican youth benefit from ...? Tue, 01 May 2012 08:34:58 +0000  hourly   1  https://wordpress.org/?v=5.2.4

@@ -1,0 +1,1 @@
+Comments on: John Resig – JavaScript as a First Language http://j4u2.com/breadfruit-static/2012/04/23/john-resig-javascript-as-a-first-language/ Can Jamaican youth benefit from ...? Mon, 23 Apr 2012 09:01:40 +0000  hourly   1  https://wordpress.org/?v=5.2.4

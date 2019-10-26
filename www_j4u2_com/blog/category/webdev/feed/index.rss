@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>John Henry Thompson Blog &#187; Webdev</title>
+	<atom:link href="http://www.j4u2.com/blog/category/webdev/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.j4u2.com/blog</link>
+	<description>Plans, Progress, Problems</description>
+	<lastBuildDate>Sat, 13 Feb 2010 16:56:19 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.0</generator>
+		<item>
+		<title>PHP IDE search</title>
+		<link>http://www.j4u2.com/blog/2009/09/10/php-ide-search/</link>
+		<comments>http://www.j4u2.com/blog/2009/09/10/php-ide-search/#comments</comments>
+		<pubDate>Thu, 10 Sep 2009 14:52:43 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Webdev]]></category>
+
+		<guid isPermaLink="false">http://www.j4u2.com/blog/?p=39</guid>
+		<description><![CDATA[Notes from my search for an IDE for PHP. I searched the web for info on PHP IDE: &#8220;Seven great PHP IDEs compared&#8221; &#8220;The Big PHP IDE Test: Why Use One And Which To Choose&#8220; I need PHP IDE for MacOSX 10.5 / Intel. You need a local server setup. I choose to use macports [...]]]></description>
+			<content:encoded><![CDATA[<p>Notes from my search for an IDE for PHP.</p>
+<p>I searched the web for info on PHP IDE:</p>
+<p><span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif; line-height: normal; font-size: 10px; ">&#8220;<a href="http://www.ibm.com/developerworks/library/os-php-ide/index.html">Seven great PHP IDEs compared&#8221;</a></span></p>
+<p><span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif; line-height: normal; font-size: 10px; "> </span></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">&#8220;<a href="http://www.smashingmagazine.com/2009/02/11/the-big-php-ides-test-why-use-oneand-which-to-choose/">The Big PHP IDE Test: Why Use One And Which To Choose</a>&#8220;</p>
+<p>I need PHP IDE for MacOSX 10.5 / Intel.</p>
+<p>You need a local server setup. I choose to use <a title="macports" href="http://www.macports.org">macports</a> to install apache/php/mysql.</p>
+<p><span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif; line-height: normal; font-size: 10px; ">This was recommended buy  <a title="fixing-my-php-woes-with-macports" href="http://iparrizar.mnstate.edu/~juan/urania/2008/08/14/fixing-my-php-woes-with-macports/">fixing-my-php-woes-with-macports</a></span></p>
+<div><span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: x-small;"><span style="line-height: normal;">My brother recommended <a title="mamp" href="http://www.mamp.info/en/index.html">mamp</a>, but since I had already used macports for another project I stuck with it.</span></span></div>
+<div><span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif;"><span style="line-height: normal; font-size: x-small; "><br />
+</span></span></div>
+<div>Macports puts installed  in /opt/local/</div>
+<div><span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: x-small;"><span style="line-height: normal;">I have PHP 5.2.9, mysql 5.0.77</span></span></div>
+<div><span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif; line-height: normal; font-size: 10px; ">I considered to first try <a title="zend-studio" href="http://shop.zend.com/en/zend-studio-for-eclipse.html">zend studio</a><span style="font-size: medium;"><span><strong> <span style="font-weight: normal; font-size: 10px;">but after installing I let the free trail lapse. Since it cost about $400, I decided to try another komodo commercial IDE, which is about $300.</span></strong></span></span></span></div>
+<div></div>
+<div><span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif; line-height: normal; font-size: 10px; "><span style="font-size: medium;"><span><strong><span style="font-weight: normal; font-size: 10px;">Following the article &#8220;<a href="http://www.sysarchitects.com/node/22">Remote PHP Debugging on Intel-based Macs with Komodo</a>&#8220;, I was able to get it running debug my local word press install. Success!</span></strong></span></span></span></div>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">For the Komodo, the xdebug module it came with did not work. I had to download and compiled xdebug:</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">sudo wget http://xdebug.org/files/xdebug-2.0.5.tgz</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">sudo tar xzf xdebug-2.0.5.tgz</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco; min-height: 14.0px;">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">cd xdebug-2.0.5</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">phpize</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">./configure &#8211;enable-xdebug</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">make</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">mkdir /usr/local/xdebug</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">cp modules/xdebug.so /usr/local/xdebug/</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">I added the following lines to /opt/local/etc/php.ini</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">JHT-macpro:bin jht$ grep xdebug /opt/local/etc/php.ini</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">;extension_dir = &#8220;/opt/local/xdebug/&#8221;</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">zend_extension=/opt/local/xdebug/xdebug.so</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">xdebug.remote_enable=1</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">xdebug.remote_handler=dbgp</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">xdebug.remote_mode=req</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">xdebug.remote_host=127.0.0.1</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">xdebug.remote_port=9000</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">xdebug.idekey=komodo</p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">
+<div>Note I had to use the full path name to xdebug.so.</div>
+<div><span style="font-family: Consolas, Monaco, 'Courier New', Courier, monospace; font-size: 12px; line-height: 18px; white-space: pre;">I next tried <a href="http://www.netbeans.org/features/index.html">Netbean</a>, a free IDE from Sun microsystems. <span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif; line-height: normal; white-space: normal; font-size: xx-small;">I was able to use the same xdebug from Komodo install.</span></span></div>
+<pre><span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif;"><span style="line-height: normal; white-space: normal;">Netbean looks like the winner. Its free, well supported by a large company, and passes my initial test: debug wordpress on local install.</span></span></pre>
+<pre><span style="font-family: Monaco, 'Times New Roman', 'Bitstream Charter', Times, serif;"><span style="line-height: normal; white-space: normal;">
+</span></span></pre>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco;">
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">JHT-macpro:bin jht$ grep xdebug /opt/local/etc/php.ini</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">;extension_dir = &#8220;/opt/local/xdebug/&#8221;</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">zend_extension=/opt/local/xdebug/xdebug.so</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">xdebug.remote_enable=1</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">xdebug.remote_handler=dbgp</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">xdebug.remote_mode=req</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">xdebug.remote_host=127.0.0.1</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">xdebug.remote_port=9000</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">xdebug.idekey=komod</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.j4u2.com/blog/2009/09/10/php-ide-search/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

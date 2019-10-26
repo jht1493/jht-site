@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>John Henry Thompson Blog &#187; Uncategorized</title>
+	<atom:link href="http://www.j4u2.com/blog/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.j4u2.com/blog</link>
+	<description>Plans, Progress, Problems</description>
+	<lastBuildDate>Sat, 13 Feb 2010 16:56:19 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.0</generator>
+		<item>
+		<title>About Adobe Director</title>
+		<link>http://www.j4u2.com/blog/2010/02/13/about-adobe-director/</link>
+		<comments>http://www.j4u2.com/blog/2010/02/13/about-adobe-director/#comments</comments>
+		<pubDate>Sat, 13 Feb 2010 04:25:57 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.j4u2.com/blog/?p=53</guid>
+		<description><![CDATA[Vintage product description for Adobe Director, then MacroMedia Director. Probable from the 1990&#8242;s.]]></description>
+			<content:encoded><![CDATA[<p>Vintage product description for Adobe Director, then MacroMedia Director.<br />
+Probable from the 1990&#8242;s.</p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/FDpEQECQq3I&#038;hl=en_US&#038;fs=1&#038;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FDpEQECQq3I&#038;hl=en_US&#038;fs=1&#038;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.j4u2.com/blog/2010/02/13/about-adobe-director/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Digital Bio</title>
+		<link>http://www.j4u2.com/blog/2010/02/12/digital-bio/</link>
+		<comments>http://www.j4u2.com/blog/2010/02/12/digital-bio/#comments</comments>
+		<pubDate>Fri, 12 Feb 2010 17:36:19 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.j4u2.com/blog/2010/02/12/digital-bio/</guid>
+		<description><![CDATA[Experimenting with posting bio info.]]></description>
+			<content:encoded><![CDATA[<p>Experimenting with posting bio info.</p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/-Gfe4iMPAGQ&#038;hl=en_US&#038;fs=1&#038;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-Gfe4iMPAGQ&#038;hl=en_US&#038;fs=1&#038;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.j4u2.com/blog/2010/02/12/digital-bio/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
