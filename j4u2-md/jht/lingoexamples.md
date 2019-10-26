@@ -11,9 +11,9 @@ round &
 round &  
 round...
 
-[![](images/fps_icon.jpg.md)](<javascript:openwin('fps2.dir',200,270)>)
+[![](images/fps_icon.jpg.md)](fps2.dir',200,270)
 
-[![](images/dance_icon.jpg)](<javascript:openwin('dancer2.dir',450,270)>)
+[![](images/dance_icon.jpg)](dancer2.dir',450,270)
 
 **dance with me!**
 
@@ -28,9 +28,9 @@ Catch
 golden  
 asteroids!
 
-[![](images/spacecorn_icon.jpg)](<javascript:openwin('spacecorn.dcr',560,360)>)
+[![](images/spacecorn_icon.jpg)](spacecorn.dcr',560,360)
 
-[![](images/africa_icon.jpg)](<javascript:openwin('africa5.dcr',600,440)>)
+[![](images/africa_icon.jpg)](africa5.dcr',600,440)
 
 **Africa**
 

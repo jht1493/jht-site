@@ -21,7 +21,7 @@ My mission is to build on that interest in computer games so students can be as 
 MIT Professor Seymour Papert developed the theory of "[constructivism](http://el.www.media.mit.edu/groups/el/elpapers.html)" to explain why children learn more by doing, as opposed to abstract rote learning. Paula Hooper, a Ph.D. graduate of MIT, is using "constructivism learning" with an African-centered community school, Paige Academy in Boston. The school was "organized to support a problem-solving approach to learning, with extensive reliance on the arts as a natural form of expression and exploration".
 
 [![Africa game](images/africa_icon.jpg)  
-](<javascript:openwin('africa5.dcr',600,440)>)Click the image to  
+](africa5.dcr',600,440)Click the image to  
 play this "Africa"  
 game.
 
