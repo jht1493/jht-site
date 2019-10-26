@@ -12,6 +12,10 @@ John Henry Thompson - A gathering of my personal web sites
 
 [jht-md](jht-md/README.md) is the google site converted to markdown using scripts in directory [aa](aa).
 
+[j4u2_com](j4u2_com) j4u2.com as html
+
+[j4u2-md](j4u2-md) j4u2.com converted to markdown
+
 ## Why?
 
 I am boycotting Facebook.com for their past crimes against democracy and on going [threat to democracy](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way).
