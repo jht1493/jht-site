@@ -1,7 +1,3 @@
-}   
-
-  
-
 ![](images/johnhenry1.gif)
 
 ![](images/tin_other.gif)
@@ -12,7 +8,6 @@
 
 JHT other work
 
-  
 art & artifacts
 
 **JHT's art & artifacts over the years**

@@ -1,7 +1,3 @@
-}   
-
-  
-
 ![](images/johnhenry1.gif)
 
 ![](images/tin_publi.gif)
@@ -12,7 +8,6 @@
 
 JHT lingo
 
-  
 what's lingo?
 
 Lingo is **a scripting language  
@@ -26,7 +21,7 @@ the computer language I invented:
 
 **Lingo is a powerful,  
 easy to use  
-****programming language.**
+\*\***programming language.\*\*
 
 [![](images/fps_icon.jpg.md)](lingoexamples.md)
 

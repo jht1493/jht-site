@@ -1,6 +1,3 @@
-}  
-
-  
 
 ![](images/johnhenry1.gif)
 
