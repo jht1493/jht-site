@@ -1,9 +1,3 @@
-![](images/johnhenry1.gif)
-
-![](images/tin_publi.gif)
-
-![](images/tin_cations.gif)
-
 **[home](index.md) > [publications](publications.md) > lingo**
 
 JHT lingo

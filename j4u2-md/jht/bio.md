@@ -1,9 +1,3 @@
-![](images/johnhenry1.gif)
-
-![](images/tin_back.gif)
-
-![](images/tin_ground.gif)
-
 **[home](index.md) > [background](background.md) > bio**
 
 JHT background  

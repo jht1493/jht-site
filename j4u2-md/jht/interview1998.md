@@ -1,10 +1,3 @@
-
-![](images/johnhenry1.gif)
-
-![](images/tin_publi.gif)
-
-![](images/tin_cations.gif)
-
 **[home](index.md) > [publications](publications.md) > interview 1998**
 
 JHT interview 1998  
@@ -57,7 +50,7 @@ JT: I am surprised how far people have stretched Lingo and Director, especially 
 
 When I go into the bookstores and see all the books or surf the web and see somebody's done something in Lingo it's inspiring. It makes me realized that there is alot of creative potential out there that was just waiting for the right tool. It inspires me to keep pushing Director forward so that more people can expressive themselves and use the computer creatively.
 
- [top](#topofpage)
+[top](#topofpage)
 
 **.........................................**
 

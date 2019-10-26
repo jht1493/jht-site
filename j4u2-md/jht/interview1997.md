@@ -1,16 +1,8 @@
-
-![](images/johnhenry1.gif)
-
-![](images/tin_publi.gif)
-
-![](images/tin_cations.gif)
-
 **[home](index.md) > [publications](publications.md) > interview 1997**
 
 JHT interview 1997  
 [1994](interview1994.md) [1995](interview1995.md) 1997 [1998](interview1998.md)
 
-  
 **interview with  
 john thompson  
 of macromedia at  
@@ -48,9 +40,6 @@ JT: That's easy. It's definitely the creative professional who is not a programm
 And I feel that there is a definite different type of content that you get out of somebody whose primary motivation is expression versus coding. Because what's exciting for me in multimedia is expression and that for me is philosophically very satisfying because you are enabling people who wouldn't have touched a computer before to express themselves in ways they could never have imagined.
 
 I get a lot of thrills from coming to conferences like this and having people come up and shake my hand and say: ![](images/lws_1itl_icon.jpg)"Thank you for creating the language or writing the book because now I can understand this stuff and I'm using it to make something." I've seen people over the years develop their careers around Director and do what they want to do and be happy about it and get paid and then grow with the tool. Even now with the Director Java solution, people can say: "Hey, I can still work in this environment that I'm very comfortable with but now when people say they need Java, I can provide a solution." So they can take advantage of the power of Java without getting into the headaches of learning a new language. That's what I like to see.
-
-  
-  
 
 [top](#topofpage)
 

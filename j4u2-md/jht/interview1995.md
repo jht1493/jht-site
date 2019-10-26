@@ -1,26 +1,17 @@
-
-![](images/johnhenry1.gif)
-
-![](images/tin_publi.gif)
-
-![](images/tin_cations.gif)
-
 **[home](index.md) > [publications](publications.md) > interview 1995**
 
 JHT interview 1995  
 [1994](interview1994.md) 1995 [1997](interview1997.md) [1998](interview1998.md)
 
-  
-**interview for the lingo users journal  
-(now out of print)**
+**interview for the lingo users journal (now out of print)**
 
 **Background**
 
-_This interview ran in the premier issue of Lingo User�s Journal. That issue is no longer available for reprint, but due to multiple requests, we�re rerunning the interview here._
+_This interview ran in the premier issue of Lingo User's Journal. That issue is no longer available for reprint, but due to multiple requests, we're rerunning the interview here._
 
-_Editor�s note: After the original article ran, I had a number of comments from people that they liked the interview, but wished I hadn�t interrupted J.T. so much._
+_Editor's note: After the original article ran, I had a number of comments from people that they liked the interview, but wished I hadn't interrupted J.T. so much._
 
-_In reality, I didn�t interrupt him - the phone did. He�d be halfway through a reply, and then the phone would ring (again) and his answer would trail off..._
+_In reality, I didn't interrupt him - the phone did. He'd be halfway through a reply, and then the phone would ring (again) and his answer would trail off..._
 
 _When he returned, we tried to get back on track. I suppose I could just write "(telephone rings)" all over the place in the article, but... oops, wait, I hear the phone ringing._
 

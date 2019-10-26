@@ -1,17 +1,10 @@
-![](images/johnhenry1.gif)
-
-![](images/tin_home.gif)
-
-![](images/tin_intro.gif)
-
 **home**
 
 JHT home
 
 introduction
 
-This is the personal web site of  
-John Henry Thompson.
+This is the personal web site of John Henry Thompson.
 
 **I want to make it easy for people to use the computer as an expressive instrument, and to inspire people to learn about themselves and the world.**  
 ![](images/spacer.gif)  

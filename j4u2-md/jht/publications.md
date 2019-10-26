@@ -1,10 +1,3 @@
-
-![](images/johnhenry1.gif)
-
-![](images/tin_publi.gif)
-
-![](images/tin_cations.gif)
-
 **[home](index.md) > publications**
 
 JHT publications  
@@ -16,8 +9,6 @@ interviews
 press kit
 
 **lingo**
-
- 
 
 lingo workshop and interactive examples
 
@@ -71,17 +62,17 @@ over the years
 click![](images/printer.gif)to print the document  
 click![](images/msword.gif)to open and/or save the document
 
-[![](images/printer.gif)](javascript:openpage('presskit/resumeprn.htm',500,400,',menubar=1'))[![](images/msword.gif)](presskit/resume.rtf)resume
+[![](images/printer.gif)](<javascript:openpage('presskit/resumeprn.htm',500,400,',menubar=1')>)[![](images/msword.gif)](presskit/resume.rtf)resume
 
-[![](images/printer.gif)](javascript:openpage('presskit/bioprn.htm',500,400,',menubar=1'))[![](images/msword.gif)](presskit/bio.rtf)full bio
+[![](images/printer.gif)](<javascript:openpage('presskit/bioprn.htm',500,400,',menubar=1')>)[![](images/msword.gif)](presskit/bio.rtf)full bio
 
-[![](images/printer.gif)](javascript:openpage('presskit/bio100prn.htm',500,400,',menubar=1'))[![](images/msword.gif)](presskit/bio100.rtf)100 word bio
+[![](images/printer.gif)](<javascript:openpage('presskit/bio100prn.htm',500,400,',menubar=1')>)[![](images/msword.gif)](presskit/bio100.rtf)100 word bio
 
-[![](images/printer.gif)](javascript:openpage('presskit/hardfun1prn.htm',500,400,',menubar=1'))[![](images/msword.gif)](presskit/hardfun1.rtf)Hard Fun Part 1 - Computer Games and Learning
+[![](images/printer.gif)](<javascript:openpage('presskit/hardfun1prn.htm',500,400,',menubar=1')>)[![](images/msword.gif)](presskit/hardfun1.rtf)Hard Fun Part 1 - Computer Games and Learning
 
-[![](images/printer.gif)](javascript:openpage('presskit/hardfun2prn.htm',500,400,',menubar=1'))[![](images/msword.gif)](presskit/hardfun2.rtf)Hard Fun Part 2 - Working for Fun
+[![](images/printer.gif)](<javascript:openpage('presskit/hardfun2prn.htm',500,400,',menubar=1')>)[![](images/msword.gif)](presskit/hardfun2.rtf)Hard Fun Part 2 - Working for Fun
 
- [![](images/printer.gif)](javascript:openpage('presskit/bookdescprn.htm',500,400,',menubar=1'))[![](images/msword.gif)](presskit/bookdesc.rtf) Lingo Workshop book description
+[![](images/printer.gif)](<javascript:openpage('presskit/bookdescprn.htm',500,400,',menubar=1')>)[![](images/msword.gif)](presskit/bookdesc.rtf) Lingo Workshop book description
 
 [download all printable documents in one zip file](presskit/presskit.zip)
 

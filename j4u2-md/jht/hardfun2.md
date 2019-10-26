@@ -1,16 +1,8 @@
-
-![](images/johnhenry1.gif)
-
-![](images/tin_publi.gif)
-
-![](images/tin_cations.gif)
-
 **[home](index.md) > [publications](publications.md) > hard fun 2**
 
 JHT hard fun 2  
 [hard fun 1](hardfun1.md) hard fun 2
 
-  
 Working for Fun
 
 _By John (JT) Thompson_
@@ -19,8 +11,7 @@ _By John (JT) Thompson_
 
 More and more people, particular the young, are entertaining themselves with computer games. Many are spending more hours at gaming than an other form of entertainment. After many hours of play, few consider making games, probable because making games is a mystery to most. In this article we'll look behind the scene at two game makers, id Software the makers of the 3-D action game "Quake", and EZONE.COM, a popular game and animation web site. I'll explain how programmers, artists and writers work together to create games. I hope that with a deeper understanding of game construction young people can get an early focus on careers that are in tune with what they enjoy doing.
 
-Click once in the area below and then play on your keyboard.  
-  
+Click once in the area below and then play on your keyboard.
 
 **The Makers of Quake**
 
@@ -36,7 +27,7 @@ A game designer plays tons of games, and usually focuses on one particular game 
 
 Simple pen and paper and a vivid imagination are the main tools of game designer. If you can describe what you find exciting about games and visualize new twists on existing games you'll enjoy working as a game designer.
 
-Drag your mouse over the black square to 'paint'.  
+Drag your mouse over the black square to 'paint'.
 
 **The Artist**
 

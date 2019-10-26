@@ -1,16 +1,8 @@
-
-![](images/johnhenry1.gif)
-
-![](images/tin_publi.gif)
-
-![](images/tin_cations.gif)
-
 **[home](index.md) > [publications](publications.md) > hard fun 1**
 
 JHT hard fun 1  
 hard fun 1 [hard fun 2](hardfun2.md)
 
-  
 Computer Games and  
 Learning
 
@@ -29,7 +21,7 @@ My mission is to build on that interest in computer games so students can be as 
 MIT Professor Seymour Papert developed the theory of "[constructivism](http://el.www.media.mit.edu/groups/el/elpapers.html)" to explain why children learn more by doing, as opposed to abstract rote learning. Paula Hooper, a Ph.D. graduate of MIT, is using "constructivism learning" with an African-centered community school, Paige Academy in Boston. The school was "organized to support a problem-solving approach to learning, with extensive reliance on the arts as a natural form of expression and exploration".
 
 [![Africa game](images/africa_icon.jpg)  
-](javascript:openwin('africa5.dcr',600,440))Click the image to  
+](<javascript:openwin('africa5.dcr',600,440)>)Click the image to  
 play this "Africa"  
 game.
 
@@ -39,7 +31,7 @@ Enlightening uses of interactive media really excite me as a developer of intera
 
 **What works**
 
-Let's briefly examine the popular game Pokemon that is all the rage. The cartridge plays on a $70 portable computer equipped with captivating sound, animation, and color. The developers of Pokemon succeed in breaking challenges into small pieces that keep the player involved for the 80 to 120 hours it takes to collect the 150 Pokemon characters. At every stage, "Professor Oak" is available to explain what is happening. The player gains a sense of accomplishment by "training" each character. Once trained, the Pokemon characters are traded with other trainers. Players practice economics by winning "dollars" that are traded for Pokemon accessories such as vehicles, tickets, ropes, maps and other tools required to surmount the challenges. A marketing blitz of must-have trading cards, board games and toys supplement the computer game.
+Let's briefly examine the popular game Pokemon that is all the rage. The cartridge plays on a \$70 portable computer equipped with captivating sound, animation, and color. The developers of Pokemon succeed in breaking challenges into small pieces that keep the player involved for the 80 to 120 hours it takes to collect the 150 Pokemon characters. At every stage, "Professor Oak" is available to explain what is happening. The player gains a sense of accomplishment by "training" each character. Once trained, the Pokemon characters are traded with other trainers. Players practice economics by winning "dollars" that are traded for Pokemon accessories such as vehicles, tickets, ropes, maps and other tools required to surmount the challenges. A marketing blitz of must-have trading cards, board games and toys supplement the computer game.
 
 Every level of Pokeman presents new challenges, new scenarios, new characters and new hurdles that the player must overcome in new ways. The tasks become more difficult as the player progresses. There is constant immediate feedback on performance using negative and positive reinforcement. Players share their experiences with their friends and help each other beat the game by swapping strategies.
 
@@ -55,8 +47,6 @@ One of the differences between academic achievement and computer game mastery is
 
 **What is Shockwave?**  
 Click on limb and drag to rotate.
-
-  
 
 Shockwave is the primary way to present interactive games on the Internet. The majority of web users have already encountered Shockwave. What is not widely known is Shockwave can be a used by young people to create interactive material, such a games. Let's take a closer look at the three facets of Shockwave. The first the web site [www.shockwave.com](http://www.shockwave.com), where people can enjoy free games, cartoons and music in the same manner that one can now tune a radio to receive freely broadcast music.
 
