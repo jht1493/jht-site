@@ -7,7 +7,7 @@ const turndownService = new TurndownService();
 // const markdown = turndownService.turndown('<h1>Hello world!</h1>');
 // console.log(markdown);
 
-const opath = '../jht-md';
+const opath = '../../j4u2-md';
 
 let fcount = 0;
 
@@ -55,8 +55,11 @@ function visit_files_at_path(rpath) {
 // const strip_from = "window.jstiming.load.tick('sjl');";
 // const strip_to = ', this);';
 
-const strip_from = '[Sign in](https://accounts.google.com';
-const strip_to = '**';
+// const strip_from = '[Sign in](https://accounts.google.com';
+// const strip_to = '**';
+
+const strip_from = '';
+const strip_to = 'Verdana; font-size: 12px; color: black';
 
 function strip(inpath, filename) {
   let str = fs.readFileSync(inpath) + '';

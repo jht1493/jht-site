@@ -1,4 +1,4 @@
-## JHT ConsultingResume
+## JHT Consulting - Resume
 
 ### Summary
 
@@ -64,35 +64,29 @@ Designed and implemented several packages for data management, analysis, and pre
 
 ### 2006: Drexel University.
 
-Position: Part Time Instructor.
+#### Position: Part Time Instructor.
 
 Taught Flash Game Programming Course.
 
 ### 1989 - 1997: New York University, Interactive Telecommunications Program.
 
-Position: Adjunct Assistant Professor, part time.
+#### Position: Adjunct Assistant Professor, part time.
 
-Developed and taught three graduate courses: "The Lingo Workshop", "Interactive Video", and "Advanced Computational Media". Courses taught interactive design, evolving from work based on laser discs, cd-rom, to internet. Supervised graduate theses.
+Developed and taught three graduate courses: "The Lingo Workshop", "Interactive Video", and "Advanced Computational Media". Courses taught interactive design, evolving from work based on laser discs, cd-rom, to internet.
+
+Supervised graduate theses.
 
 ### 1988 - 1989: New York University, Interactive Telecommunications Program.
 
-Position: Assistant Professor of Communications, full time.
+#### Position: Assistant Professor of Communications, full time.
 
-Developed and taught three graduate courses:
-
-"Animation on Macintosh Computer",
-
-"Introduction to Computational Media",
-
-"Advanced Computational Media.
-
-Courses taught digital content creation and interactive design.
+Developed and taught three graduate courses: "Animation on Macintosh Computer", "Introduction to Computational Media", "Advanced Computational Media. Courses taught digital content creation and interactive design.
 
 Supervised graduate theses.
 
 ### 1983 - 1984: MIT Visible Language Workshop
 
-Position: Technical Instructor.
+#### Position: Technical Instructor.
 
 Supervised undergraduate students theses in computer assisted graphic design. Designed and programmed prototype full-color page layout system.
 
