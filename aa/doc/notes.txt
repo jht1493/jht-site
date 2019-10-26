@@ -6,6 +6,49 @@ npm install turndown
 
 npm install fs-extra
 
+/Volumes/G2/epdev/EdDesktop/jht-site/j4u2-md/jht/presskit/bio100prn.htm 
+
+jht-mbook:js epdev$ xattr /Volumes/G2/epdev/EdDesktop/jht-site/j4u2-md/jht/presskit/bio100prn.htm
+com.apple.lastuseddate#PS
+com.apple.metadata:kMDItemWhereFroms
+jht-mbook:js epdev$ xattr -d /Volumes/G2/epdev/EdDesktop/jht-site/j4u2-md/jht/presskit/bio100prn.htm
+jht-mbook:js epdev$ node html-to-md.js 
+
+fullpath=../../www_j4u2_com/jht/presskit/bio.rtf
+fullpath=../../www_j4u2_com/jht/presskit/bio100.rtf
+fullpath=../../www_j4u2_com/jht/presskit/bookdesc.rtf
+fullpath=../../www_j4u2_com/jht/presskit/hardfun1.rtf
+fullpath=../../www_j4u2_com/jht/presskit/hardfun2.rtf
+fullpath=../../www_j4u2_com/jht/presskit/presskit.zip
+fullpath=../../www_j4u2_com/jht/presskit/pub_3dblowing.zip
+fullpath=../../www_j4u2_com/jht/presskit/pub_apart_05.zip
+fullpath=../../www_j4u2_com/jht/presskit/pub_color_dance_face.zip
+fullpath=../../www_j4u2_com/jht/presskit/pub_facehands.zip
+fullpath=../../www_j4u2_com/jht/presskit/pub_lws_2eng_full.zip
+
+jht-mbook:js epdev$ cd /Volumes/G2/epdev/EdDesktop/jht-site/j4u2-md/jht/presskit
+jht-mbook:presskit epdev$ ls -la
+total 1096
+drwxr-xr-x  20 epdev  staff     640 Oct 26 11:36 .
+drwxr-xr-x  27 epdev  staff     864 Oct 26 11:36 ..
+-rw-r--r--@  1 epdev  staff    7409 Oct 26 11:36 bio.rtf
+-rw-r--r--@  1 epdev  staff    4158 Oct 26 11:36 bio100.rtf
+-rw-r--r--@  1 epdev  staff     987 Oct 26 11:36 bio100prn.htm
+-rw-r--r--@  1 epdev  staff    3289 Oct 26 11:36 bioprn.htm
+-rw-r--r--@  1 epdev  staff   10095 Oct 26 11:36 bookdesc.rtf
+-rw-r--r--@  1 epdev  staff    3071 Oct 26 11:36 bookdescprn.htm
+-rw-r--r--@  1 epdev  staff   16743 Oct 26 11:36 hardfun1.rtf
+-rw-r--r--@  1 epdev  staff   11539 Oct 26 11:36 hardfun1prn.htm
+-rw-r--r--@  1 epdev  staff   15445 Oct 26 11:36 hardfun2.rtf
+-rw-r--r--@  1 epdev  staff   10399 Oct 26 11:36 hardfun2prn.htm
+-rw-r--r--@  1 epdev  staff   20198 Oct 26 11:36 presskit.zip
+-rw-r--r--@  1 epdev  staff   77544 Oct 26 11:36 pub_3dblowing.zip
+-rw-r--r--@  1 epdev  staff  126321 Oct 26 11:36 pub_apart_05.zip
+-rw-r--r--@  1 epdev  staff   85058 Oct 26 11:36 pub_color_dance_face.zip
+-rw-r--r--@  1 epdev  staff   27179 Oct 26 11:36 pub_facehands.zip
+-rw-r--r--@  1 epdev  staff   80813 Oct 26 11:36 pub_lws_2eng_full.zip
+-rw-r--r--@  1 epdev  staff   20996 Oct 26 11:36 resume.rtf
+-rw-r--r--@  1 epdev  staff    9822 Oct 26 11:36 resumeprn.htm
 
 About me
 0. Reflections href="0-refections-on-learning.html"

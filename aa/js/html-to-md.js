@@ -11,6 +11,8 @@ const turndownService = new TurndownService();
 // const opath = '../jht-md';
 const rpath = '../../www_j4u2_com';
 const opath = '../../j4u2-md';
+// const hext = '.html';
+const hext = '.htm';
 
 let fcount = 0;
 
@@ -33,12 +35,12 @@ function visit_files_at_path(rpath) {
         filenames.push(filename + '/' + dname);
       }
     } else {
-      if (fullpath.endsWith('.html')) {
+      console.log('fullpath=' + fullpath);
+      if (fullpath.endsWith(hext)) {
         console.log(filename);
         convert(fullpath, opath + '/' + filename);
         fcount++;
       }
-      // func({ path: fullpath, filename: filename });
     }
   }
 }
