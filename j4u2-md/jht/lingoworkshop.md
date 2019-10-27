@@ -7,15 +7,15 @@ by John (JT) Thompson
 1st edition published 1995  
 2nd edition published 1996
 
-First edition of  
-the "Lingo Workshop"[![](images/lws_1eng_icon.jpg)](images/lws_1eng_full.jpg',400,500)
+[![](images/lws_1eng_icon.jpg)](images/lws_1eng_full)
+First edition of the "Lingo Workshop"
 
 **the author**
 
 John Thompson is the principal engineer for Macromedia\[rm\] Director\[rm\], the inventor and developer of Lingo and XObjects, and a professor at New York University/Tisch Interactive Telecommunications Program, which is one of the few graduate degree programs in new media. He has been teaching interactive media using Macromedia\[rm\] Director\[rm\] since 1988 and has exhibited several interactive art pieces internationally.
 
-Second edition of  
-the "Lingo Workshop"[![](images/lws_2eng_icon.jpg)](images/lws_2eng_full.jpg',400,500)
+[![](images/lws_2eng_icon.jpg)](images/lws_2eng_full)
+Second edition of the "Lingo Workshop"
 
 **the book**
 
@@ -25,15 +25,15 @@ This book is designed to teach Lingo to people with no prior scripting backgroun
 
 We learn best when all our senses are involved. This book has many hands-on exercises and illustrations that you can do and see in addition to reading about a concept.
 
-Japanese translation  
-of first edition[![](images/lws_1jap_icon.jpg)](images/lws_1jap_full.jpg',392,500)
+[![](images/lws_1jap_icon.jpg)](images/lws_1jap_full)
+Japanese translation of first edition
 
 **acknowledgements**
 
 I would like to thank the many people in my life that have guided me on the path that has led to the creation of this book. My parents Walter and Mabel Thompson, for having the courage and determination to travel from Jamaica to England, and then to the United States to ensure better educational opportunities for their five children. The teachers at Junior High School 80 and Bronx High School of Science that took extra time to feed my early interest in math, science, and the arts. Mr. Leo Downs for creating the after school program that gave me my first computer job.
 
-German translation  
-of second edition [![](images/lws_2ger_icon.jpg)](images/lws_2ger_full.jpg',344,500)
+[![](images/lws_2ger_icon.jpg)](images/lws_2ger_full)
+German translation of second edition
 
 Mr. Lowel Hawkinson my undergraduate computer science professor at MIT for sharing his enthusiasm for Lisp and giving me my for first Lisp programming job. The Media Lab, Visible Language Workshop, and Film Video departments at MIT for show me that artistic expression and engineering could be combined. Marc Cantar for giving me the freedom to incorporate Lingo into Director. Red Burns the founder and chair of the Interactive Telecommunications Program at New York University for the opportunity to teach. The Macromedia management and Director development team for maintaining a flexible and creative work place.
 
@@ -41,8 +41,8 @@ Sam Gottlieb and my brother Jervis Thompson for constructing the example movies 
 
 My dear wife, Shani Asantewaa Strothers-Thompson, and our three children, Asuo, Nile, and Rajni, for putting up with my demanding schedule developing software, teaching, and writing while traveling between Philadelphia, San Francisco, and New York.
 
-Italian translation  
-of first edition[![](images/lws_1itl_icon.jpg)](images/lws_1itl_full.jpg',356,500)
+[![](images/lws_1itl_icon.jpg)](images/lws_1itl_full)
+Italian translation of first edition
 
 **contents at a glance**
 

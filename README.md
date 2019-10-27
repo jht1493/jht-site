@@ -18,11 +18,13 @@ John Henry Thompson - A gathering of my personal web sites
 
 ## Why?
 
-I plan to avoid content locking. My google site will disappear when I stop or am unable to paying a subscription fee. I am using github for now, because it's hosting for free I have a better chance of longevity here.
+A couple of reasons.
+
+I plan to avoid content lock-in. My google site will disappear when I stop paying or am unable to pay a subscription fee. I am using github because it's free and thus I have a better chance of longevity.
 
 Content is easier to preserve when it's in a plain text and not locked in a database or embedded in html.
 
-I am boycotting Facebook.com for their past crimes against democracy and on going [threat to democracy](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way). I plan to remove all my content from their site and their subsidiaries.
+I am boycotting Facebook.com for their past crimes against democracy and on going [threat to democracy](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way). I plan to remove all my content from their site and their subsidiaries and move it here.
 
 ## News
 
