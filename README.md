@@ -8,7 +8,7 @@ John Henry Thompson - A gathering of my personal web sites
 
 ## Why
 
-• **Facebook.com** should be boycotted for their past crimes against democracy and on going [threat to democracy](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way). **Facebook.com** users should move all their content to a free hosting site like **github.com**.
+• **Facebook.com** should be boycotted for their crimes against democracy and on going [threat to democracy](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way). **Facebook.com** users should move all their content to a free hosting site like **github.com**.
 
 • You should have full control of your content and social network, and not give it away for free to **Facebook.com**, an ethically compromised corporation.
 
