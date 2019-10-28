@@ -36,13 +36,13 @@ October 2019
 
 ### Migration of www.johnhenrythompson.com
 
-[johnhenrythompson_com](johnhenrythompson_com) is copied from [johnhenrythompson.com](http://www.johnhenrythompson.com), a site created with google sites. Site content extracted using [sitesucker app](https://ricks-apps.com/osx/sitesucker/).
+[johnhenrythompson_com](johnhenrythompson_com) is migrated from [johnhenrythompson.com](http://www.johnhenrythompson.com), a site created with google sites. Site content extracted using [sitesucker app](https://ricks-apps.com/osx/sitesucker/).
 
 [jht-md](jht-md/README.md) is the **johnhenrythompson.com** converted to markdown using nodejs script in [aa](aa).
 
 ### Migration of www.j4u2.com
 
-[j4u2_com](j4u2_com) is copied from [j4u2.com](http://j4u2.com), a site created using raw html and a few wordpress blogs. Site content extracted using ftp app.
+[j4u2_com](j4u2_com) is migrated from [j4u2.com](http://j4u2.com), a site created using raw html and a few wordpress blogs. Site content extracted using ftp app.
 
 [j4u2-md](j4u2-md) is **j4u2.com** converted to markdown using nodejs script in [aa](aa).
 
