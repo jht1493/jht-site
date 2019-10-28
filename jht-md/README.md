@@ -14,7 +14,7 @@ This is the personal web site of John Henry Thompson.
 
 - [Interviews 1994 - 2012](home/interviews.md)
 
-[![](http://www.j4u2.com/jht/images/jt_cu.jpg)](http://www.j4u2.com/jht/images/jt_cu.jpg) [![](_/rsrc/1295207567308/the-art-of-learning/reflections/colorized-jht-height=320&width=240.jpg)](http://www.johnhenrythompson.com/the-art-of-learning/reflections/colorized-jht.jpg?attredirects=0)
+[![](http://www.j4u2.com/jht/images/jt_cu.jpg)](http://www.j4u2.com/jht/images/jt_cu.jpg) [![](_/rsrc/1295207567308/the-art-of-learning/reflections/colorized-jht-height=320&width=240.jpg)](http://www.johnhenrythompson.com/the-art-of-learning/reflections/colorized-jht.jpg?attredirects=0) [![](_/rsrc/1540258178968/home/IMG_5174-small.jpeg)](_/rsrc/1540258178968/home/IMG_5174-small.jpeg))
 
 I like to see how the pixels work, that's why the images looks so...
 
