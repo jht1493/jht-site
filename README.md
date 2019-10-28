@@ -23,10 +23,14 @@ A couple of reasons:
 ## Facts
 
 [Facebook will pay an unprecedented \$5 billion penalty over privacy breaches.](https://www.cnn.com/2019/07/24/tech/facebook-ftc-settlement/index.html)
+"The Federal Trade Commission announced a \$5 billion settlement with Facebook (FB) on Wednesday, resolving a sweeping investigation by regulators into how the company lost control over massive troves of personal data and mishandled its communications with users. It is the largest fine in FTC history — and yet still only about a month's worth of revenue for Facebook."
+July 2019
 
 [Whistleblower Explains How Cambridge Analytica Helped Fuel U.S. 'Insurgency'.](https://www.npr.org/2019/10/08/768216311/whistleblower-explains-how-cambridge-analytica-helped-fuel-u-s-insurgency) (with the help of Facebook.com)
+"The things that I was building on originally for the defense of our democracies had been completely inverted," Christopher Wylie says of his work at Cambridge Analytica.
+October 2019
 
-## What's here.
+## What's here
 
 [johnhenrythompson_com](johnhenrythompson_com) is a html web site copied from [johnhenrythompson.com google sites](http://www.johnhenrythompson.com) using [sitesucker app](https://ricks-apps.com/osx/sitesucker/).
 
