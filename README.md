@@ -38,7 +38,7 @@ October 2019
 
 [johnhenrythompson_com](johnhenrythompson_com) is migrated from [johnhenrythompson.com](http://www.johnhenrythompson.com), a site created with google sites. Site content extracted using [sitesucker app](https://ricks-apps.com/osx/sitesucker/).
 
-[jht-md](jht-md/README.md) is the **johnhenrythompson.com** converted to markdown using nodejs script in [aa](aa).
+[jht-md](jht-md/README.md) is **johnhenrythompson.com** converted to markdown using nodejs script in [aa](aa).
 
 ### Migration of www.j4u2.com
 
