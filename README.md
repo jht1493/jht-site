@@ -40,7 +40,7 @@ October 2019
 
 [jht-md](jht-md/README.md) is the **johnhenrythompson.com** google site converted to markdown using scripts in directory [aa](aa).
 
-### Migration of ww.j4u2.com
+### Migration of www.j4u2.com
 
 [j4u2_com](j4u2_com) is **j4u2.com** site downloaded using a ftp app. The **j4u2.com** site was created using raw html and contains a few wordpress blogs.
 
