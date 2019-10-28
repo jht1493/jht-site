@@ -12,7 +12,7 @@ A couple of reasons:
 
 • Facebook.com should be boycotted for their past crimes against democracy and on going [threat to democracy](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way). Facebook users should move all their content to a free hosting site like github.
 
-• You should have full control of your social network, and not give it away for free to Facebook.com, a ethically compromised corporation.
+• You should have full control of your social network, and not give it away for free to Facebook.com, an ethically compromised corporation.
 
 • Content should avoid lock-in. A google site will disappear when the subscription fee is not paid. Github is free and thus there is better chance for content longevity.
 
