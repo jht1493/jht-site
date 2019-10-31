@@ -10,29 +10,35 @@
 
 const fs = require('fs-extra');
 const path = require('path');
+var Jimp = require('jimp');
 
 const fb_root_path =
   '/Volumes/GSPOT/jht/DICE-archived/web/facebook-johnhenrythompson-2019-10-25/';
 const fb_post_path = fb_root_path + 'posts/your_posts_1.json';
-const out_path = '../../jht-facebo-md';
+let out_path = '../../jht-facebo-md';
 const npost_path = './facebo.json';
 const regex = /[^\w-]/g;
 const reg_slash = /-+/g;
 const max_fname_len = 64;
 const reg_lastnum = /([\d]+)$/g;
+const image_ext = { '.jpg': 1, '.png': 1 };
+const thumb_width = 200;
+
+out_path = path.resolve(out_path);
 
 run();
 
-function run() {
+async function run() {
   const nposts = [];
   const posts = fs.readJsonSync(fb_post_path);
   console.log('posts.length=' + posts.length);
-
-  for (let index = 0; index < posts.length; index++) {
+  // const n = posts.length;
+  const n = 100;
+  for (let index = 0; index < n; index++) {
     const npost = to_npost(index, posts[index]);
     if (npost) {
       nposts.push(npost);
-      copy_media(npost);
+      await copy_media(npost);
     }
   }
   const media_path = path.resolve(out_path, 'media');
@@ -53,11 +59,7 @@ function to_npost(index, post) {
   // console.log(index + ' npost.date=' + npost.date);
   if (post.data && post.data.length > 0 && post.data[0].post) {
     npost.text = post.data[0].post;
-    // console.log(index + ' npost.text=' + npost.text);
   }
-  // else {
-  //   console.log(index + ' post=' + JSON.stringify(post, null, 2));
-  // }
   if (post.attachments && post.attachments.length > 0) {
     const datas = post.attachments[0].data;
     if (datas && datas.length > 0) {
@@ -122,7 +124,34 @@ function new_path(fpath) {
   return fpath;
 }
 
-function copy_media(npost) {
+async function create_thumb(to_path, npost) {
+  const parts = path.parse(to_path);
+  const thumb_path = path.resolve(parts.dir, parts.name + '-thumb' + parts.ext);
+  return new Promise((resolve, reject) => {
+    Jimp.read(to_path)
+      .then(image => {
+        // Do stuff with the image.
+        // console.log('image.bitmap.width=' + image.bitmap.width);
+        // console.log('image.bitmap.height=' + image.bitmap.height);
+        if (image.bitmap.width > thumb_width) {
+          image.resize(thumb_width, Jimp.AUTO); // resize the width   and scale the height accordingly
+          image.writeAsync(thumb_path).then(err => {
+            console.log('thumb_path=' + thumb_path);
+            npost.thumb_path = thumb_path.substring(out_path.length + 1);
+            resolve(image);
+          });
+        } else {
+          resolve(image);
+        }
+      })
+      .catch(err => {
+        // Handle an exception.
+        reject(err);
+      });
+  });
+}
+
+async function copy_media(npost) {
   const mpath = npost.uri;
   if (!mpath) return;
   const frompath = path.resolve(fb_root_path, mpath);
@@ -154,4 +183,10 @@ function copy_media(npost) {
   fs.utimesSync(to_path, ttime, ttime);
 
   console.log(npost.index + ' to_path=' + to_path);
+
+  npost.media_path = to_path.substring(out_path.length + 1);
+
+  if (image_ext[ext]) {
+    await create_thumb(to_path, npost);
+  }
 }
