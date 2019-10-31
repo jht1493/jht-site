@@ -46,7 +46,7 @@ October 2019
 
 [j4u2-md](j4u2-md) is **j4u2.com** converted to markdown using nodejs script in [aa](aa).
 
-## Pending
+## Migration pending
 
 https://www.instagram.com/johnhenrythompson1493/
 
