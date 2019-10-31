@@ -1,6 +1,6 @@
 # jht-site
 
-John Henry Thompson - A gathering of my personal web sites
+John Henry Thompson - A migration of my personal web sites
 
 [![](jht-md/_/rsrc/1295207567308/the-art-of-learning/reflections/colorized-jht-height=320&width=240.jpg)](http://www.johnhenrythompson.com/the-art-of-learning/reflections/colorized-jht.jpg?attredirects=0)
 
