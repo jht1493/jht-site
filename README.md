@@ -30,6 +30,12 @@ July 2019
 "The things that I was building on originally for the defense of our democracies had been completely inverted," Christopher Wylie says of his work at Cambridge Analytica.
 October 2019
 
+https://www.washingtonpost.com/technology/2019/10/30/twitter-ban-all-political-ads-amid-election-uproar/
+
+Twitter to ban all political ads amid 2020 election uproar
+The social network’s decision sets it apart from Facebook, which has defended its controversial policies
+Oct. 30, 2019
+
 ## What's here
 
 [Inspired by the great migration](<https://en.wikipedia.org/wiki/Great_Migration_(African_American)>).
@@ -46,11 +52,13 @@ October 2019
 
 [j4u2-md](j4u2-md) is **j4u2.com** converted to markdown using nodejs script in [aa](aa).
 
-## Migration pending
+### Migration pending
 
 https://www.instagram.com/johnhenrythompson1493/
 
 https://www.facebook.com/johnhenrythompson
+
+https://twitter.com/jht1493
 
 ## Contact me
 
