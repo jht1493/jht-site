@@ -134,6 +134,9 @@ async function create_thumb(src, npost, thumb_path, minwidth, fixed) {
         if (fixed || image.bitmap.width > minwidth) {
           image.resize(minwidth, Jimp.AUTO); // resize the width   and scale the height accordingly
           image.writeAsync(thumb_path).then(err => {
+            if (err) {
+              console.log('image.writeAsync err=' + err);
+            }
             console.log('thumb_path=' + thumb_path);
             npost.thumb_path = thumb_path.substring(out_path.length + 1);
             resolve(image);
@@ -186,6 +189,7 @@ async function copy_media(npost) {
     const thumb_path = path.resolve(pt.dir, pt.name + '-thumb' + pt.ext);
     await create_thumb(to_path, npost, thumb_path, thumb_width);
   } else if (npost.thumb_uri) {
+    // Use thumb_uri for thumb nail if provided
     const from_thumbpath = path.resolve(fb_root_path, npost.thumb_uri);
     console.log('from_thumbpath=' + from_thumbpath);
     const pt1 = path.parse(to_path);
