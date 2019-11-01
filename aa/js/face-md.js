@@ -10,15 +10,16 @@ const config = {
   md_path: '../../jht-facebo-md',
   npost_path: './facebo.json',
   posts_folder: 'posts',
-  root_md: 'README.md'
+  root_md: 'README.md',
+  n_per_row: 3
 };
-
-config.md_path = path.resolve(config.md_path);
 
 run();
 
 function run_init() {
+  config.md_path = path.resolve(config.md_path);
   config.reg_lastnum = /([\d]+)$/g;
+  config.pagemd_dict = {};
 }
 
 function run() {
@@ -26,46 +27,96 @@ function run() {
   const nposts = fs.readJsonSync(config.npost_path);
   const n = nposts.length;
   const mds = [];
-  mds.push('# John Henry Thompson');
+  const nps = [];
+  let lns = [];
   // const n = 100;
   let missing = 0;
+  let from_date = null;
+  let to_date = null;
+  function flush_lns() {
+    mds.push(lns.join(' '));
+    mds.push('');
+    lns = [];
+  }
   for (let index = 0; index < n; index++) {
     const npost = nposts[index];
-    const caption = npost.description || npost.text || npost.title;
+    let caption = npost.description || npost.text || npost.title;
     if (!caption) caption = 'Post ' + (index + 1);
     const thumb = npost.thumb_path || npost.media_path;
-    console.log(index + ' caption=' + caption);
-    console.log(index + ' thumb=' + thumb);
+    // console.log(index + ' caption=' + caption);
+    // console.log(index + ' thumb=' + thumb);
     const fdate = format_date(npost.date);
-    const pagemd = format_pagemd(fdate + '-1');
+    const pagemd = format_pagemd(fdate);
+    npost.pagemd = pagemd;
+    npost.caption = caption;
     if (thumb) {
-      mds.push(`[![](${thumb})](${config.posts_folder}/${pagemd})`);
-      mds.push(caption);
-      mds.push(date);
-      write_pagemd(npost, pagemd, caption);
+      lns.push(`[![](${thumb})](${config.posts_folder}/${pagemd}.md)`);
+      // mds.push(caption);
+      // mds.push(fdate);
+      // write_pagemd(npost, pagemd, caption);
+      nps.push(npost);
+      if (!to_date) to_date = npost.date;
+      from_date = npost.date;
     } else if (npost.url) {
       // No thumb, has url
+      flush_lns();
       mds.push(`[${caption}](${npost.url})`);
       mds.push(fdate);
+      mds.push('');
     } else {
-      mds.push(caption);
-      mds.push(fdate);
+      // mds.push(caption);
+      // mds.push(fdate);
       missing++;
     }
+    if (lns.length >= config.n_per_row) {
+      flush_lns();
+    }
   }
+  if (lns.length > 0) {
+    mds.push(lns.join(' '));
+  }
+  for (let index = 0; index < nps.length; index++) {
+    const npost = nps[index];
+    write_pagemd(npost, nps, index);
+  }
+  from_date = format_date(from_date);
+  to_date = format_date(to_date);
+  lns = [];
+  lns.push('# [John Henry Thompson](../README.md)');
+  lns.push('post Facebook.com');
+  lns.push('Migrated from https://www.facebook.com/johnhenrythompson');
+  lns.push(`${mds.length} Posts from ${from_date} to ${to_date}`);
+  lns.push('');
   console.log('nposts.length=' + nposts.length);
   console.log('missing=' + missing);
   const fpath = path.resolve(config.md_path, config.root_md);
-  fs.writeFileSync(fpath, mds.join('\n'));
+  fs.writeFileSync(fpath, lns.join('\n') + mds.join('\n'));
 }
 
-function write_pagemd(npost, pagemd, caption) {
+function write_pagemd(npost, nps, index) {
+  const pagemd = npost.pagemd;
+  const caption = npost.caption;
   const fdate = format_date_time(npost.date);
-  const fpath = path.resolve(config.md_path, config.posts_folder, pagemd);
   const mds = [];
-  mds.push(`[![](${npost.media_path})](../${config.root_md})`);
+  mds.push(`# [John Henry Thompson](../${config.root_md})`);
+  mds.push('post Facebook.com');
+  let nav = [];
+  if (index > 0) {
+    const prev = nps[index - 1].pagemd;
+    nav.push(`[< Previous](${prev}.md)`);
+  }
+  if (index < nps.length - 1) {
+    const next = nps[index + 1].pagemd;
+    nav.push(`[Next >](${next}.md)`);
+  }
+  mds.push(nav.join(' '));
+  mds.push('');
+  mds.push(`[![](../${npost.media_path})](../${config.root_md})`);
   mds.push(caption);
   mds.push(fdate);
+  const folder = path.resolve(config.md_path, config.posts_folder);
+  fs.ensureDirSync(folder);
+  const fpath = path.resolve(folder, pagemd + '.md');
   fs.writeFileSync(fpath, mds.join('\n'));
 }
 
@@ -89,28 +140,18 @@ function format_date_time(date) {
   const min = pad(date.getMinutes(), 2);
   const sec = pad(date.getSeconds(), 2);
   const ar2 = [hours, min, sec];
-  return ar1.join('-') + ' ' + ar2.joint(':');
+  return ar1.join('-') + ' ' + ar2.join(':');
 }
 
-function format_pagemd(fdate) {
-  let fpath = path.resolve(config.md_path, fdate);
-  let pts = path.parse(fpath);
-  while (fs.pathExistsSync(fpath)) {
-    let name = pts.name;
-    let num = name.match(config.reg_lastnum);
-    if (!num) {
-      name = name + '-1';
-    } else {
-      const lastpos = name.lastIndexOf('-');
-      if (lastpos > 0) name = name.substring(0, lastpos);
-      num = parseFloat(num[0]) + 1;
-      name = name + '-' + num;
-      // console.log('fpath=' + fpath);
-    }
-    fpath = path.resolve(pts.dir, name + pts.ext);
-    pts = path.parse(fpath);
+function format_pagemd(fname) {
+  num = config.pagemd_dict[fname];
+  if (!num) {
+    num = 1;
+  } else {
+    num++;
   }
-  return pts.name;
+  config.pagemd_dict[fname] = num;
+  return fname + '-' + num;
 }
 
 function pad(num, size) {
