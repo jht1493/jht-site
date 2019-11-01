@@ -117,7 +117,9 @@ function write_pagemd(npost, nps, index) {
   mds.push(nav.join(' '));
   mds.push('');
   mds.push(`[![](../${npost.media_path})](../${config.root_md})`);
+  mds.push('');
   mds.push(caption);
+  mds.push('');
   mds.push(fdate);
   const folder = path.resolve(config.md_path, config.posts_folder);
   fs.ensureDirSync(folder);
