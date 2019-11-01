@@ -48,9 +48,14 @@ July 2019
 
 [j4u2-md](j4u2-md) is **j4u2.com** converted to markdown using nodejs script in [aa](aa).
 
-### Migrations pending
+### Migration of www.facebook.com/johnhenrythompson
 
-https://www.facebook.com/johnhenrythompson
+[jht-facebo-md/README.md](jht-facebo-md/README.md) Markdown version of my facebook posts.
+Created with scripts aa/js/facebo.js and face-md.js
+
+No media yet.
+
+### Migrations pending
 
 https://www.instagram.com/johnhenrythompson1493/
 
