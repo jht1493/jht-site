@@ -1,12 +1,8 @@
 //
-// jht-facebo-md
-// media
+// Create facebo.json and copy media to jht-facebo-md/media
 // 2019-08-23
 //   thaddeus-stevens-equality-IMG_0186.jpg
 //   thaddeus-stevens-equality-IMG_0186.jpg-thumb.png
-// posts
-// README.md -- thumbs 3xn
-// 2019-08-23-001.md -- full image with text
 
 const fs = require('fs-extra');
 const path = require('path');
@@ -17,13 +13,13 @@ const fb_root_path =
 const fb_post_path = fb_root_path + 'posts/your_posts_1.json';
 let out_path = '../../jht-facebo-md';
 const npost_path = './facebo.json';
+const thumb_width = 200;
+const media_folder = 'media';
 const regex = /[^\w-]/g;
 const reg_slash = /-+/g;
 const max_fname_len = 64;
 const reg_lastnum = /([\d]+)$/g;
 const image_ext = { '.jpg': 1, '.png': 1 };
-const thumb_width = 200;
-const media_folder = 'media';
 
 out_path = path.resolve(out_path);
 
@@ -96,6 +92,7 @@ function pad(num, size) {
   while (s.length < size) s = '0' + s;
   return s;
 }
+
 // path.parse('/home/user/dir/file.txt');
 //       root : "/",
 //       dir : "/home/user/dir",
@@ -103,6 +100,8 @@ function pad(num, size) {
 //       ext : ".txt",
 //       name : "file"
 
+// If fpath already exists, create numbered non-existance name.
+// eg. Teddies-2.jpg for Teddies-1.jpg that exists
 function new_path(fpath) {
   while (fs.pathExistsSync(fpath)) {
     const fparts = path.parse(fpath);
@@ -128,9 +127,6 @@ async function create_thumb(src, npost, thumb_path, minwidth, fixed) {
   return new Promise((resolve, reject) => {
     Jimp.read(src)
       .then(image => {
-        // Do stuff with the image.
-        // console.log('image.bitmap.width=' + image.bitmap.width);
-        // console.log('image.bitmap.height=' + image.bitmap.height);
         if (fixed || image.bitmap.width > minwidth) {
           image.resize(minwidth, Jimp.AUTO); // resize the width   and scale the height accordingly
           image.writeAsync(thumb_path).then(err => {
