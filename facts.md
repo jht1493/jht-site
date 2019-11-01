@@ -3,7 +3,7 @@
 https://www.latimes.com/business/technology/story/2019-10-31/github-ice-contract-defense
 
 "GitHub is trying to quell employee anger over its ICE contract. It’s not going well."
-By Johana Bhuiyan OCT. 31, 2019
+By Johana Bhuiyan Oct. 31, 2019
 
 https://www.washingtonpost.com/technology/2019/10/30/twitter-ban-all-political-ads-amid-election-uproar/
 
