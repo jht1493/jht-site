@@ -66,9 +66,9 @@ Beware ["trumpery"](https://www.amazon.com/Bullshit-Lexicon-Mark-Peters/dp/11019
 
 ### Migrations pending
 
-https://www.instagram.com/johnhenrythompson1493/
-
 https://www.facebook.com/johnhenrythompson
+
+https://www.instagram.com/johnhenrythompson1493/
 
 https://twitter.com/jht1493
 
