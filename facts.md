@@ -34,8 +34,7 @@ July 2019
 https://money.cnn.com/2016/10/17/technology/donald-trump-deception/index.html
 
 "Trump's bullsh\*t: Why his supporters don't care that he's lying."
-"...And here's an amazing coincidence. A recent book cataloged all the synonyms for bullshit, and one
-of the oldest dates back to the 1400s. It originally referred to trickery and scamming, although
+"...It originally referred to trickery and scamming, although
 its meaning has evolved to include general nonsense and insignificance. That word:
 ["trumpery"](https://www.amazon.com/Bullshit-Lexicon-Mark-Peters/dp/1101904534)..."
 October 17, 2016
