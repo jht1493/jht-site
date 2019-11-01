@@ -23,6 +23,7 @@ const max_fname_len = 64;
 const reg_lastnum = /([\d]+)$/g;
 const image_ext = { '.jpg': 1, '.png': 1 };
 const thumb_width = 200;
+const media_folder = 'media';
 
 out_path = path.resolve(out_path);
 
@@ -32,8 +33,8 @@ async function run() {
   const nposts = [];
   const posts = fs.readJsonSync(fb_post_path);
   console.log('posts.length=' + posts.length);
-  // const n = posts.length;
-  const n = 100;
+  const n = posts.length;
+  // const n = 100;
   for (let index = 0; index < n; index++) {
     const npost = to_npost(index, posts[index]);
     if (npost) {
@@ -41,7 +42,6 @@ async function run() {
       await copy_media(npost);
     }
   }
-  const media_path = path.resolve(out_path, 'media');
   fs.writeJSONSync(npost_path, nposts, { spaces: 2 });
   // fs.ensureDirSync(out_path);
 }
@@ -124,17 +124,15 @@ function new_path(fpath) {
   return fpath;
 }
 
-async function create_thumb(to_path, npost) {
-  const parts = path.parse(to_path);
-  const thumb_path = path.resolve(parts.dir, parts.name + '-thumb' + parts.ext);
+async function create_thumb(src, npost, thumb_path, minwidth, fixed) {
   return new Promise((resolve, reject) => {
-    Jimp.read(to_path)
+    Jimp.read(src)
       .then(image => {
         // Do stuff with the image.
         // console.log('image.bitmap.width=' + image.bitmap.width);
         // console.log('image.bitmap.height=' + image.bitmap.height);
-        if (image.bitmap.width > thumb_width) {
-          image.resize(thumb_width, Jimp.AUTO); // resize the width   and scale the height accordingly
+        if (fixed || image.bitmap.width > minwidth) {
+          image.resize(minwidth, Jimp.AUTO); // resize the width   and scale the height accordingly
           image.writeAsync(thumb_path).then(err => {
             console.log('thumb_path=' + thumb_path);
             npost.thumb_path = thumb_path.substring(out_path.length + 1);
@@ -145,18 +143,18 @@ async function create_thumb(to_path, npost) {
         }
       })
       .catch(err => {
-        // Handle an exception.
         reject(err);
       });
   });
 }
 
 async function copy_media(npost) {
-  const mpath = npost.uri;
+  let mpath = npost.uri;
   if (!mpath) return;
-  const frompath = path.resolve(fb_root_path, mpath);
+  const from_path = path.resolve(fb_root_path, mpath);
   const ext = path.parse(mpath).ext;
-
+  // create media path based on decription etc.
+  // .../jht-facebo-md/media/2008-04-02/Teddies-1.jpg
   let fname = npost.description || npost.text || npost.title;
   if (npost.description && npost.title)
     fname = npost.title + '-' + npost.description;
@@ -165,28 +163,34 @@ async function copy_media(npost) {
   fname = fname.substring(0, max_fname_len);
   if (fname.endsWith('-')) fname = fname.substring(0, fname.length - 1);
   fname += ext;
-
-  // console.log(npost.index + ' fname=' + fname);
+  // Put media in dated folder, eg: 2008-04-02
   const date = (npost.media && npost.media.creation_date) || npost.date;
   const year = date.getFullYear() + '';
   const month = pad(date.getMonth() + 1, 2);
   const day = pad(date.getDate(), 2);
-  const folder = [year, month, day].join('-');
-  const media_folder = path.resolve(out_path, 'media', folder);
-  if (!fs.pathExistsSync(media_folder)) {
-    fs.ensureDirSync(media_folder);
+  let folder = [year, month, day].join('-');
+  folder = path.resolve(out_path, media_folder, folder);
+  if (!fs.pathExistsSync(folder)) {
+    fs.ensureDirSync(folder);
   }
-  const to_path = new_path(path.resolve(media_folder, fname));
-  fs.copyFileSync(frompath, to_path);
-
+  const to_path = new_path(path.resolve(folder, fname));
+  fs.copyFileSync(from_path, to_path);
   const ttime = npost.creation_date || npost.date;
   fs.utimesSync(to_path, ttime, ttime);
-
   console.log(npost.index + ' to_path=' + to_path);
 
   npost.media_path = to_path.substring(out_path.length + 1);
 
   if (image_ext[ext]) {
-    await create_thumb(to_path, npost);
+    const pt = path.parse(to_path);
+    const thumb_path = path.resolve(pt.dir, pt.name + '-thumb' + pt.ext);
+    await create_thumb(to_path, npost, thumb_path, thumb_width);
+  } else if (npost.thumb_uri) {
+    const from_thumbpath = path.resolve(fb_root_path, npost.thumb_uri);
+    console.log('from_thumbpath=' + from_thumbpath);
+    const pt1 = path.parse(to_path);
+    const pt2 = path.parse(from_thumbpath);
+    const thumb_path = path.resolve(pt1.dir, pt1.name + '-thumb' + pt2.ext);
+    await create_thumb(from_thumbpath, npost, thumb_path, thumb_width, 1);
   }
 }
