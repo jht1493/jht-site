@@ -86,7 +86,9 @@ function run() {
   lns = [];
   lns.push('# [John Henry Thompson](../README.md)');
   lns.push('post Facebook.com');
+  lns.push('');
   lns.push('Migrated from https://www.facebook.com/johnhenrythompson');
+  lns.push('');
   lns.push(`${mds.length} Posts from ${from_date} to ${to_date}`);
   lns.push('');
   console.log('nposts.length=' + nposts.length);
@@ -102,6 +104,7 @@ function write_pagemd(npost, nps, index) {
   const mds = [];
   mds.push(`# [John Henry Thompson](../${config.root_md})`);
   mds.push('post Facebook.com');
+  mds.push('');
   let nav = [];
   if (index > 0) {
     const prev = nps[index - 1].pagemd;
