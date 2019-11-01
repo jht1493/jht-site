@@ -1,6 +1,7 @@
 //
 // Transform faceboook export to facebo.json
-//  and copy media to jht-facebo-md/media
+//  copy media to jht-facebo-md/media
+//  create thumbnails for media
 // Example structure of jht-facebo-md/media
 // 2019-08-23
 //   thaddeus-stevens-equality-IMG_0186.jpg
@@ -10,26 +11,32 @@ const fs = require('fs-extra');
 const path = require('path');
 var Jimp = require('jimp');
 
-const fb_root_path =
-  '/Volumes/GSPOT/jht/DICE-archived/web/facebook-johnhenrythompson-2019-10-25/';
-const fb_post_path = fb_root_path + 'posts/your_posts_1.json';
-let out_path = '../../jht-facebo-md';
-const npost_path = './facebo.json';
-const thumb_width = 200;
-const media_folder = 'media';
-const regex = /[^\w-]/g;
-const reg_slash = /-+/g;
-const max_fname_len = 64;
-const reg_lastnum = /([\d]+)$/g;
-const image_ext = { '.jpg': 1, '.png': 1 };
+const config = {
+  fb_root_path:
+    '/Volumes/GSPOT/jht/DICE-archived/web/facebook-johnhenrythompson-2019-10-25/',
+  out_path: '../../jht-facebo-md',
+  npost_path: './facebo.json',
+  thumb_width: 200,
+  media_folder: 'media'
+};
 
-out_path = path.resolve(out_path);
+config.fb_post_path = config.fb_root_path + 'posts/your_posts_1.json';
+config.out_path = path.resolve(config.out_path);
 
 run();
 
+function run_init() {
+  config.regex = /[^\w-]/g;
+  config.reg_slash = /-+/g;
+  config.reg_lastnum = /([\d]+)$/g;
+  config.max_fname_len = 64;
+  config.image_ext = { '.jpg': 1, '.png': 1 };
+}
+
 async function run() {
+  run_init();
   const nposts = [];
-  const posts = fs.readJsonSync(fb_post_path);
+  const posts = fs.readJsonSync(config.fb_post_path);
   console.log('posts.length=' + posts.length);
   const n = posts.length;
   // const n = 100;
@@ -40,8 +47,7 @@ async function run() {
       await copy_media(npost);
     }
   }
-  fs.writeJSONSync(npost_path, nposts, { spaces: 2 });
-  // fs.ensureDirSync(out_path);
+  fs.writeJSONSync(config.npost_path, nposts, { spaces: 2 });
 }
 
 function date_timestamp(timestamp) {
@@ -106,37 +112,36 @@ function pad(num, size) {
 // eg. Teddies-2.jpg for Teddies-1.jpg that exists
 function new_path(fpath) {
   while (fs.pathExistsSync(fpath)) {
-    const fparts = path.parse(fpath);
-    let name = fparts.name;
-    let num = name.match(reg_lastnum);
+    const pts = path.parse(fpath);
+    let name = pts.name;
+    let num = name.match(config.reg_lastnum);
     if (!num) {
       name = name + '-1';
     } else {
       const lastpos = name.lastIndexOf('-');
-      if (lastpos > 0) {
-        name = name.substring(0, lastpos);
-      }
+      if (lastpos > 0) name = name.substring(0, lastpos);
       num = parseFloat(num[0]) + 1;
       name = name + '-' + num;
       // console.log('fpath=' + fpath);
     }
-    fpath = path.resolve(fparts.dir, name + fparts.ext);
+    fpath = path.resolve(pts.dir, name + pts.ext);
   }
   return fpath;
 }
 
-async function create_thumb(src, npost, thumb_path, minwidth, fixed) {
+// Create a thumbnail for image at src path
+async function create_thumb(src, npost, thumb_path, fixed) {
   return new Promise((resolve, reject) => {
     Jimp.read(src)
       .then(image => {
-        if (fixed || image.bitmap.width > minwidth) {
-          image.resize(minwidth, Jimp.AUTO); // resize the width   and scale the height accordingly
+        if (fixed || image.bitmap.width > config.thumb_width) {
+          image.resize(config.thumb_width, Jimp.AUTO); // resize the width and scale the height accordingly
           image.writeAsync(thumb_path).then(err => {
             if (err) {
               console.log('image.writeAsync err=' + err);
             }
             console.log('thumb_path=' + thumb_path);
-            npost.thumb_path = thumb_path.substring(out_path.length + 1);
+            npost.thumb_path = thumb_path.substring(config.out_path.length + 1);
             resolve(image);
           });
         } else {
@@ -152,7 +157,7 @@ async function create_thumb(src, npost, thumb_path, minwidth, fixed) {
 async function copy_media(npost) {
   let mpath = npost.uri;
   if (!mpath) return;
-  const from_path = path.resolve(fb_root_path, mpath);
+  const from_path = path.resolve(config.fb_root_path, mpath);
   const ext = path.parse(mpath).ext;
   // create media path based on decription etc.
   // .../jht-facebo-md/media/2008-04-02/Teddies-1.jpg
@@ -160,8 +165,8 @@ async function copy_media(npost) {
   if (npost.description && npost.title)
     fname = npost.title + '-' + npost.description;
   if (!fname) fname = 'media ' + npost.index;
-  fname = fname.replace(regex, '-').replace(reg_slash, '-');
-  fname = fname.substring(0, max_fname_len);
+  fname = fname.replace(config.regex, '-').replace(config.reg_slash, '-');
+  fname = fname.substring(0, config.max_fname_len);
   if (fname.endsWith('-')) fname = fname.substring(0, fname.length - 1);
   fname += ext;
   // Put media in dated folder, eg: 2008-04-02
@@ -170,7 +175,7 @@ async function copy_media(npost) {
   const month = pad(date.getMonth() + 1, 2);
   const day = pad(date.getDate(), 2);
   let folder = [year, month, day].join('-');
-  folder = path.resolve(out_path, media_folder, folder);
+  folder = path.resolve(config.out_path, config.media_folder, folder);
   if (!fs.pathExistsSync(folder)) {
     fs.ensureDirSync(folder);
   }
@@ -180,19 +185,19 @@ async function copy_media(npost) {
   fs.utimesSync(to_path, ttime, ttime);
   console.log(npost.index + ' to_path=' + to_path);
 
-  npost.media_path = to_path.substring(out_path.length + 1);
+  npost.media_path = to_path.substring(config.out_path.length + 1);
 
-  if (image_ext[ext]) {
+  if (config.image_ext[ext]) {
     const pt = path.parse(to_path);
     const thumb_path = path.resolve(pt.dir, pt.name + '-thumb' + pt.ext);
-    await create_thumb(to_path, npost, thumb_path, thumb_width);
+    await create_thumb(to_path, npost, thumb_path);
   } else if (npost.thumb_uri) {
-    // Use thumb_uri for thumb nail if provided
-    const from_thumbpath = path.resolve(fb_root_path, npost.thumb_uri);
+    // Use thumb_uri for thumbnail if provided
+    const from_thumbpath = path.resolve(config.fb_root_path, npost.thumb_uri);
     console.log('from_thumbpath=' + from_thumbpath);
     const pt1 = path.parse(to_path);
     const pt2 = path.parse(from_thumbpath);
     const thumb_path = path.resolve(pt1.dir, pt1.name + '-thumb' + pt2.ext);
-    await create_thumb(from_thumbpath, npost, thumb_path, thumb_width, 1);
+    await create_thumb(from_thumbpath, npost, thumb_path, 1);
   }
 }

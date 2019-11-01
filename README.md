@@ -20,6 +20,11 @@ John Henry Thompson - A migration of my personal web sites
 
 ## Facts
 
+https://www.latimes.com/business/technology/story/2019-10-31/github-ice-contract-defense
+
+"GitHub is trying to quell employee anger over its ICE contract. It’s not going well."
+By JOHANA BHUIYAN STAFF WRITER OCT. 31, 2019 11:14 AM
+
 https://www.washingtonpost.com/technology/2019/10/30/twitter-ban-all-political-ads-amid-election-uproar/
 
 "Twitter to ban all political ads amid 2020 election uproar
@@ -44,9 +49,11 @@ July 2019
 https://money.cnn.com/2016/10/17/technology/donald-trump-deception/index.html
 
 "Trump's bullsh\*t: Why his supporters don't care that he's lying."
+"...And here's an amazing coincidence. A recent book cataloged all the synonyms for bullshit, and one
+of the oldest dates back to the 1400s. It originally referred to trickery and scamming, although
+its meaning has evolved to include general nonsense and insignificance. That word:
+["trumpery"](https://www.amazon.com/Bullshit-Lexicon-Mark-Peters/dp/1101904534)..."
 October 17, 2016
-
-Beware ["trumpery"](https://www.amazon.com/Bullshit-Lexicon-Mark-Peters/dp/1101904534).
 
 ## What's here
 
