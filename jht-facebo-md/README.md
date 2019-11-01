@@ -128,8 +128,7 @@ Migrated from https://www.facebook.com/johnhenrythompson
 
 
 
-[DICE is here! (For iOS Devices)
-https://itunes.apple.com/us/app/dicecpu/id1347427207?ls=1&mt=8](https://itunes.apple.com/us/app/dicecpu/id1347427207?ls=1&mt=8)
+[DICE is here! (For iOS Devices) https://itunes.apple.com/us/app/dicecpu/id1347427207?ls=1&mt=8](https://itunes.apple.com/us/app/dicecpu/id1347427207?ls=1&mt=8)
 2018-03-03
 
 [![](media/2018-03-02/Timeline-Photos-DICE-Colored-mind-power-out-in-Ardmore-thumb.jpg)](posts/2018-03-02-1.md) [![](media/2018-03-02/Timeline-Photos-DICE-Colored-mind-welcome-to-the-DICE-family-thumb.jpg)](posts/2018-03-02-2.md) [![](media/2018-02-26/Timeline-Photos-DICE-Colored-mind-red-faced-thumb.jpg)](posts/2018-02-26-1.md)
@@ -180,17 +179,7 @@ https://itunes.apple.com/us/app/dicecpu/id1347427207?ls=1&mt=8](https://itunes.a
 
 
 
-[CONGRATULATIONS everybody! We only have 2 days to fight the FCC & the repeal of #NetNeutrality! Thanks to John Oliver there's a SUPER easy way to do this. Do you enjoy Netflix? Do you find yourself spending too much time on FB? If net neutrality goes away, our Internet bills go up and we give power to companies like Comcast and Spectrum to control what information we can access.
-Here's what you can do - takes less than a minute.
-1. Go to gofccyourself.com 
-(the shortcut John Oliver made to the hard-to-find FCC comment page)
-2. Click on the 17-108 link (Restoring Internet Freedom)
-2. Click on "+Express"
-3. Be sure to hit "ENTER" (or return) on your keyboard after you put in your name, so it registers. (They make it a tad tricky there.)
-4. In the comment section write, "I strongly support net neutrality backed by Title 2 oversight of ISPs. Net neutrality is the essence of how the internet was founded, not for the big corporations, but for the people, and how they interconnect. Without which we will find ourselves more limited in capacity with less freedoms which is what this country was based on. Corporatization was not what the founding fathers had in mind when they drafted the constitution of the United States."
-5. Click to Review, then Submit, done. - Make sure you hit submit at the end!
-Copy & paste to repost this, pls., rather than âShareâ-ing, as it will be seen by more people. (And if the "CONGRATULATIONS everybody" at the beginning confused you as it did me, it's utilizing a Facebook algorithm to make sure this post appears on more of your friends' feeds).
-This is one of those posts that is better to copy and paste than to share.](http://gofccyourself.com/)
+[CONGRATULATIONS everybody! We only have 2 days to fight the FCC & the repeal of #NetNeutrality! Thanks to John Oliver there's a SUPER easy way to do this. Do you enjoy Netflix? Do you find yourself spending too much time on FB? If net neutrality goes away, our Internet bills go up and we give power to companies like Comcast and Spectrum to control what information we can access. Here's what you can do - takes less than a minute. 1. Go to gofccyourself.com  (the shortcut John Oliver made to the hard-to-find FCC comment page) 2. Click on the 17-108 link (Restoring Internet Freedom) 2. Click on "+Express" 3. Be sure to hit "ENTER" (or return) on your keyboard after you put in your name, so it registers. (They make it a tad tricky there.) 4. In the comment section write, "I strongly support net neutrality backed by Title 2 oversight of ISPs. Net neutrality is the essence of how the internet was founded, not for the big corporations, but for the people, and how they interconnect. Without which we will find ourselves more limited in capacity with less freedoms which is what this country was based on. Corporatization was not what the founding fathers had in mind when they drafted the constitution of the United States." 5. Click to Review, then Submit, done. - Make sure you hit submit at the end! Copy & paste to repost this, pls., rather than âShareâ-ing, as it will be seen by more people. (And if the "CONGRATULATIONS everybody" at the beginning confused you as it did me, it's utilizing a Facebook algorithm to make sure this post appears on more of your friends' feeds). This is one of those posts that is better to copy and paste than to share.](http://gofccyourself.com/)
 2017-12-13
 
 [![](media/2017-12-12/Timeline-Photos-It-s-about-ALL-Mickey-thumb.jpg)](posts/2017-12-12-1.md) [![](media/2017-12-10/Timeline-Photos-Who-cares-about-Mickey-thumb.jpg)](posts/2017-12-10-1.md) [![](media/2017-12-05/Timeline-Photos-Colored-mind-another-Sirius-B-portal-marker-thumb.jpg)](posts/2017-12-05-1.md)
@@ -211,30 +200,12 @@ This is one of those posts that is better to copy and paste than to share.](http
 
 
 
-[Friday nov 17 evening event
-
-https://www.eventbrite.com/e/liminal-space-fete-caribbean-hurricane-relief-fundraiser-tickets-39425787592?utm_campaign=order_confirmation_email&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=eventname](https://www.eventbrite.com/e/liminal-space-fete-caribbean-hurricane-relief-fundraiser-tickets-39425787592?utm_campaign=order_confirmation_email&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=eventname)
+[Friday nov 17 evening event  https://www.eventbrite.com/e/liminal-space-fete-caribbean-hurricane-relief-fundraiser-tickets-39425787592?utm_campaign=order_confirmation_email&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=eventname](https://www.eventbrite.com/e/liminal-space-fete-caribbean-hurricane-relief-fundraiser-tickets-39425787592?utm_campaign=order_confirmation_email&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=eventname)
 2017-11-12
 
 
 
-[Please join me at my presentation:
-
-https://tisch.nyu.edu/itp/events/fall-2017/dice-with-john-henry-thompson
-
-The talk will be about DICE, a software platform in development to explore learning, art and science.
-
-FRIDAY, NOV. 17, 2017. 1:00 PM â 2:30 PM
-NYU-ITP, 4TH FLOOR
-721 Broadway, New York, NY 10003
-
-I'll be arriving Friday morning from Phila
-and plan to stay until to Sunday.
-I'll have time Friday after 3pm
-and all Saturday to meet folks for dinner/lunch/breakfast
-and hang out.
-
-Please let me know when you are available soon so we can coordinate](https://tisch.nyu.edu/itp/events/fall-2017/dice-with-john-henry-thompson)
+[Please join me at my presentation:  https://tisch.nyu.edu/itp/events/fall-2017/dice-with-john-henry-thompson  The talk will be about DICE, a software platform in development to explore learning, art and science.  FRIDAY, NOV. 17, 2017. 1:00 PM â 2:30 PM NYU-ITP, 4TH FLOOR 721 Broadway, New York, NY 10003  I'll be arriving Friday morning from Phila and plan to stay until to Sunday. I'll have time Friday after 3pm and all Saturday to meet folks for dinner/lunch/breakfast and hang out.  Please let me know when you are available soon so we can coordinate](https://tisch.nyu.edu/itp/events/fall-2017/dice-with-john-henry-thompson)
 2017-11-12
 
 [![](media/2017-11-12/Timeline-Photos-The-colored-mind-somewhere-in-the-creative-energ-thumb.jpg)](posts/2017-11-12-3.md) [![](media/2017-11-12/Timeline-Photos-Learning-up-the-youth-thumb.jpg)](posts/2017-11-12-4.md) [![](media/2017-11-12/Timeline-Photos-Fond-memories-of-languages-of-yesteryear-thumb.jpg)](posts/2017-11-12-5.md)
@@ -327,14 +298,12 @@ Please let me know when you are available soon so we can coordinate](https://tis
 
 [![](media/2017-09-06/Timeline-Photos-Orchestrated-DICE-Using-devices-to-explore-art-a-thumb.jpg)](posts/2017-09-06-1.md)
 
-[A few years ago, we created a Garden of Interactive Delights.
-http://www.johnhenrythompson.com/4-garden](http://www.johnhenrythompson.com/4-garden)
+[A few years ago, we created a Garden of Interactive Delights. http://www.johnhenrythompson.com/4-garden](http://www.johnhenrythompson.com/4-garden)
 2017-09-06
 
 
 
-[<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BYp8SHXhfCt/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Morning colored mind</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by John Henry Thompson (@johnhenrythompson1493) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-09-05T10:05:20+00:00">Sep 5, 2017 at 3:05am PDT</time></p></div></blockquote>
-<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>](https://www.instagram.com/p/BYp8SHXhfCt/)
+[<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BYp8SHXhfCt/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Morning colored mind</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by John Henry Thompson (@johnhenrythompson1493) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-09-05T10:05:20+00:00">Sep 5, 2017 at 3:05am PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>](https://www.instagram.com/p/BYp8SHXhfCt/)
 2017-09-05
 
 [![](media/2017-09-05/Morning-colored-mind-thumb.jpg)](posts/2017-09-05-2.md) [![](media/2017-09-04/Gravity-Color-The-colored-mind-thumb.jpg)](posts/2017-09-04-1.md) [![](media/2017-09-04/The-colored-mind-series-thumb.jpg)](posts/2017-09-04-2.md)
@@ -346,29 +315,22 @@ http://www.johnhenrythompson.com/4-garden](http://www.johnhenrythompson.com/4-ga
 
 
 
-[Scroll down to see the evolution of DICE!
-http://www.johnhenrythompson.com/3-dice](http://www.johnhenrythompson.com/3-dice)
+[Scroll down to see the evolution of DICE! http://www.johnhenrythompson.com/3-dice](http://www.johnhenrythompson.com/3-dice)
 2017-08-28
 
 
 
-[Preserve a cultural legacy
-http://www.johnhenrythompson.com/artifacts
-Here's an incredible effort by "Eugene Sandulenko <sev@scummvm.org>:
-Hi, there is an effort to implement a player for Director 2-Director 6 files in the open source ScummVM project (http://www.scummvm.org). Is there a chance that the folks could get access to the original sources for the Director Player? If needed, and NDA could be involved, but in general, they will be used for reimplementing the einging under GPLv2."](http://www.scummvm.org/)
+[Preserve a cultural legacy http://www.johnhenrythompson.com/artifacts Here's an incredible effort by "Eugene Sandulenko <sev@scummvm.org>: Hi, there is an effort to implement a player for Director 2-Director 6 files in the open source ScummVM project (http://www.scummvm.org). Is there a chance that the folks could get access to the original sources for the Director Player? If needed, and NDA could be involved, but in general, they will be used for reimplementing the einging under GPLv2."](http://www.scummvm.org/)
 2017-08-24
 
 
 
-[Nari art show closing soon!
-http://www.lehmannmaupin.com/exhibitions/2017-06-02_nari-ward](http://www.lehmannmaupin.com/exhibitions/2017-06-02_nari-ward)
+[Nari art show closing soon! http://www.lehmannmaupin.com/exhibitions/2017-06-02_nari-ward](http://www.lehmannmaupin.com/exhibitions/2017-06-02_nari-ward)
 2017-08-16
 
 
 
-[Plan to see Nari's latest nyc work before they close: 
-
-http://www.lehmannmaupin.com/exhibitions/2017-04-29_socrates-sculpture-park-new-york](http://www.lehmannmaupin.com/exhibitions/2017-04-29_socrates-sculpture-park-new-york)
+[Plan to see Nari's latest nyc work before they close:   http://www.lehmannmaupin.com/exhibitions/2017-04-29_socrates-sculpture-park-new-york](http://www.lehmannmaupin.com/exhibitions/2017-04-29_socrates-sculpture-park-new-york)
 2017-08-16
 
 
@@ -393,36 +355,29 @@ http://www.lehmannmaupin.com/exhibitions/2017-04-29_socrates-sculpture-park-new-
 
 
 
-[Uncle Felix: "Art! What is Art?", here's Nari's answer:
-
-http://www.vilcek.org/prizes/prize-recipients/2017/nari-ward.html](http://www.vilcek.org/prizes/prize-recipients/2017/nari-ward.html)
+[Uncle Felix: "Art! What is Art?", here's Nari's answer:  http://www.vilcek.org/prizes/prize-recipients/2017/nari-ward.html](http://www.vilcek.org/prizes/prize-recipients/2017/nari-ward.html)
 2017-05-04
 
 
 
-[In tough times remember these stories:
-https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/voices-and-faces-from-the-collection/](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/voices-and-faces-from-the-collection/)
+[In tough times remember these stories: https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/voices-and-faces-from-the-collection/](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/voices-and-faces-from-the-collection/)
 2017-03-24
 
 
 
-[http://catalogue.swanngalleries.com//full//904/728904.jpg
-" I Sell the Shadow to Support the Substance. "](http://catalogue.swanngalleries.com/full//904/728904.jpg)
+[http://catalogue.swanngalleries.com//full//904/728904.jpg " I Sell the Shadow to Support the Substance. "](http://catalogue.swanngalleries.com/full//904/728904.jpg)
 2017-03-19
 
 [![](media/2017-03-19/Timeline-Photos-19-years-ago-thumb.jpg)](posts/2017-03-19-2.md) [![](media/2017-03-18/Timeline-Photos-Ad-in-new-yorker-mar-20-2017-for-swanngalleries-thumb.jpg)](posts/2017-03-18-1.md) [![](media/2017-03-18/Timeline-Photos-Snow-not-so-white-thumb.jpg)](posts/2017-03-18-2.md)
 
 
 
-[Give my first photohacker workshop today at a local high school. Challenged students: when did people first begin to understand the earth to be round? They all said after Christopher Columbus - 1400's. I ask then to google: first person to estimate the circumference of the earth and find the time and place of his birth, work and death. 
-High lighted for me the difference between access to information and wisdom:
-http://www.johnhenrythompson.com/heros/professor-john-fray/thoth](http://www.johnhenrythompson.com/heros/professor-john-fray/thoth)
+[Give my first photohacker workshop today at a local high school. Challenged students: when did people first begin to understand the earth to be round? They all said after Christopher Columbus - 1400's. I ask then to google: first person to estimate the circumference of the earth and find the time and place of his birth, work and death.  High lighted for me the difference between access to information and wisdom: http://www.johnhenrythompson.com/heros/professor-john-fray/thoth](http://www.johnhenrythompson.com/heros/professor-john-fray/thoth)
 2017-03-10
 
 
 
-[Feelings about learning ...
-http://www.johnhenrythompson.com/0-refections-on-learning](http://www.johnhenrythompson.com/0-refections-on-learning)
+[Feelings about learning ... http://www.johnhenrythompson.com/0-refections-on-learning](http://www.johnhenrythompson.com/0-refections-on-learning)
 2017-03-07
 
 
@@ -432,39 +387,32 @@ http://www.johnhenrythompson.com/0-refections-on-learning](http://www.johnhenryt
 
 
 
-[For youth in the philly area:
-http://scribe.org/events/youth-learn-hackers-take-control-your-photos/](http://scribe.org/events/youth-learn-hackers-take-control-your-photos)
+[For youth in the philly area: http://scribe.org/events/youth-learn-hackers-take-control-your-photos/](http://scribe.org/events/youth-learn-hackers-take-control-your-photos)
 2017-03-07
 
 
 
-[Oh sh*t!
-https://www.theregister.co.uk/2017/02/24/cloudbleed_buffer_overflow_bug_spaffs_personal_data/](https://www.theregister.co.uk/2017/02/24/cloudbleed_buffer_overflow_bug_spaffs_personal_data/)
+[Oh sh*t! https://www.theregister.co.uk/2017/02/24/cloudbleed_buffer_overflow_bug_spaffs_personal_data/](https://www.theregister.co.uk/2017/02/24/cloudbleed_buffer_overflow_bug_spaffs_personal_data/)
 2017-02-25
 
 
 
-[We hit over 1 million!  Vote Out trumpery!
-https://petitions.whitehouse.gov/petition/immediately-release-donald-trumps-full-tax-returns-all-information-needed-verify-emoluments-clause-compliance](https://petitions.whitehouse.gov/petition/immediately-release-donald-trumps-full-tax-returns-all-information-needed-verify-emoluments-clause-compliance)
+[We hit over 1 million!  Vote Out trumpery! https://petitions.whitehouse.gov/petition/immediately-release-donald-trumps-full-tax-returns-all-information-needed-verify-emoluments-clause-compliance](https://petitions.whitehouse.gov/petition/immediately-release-donald-trumps-full-tax-returns-all-information-needed-verify-emoluments-clause-compliance)
 2017-02-17
 
 
 
-[Fight trumpery. Vote!
-https://impeachdonaldtrumpnow.org](https://impeachdonaldtrumpnow.org/)
+[Fight trumpery. Vote! https://impeachdonaldtrumpnow.org](https://impeachdonaldtrumpnow.org/)
 2017-02-08
 
 
 
-[Remember this day: Jan 20, 2017 - last day of hope before entering the era of trumpery. 
-
-http://www.johnhenrythompson.com/z-blog-1/gonebutnotforgotten](http://www.johnhenrythompson.com/z-blog-1/gonebutnotforgotten)
+[Remember this day: Jan 20, 2017 - last day of hope before entering the era of trumpery.   http://www.johnhenrythompson.com/z-blog-1/gonebutnotforgotten](http://www.johnhenrythompson.com/z-blog-1/gonebutnotforgotten)
 2017-02-03
 
 
 
-[TGIFF: Thank God is Frigging Friday! Happy birthday son.
-https://en.wikipedia.org/wiki/Frigg](https://en.wikipedia.org/wiki/Frigg)
+[TGIFF: Thank God is Frigging Friday! Happy birthday son. https://en.wikipedia.org/wiki/Frigg](https://en.wikipedia.org/wiki/Frigg)
 2017-02-03
 
 
@@ -474,15 +422,12 @@ https://en.wikipedia.org/wiki/Frigg](https://en.wikipedia.org/wiki/Frigg)
 
 
 
-[Can  we get to 10 million by Feb 19? 476,329 SIGNED so far.
-Fight trumpery - vote!
-https://petitions.whitehouse.gov/petition/immediately-release-donald-trumps-full-tax-returns-all-information-needed-verify-emoluments-clause-compliance](https://petitions.whitehouse.gov/petition/immediately-release-donald-trumps-full-tax-returns-all-information-needed-verify-emoluments-clause-compliance)
+[Can  we get to 10 million by Feb 19? 476,329 SIGNED so far. Fight trumpery - vote! https://petitions.whitehouse.gov/petition/immediately-release-donald-trumps-full-tax-returns-all-information-needed-verify-emoluments-clause-compliance](https://petitions.whitehouse.gov/petition/immediately-release-donald-trumps-full-tax-returns-all-information-needed-verify-emoluments-clause-compliance)
 2017-02-02
 
 
 
-[The authoring tool I worked on for many years was officially retired Feb 1. 2017. Here are some artifacts from over the years.
-https://github.com/jht1900/macr/blob/master/director-boxes/README.md](https://github.com/jht1900/macr/blob/master/director-boxes/README.md)
+[The authoring tool I worked on for many years was officially retired Feb 1. 2017. Here are some artifacts from over the years. https://github.com/jht1900/macr/blob/master/director-boxes/README.md](https://github.com/jht1900/macr/blob/master/director-boxes/README.md)
 2017-02-02
 
 [![](media/2017-01-13/Timeline-Photos-Proud-member-of-my-high-school-computer-club-197-thumb.jpg)](posts/2017-01-13-1.md)
@@ -492,8 +437,7 @@ https://github.com/jht1900/macr/blob/master/director-boxes/README.md](https://gi
 
 
 
-[http://www.johnhenrythompson.com/z-blog-1/freestateofjones
-Facebook does not make it easy to share video, so I extracted and posted on youtube for better sharing.](http://www.johnhenrythompson.com/z-blog-1/freestateofjones)
+[http://www.johnhenrythompson.com/z-blog-1/freestateofjones Facebook does not make it easy to share video, so I extracted and posted on youtube for better sharing.](http://www.johnhenrythompson.com/z-blog-1/freestateofjones)
 2017-01-11
 
 [![](media/2017-01-04/iOS-Photos-Book2-thumb.jpg)](posts/2017-01-04-2.md) [![](media/2017-01-04/iOS-Photos-https-www-amazon-com-dp-B01A4ATV0A-ref_-r_ea_vl_b_0_r-thumb.jpg)](posts/2017-01-04-3.md) [![](media/2017-01-04/iOS-Photos-https-www-amazon-com-dp-B01A4ATV0A-ref_-r_ea_vl_b_0_r-1-thumb.jpg)](posts/2017-01-04-4.md)
@@ -520,14 +464,12 @@ Facebook does not make it easy to share video, so I extracted and posted on yout
 
 
 
-[http://www.johnhenrythompson.com/z-blog-1/keepingsoftwarealive
-Some hardy soul trying to keep old games alive (playable on new hardware). Even trying to build a Director engine to do this.](http://www.johnhenrythompson.com/z-blog-1/keepingsoftwarealive)
+[http://www.johnhenrythompson.com/z-blog-1/keepingsoftwarealive Some hardy soul trying to keep old games alive (playable on new hardware). Even trying to build a Director engine to do this.](http://www.johnhenrythompson.com/z-blog-1/keepingsoftwarealive)
 2016-12-22
 
 
 
-[http://www.johnhenrythompson.com/z-blog-1/loveiswisehatredisfoolish
-Facebook problem: you see interesting stuff but its hard to find it again even if you like it. Saw this interview in @[1248471482:2048:David Garrigues] stream but there was no direct link to youtube source. Re-posted here outside the Facebook box!](http://www.johnhenrythompson.com/z-blog-1/loveiswisehatredisfoolish)
+[http://www.johnhenrythompson.com/z-blog-1/loveiswisehatredisfoolish Facebook problem: you see interesting stuff but its hard to find it again even if you like it. Saw this interview in @[1248471482:2048:David Garrigues] stream but there was no direct link to youtube source. Re-posted here outside the Facebook box!](http://www.johnhenrythompson.com/z-blog-1/loveiswisehatredisfoolish)
 2016-12-10
 
 
@@ -567,9 +509,7 @@ Facebook problem: you see interesting stuff but its hard to find it again even i
 
 [![](media/2016-10-26/Timeline-Photos-thumb.jpg)](posts/2016-10-26-1.md)
 
-[Post Hillary victory: Prepare for the continued, possible worsen, era of trumpery: 
-https://hbr.org/2016/10/how-to-build-an-exit-ramp-for-trump-supporters
-http://www.dictionary.com/browse/trumpery?s=t](https://hbr.org/2016/10/how-to-build-an-exit-ramp-for-trump-supporters)
+[Post Hillary victory: Prepare for the continued, possible worsen, era of trumpery:  https://hbr.org/2016/10/how-to-build-an-exit-ramp-for-trump-supporters http://www.dictionary.com/browse/trumpery?s=t](https://hbr.org/2016/10/how-to-build-an-exit-ramp-for-trump-supporters)
 2016-10-25
 
 [![](media/2016-10-20/Timeline-Photos-thumb.jpg)](posts/2016-10-20-3.md) [![](media/2016-10-20/Timeline-Photos-1-thumb.jpg)](posts/2016-10-20-5.md)
@@ -579,9 +519,7 @@ http://www.dictionary.com/browse/trumpery?s=t](https://hbr.org/2016/10/how-to-bu
 
 
 
-[trumpery
-A recent book cataloged all the synonyms for bullshit, and one of the oldest dates back to the 1400s. It originally referred to trickery and scamming, although its meaning has evolved to include general nonsense and insignificance. That word: trumpery.
-http://money.cnn.com/2016/10/17/technology/donald-trump-deception/index.html](http://money.cnn.com/2016/10/17/technology/donald-trump-deception/index.html)
+[trumpery A recent book cataloged all the synonyms for bullshit, and one of the oldest dates back to the 1400s. It originally referred to trickery and scamming, although its meaning has evolved to include general nonsense and insignificance. That word: trumpery. http://money.cnn.com/2016/10/17/technology/donald-trump-deception/index.html](http://money.cnn.com/2016/10/17/technology/donald-trump-deception/index.html)
 2016-10-19
 
 
@@ -596,14 +534,7 @@ http://money.cnn.com/2016/10/17/technology/donald-trump-deception/index.html](ht
 
 
 
-[Make America One Again - 1956
-Let's return to the original USA motto: Out of many ONE!
-
-https://en.wikipedia.org/wiki/United_States_one-dollar_bill#History
-
-"THE UNITED STATES OF AMERICA" spans the top of the bill, "ONE DOLLAR" is emblazoned along the bottom, and above the central "ONE" are the words "IN GOD WE TRUST," which became the official motto of the United States in 1956. Below the reverse of the Great Seal on the left side of the bill are the words "THE GREAT SEAL," and below the obverse on the right side are the words "OF THE UNITED STATES."
-
-The eagle holds a ribbon in its beak reading "E PLURIBUS UNUM," a Latin phrase meaning "Out of many [states], one [nation]," a de facto motto of the United States (and the only one until 1956).](https://en.wikipedia.org/wiki/United_States_one-dollar_bill#History)
+[Make America One Again - 1956 Let's return to the original USA motto: Out of many ONE!  https://en.wikipedia.org/wiki/United_States_one-dollar_bill#History  "THE UNITED STATES OF AMERICA" spans the top of the bill, "ONE DOLLAR" is emblazoned along the bottom, and above the central "ONE" are the words "IN GOD WE TRUST," which became the official motto of the United States in 1956. Below the reverse of the Great Seal on the left side of the bill are the words "THE GREAT SEAL," and below the obverse on the right side are the words "OF THE UNITED STATES."  The eagle holds a ribbon in its beak reading "E PLURIBUS UNUM," a Latin phrase meaning "Out of many [states], one [nation]," a de facto motto of the United States (and the only one until 1956).](https://en.wikipedia.org/wiki/United_States_one-dollar_bill#History)
 2016-10-18
 
 [![](media/2016-09-21/Color-drop-slow-motion-experiment-thumb.jpg)](posts/2016-09-21-1.md) [![](media/2016-09-21/I-did-not-get-to-vote-when-I-turned-18-but-I-sure-will-now-thumb.jpg)](posts/2016-09-21-2.md) [![](media/2016-09-13/Timeline-Photos-Choosing-Love-Hope-and-Faith-over-Fear-Uncertain-thumb.jpg)](posts/2016-09-13-1.md)
@@ -614,8 +545,7 @@ The eagle holds a ribbon in its beak reading "E PLURIBUS UNUM," a Latin phrase m
 
 
 
-[http://www.johnhenrythompson.com/yoga/patanjani
-Thoughts on meditation.](http://www.johnhenrythompson.com/yoga/patanjani)
+[http://www.johnhenrythompson.com/yoga/patanjani Thoughts on meditation.](http://www.johnhenrythompson.com/yoga/patanjani)
 2016-09-04
 
 [![](media/2016-09-03/Timeline-Photos-Aunt-Iris-and-Lynn-minding-the-store-thumb.jpg)](posts/2016-09-03-1.md) [![](media/2016-09-03/Timeline-Photos-Dressed-and-pressed-Age-3-4-maybe-thumb.jpg)](posts/2016-09-03-2.md) [![](media/2016-09-03/Timeline-Photos-Helpful-bird-thumb.jpg)](posts/2016-09-03-3.md)
@@ -645,8 +575,7 @@ Thoughts on meditation.](http://www.johnhenrythompson.com/yoga/patanjani)
 
 
 
-[More color
-https://www.youtube.com/watch?v=QWUF51_Mwp0](https://www.youtube.com/watch?v=QWUF51_Mwp0)
+[More color https://www.youtube.com/watch?v=QWUF51_Mwp0](https://www.youtube.com/watch?v=QWUF51_Mwp0)
 2016-08-09
 
 [![](media/2016-08-09/Timeline-Photos-Clouds-thumb.jpg)](posts/2016-08-09-3.md) [![](media/2016-08-09/Timeline-Photos-Weapons-on-display-thumb.jpg)](posts/2016-08-09-4.md) [![](media/2016-08-09/Timeline-Photos-At-38-thousand-feet-and-minus-71-degrees-you-are-thumb.jpg)](posts/2016-08-09-5.md)
@@ -680,11 +609,7 @@ https://www.youtube.com/watch?v=QWUF51_Mwp0](https://www.youtube.com/watch?v=QWU
 
 
 
-[https://en.wikipedia.org/wiki/Free_State_of_Jones_(film)
-
-http://news.emory.edu/stories/2012/02/hidden_history_of_civil_rights_movement_tulsa/campus.html
-
-https://www.amazon.com/White-Rage-Unspoken-Racial-Divide/dp/1632864126](https://en.wikipedia.org/wiki/Free_State_of_Jones_(film))
+[https://en.wikipedia.org/wiki/Free_State_of_Jones_(film)  http://news.emory.edu/stories/2012/02/hidden_history_of_civil_rights_movement_tulsa/campus.html  https://www.amazon.com/White-Rage-Unspoken-Racial-Divide/dp/1632864126](https://en.wikipedia.org/wiki/Free_State_of_Jones_(film))
 2016-07-05
 
 [![](media/2016-07-03/IMG_5621-Outside-the-Barnes-They-can-t-stop-10x10-Strong-thumb.jpg)](posts/2016-07-03-1.md) [![](media/2016-07-03/IMG_5620-kicked-out-of-the-barnes-thumb.jpg)](posts/2016-07-03-2.md)
@@ -699,9 +624,7 @@ https://www.amazon.com/White-Rage-Unspoken-Racial-Divide/dp/1632864126](https://
 
 [![](media/2016-06-29/Timeline-Photos-Stephen-Lewis-thumb.jpg)](posts/2016-06-29-2.md)
 
-[https://www.youtube.com/watch?v=asw5p89vbyE&feature=youtu.be
-
-Nari Ward declared the Artist!](https://www.youtube.com/watch?v=asw5p89vbyE&feature=youtu.be)
+[https://www.youtube.com/watch?v=asw5p89vbyE&feature=youtu.be  Nari Ward declared the Artist!](https://www.youtube.com/watch?v=asw5p89vbyE&feature=youtu.be)
 2016-06-22
 
 [![](media/2016-06-22/Mobile-Uploads-We-The-People-thumb.jpg)](posts/2016-06-22-2.md) [![](media/2016-06-22/Mobile-Uploads-Mango-tourists-thumb.jpg)](posts/2016-06-22-3.md)
@@ -711,8 +634,7 @@ Nari Ward declared the Artist!](https://www.youtube.com/watch?v=asw5p89vbyE&feat
 
 
 
-[http://www.pbs.org/show/mercy-street/episodes/
-Missed this. Worth becoming a member to whyy to get access.](http://www.pbs.org/show/mercy-street/episodes/)
+[http://www.pbs.org/show/mercy-street/episodes/ Missed this. Worth becoming a member to whyy to get access.](http://www.pbs.org/show/mercy-street/episodes/)
 2016-06-21
 
 
@@ -722,8 +644,7 @@ Missed this. Worth becoming a member to whyy to get access.](http://www.pbs.org/
 
 
 
-[https://www.youtube.com/watch?v=QEZcdaIH-W8&feature=youtu.be
-Lots of cool videos of Nari on youtube!](https://www.youtube.com/watch?v=QEZcdaIH-W8&feature=youtu.be)
+[https://www.youtube.com/watch?v=QEZcdaIH-W8&feature=youtu.be Lots of cool videos of Nari on youtube!](https://www.youtube.com/watch?v=QEZcdaIH-W8&feature=youtu.be)
 2016-06-18
 
 [![](media/2016-06-16/10x10-thumb.jpg)](posts/2016-06-16-1.md) [![](media/2016-06-16/10x10-11-thumb.jpg)](posts/2016-06-16-2.md) [![](media/2016-06-16/10x10-12-thumb.jpg)](posts/2016-06-16-3.md)
@@ -768,23 +689,12 @@ Lots of cool videos of Nari on youtube!](https://www.youtube.com/watch?v=QEZcdaI
 
 
 
-[wikipedia's estimate of age of universe in Jul 2011 was 13.75 billion years
-today it is 13.799 billion years
-http://www.johnhenrythompson.com/z-blog-1/universeolder](http://www.johnhenrythompson.com/z-blog-1/universeolder)
+[wikipedia's estimate of age of universe in Jul 2011 was 13.75 billion years today it is 13.799 billion years http://www.johnhenrythompson.com/z-blog-1/universeolder](http://www.johnhenrythompson.com/z-blog-1/universeolder)
 2016-03-05
 
 
 
-[Why Vote?
-http://www.johnhenrythompson.com/z-blog-1/whyvote
-Change is hard to make in America. 
-History motivates me to vote and encourage others.
-
-Nov 22, 1963 (age 46) John F. Kennedy
-Feb 21, 1965 (age 39) Malcolm Little / Malcolm X / el-Hajj Malik el-Shabazz
-Feb 26, 1965 (age 26) Jimmie Lee Jackson
-Apr 4, 1968 (age 39) Martin Luther King, Jr.
-Jun 6, 1968 (age 42) Robert F. Kennedy](http://www.johnhenrythompson.com/z-blog-1/whyvote)
+[Why Vote? http://www.johnhenrythompson.com/z-blog-1/whyvote Change is hard to make in America.  History motivates me to vote and encourage others.  Nov 22, 1963 (age 46) John F. Kennedy Feb 21, 1965 (age 39) Malcolm Little / Malcolm X / el-Hajj Malik el-Shabazz Feb 26, 1965 (age 26) Jimmie Lee Jackson Apr 4, 1968 (age 39) Martin Luther King, Jr. Jun 6, 1968 (age 42) Robert F. Kennedy](http://www.johnhenrythompson.com/z-blog-1/whyvote)
 2016-03-05
 
 
@@ -839,16 +749,12 @@ Jun 6, 1968 (age 42) Robert F. Kennedy](http://www.johnhenrythompson.com/z-blog-
 
 
 
-[Discovering an Enslaved Artist and His Masterpiece
-http://www.theroot.com/articles/history/2014/04/juan_de_pareja_discovering_a_slave_artist_s_masterpiece.html?wpisrc=newsletter_jcr:content&mc_cid=98b9e1d0d2&mc_eid=e7663da2fd
-](http://www.theroot.com/articles/history/2014/04/juan_de_pareja_discovering_a_slave_artist_s_masterpiece.html?wpisrc=newsletter_jcr%3Acontent&mc_cid=98b9e1d0d2&mc_eid=e7663da2fd)
+[Discovering an Enslaved Artist and His Masterpiece http://www.theroot.com/articles/history/2014/04/juan_de_pareja_discovering_a_slave_artist_s_masterpiece.html?wpisrc=newsletter_jcr:content&mc_cid=98b9e1d0d2&mc_eid=e7663da2fd ](http://www.theroot.com/articles/history/2014/04/juan_de_pareja_discovering_a_slave_artist_s_masterpiece.html?wpisrc=newsletter_jcr%3Acontent&mc_cid=98b9e1d0d2&mc_eid=e7663da2fd)
 2014-04-23
 
 [![](media/2014-03-03/Heart-2-thumb.jpg)](posts/2014-03-03-1.md) [![](media/2014-03-03/Heart-2-IMG_2920-Version-2-thumb.jpg)](posts/2014-03-03-2.md)
 
-[For History Month:
-http://www.pbs.org/wnet/african-americans-many-rivers-to-cross/
-](http://www.pbs.org/wnet/african-americans-many-rivers-to-cross/)
+[For History Month: http://www.pbs.org/wnet/african-americans-many-rivers-to-cross/ ](http://www.pbs.org/wnet/african-americans-many-rivers-to-cross/)
 2014-02-12
 
 
@@ -858,10 +764,7 @@ http://www.pbs.org/wnet/african-americans-many-rivers-to-cross/
 
 
 
-[YINKA SHONIBARE MBE: MAGIC LADDERS
-http://www.barnesfoundation.org/exhibitions/upcoming/shonibare/
-http://nitephotosocial.smugmug.com/Events/Art-Cultural/Jan-24-2014-Opening-Party/
-](http://www.barnesfoundation.org/exhibitions/upcoming/shonibare/)
+[YINKA SHONIBARE MBE: MAGIC LADDERS http://www.barnesfoundation.org/exhibitions/upcoming/shonibare/ http://nitephotosocial.smugmug.com/Events/Art-Cultural/Jan-24-2014-Opening-Party/ ](http://www.barnesfoundation.org/exhibitions/upcoming/shonibare/)
 2014-01-26
 
 
@@ -881,14 +784,12 @@ http://nitephotosocial.smugmug.com/Events/Art-Cultural/Jan-24-2014-Opening-Party
 
 
 
-[Almost missed Computer Science Education Week. I'll be ready next year!
-http://csedweek.org](http://csedweek.org/)
+[Almost missed Computer Science Education Week. I'll be ready next year! http://csedweek.org](http://csedweek.org/)
 2013-12-13
 
 
 
-[Keep a look out for this documentary:
-http://www.scribe.org/events/producersforumfreeangelaandallpoliticalprisoners](http://www.scribe.org/events/producersforumfreeangelaandallpoliticalprisoners)
+[Keep a look out for this documentary: http://www.scribe.org/events/producersforumfreeangelaandallpoliticalprisoners](http://www.scribe.org/events/producersforumfreeangelaandallpoliticalprisoners)
 2013-11-28
 
 
@@ -994,8 +895,7 @@ http://www.scribe.org/events/producersforumfreeangelaandallpoliticalprisoners](h
 
 
 
-[Nari completed a piece in honor of his mother during his year in Italy:
-http://www.galleriacontinua.com/italiano/mostra.html?id_mostra=249](http://www.galleriacontinua.com/italiano/mostra.html?id_mostra=249)
+[Nari completed a piece in honor of his mother during his year in Italy: http://www.galleriacontinua.com/italiano/mostra.html?id_mostra=249](http://www.galleriacontinua.com/italiano/mostra.html?id_mostra=249)
 2013-07-09
 
 
@@ -1025,8 +925,7 @@ http://www.galleriacontinua.com/italiano/mostra.html?id_mostra=249](http://www.g
 
 [![](media/2013-05-20/Timeline-Photos-Philly-com-keeps-screwing-up-the-correct-picture-thumb.jpg)](posts/2013-05-20-1.md)
 
-[Team of 6 high school students get first-place in apps contest. Now with correct picture.
-http://www.philly.com/philly/columnists/20130425_Jeff_Gelles__High_school_team_puts_together_a_winning_app.html](http://www.philly.com/philly/columnists/20130425_Jeff_Gelles__High_school_team_puts_together_a_winning_app.html)
+[Team of 6 high school students get first-place in apps contest. Now with correct picture. http://www.philly.com/philly/columnists/20130425_Jeff_Gelles__High_school_team_puts_together_a_winning_app.html](http://www.philly.com/philly/columnists/20130425_Jeff_Gelles__High_school_team_puts_together_a_winning_app.html)
 2013-05-20
 
 [![](media/2013-05-07/Art-1985-thumb.jpg)](posts/2013-05-07-1.md) [![](media/2013-05-07/Art-1986-thumb.jpg)](posts/2013-05-07-2.md) [![](media/2013-05-07/Art-1987-thumb.jpg)](posts/2013-05-07-3.md)
@@ -1035,32 +934,27 @@ http://www.philly.com/philly/columnists/20130425_Jeff_Gelles__High_school_team_p
 
 [![](media/2013-05-07/Art-1991-thumb.jpg)](posts/2013-05-07-7.md) [![](media/2013-05-07/Art-1992-thumb.jpg)](posts/2013-05-07-8.md)
 
-[What's wrong with this picture?
-http://articles.philly.com/2013-04-26/business/38819764_1_mobile-app-tutors-six-students](http://articles.philly.com/2013-04-26/business/38819764_1_mobile-app-tutors-six-students)
+[What's wrong with this picture? http://articles.philly.com/2013-04-26/business/38819764_1_mobile-app-tutors-six-students](http://articles.philly.com/2013-04-26/business/38819764_1_mobile-app-tutors-six-students)
 2013-05-04
 
 [![](media/2013-05-03/Timeline-Photos-By-daughter-found-my-double-a-water-vendor-in-In-thumb.jpg)](posts/2013-05-03-1.md)
 
-[http://www.bartitsu.org
-Pretty cool mixed martial arts from the early 1900's](http://www.bartitsu.org/)
+[http://www.bartitsu.org Pretty cool mixed martial arts from the early 1900's](http://www.bartitsu.org/)
 2013-05-02
 
 [![](media/2013-04-07/Tri-on-Cynwyd-Trail-thumb.jpg)](posts/2013-04-07-1.md)
 
-[Lastest yoga practice
-http://www.youtube.com/watch?v=zjJI_3KuGR0](http://www.youtube.com/watch?v=zjJI_3KuGR0)
+[Lastest yoga practice http://www.youtube.com/watch?v=zjJI_3KuGR0](http://www.youtube.com/watch?v=zjJI_3KuGR0)
 2013-04-02
 
 [![](media/2013-03-21/Jervo-and-me-short-and-long-IMG_1608-Version-2-thumb.jpg)](posts/2013-03-21-1.md) [![](media/2013-03-21/Jervo-and-me-short-and-long-IMG_1606-Version-2-thumb.jpg)](posts/2013-03-21-2.md)
 
-[Desmond twin?
-http://www.cnn.com/2013/01/23/sport/football/benoit-assou-ekotto-cameroon/index.html?iid=article_sidebar](http://edition.cnn.com/2013/01/23/sport/football/benoit-assou-ekotto-cameroon/index.html)
+[Desmond twin? http://www.cnn.com/2013/01/23/sport/football/benoit-assou-ekotto-cameroon/index.html?iid=article_sidebar](http://edition.cnn.com/2013/01/23/sport/football/benoit-assou-ekotto-cameroon/index.html)
 2013-03-16
 
 
 
-[Let's have a energy security trust
-](http://wh.gov/ozvL)
+[Let's have a energy security trust ](http://wh.gov/ozvL)
 2013-03-15
 
 
@@ -1091,14 +985,12 @@ http://www.cnn.com/2013/01/23/sport/football/benoit-assou-ekotto-cameroon/index.
 
 [![](media/2013-02-17/Half-COlor-thumb.jpg)](posts/2013-02-17-1.md)
 
-[DICE video experiments from 2006, me and my youngest son messing around with some Capoeira moves. He's much taller now:
-http://www.youtube.com/playlist?list=PLTqu0aYG0uh6MD89656cgYKtrHvCiGA6c&feature=view_all](http://www.youtube.com/playlist?list=PLTqu0aYG0uh6MD89656cgYKtrHvCiGA6c)
+[DICE video experiments from 2006, me and my youngest son messing around with some Capoeira moves. He's much taller now: http://www.youtube.com/playlist?list=PLTqu0aYG0uh6MD89656cgYKtrHvCiGA6c&feature=view_all](http://www.youtube.com/playlist?list=PLTqu0aYG0uh6MD89656cgYKtrHvCiGA6c)
 2013-02-12
 
 
 
-[Started online course offer my MIT Media Lab: 
-http://www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning](http://www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning)
+[Started online course offer my MIT Media Lab:  http://www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning](http://www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning)
 2013-02-12
 
 [![](media/2013-02-12/IMG_1542-AJ-playing-with-my-DICE-Color-Dance-video-effects-iphon-thumb.jpg)](posts/2013-02-12-3.md)
@@ -1156,15 +1048,12 @@ http://www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning]
 
 
 
-[Event unfolding:
-http://www.j4u2.com/breadfruit/digi-jam/](http://www.j4u2.com/breadfruit/digi-jam/)
+[Event unfolding: http://www.j4u2.com/breadfruit/digi-jam/](http://www.j4u2.com/breadfruit/digi-jam/)
 2012-04-23
 
 
 
-[My latest project: a week in Jamaica training and mentor youth for a mobile apps competition sponsored by the World Bank:
-http://www.j4u2.com/breadfruit/
-](http://www.j4u2.com/breadfruit/)
+[My latest project: a week in Jamaica training and mentor youth for a mobile apps competition sponsored by the World Bank: http://www.j4u2.com/breadfruit/ ](http://www.j4u2.com/breadfruit/)
 2012-04-22
 
 
@@ -1211,8 +1100,7 @@ http://www.j4u2.com/breadfruit/
 
 [![](media/2012-02-04/Copper-Circles-iPhone-thumb.jpg)](posts/2012-02-04-1.md)
 
-[Working on a comparison of various translations and interpretations of Patanjali's Yoga Sutras.
- http://www.johnhenrythompson.com/i-choose-ashtanga/patanjani ](http://www.johnhenrythompson.com/i-choose-ashtanga/patanjani)
+[Working on a comparison of various translations and interpretations of Patanjali's Yoga Sutras.  http://www.johnhenrythompson.com/i-choose-ashtanga/patanjani ](http://www.johnhenrythompson.com/i-choose-ashtanga/patanjani)
 2012-01-19
 
 [![](media/2012-01-08/Copper-Circles-iPhone-thumb.jpg)](posts/2012-01-08-1.md) [![](media/2012-01-08/Copper-Circles-iPhone-1-thumb.jpg)](posts/2012-01-08-2.md) [![](media/2012-01-08/Copper-Circles-iPhone-2-thumb.jpg)](posts/2012-01-08-3.md)
@@ -1243,16 +1131,12 @@ http://www.j4u2.com/breadfruit/
 
 
 
-[http://www.johnhenrythompson.com/z-blog-1/songclipsupdate
-
-Updated SongClips pages.
-](http://www.johnhenrythompson.com/z-blog-1/songclipsupdate)
+[http://www.johnhenrythompson.com/z-blog-1/songclipsupdate  Updated SongClips pages. ](http://www.johnhenrythompson.com/z-blog-1/songclipsupdate)
 2011-11-20
 
 
 
-[http://www.johnhenrythompson.com/songclips-app
-Update description of my SongClips and added demo clips.](http://www.johnhenrythompson.com/songclips-app)
+[http://www.johnhenrythompson.com/songclips-app Update description of my SongClips and added demo clips.](http://www.johnhenrythompson.com/songclips-app)
 2011-11-19
 
 [![](media/2011-11-05/Nari-we-the-people-IMG_0008-thumb.jpg)](posts/2011-11-05-2.md) [![](media/2011-11-05/Nari-we-the-people-IMG_0007-thumb.jpg)](posts/2011-11-05-3.md) [![](media/2011-11-05/Nari-we-the-people-IMG_0006-thumb.jpg)](posts/2011-11-05-4.md)
@@ -1271,8 +1155,7 @@ Update description of my SongClips and added demo clips.](http://www.johnhenryth
 
 
 
-[Another computer science pioneer passing. I remember the elegance of a lisp interpreter expressed in a few pages of lisp code.
-http://news.cnet.com/8301-1001_3-20125026-92/john-mccarthy-creator-of-lisp-programming-language-dies/](http://news.cnet.com/8301-1001_3-20125026-92/john-mccarthy-creator-of-lisp-programming-language-dies/)
+[Another computer science pioneer passing. I remember the elegance of a lisp interpreter expressed in a few pages of lisp code. http://news.cnet.com/8301-1001_3-20125026-92/john-mccarthy-creator-of-lisp-programming-language-dies/](http://news.cnet.com/8301-1001_3-20125026-92/john-mccarthy-creator-of-lisp-programming-language-dies/)
 2011-10-25
 
 
@@ -1282,8 +1165,7 @@ http://news.cnet.com/8301-1001_3-20125026-92/john-mccarthy-creator-of-lisp-progr
 
 
 
-[A fond farewell to another computer pioneer.
-http://en.wikipedia.org/wiki/Dennis_Ritchie](http://en.wikipedia.org/wiki/Dennis_Ritchie)
+[A fond farewell to another computer pioneer. http://en.wikipedia.org/wiki/Dennis_Ritchie](http://en.wikipedia.org/wiki/Dennis_Ritchie)
 2011-10-14
 
 
@@ -1293,8 +1175,7 @@ http://en.wikipedia.org/wiki/Dennis_Ritchie](http://en.wikipedia.org/wiki/Dennis
 
 
 
-[http://www.johnhenrythompson.com/i-choose-ashtanga
-Updated article - added links to individual asanas.](http://www.johnhenrythompson.com/i-choose-ashtanga)
+[http://www.johnhenrythompson.com/i-choose-ashtanga Updated article - added links to individual asanas.](http://www.johnhenrythompson.com/i-choose-ashtanga)
 2011-09-24
 
 
@@ -1304,19 +1185,12 @@ Updated article - added links to individual asanas.](http://www.johnhenrythompso
 
 
 
-[In My Yoga Journey added jumps into video from images of the asanas (postures).
-http://www.johnhenrythompson.com/yoga-journey](http://www.johnhenrythompson.com/yoga-journey)
+[In My Yoga Journey added jumps into video from images of the asanas (postures). http://www.johnhenrythompson.com/yoga-journey](http://www.johnhenrythompson.com/yoga-journey)
 2011-09-09
 
 
 
-[http://www.youtube.com/watch?v=g-YiEjrvqkA
-"...What's up Money My name is T'Nez
-Me need you to buy my baby feedings
-... Clasp me hands and close me eyes
-Money where are you when me want cloths to buy
-Where are you when my mother feel ill 
-and she can't play the bill for prescription fill..." ](http://www.youtube.com/watch?v=g-YiEjrvqkA)
+[http://www.youtube.com/watch?v=g-YiEjrvqkA "...What's up Money My name is T'Nez Me need you to buy my baby feedings ... Clasp me hands and close me eyes Money where are you when me want cloths to buy Where are you when my mother feel ill  and she can't play the bill for prescription fill..." ](http://www.youtube.com/watch?v=g-YiEjrvqkA)
 2011-08-06
 
 
@@ -1365,9 +1239,7 @@ and she can't play the bill for prescription fill..." ](http://www.youtube.com/w
 
 
 
-[http://www.johnhenrythompson.com/z-blog-1/bignumbers
-1000x1000x1000 = 1 billion
-](http://www.johnhenrythompson.com/z-blog-1/bignumbers)
+[http://www.johnhenrythompson.com/z-blog-1/bignumbers 1000x1000x1000 = 1 billion ](http://www.johnhenrythompson.com/z-blog-1/bignumbers)
 2011-06-11
 
 
@@ -1396,9 +1268,7 @@ and she can't play the bill for prescription fill..." ](http://www.youtube.com/w
 
 [![](media/2011-06-05/Magnetic-Balls-IMG_0142-thumb.jpg)](posts/2011-06-05-11.md) [![](media/2011-06-05/Magnetic-Balls-IMG_0141-thumb.jpg)](posts/2011-06-05-12.md)
 
-[Ashtanga after 3 more months
-http://www.youtube.com/watch?v=L6M3EDv51Tk
-http://www.johnhenrythompson.com/z-blog-1/ashtangaafter3moremonths](http://www.youtube.com/watch?v=L6M3EDv51Tk)
+[Ashtanga after 3 more months http://www.youtube.com/watch?v=L6M3EDv51Tk http://www.johnhenrythompson.com/z-blog-1/ashtangaafter3moremonths](http://www.youtube.com/watch?v=L6M3EDv51Tk)
 2011-04-03
 
 
@@ -1413,8 +1283,7 @@ http://www.johnhenrythompson.com/z-blog-1/ashtangaafter3moremonths](http://www.y
 
 
 
-[My Yoga Journey
-http://www.johnhenrythompson.com/yoga-journey](http://www.johnhenrythompson.com/yoga-journey)
+[My Yoga Journey http://www.johnhenrythompson.com/yoga-journey](http://www.johnhenrythompson.com/yoga-journey)
 2011-01-16
 
 
@@ -1457,8 +1326,7 @@ http://www.johnhenrythompson.com/yoga-journey](http://www.johnhenrythompson.com/
 
 [![](media/2009-12-31/Timeline-Photos-Happy-new-year-2010-from-the-Thompsons-thumb.jpg)](posts/2009-12-31-2.md)
 
-[Nice online image editor. Free and fast.
-http://www.pixlr.com/editor/](http://www.pixlr.com/editor/)
+[Nice online image editor. Free and fast. http://www.pixlr.com/editor/](http://www.pixlr.com/editor/)
 2009-08-31
 
 [![](media/2009-08-31/Timeline-Photos-jt_pc_cu-jpg.jpg)](posts/2009-08-31-2.md) [![](media/2008-04-02/Teddies.jpg)](posts/2008-04-02-1.md) [![](media/2008-04-02/Teddies-1.jpg)](posts/2008-04-02-2.md)

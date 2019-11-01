@@ -19,6 +19,7 @@ run();
 function run_init() {
   config.md_path = path.resolve(config.md_path);
   config.reg_lastnum = /([\d]+)$/g;
+  config.reg_nl = /\n/g;
   config.pagemd_dict = {};
 }
 
@@ -60,6 +61,7 @@ function run() {
     } else if (npost.url) {
       // No thumb, has url
       flush_lns();
+      caption = caption.replace(config.reg_nl, ' ');
       mds.push(`[${caption}](${npost.url})`);
       mds.push(fdate);
       mds.push('');
