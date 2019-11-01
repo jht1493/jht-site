@@ -5,17 +5,18 @@
 
 const fs = require('fs-extra');
 const path = require('path');
-var Jimp = require('jimp');
 
-let md_path = '../../jht-facebo-md';
-const npost_path = './facebo.json';
+const config = {
+  md_path: '../../jht-facebo-md',
+  npost_path: './facebo.json'
+};
 
-md_path = path.resolve(md_path);
+config.md_path = path.resolve(config.md_path);
 
 run();
 
 async function run() {
-  const nposts = fs.readJsonSync(npost_path);
+  const nposts = fs.readJsonSync(config.npost_path);
   const n = nposts.length;
   // const n = 100;
   let missing = 0;
