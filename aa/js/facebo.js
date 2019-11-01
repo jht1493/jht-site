@@ -1,5 +1,7 @@
 //
-// Create facebo.json and copy media to jht-facebo-md/media
+// Transform faceboook export to facebo.json
+//  and copy media to jht-facebo-md/media
+// Example structure of jht-facebo-md/media
 // 2019-08-23
 //   thaddeus-stevens-equality-IMG_0186.jpg
 //   thaddeus-stevens-equality-IMG_0186.jpg-thumb.png

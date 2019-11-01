@@ -36,6 +36,18 @@ Twitter to ban all political ads amid 2020 election uproar
 The social network’s decision sets it apart from Facebook, which has defended its controversial policies
 Oct. 30, 2019
 
+https://www.washingtonpost.com/politics/2019/10/14/president-trump-has-made-false-or-misleading-claims-over-days/
+
+President Trump has made 13,435 false or misleading claims over 993 days
+Oct. 14, 2019
+
+https://money.cnn.com/2016/10/17/technology/donald-trump-deception/index.html
+
+Trump's bullsh\*t: Why his supporters don't care that he's lying
+October 17, 2016
+
+Beware ["trumpery"](https://www.amazon.com/Bullshit-Lexicon-Mark-Peters/dp/1101904534).
+
 ## What's here
 
 [Inspired by the great migration](<https://en.wikipedia.org/wiki/Great_Migration_(African_American)>).
