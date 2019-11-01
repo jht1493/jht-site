@@ -34,6 +34,7 @@ July 2019
 https://money.cnn.com/2016/10/17/technology/donald-trump-deception/index.html
 
 "Trump's bullsh\*t: Why his supporters don't care that he's lying."
+
 "...It originally referred to trickery and scamming, although
 its meaning has evolved to include general nonsense and insignificance. That word:
 ["trumpery"](https://www.amazon.com/Bullshit-Lexicon-Mark-Peters/dp/1101904534)..."
