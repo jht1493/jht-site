@@ -11,7 +11,7 @@ const config = {
   npost_path: './facebo.json',
   posts_folder: 'posts',
   root_md: 'README.md',
-  n_per_row: 3
+  n_per_row: 4
 };
 
 run();
