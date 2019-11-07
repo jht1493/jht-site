@@ -9,7 +9,7 @@ const turndownService = new TurndownService();
 
 // const rpath = '../www.johnhenrythompson.com';
 // const opath = '../jht-md';
-const rpath = '../../www_j4u2_com';
+const rpath = '../www_j4u2_com';
 const opath = '../../j4u2-md';
 // const hext = '.html';
 const hext = '.htm';

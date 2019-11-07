@@ -1,5 +1,11 @@
 # Facts
 
+https://observer.com/2019/11/dread-scott-slave-rebellion-reenactment-antenna-performance-preview/amp/
+
+"...On November 8 and 9, (Dread) Scott will launch what will undoubtedly be the most ambitious and
+important artwork of the year with the help of the New Orleans-based non-profit,
+Antenna: Slave Rebellion Reenactment..." Nov 6, 2019
+
 https://www.latimes.com/business/technology/story/2019-10-31/github-ice-contract-defense
 
 "GitHub is trying to quell employee anger over its ICE contract. It’s not going well."
@@ -10,6 +16,11 @@ https://www.washingtonpost.com/technology/2019/10/30/twitter-ban-all-political-a
 "Twitter to ban all political ads amid 2020 election uproar
 The social network’s decision sets it apart from Facebook, which has defended its controversial policies."
 Oct. 30, 2019
+
+https://www.npr.org/2019/10/25/773334681/devos-held-in-contempt-of-court-ed-department-fined-100-000-in-student-loan-case
+
+A federal judge has fined U.S. Education Secretary Betsy DeVos for contempt of court for failing to
+stop collecting loans from former students of a now-defunct chain of for-profit colleges. Oct 25 2019
 
 https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way
 
@@ -39,3 +50,7 @@ https://money.cnn.com/2016/10/17/technology/donald-trump-deception/index.html
 its meaning has evolved to include general nonsense and insignificance. That word:
 ["trumpery"](https://www.amazon.com/Bullshit-Lexicon-Mark-Peters/dp/1101904534)..."
 October 17, 2016
+
+https://www.pbs.org/wgbh/frontline/article/robert-brulle-inside-the-climate-change-countermovement/
+“the climate change countermovement.”
+“this movement has had a real political and ecological impact on the failure of the world to act” Oct 23, 2012
