@@ -61,19 +61,23 @@ Recent experiments:
 [half bw, half colored](http://youtube.com/watch?v=Z6z09QfPaW0)
 
 [![](_/rsrc/1540258178968/home/IMG_5174.jpg)](http://www.johnhenrythompson.com/home/IMG_5174.jpg?attredirects=0) 
+
 2018 DICE: Iron Pixel
 
 [![](_/rsrc/1330015952311/home/glasses-height=228&width=320.png)](http://www.youtube.com/watch?v=a8xpj3_LyQM) 
+
 2012 iPhone app to colorize video.
 
 [![](_/rsrc/1330015591429/home/jht1984-3d-full-height=254&width=320.png)](http://www.youtube.com/watch?v=NDn-GaVp264)  
+
 Back in the 1980's - 3D animation and video still.
 
 [![](_/rsrc/1330016390621/home/colordance-height=251&width=320.png)](http://www.youtube.com/watch?v=-Gfe4iMPAGQ)
 
 Color Dance - colorized music video.
 
-[![](_/rsrc/1307476195091/home/83_jt_ibm_pc.jpg)](http://www.johnhenrythompson.com/home/83_jt_ibm_pc.jpg?attredirects=0)  
+[![](_/rsrc/1307476195091/home/83_jt_ibm_pc.jpg)](http://www.johnhenrythompson.com/home/83_jt_ibm_pc.jpg?attredirects=0) 
+
 That's an IBM PC second edition, 1984.
 
 Subpages (4): [Ancestors](home/who-am-i.md) [Brief Bio](home/bio.md) [interview 2010](home/interview-2010.md) [Interviews 1994 - 2012](home/interviews.md)
