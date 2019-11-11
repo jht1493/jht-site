@@ -4,7 +4,9 @@ Brief Bio
 
 ### Brief Bio
 
-[![](../_/rsrc/1481644120915/home/bio/me-height=242&width=320.jpg)](http://www.j4u2.com/jht/art1981.html) [![](../_/rsrc/1481644120915/home/bio/me-color-rainbow-height=180&width=320.png)](https://www.youtube.com/watch?feature=player_embedded&v=Z6z09QfPaW0) [![](../_/rsrc/1481644120915/home/bio/ash-6mo-head-cu-height=320&width=272.png)](http://www.youtube.com/watch?v=plPbLxta760)
+[![](../_/rsrc/1481644120915/home/bio/me-height=242&width=320.jpg)](http://www.j4u2.com/jht/art1981.html) 
+[![](../_/rsrc/1481644120915/home/bio/me-color-rainbow-height=180&width=320.png)](https://www.youtube.com/watch?feature=player_embedded&v=Z6z09QfPaW0) 
+[![](../_/rsrc/1481644120915/home/bio/ash-6mo-head-cu-height=320&width=272.png)](http://www.youtube.com/watch?v=plPbLxta760)
 
 > Bio For Present Century - 2010's:
 
