@@ -60,10 +60,10 @@ Recent experiments:
 
 [half bw, half colored](http://youtube.com/watch?v=Z6z09QfPaW0)
 
-[![](_/rsrc/1540258178968/home/IMG_5174.jpg)](http://www.johnhenrythompson.com/home/IMG_5174.jpg?attredirects=0)
+[![](_/rsrc/1540258178968/home/IMG_5174.jpg)](http://www.johnhenrythompson.com/home/IMG_5174.jpg?attredirects=0) 
 2018 DICE: Iron Pixel
 
-[![](_/rsrc/1330015952311/home/glasses-height=228&width=320.png)](http://www.youtube.com/watch?v=a8xpj3_LyQM)  
+[![](_/rsrc/1330015952311/home/glasses-height=228&width=320.png)](http://www.youtube.com/watch?v=a8xpj3_LyQM) 
 2012 iPhone app to colorize video.
 
 [![](_/rsrc/1330015591429/home/jht1984-3d-full-height=254&width=320.png)](http://www.youtube.com/watch?v=NDn-GaVp264)  
