@@ -40,11 +40,11 @@ People due much respect and honor:
 
 [Muriel Cooper - Founder of the MIT Visible Language Workshop](https://en.wikipedia.org/wiki/Muriel_Cooper)
 
-> [Lewis Howard Latimer (1848-1928)](https://en.wikipedia.org/wiki/Lewis_Howard_Latimer)
->
-> [Granville Tailer Woods (1856 - 1910)](https://en.wikipedia.org/wiki/Granville_Woods)
->
-> [Elijah McCoy (1844 - 1929)](https://en.wikipedia.org/wiki/Elijah_McCoy)
+[Lewis Howard Latimer (1848-1928)](https://en.wikipedia.org/wiki/Lewis_Howard_Latimer)
+
+[Granville Tailer Woods (1856 - 1910)](https://en.wikipedia.org/wiki/Granville_Woods)
+
+[Elijah McCoy (1844 - 1929)](https://en.wikipedia.org/wiki/Elijah_McCoy)
 
 [K. Pattabhi Jois](http://kpjayi.org/biographies/k-pattabhi-jois) - founder of Ashtanga Yoga.
 
