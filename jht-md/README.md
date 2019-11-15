@@ -82,6 +82,6 @@ Color Dance - colorized music video.
 
 [![](_/rsrc/1307476195091/home/83_jt_ibm_pc.jpg)](http://www.johnhenrythompson.com/home/83_jt_ibm_pc.jpg?attredirects=0)
 
-The computer is an IBM PC second edition, 1984.
+The computer is an IBM PC second edition, 1984. At Richard Beers crib, exploring MIDI creative possibilities.
 
 Subpages (4): [Ancestors](home/who-am-i.md) [Brief Bio](home/bio.md) [interview 2010](home/interview-2010.md) [Interviews 1994 - 2012](home/interviews.md)
