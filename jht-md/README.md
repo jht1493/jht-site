@@ -36,7 +36,7 @@ I want to make it easy for people to use the computer as an expressive instrumen
 
 >
 
-What  the web says about me:
+What the web says about me:
 
 > [Connecting the past to the present with Laura Powers](https://www.youtube.com/watch?v=46rz6-uD_E4&list=PL_nujIbA6R4sYW-PQ0QNAu8vqJgPhUFeC) 2015
 
@@ -50,25 +50,27 @@ Other links
 
 > [“NYU/ITP Black Genius Award 1997” video](http://www.youtube.com/watch?v=9OesTbXh5us)
 
-[Patanjali 4.17 "An object is known or unknown depending on whether or not the mind gets colored by it."](yoga/patanjani/book-4/417.md)
+> [Patanjali 4.17 "An object is known or unknown depending on whether or not the mind gets colored by it."](yoga/patanjani/book-4/417.md)
 
-Recent experiments:
+### Explorations
 
-#### DICE Images
+#### DICE Videos
 
 [DICE 2018 Demo](http://youtube.com/watch?v=z1cH5ou8OkA)
 
 [half bw, half colored](http://youtube.com/watch?v=Z6z09QfPaW0)
 
-[![](_/rsrc/1540258178968/home/IMG_5174.jpg)](http://www.johnhenrythompson.com/home/IMG_5174.jpg?attredirects=0) 
+#### DICE Images
+
+[![](_/rsrc/1540258178968/home/IMG_5174.jpg)](http://www.johnhenrythompson.com/home/IMG_5174.jpg?attredirects=0)
 
 2018 DICE: Iron Pixel
 
-[![](_/rsrc/1330015952311/home/glasses-height=228&width=320.png)](http://www.youtube.com/watch?v=a8xpj3_LyQM) 
+[![](_/rsrc/1330015952311/home/glasses-height=228&width=320.png)](http://www.youtube.com/watch?v=a8xpj3_LyQM)
 
 2012 iPhone app to colorize video.
 
-[![](_/rsrc/1330015591429/home/jht1984-3d-full-height=254&width=320.png)](http://www.youtube.com/watch?v=NDn-GaVp264)  
+[![](_/rsrc/1330015591429/home/jht1984-3d-full-height=254&width=320.png)](http://www.youtube.com/watch?v=NDn-GaVp264)
 
 Back in the 1980's - 3D animation and video still.
 
@@ -76,7 +78,7 @@ Back in the 1980's - 3D animation and video still.
 
 Color Dance - colorized music video.
 
-[![](_/rsrc/1307476195091/home/83_jt_ibm_pc.jpg)](http://www.johnhenrythompson.com/home/83_jt_ibm_pc.jpg?attredirects=0) 
+[![](_/rsrc/1307476195091/home/83_jt_ibm_pc.jpg)](http://www.johnhenrythompson.com/home/83_jt_ibm_pc.jpg?attredirects=0)
 
 That's an IBM PC second edition, 1984.
 
