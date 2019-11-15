@@ -40,9 +40,11 @@ What the web says about me:
 
 > [Connecting the past to the present with Laura Powers](https://www.youtube.com/watch?v=46rz6-uD_E4&list=PL_nujIbA6R4sYW-PQ0QNAu8vqJgPhUFeC) 2015
 
-> [John Henry Thompson - www.black-inventor.com](http://www.black-inventor.com/John-Thompson.asp)
+> [John Henry Thompson - www.black-inventor.com](http://www.black-inventor.com/John-Thompson.asp) (Link has died 2019/11)
 
 > [John Thompson - www.ieeeghn.org](http://www.ieeeghn.org/wiki/index.php/John_Thompson)
+
+> [Pioneers of Computing. 5 of 6](http://2015group38comp1220uwi.weebly.com/john-henry-thompson.html)
 
 Other links
 
@@ -58,7 +60,7 @@ Other links
 
 [DICE 2018 Demo](http://youtube.com/watch?v=z1cH5ou8OkA)
 
-[half bw, half colored](http://youtube.com/watch?v=Z6z09QfPaW0)
+[half bw, half colored, Nov 2012](http://youtube.com/watch?v=Z6z09QfPaW0)
 
 #### DICE Images
 
