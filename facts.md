@@ -1,5 +1,10 @@
 # Facts
 
+https://www.cnn.com/2019/11/22/politics/donald-trump-fiona-hill-impeachment-ukraine/index.html
+
+"Washington (CNN)Fiona Hill, the last witness in two weeks of televised impeachment hearings,
+made the case against her old boss President Donald Trump..." Nov 11, 2019
+
 https://observer.com/2019/11/dread-scott-slave-rebellion-reenactment-antenna-performance-preview/amp/
 
 "...On November 8 and 9, (Dread) Scott will launch what will undoubtedly be the most ambitious and
