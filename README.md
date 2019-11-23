@@ -53,7 +53,7 @@ July 2019
 [jht-facebo-md/README.md](jht-facebo-md/README.md) Markdown version of my facebook posts.
 Created with scripts aa/js/facebo.js and face-md.js
 
-No media yet.
+Media uploaded 2019-11-22, 599,213,418 bytes (602.6 MB on disk) for 1,801 items.
 
 ### Migrations pending
 
