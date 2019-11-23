@@ -52,6 +52,7 @@ function run() {
     lns = [];
   }
   let fdate;
+  let path_prefix = '';
   for (let index = 0; index < nposts_n; index++) {
     const npost = nposts[index];
     let caption = npost.description || npost.text || npost.title;
@@ -64,7 +65,10 @@ function run() {
     npost.pagemd = pagemd;
     npost.caption = caption;
     if (thumb) {
-      lns.push(`[![](${thumb})](${config.posts_folder}/${pagemd}.md)`);
+      lns.push(
+        `[![](${path_prefix + thumb})](${path_prefix +
+          config.posts_folder}/${pagemd}.md)`
+      );
       // mds.push(caption);
       // mds.push(fdate);
       // write_pagemd(npost, pagemd, caption);
@@ -92,6 +96,7 @@ function run() {
       pages_mds_date.push(fdate);
       mds = [];
       per_page_count = 0;
+      path_prefix = '../';
     }
   }
   if (lns.length > 0) {
@@ -102,13 +107,19 @@ function run() {
     pages_mds_date.push(fdate);
   }
   write_thumb_posts(thumb_posts);
-  write_pages_mds(pages_mds, pages_mds_date, from_date, to_date);
+  write_pages_mds(pages_mds, pages_mds_date, from_date, to_date, nposts_n);
 
   console.log('nposts.length=' + nposts.length);
   console.log('missing=' + missing);
 }
 
-function write_pages_mds(pages_mds, pages_mds_date, from_date, to_date) {
+function write_pages_mds(
+  pages_mds,
+  pages_mds_date,
+  from_date,
+  to_date,
+  nposts_n
+) {
   make_pages_links(pages_mds_date);
   let footer_link;
   for (let index = 1; index < pages_mds.length; index++) {
@@ -124,16 +135,16 @@ function write_pages_mds(pages_mds, pages_mds_date, from_date, to_date) {
   lns.push('');
   lns.push('Migrated from https://www.facebook.com/johnhenrythompson');
   lns.push('');
-  lns.push(`${mds.length} Posts from ${from_date} to ${to_date}`);
+  lns.push(`${nposts_n} Posts from ${from_date} to ${to_date}`);
   lns.push('');
   const footer = `[More](${config.pages_folder}/${footer_link})`;
   const fpath = path.resolve(config.md_path, config.root_md);
-  fs.writeFileSync(fpath, lns.join('\n') + mds.join('\n') + footer);
+  fs.writeFileSync(fpath, lns.join('\n') + mds.join('\n') + '\n' + footer);
 }
 
 function make_pages_links(pages_mds_date) {
   config.pages_links = ['../' + config.root_md];
-  for (let index = 1; index < pages_mds.length; index++) {
+  for (let index = 1; index < pages_mds_date.length; index++) {
     const fname = format_page_pagemd(pages_mds_date[index]);
     const link = `${fname}.md`;
     config.pages_links.push(link);
@@ -149,14 +160,15 @@ function write_pages_mds_index(pages_mds, index) {
   const lns = [];
   lns.push('# [John Henry Thompson](../README.md)');
   lns.push('');
-  if (prev_link) lns.push(`[Back](${prev_link})]`);
+  if (prev_link) lns.push(`[Back](${prev_link})`);
   lns.push('');
+  lns.push('');
+  mds.push('');
   let footer = '';
   if (next_link) footer = `[More](${next_link})`;
-  const fname = config.pages_links[index];
-  const fpath = path.resolve(config.pafolder, fname);
+  const link = config.pages_links[index];
+  const fpath = path.resolve(config.pafolder, link);
   fs.writeFileSync(fpath, lns.join('\n') + mds.join('\n') + footer);
-
   return link;
 }
 
@@ -232,7 +244,7 @@ function format_pagemd(fname) {
 }
 
 function format_page_pagemd(fname) {
-  num = config.pagemd_dict[fname];
+  num = config.page_pagemd_dict[fname];
   if (!num) {
     num = 1;
   } else {
