@@ -137,7 +137,7 @@ function write_pages_mds(
   lns.push('');
   lns.push(`${nposts_n} Posts from ${from_date} to ${to_date}`);
   lns.push('');
-  const footer = `[More](${config.pages_folder}/${footer_link})`;
+  const footer = `[Next >](${config.pages_folder}/${footer_link})`;
   const fpath = path.resolve(config.md_path, config.root_md);
   fs.writeFileSync(fpath, lns.join('\n') + mds.join('\n') + '\n' + footer);
 }
@@ -160,12 +160,12 @@ function write_pages_mds_index(pages_mds, index) {
   const lns = [];
   lns.push('# [John Henry Thompson](../README.md)');
   lns.push('');
-  if (prev_link) lns.push(`[Back](${prev_link})`);
+  if (prev_link) lns.push(`[< Previous](${prev_link})`);
   lns.push('');
   lns.push('');
   mds.push('');
   let footer = '';
-  if (next_link) footer = `[More](${next_link})`;
+  if (next_link) footer = `[Next >](${next_link})`;
   const link = config.pages_links[index];
   const fpath = path.resolve(config.pafolder, link);
   fs.writeFileSync(fpath, lns.join('\n') + mds.join('\n') + footer);
