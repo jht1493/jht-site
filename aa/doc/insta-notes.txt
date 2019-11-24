@@ -1,0 +1,8 @@
+
+/Volumes/GSPOT/jht/DICE-archived/web/johnhenrythompson1493_20191025/media.json
+  "photos": [
+    {
+      "caption": "I am an immigrant!",
+      "taken_at": "2018-11-05T20:19:29",
+      "path": "photos/201811/2b45e454203f6679093fa9141084d5fc.jpg"
+    },
