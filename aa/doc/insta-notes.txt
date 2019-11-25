@@ -6,3 +6,19 @@
       "taken_at": "2018-11-05T20:19:29",
       "path": "photos/201811/2b45e454203f6679093fa9141084d5fc.jpg"
     },
+
+  "stories": [
+    {
+      "caption": "",
+      "taken_at": "2017-12-13T08:15:00",
+      "path": "stories/201712/486f04be0ee798ec4a74ac9000f46c5d.jpg"
+    }
+  ],
+  "profile": [
+    {
+      "caption": "",
+      "taken_at": "2017-08-27T03:48:24",
+      "is_active_profile": true,
+      "path": "profile/201708/4aa0959fc2f0b85af4eedd9b92b3f769.jpg"
+    }
+  ]
