@@ -65,10 +65,7 @@ function run() {
     npost.pagemd = pagemd;
     npost.caption = caption;
     if (thumb) {
-      lns.push(
-        `[![](${path_prefix + thumb})](${path_prefix +
-          config.posts_folder}/${pagemd}.md)`
-      );
+      lns.push(`[![](${path_prefix + thumb})](${path_prefix + config.posts_folder}/${pagemd}.md)`);
       // mds.push(caption);
       // mds.push(fdate);
       // write_pagemd(npost, pagemd, caption);
@@ -113,13 +110,7 @@ function run() {
   console.log('missing=' + missing);
 }
 
-function write_pages_mds(
-  pages_mds,
-  pages_mds_date,
-  from_date,
-  to_date,
-  nposts_n
-) {
+function write_pages_mds(pages_mds, pages_mds_date, from_date, to_date, nposts_n) {
   make_pages_links(pages_mds_date);
   let footer_link;
   for (let index = 1; index < pages_mds.length; index++) {
@@ -137,7 +128,7 @@ function write_pages_mds(
   lns.push('');
   lns.push(`${nposts_n} Posts from ${from_date} to ${to_date}`);
   lns.push('');
-  const footer = `[[ Next > ]](${config.pages_folder}/${footer_link})`;
+  const footer = `[[ Next> ]](${config.pages_folder}/${footer_link})`;
   const fpath = path.resolve(config.md_path, config.root_md);
   fs.writeFileSync(fpath, lns.join('\n') + mds.join('\n') + '\n' + footer);
 }
@@ -160,12 +151,12 @@ function write_pages_mds_index(pages_mds, index) {
   const lns = [];
   lns.push('# [John Henry Thompson](../README.md)');
   lns.push('');
-  if (prev_link) lns.push(`[[ < Previous ]](${prev_link})`);
+  if (prev_link) lns.push(`[[ <Previous ]](${prev_link})`);
   lns.push('');
   lns.push('');
   mds.push('');
   let footer = '';
-  if (next_link) footer = `[[ Next > ]](${next_link})`;
+  if (next_link) footer = `[[ Next> ]](${next_link})`;
   const link = config.pages_links[index];
   const fpath = path.resolve(config.pafolder, link);
   fs.writeFileSync(fpath, lns.join('\n') + mds.join('\n') + footer);
@@ -190,11 +181,11 @@ function write_pagemd(npost, thumb_posts, index) {
   let nav = [];
   if (index > 0) {
     const prev = thumb_posts[index - 1].pagemd;
-    nav.push(`[[ < Previous ]](${prev}.md)`);
+    nav.push(`[[ <Previous ]](${prev}.md)`);
   }
   if (index < thumb_posts.length - 1) {
     const next = thumb_posts[index + 1].pagemd;
-    nav.push(`[[ Next > ]](${next}.md)`);
+    nav.push(`[[ Next> ]](${next}.md)`);
   }
   mds.push(nav.join(' '));
   mds.push('');
