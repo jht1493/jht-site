@@ -36,4 +36,4 @@ Migrated from https://www.facebook.com/johnhenrythompson
 
 [![](media/2018-10-17/DICE-pixel-smear-thumb.jpg)](posts/2018-10-17-3.md) [![](media/2018-10-17/DICE-pixel-smear-1-thumb.jpg)](posts/2018-10-17-4.md) [![](media/2018-10-13/Timeline-Photos-Why-vote-JHT-Personal-voter-promotion-campaign-2-thumb.jpg)](posts/2018-10-13-1.md) [![](media/2018-10-13/Timeline-Photos-Why-vote-JHT-Personal-voter-promotion-campaign-3-thumb.jpg)](posts/2018-10-13-2.md)
 
-[Next >](pages/2018-09-24-1.md)
+[[ Next > ]](pages/2018-09-24-1.md)
