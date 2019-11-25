@@ -1,0 +1,2082 @@
+[
+  {
+    "index": 0,
+    "date": "2018-11-06T01:19:29.000Z",
+    "title": "I am an immigrant!",
+    "uri": "photos/201811/2b45e454203f6679093fa9141084d5fc.jpg",
+    "media_path": "media/2018-11-05/I-am-an-immigrant.jpg",
+    "thumb_path": "media/2018-11-05/I-am-an-immigrant-thumb.jpg"
+  },
+  {
+    "index": 1,
+    "date": "2018-11-06T01:16:50.000Z",
+    "title": "Shadow canvas refelection",
+    "uri": "photos/201811/29c73643b811534555439b2d8e5c82fe.jpg",
+    "media_path": "media/2018-11-05/Shadow-canvas-refelection.jpg",
+    "thumb_path": "media/2018-11-05/Shadow-canvas-refelection-thumb.jpg"
+  },
+  {
+    "index": 2,
+    "date": "2018-11-06T00:48:17.000Z",
+    "title": "Yote!",
+    "uri": "photos/201811/2f38e5e816c6bfc5dd29afa6f83786a2.jpg",
+    "media_path": "media/2018-11-05/Yote.jpg",
+    "thumb_path": "media/2018-11-05/Yote-thumb.jpg"
+  },
+  {
+    "index": 3,
+    "date": "2018-11-05T22:20:59.000Z",
+    "title": "Past my prime",
+    "uri": "photos/201811/5021aae423cdeefd547a71a2d54436dd.jpg",
+    "media_path": "media/2018-11-05/Past-my-prime.jpg",
+    "thumb_path": "media/2018-11-05/Past-my-prime-thumb.jpg"
+  },
+  {
+    "index": 4,
+    "date": "2018-11-03T01:30:51.000Z",
+    "title": "Bb my cosmic twin",
+    "uri": "photos/201811/188691a5e3082ae35872a5335af515e9.jpg",
+    "media_path": "media/2018-11-02/Bb-my-cosmic-twin.jpg",
+    "thumb_path": "media/2018-11-02/Bb-my-cosmic-twin-thumb.jpg"
+  },
+  {
+    "index": 5,
+    "date": "2018-11-02T02:26:04.000Z",
+    "title": "Reflections",
+    "uri": "photos/201811/b56b7aa6d404d9c7a533f71a0e4f2c20.jpg",
+    "media_path": "media/2018-11-01/Reflections.jpg",
+    "thumb_path": "media/2018-11-01/Reflections-thumb.jpg"
+  },
+  {
+    "index": 6,
+    "date": "2018-11-02T02:03:30.000Z",
+    "title": "Look up to see the edge",
+    "uri": "photos/201811/fbc1956f858b96a318da60e6f2c906a5.jpg",
+    "media_path": "media/2018-11-01/Look-up-to-see-the-edge.jpg",
+    "thumb_path": "media/2018-11-01/Look-up-to-see-the-edge-thumb.jpg"
+  },
+  {
+    "index": 7,
+    "date": "2018-11-01T20:27:10.000Z",
+    "title": "A post",
+    "uri": "photos/201811/28d39fe20d6a053c4c7eb969819e9f5c.jpg",
+    "media_path": "media/2018-11-01/A-post.jpg",
+    "thumb_path": "media/2018-11-01/A-post-thumb.jpg"
+  },
+  {
+    "index": 8,
+    "date": "2018-10-30T21:00:34.000Z",
+    "title": "DICE: in the vortex of the four forces of space,light, time and algorithm",
+    "uri": "photos/201810/12dfbf2eb25f43b6e0dc619e37fd5a29.jpg",
+    "media_path": "media/2018-10-30/DICE-in-the-vortex-of-the-four-forces-of-space-light-time-and-al.jpg",
+    "thumb_path": "media/2018-10-30/DICE-in-the-vortex-of-the-four-forces-of-space-light-time-and-al-thumb.jpg"
+  },
+  {
+    "index": 9,
+    "date": "2018-10-30T16:54:34.000Z",
+    "title": "JHT on DICE",
+    "uri": "photos/201810/4215b1efb1faa05606d51bec995b0baf.jpg",
+    "media_path": "media/2018-10-30/JHT-on-DICE.jpg",
+    "thumb_path": "media/2018-10-30/JHT-on-DICE-thumb.jpg"
+  },
+  {
+    "index": 10,
+    "date": "2018-10-30T16:52:20.000Z",
+    "title": "nmaahc - housing a history of a people",
+    "uri": "photos/201810/27006a8b9ec4a86dde51f3be0be01f9b.jpg",
+    "media_path": "media/2018-10-30/nmaahc-housing-a-history-of-a-people.jpg",
+    "thumb_path": "media/2018-10-30/nmaahc-housing-a-history-of-a-people-thumb.jpg"
+  },
+  {
+    "index": 11,
+    "date": "2018-10-28T11:17:45.000Z",
+    "title": "DICE snapboard",
+    "uri": "photos/201810/942ec9c38fd33688b543211ad301a2e1.jpg",
+    "media_path": "media/2018-10-28/DICE-snapboard.jpg",
+    "thumb_path": "media/2018-10-28/DICE-snapboard-thumb.jpg"
+  },
+  {
+    "index": 12,
+    "date": "2018-10-24T11:50:14.000Z",
+    "title": "Thank you Shindy for DICE slides.",
+    "uri": "photos/201810/2b58cf538bcead3cf01796bff6fcc596.jpg",
+    "media_path": "media/2018-10-24/Thank-you-Shindy-for-DICE-slides.jpg",
+    "thumb_path": "media/2018-10-24/Thank-you-Shindy-for-DICE-slides-thumb.jpg"
+  },
+  {
+    "index": 13,
+    "date": "2018-10-24T11:49:25.000Z",
+    "title": "Thank you Shindy for DICE slides.",
+    "uri": "photos/201810/e486ce77717a0286dc0cb5e10a40134c.jpg",
+    "media_path": "media/2018-10-24/Thank-you-Shindy-for-DICE-slides-1.jpg",
+    "thumb_path": "media/2018-10-24/Thank-you-Shindy-for-DICE-slides-1-thumb.jpg"
+  },
+  {
+    "index": 14,
+    "date": "2018-10-22T02:31:39.000Z",
+    "title": "https://aafilmfest.si.edu/discover/events/code-switch-technology-and-video-art",
+    "uri": "photos/201810/1109c86e368ec7985876a1ded2480ed4.jpg",
+    "media_path": "media/2018-10-21/https-aafilmfest-si-edu-discover-events-code-switch-technology-a.jpg",
+    "thumb_path": "media/2018-10-21/https-aafilmfest-si-edu-discover-events-code-switch-technology-a-thumb.jpg"
+  },
+  {
+    "index": 15,
+    "date": "2018-10-22T01:17:03.000Z",
+    "title": "https://aafilmfest.si.edu/discover/events/code-switch-technology-and-video-art",
+    "uri": "photos/201810/755a2e9570efa23ec7b4a056b71fdaf8.jpg",
+    "media_path": "media/2018-10-21/https-aafilmfest-si-edu-discover-events-code-switch-technology-a-1.jpg",
+    "thumb_path": "media/2018-10-21/https-aafilmfest-si-edu-discover-events-code-switch-technology-a-1-thumb.jpg"
+  },
+  {
+    "index": 16,
+    "date": "2018-10-22T01:12:50.000Z",
+    "title": "DV to digital",
+    "uri": "photos/201810/f4e76ef4f43a4fe6cf045b659efba78e.jpg",
+    "media_path": "media/2018-10-21/DV-to-digital.jpg",
+    "thumb_path": "media/2018-10-21/DV-to-digital-thumb.jpg"
+  },
+  {
+    "index": 17,
+    "date": "2018-10-19T17:28:06.000Z",
+    "title": "DICE: iron pixels",
+    "uri": "photos/201810/3f17296f72344ba8b79514f31092eb0e.jpg",
+    "media_path": "media/2018-10-19/DICE-iron-pixels.jpg",
+    "thumb_path": "media/2018-10-19/DICE-iron-pixels-thumb.jpg"
+  },
+  {
+    "index": 18,
+    "date": "2018-10-17T23:17:02.000Z",
+    "title": "DICE pixel grid",
+    "uri": "photos/201810/7b35351437f1fe2aecf9b44584aa9d7f.jpg",
+    "media_path": "media/2018-10-17/DICE-pixel-grid.jpg",
+    "thumb_path": "media/2018-10-17/DICE-pixel-grid-thumb.jpg"
+  },
+  {
+    "index": 19,
+    "date": "2018-10-17T22:56:56.000Z",
+    "title": "DICE pixel veneer",
+    "uri": "photos/201810/0846d5f4187600dd59bb07e7154f983b.jpg",
+    "media_path": "media/2018-10-17/DICE-pixel-veneer.jpg",
+    "thumb_path": "media/2018-10-17/DICE-pixel-veneer-thumb.jpg"
+  },
+  {
+    "index": 20,
+    "date": "2018-10-13T22:31:37.000Z",
+    "title": "Why vote? JHT Personal voter promotion campaign 2016",
+    "uri": "photos/201810/658ca45c99de53e5e3892e03c3e9c558.jpg",
+    "media_path": "media/2018-10-13/Why-vote-JHT-Personal-voter-promotion-campaign-2016.jpg",
+    "thumb_path": "media/2018-10-13/Why-vote-JHT-Personal-voter-promotion-campaign-2016-thumb.jpg"
+  },
+  {
+    "index": 21,
+    "date": "2018-10-13T22:30:11.000Z",
+    "title": "Why vote? JHT Personal voter promotion campaign 2016",
+    "uri": "photos/201810/0b2414c547494095be9e56db48159b10.jpg",
+    "media_path": "media/2018-10-13/Why-vote-JHT-Personal-voter-promotion-campaign-2017.jpg",
+    "thumb_path": "media/2018-10-13/Why-vote-JHT-Personal-voter-promotion-campaign-2017-thumb.jpg"
+  },
+  {
+    "index": 22,
+    "date": "2018-10-13T22:27:22.000Z",
+    "title": "Why vote?",
+    "uri": "photos/201810/41be47255acfd9ef1ed4b4e3b38562c8.jpg",
+    "media_path": "media/2018-10-13/Why-vote.jpg",
+    "thumb_path": "media/2018-10-13/Why-vote-thumb.jpg"
+  },
+  {
+    "index": 23,
+    "date": "2018-10-13T02:51:40.000Z",
+    "title": "Pixels in new yorker",
+    "uri": "photos/201810/f2ad4aecad1970345f153c3483d1fd67.jpg",
+    "media_path": "media/2018-10-12/Pixels-in-new-yorker.jpg",
+    "thumb_path": "media/2018-10-12/Pixels-in-new-yorker-thumb.jpg"
+  },
+  {
+    "index": 24,
+    "date": "2018-10-13T02:47:51.000Z",
+    "title": "HDMI glitch. Not DICE",
+    "uri": "photos/201810/b11ea2e89d52ecc3e22860dc69160543.jpg",
+    "media_path": "media/2018-10-12/HDMI-glitch-Not-DICE.jpg",
+    "thumb_path": "media/2018-10-12/HDMI-glitch-Not-DICE-thumb.jpg"
+  },
+  {
+    "index": 25,
+    "date": "2018-10-10T10:21:33.000Z",
+    "title": "DICE: pixels nudged",
+    "uri": "photos/201810/99e31b87922ee550b4e267ad0dd5430b.jpg",
+    "media_path": "media/2018-10-10/DICE-pixels-nudged.jpg",
+    "thumb_path": "media/2018-10-10/DICE-pixels-nudged-thumb.jpg"
+  },
+  {
+    "index": 26,
+    "date": "2018-10-09T00:25:06.000Z",
+    "title": "Living in the DARK",
+    "uri": "photos/201810/19e996082b64690a458369972e5dbc8c.jpg",
+    "media_path": "media/2018-10-08/Living-in-the-DARK.jpg",
+    "thumb_path": "media/2018-10-08/Living-in-the-DARK-thumb.jpg"
+  },
+  {
+    "index": 27,
+    "date": "2018-10-09T00:16:52.000Z",
+    "title": "DICE: meta: space, time, light",
+    "uri": "photos/201810/86a36c483c6a25075470c6d5d6920116.jpg",
+    "media_path": "media/2018-10-08/DICE-meta-space-time-light.jpg",
+    "thumb_path": "media/2018-10-08/DICE-meta-space-time-light-thumb.jpg"
+  },
+  {
+    "index": 28,
+    "date": "2018-10-08T23:34:40.000Z",
+    "title": "Next to normal",
+    "uri": "photos/201810/11b8458e0d4efa536bad6f87242f519d.jpg",
+    "media_path": "media/2018-10-08/Next-to-normal.jpg",
+    "thumb_path": "media/2018-10-08/Next-to-normal-thumb.jpg"
+  },
+  {
+    "index": 29,
+    "date": "2018-10-08T01:11:38.000Z",
+    "title": "DICE: pixel scramble",
+    "uri": "photos/201810/008557cb6f05eb602fe23dd4bd852c7f.jpg",
+    "media_path": "media/2018-10-07/DICE-pixel-scramble.jpg",
+    "thumb_path": "media/2018-10-07/DICE-pixel-scramble-thumb.jpg"
+  },
+  {
+    "index": 30,
+    "date": "2018-10-08T01:07:05.000Z",
+    "title": "Old meets new.",
+    "uri": "photos/201810/c844c3358d8e75ce5d3e96e04d86f23e.jpg",
+    "media_path": "media/2018-10-07/Old-meets-new.jpg",
+    "thumb_path": "media/2018-10-07/Old-meets-new-thumb.jpg"
+  },
+  {
+    "index": 31,
+    "date": "2018-10-05T16:42:49.000Z",
+    "title": "DICE: pixel reflection",
+    "uri": "photos/201810/c172ea9e816f12c179801a16765c55c0.jpg",
+    "media_path": "media/2018-10-05/DICE-pixel-reflection.jpg",
+    "thumb_path": "media/2018-10-05/DICE-pixel-reflection-thumb.jpg"
+  },
+  {
+    "index": 32,
+    "date": "2018-10-05T16:41:50.000Z",
+    "title": "DICE: pixel tower",
+    "uri": "photos/201810/c8c1db47416e28febd1fa17d64008894.jpg",
+    "media_path": "media/2018-10-05/DICE-pixel-tower.jpg",
+    "thumb_path": "media/2018-10-05/DICE-pixel-tower-thumb.jpg"
+  },
+  {
+    "index": 33,
+    "date": "2018-10-05T16:41:20.000Z",
+    "title": "DICE: pixel tower",
+    "uri": "photos/201810/6649bb6b31abc99dd5c4de3d5db31749.jpg",
+    "media_path": "media/2018-10-05/DICE-pixel-tower-1.jpg",
+    "thumb_path": "media/2018-10-05/DICE-pixel-tower-1-thumb.jpg"
+  },
+  {
+    "index": 34,
+    "date": "2018-10-04T09:42:49.000Z",
+    "title": "HDMI glitch",
+    "uri": "photos/201810/6f06a1b894bfda510915a06b69a571eb.jpg",
+    "media_path": "media/2018-10-04/HDMI-glitch.jpg",
+    "thumb_path": "media/2018-10-04/HDMI-glitch-thumb.jpg"
+  },
+  {
+    "index": 35,
+    "date": "2018-10-03T18:31:10.000Z",
+    "title": "DICE: pixel facial",
+    "uri": "photos/201810/091856259df1d6b4e20c33aa195766a0.jpg",
+    "media_path": "media/2018-10-03/DICE-pixel-facial.jpg",
+    "thumb_path": "media/2018-10-03/DICE-pixel-facial-thumb.jpg"
+  },
+  {
+    "index": 36,
+    "date": "2018-10-03T02:09:56.000Z",
+    "title": "DICE: i see the light",
+    "uri": "photos/201810/9e109a0f5a231083d56a67f38351284d.jpg",
+    "media_path": "media/2018-10-02/DICE-i-see-the-light.jpg",
+    "thumb_path": "media/2018-10-02/DICE-i-see-the-light-thumb.jpg"
+  },
+  {
+    "index": 37,
+    "date": "2018-10-02T23:26:26.000Z",
+    "title": "DICE: full spectrum",
+    "uri": "photos/201810/48159dc83ccc24745d513ebe9c92bc0e.jpg",
+    "media_path": "media/2018-10-02/DICE-full-spectrum.jpg",
+    "thumb_path": "media/2018-10-02/DICE-full-spectrum-thumb.jpg"
+  },
+  {
+    "index": 38,
+    "date": "2018-09-29T22:04:28.000Z",
+    "title": "DICE pixel mask",
+    "uri": "photos/201809/252fa3febef16b94a960ad1d904d7979.jpg",
+    "media_path": "media/2018-09-29/DICE-pixel-mask.jpg",
+    "thumb_path": "media/2018-09-29/DICE-pixel-mask-thumb.jpg"
+  },
+  {
+    "index": 39,
+    "date": "2018-09-29T22:03:16.000Z",
+    "title": "I was given a sign",
+    "uri": "photos/201809/b4f477ec40e3ef59727ceaff32261c5a.jpg",
+    "media_path": "media/2018-09-29/I-was-given-a-sign.jpg",
+    "thumb_path": "media/2018-09-29/I-was-given-a-sign-thumb.jpg"
+  },
+  {
+    "index": 40,
+    "date": "2018-09-28T18:13:38.000Z",
+    "title": "DICE 0 rgb box random",
+    "uri": "photos/201809/19fdfe6a0196155a5bbf4d074c64fe47.jpg",
+    "media_path": "media/2018-09-28/DICE-0-rgb-box-random.jpg",
+    "thumb_path": "media/2018-09-28/DICE-0-rgb-box-random-thumb.jpg"
+  },
+  {
+    "index": 41,
+    "date": "2018-09-28T18:03:08.000Z",
+    "title": "DICE man in pixel mask",
+    "uri": "photos/201809/b2019c687bba1023d6ade5987bd49d6f.jpg",
+    "media_path": "media/2018-09-28/DICE-man-in-pixel-mask.jpg",
+    "thumb_path": "media/2018-09-28/DICE-man-in-pixel-mask-thumb.jpg"
+  },
+  {
+    "index": 42,
+    "date": "2018-09-28T17:49:36.000Z",
+    "title": "DICE harsh reality",
+    "uri": "photos/201809/6a4c881fc9282db5acac8987ea0b1431.jpg",
+    "media_path": "media/2018-09-28/DICE-harsh-reality.jpg",
+    "thumb_path": "media/2018-09-28/DICE-harsh-reality-thumb.jpg"
+  },
+  {
+    "index": 43,
+    "date": "2018-09-28T17:49:01.000Z",
+    "title": "DICE harsh reality",
+    "uri": "photos/201809/ce745c44e4564f03336f6dccc2177ca3.jpg",
+    "media_path": "media/2018-09-28/DICE-harsh-reality-1.jpg",
+    "thumb_path": "media/2018-09-28/DICE-harsh-reality-1-thumb.jpg"
+  },
+  {
+    "index": 44,
+    "date": "2018-09-28T17:29:02.000Z",
+    "title": "DICE face plant",
+    "uri": "photos/201809/e49d8fb54af6dbce11a1293bdd6ae5ba.jpg",
+    "media_path": "media/2018-09-28/DICE-face-plant.jpg",
+    "thumb_path": "media/2018-09-28/DICE-face-plant-thumb.jpg"
+  },
+  {
+    "index": 45,
+    "date": "2018-09-28T16:46:13.000Z",
+    "title": "Mr. & Mrs.",
+    "uri": "photos/201809/963adea0e2b244e54655a49721d102dd.jpg",
+    "media_path": "media/2018-09-28/Mr-Mrs.jpg",
+    "thumb_path": "media/2018-09-28/Mr-Mrs-thumb.jpg"
+  },
+  {
+    "index": 46,
+    "date": "2018-09-27T13:41:34.000Z",
+    "title": "",
+    "uri": "photos/201809/ef7bc1991879939b771329711f3e1463.jpg",
+    "media_path": "media/2018-09-27/media-46.jpg",
+    "thumb_path": "media/2018-09-27/media-46-thumb.jpg"
+  },
+  {
+    "index": 47,
+    "date": "2018-09-27T13:38:19.000Z",
+    "title": "DICE pixel riot",
+    "uri": "photos/201809/98417103563e379ca32e83af7a266b97.jpg",
+    "media_path": "media/2018-09-27/DICE-pixel-riot.jpg",
+    "thumb_path": "media/2018-09-27/DICE-pixel-riot-thumb.jpg"
+  },
+  {
+    "index": 48,
+    "date": "2018-09-24T03:55:10.000Z",
+    "title": "DICE random walk - heal me my beloved",
+    "uri": "photos/201809/cbc261e9ab140eb0a2c26c79b82f041d.jpg",
+    "media_path": "media/2018-09-23/DICE-random-walk-heal-me-my-beloved.jpg",
+    "thumb_path": "media/2018-09-23/DICE-random-walk-heal-me-my-beloved-thumb.jpg"
+  },
+  {
+    "index": 49,
+    "date": "2018-09-24T03:52:36.000Z",
+    "title": "DICE pixel revolt",
+    "uri": "photos/201809/820344c12a3b983054a8a94a4198cdbd.jpg",
+    "media_path": "media/2018-09-23/DICE-pixel-revolt.jpg",
+    "thumb_path": "media/2018-09-23/DICE-pixel-revolt-thumb.jpg"
+  },
+  {
+    "index": 50,
+    "date": "2018-09-24T03:50:24.000Z",
+    "title": "DICE random walker",
+    "uri": "photos/201809/be53eb9a6298b3130f4cdc37b5a739b9.jpg",
+    "media_path": "media/2018-09-23/DICE-random-walker.jpg",
+    "thumb_path": "media/2018-09-23/DICE-random-walker-thumb.jpg"
+  },
+  {
+    "index": 51,
+    "date": "2018-09-24T03:45:19.000Z",
+    "title": "DICE Random walk. Double V!",
+    "uri": "photos/201809/93c859781685c9dd4866677bf91c92b4.jpg",
+    "media_path": "media/2018-09-23/DICE-Random-walk-Double-V.jpg",
+    "thumb_path": "media/2018-09-23/DICE-Random-walk-Double-V-thumb.jpg"
+  },
+  {
+    "index": 52,
+    "date": "2018-09-24T03:32:16.000Z",
+    "title": "Dark power! #3",
+    "uri": "photos/201809/3d784f0c122fd6eb8c8f4b58765e8592.jpg",
+    "media_path": "media/2018-09-23/Dark-power-3.jpg",
+    "thumb_path": "media/2018-09-23/Dark-power-3-thumb.jpg"
+  },
+  {
+    "index": 53,
+    "date": "2018-09-24T03:30:45.000Z",
+    "title": "Dark power! #2",
+    "uri": "photos/201809/4dbacff66831e8c6cdce60d4e2c8f638.jpg",
+    "media_path": "media/2018-09-23/Dark-power-2.jpg",
+    "thumb_path": "media/2018-09-23/Dark-power-2-thumb.jpg"
+  },
+  {
+    "index": 54,
+    "date": "2018-09-24T03:29:58.000Z",
+    "title": "Dark power!",
+    "uri": "photos/201809/3a381aa8cc74f778cdb9b03eb925ab98.jpg",
+    "media_path": "media/2018-09-23/Dark-power.jpg",
+    "thumb_path": "media/2018-09-23/Dark-power-thumb.jpg"
+  },
+  {
+    "index": 55,
+    "date": "2018-09-20T23:09:58.000Z",
+    "title": "Malcolm in 3 phases",
+    "uri": "photos/201809/a673274d06ef382274b37a094da1e9fd.jpg",
+    "media_path": "media/2018-09-20/Malcolm-in-3-phases.jpg",
+    "thumb_path": "media/2018-09-20/Malcolm-in-3-phases-thumb.jpg"
+  },
+  {
+    "index": 56,
+    "date": "2018-09-19T18:08:52.000Z",
+    "title": "12 years enslaved",
+    "uri": "photos/201809/a061672bceda8301bc9ac522b56e46d9.jpg",
+    "media_path": "media/2018-09-19/12-years-enslaved.jpg",
+    "thumb_path": "media/2018-09-19/12-years-enslaved-thumb.jpg"
+  },
+  {
+    "index": 57,
+    "date": "2018-09-17T22:53:24.000Z",
+    "title": "DICE Lab Ardmore",
+    "uri": "photos/201809/1a60bb21fdd3654ed5ea88001f647888.jpg",
+    "media_path": "media/2018-09-17/DICE-Lab-Ardmore.jpg",
+    "thumb_path": "media/2018-09-17/DICE-Lab-Ardmore-thumb.jpg"
+  },
+  {
+    "index": 58,
+    "date": "2018-09-17T01:33:05.000Z",
+    "title": "DICE: the struggle.",
+    "uri": "photos/201809/247cdfcc4fb6b20e622f06332cd17b45.jpg",
+    "media_path": "media/2018-09-16/DICE-the-struggle.jpg",
+    "thumb_path": "media/2018-09-16/DICE-the-struggle-thumb.jpg"
+  },
+  {
+    "index": 59,
+    "date": "2018-09-17T01:03:27.000Z",
+    "title": "DICE: the struggle.",
+    "uri": "photos/201809/8563f6373656e61cbb55cbdbd9628467.jpg",
+    "media_path": "media/2018-09-16/DICE-the-struggle-1.jpg",
+    "thumb_path": "media/2018-09-16/DICE-the-struggle-1-thumb.jpg"
+  },
+  {
+    "index": 60,
+    "date": "2018-09-17T00:59:58.000Z",
+    "title": "DICE: the struggle.",
+    "uri": "photos/201809/2ff5da99b37b6bf7c900cec1150fdd08.jpg",
+    "media_path": "media/2018-09-16/DICE-the-struggle-2.jpg",
+    "thumb_path": "media/2018-09-16/DICE-the-struggle-2-thumb.jpg"
+  },
+  {
+    "index": 61,
+    "date": "2018-09-16T13:38:50.000Z",
+    "title": "Tears in Ardmore Suburban Square.",
+    "uri": "photos/201809/8a23a74b2f587e05efe79085b46e363e.jpg",
+    "media_path": "media/2018-09-16/Tears-in-Ardmore-Suburban-Square.jpg",
+    "thumb_path": "media/2018-09-16/Tears-in-Ardmore-Suburban-Square-thumb.jpg"
+  },
+  {
+    "index": 62,
+    "date": "2018-09-13T00:22:40.000Z",
+    "title": "DICE: Stream of consciousness.",
+    "uri": "photos/201809/dab5d3eebafe1b2d5ed6e285df1f182e.jpg",
+    "media_path": "media/2018-09-12/DICE-Stream-of-consciousness.jpg",
+    "thumb_path": "media/2018-09-12/DICE-Stream-of-consciousness-thumb.jpg"
+  },
+  {
+    "index": 63,
+    "date": "2018-09-12T23:33:41.000Z",
+    "title": "DICE detects dark energry vibrations. #darkenergy",
+    "uri": "photos/201809/c016c68a36f49e53e6d8adde118508e8.jpg",
+    "media_path": "media/2018-09-12/DICE-detects-dark-energry-vibrations-darkenergy.jpg",
+    "thumb_path": "media/2018-09-12/DICE-detects-dark-energry-vibrations-darkenergy-thumb.jpg"
+  },
+  {
+    "index": 64,
+    "date": "2018-09-12T12:33:08.000Z",
+    "title": "Cousin Ethiopian style.",
+    "uri": "photos/201809/0d472f640023975f6cb976fe6ba315ab.jpg",
+    "media_path": "media/2018-09-12/Cousin-Ethiopian-style.jpg",
+    "thumb_path": "media/2018-09-12/Cousin-Ethiopian-style-thumb.jpg"
+  },
+  {
+    "index": 65,
+    "date": "2018-09-11T10:25:11.000Z",
+    "title": "DICE: JA First!",
+    "uri": "photos/201809/7e7eaff005d42bbf95aab402434250d5.jpg",
+    "media_path": "media/2018-09-11/DICE-JA-First.jpg",
+    "thumb_path": "media/2018-09-11/DICE-JA-First-thumb.jpg"
+  },
+  {
+    "index": 66,
+    "date": "2018-09-09T17:03:51.000Z",
+    "title": "Yes, jackfruit. Not moving.",
+    "uri": "photos/201809/aecc85f593ec36f6514a86bcf79c9689.jpg",
+    "media_path": "media/2018-09-09/Yes-jackfruit-Not-moving.jpg",
+    "thumb_path": "media/2018-09-09/Yes-jackfruit-Not-moving-thumb.jpg"
+  },
+  {
+    "index": 67,
+    "date": "2018-09-05T20:58:35.000Z",
+    "title": "In phila PA: scientist he weights the stars",
+    "uri": "photos/201809/9874c0033b6fc983e18955bc9d25c629.jpg",
+    "media_path": "media/2018-09-05/In-phila-PA-scientist-he-weights-the-stars.jpg",
+    "thumb_path": "media/2018-09-05/In-phila-PA-scientist-he-weights-the-stars-thumb.jpg"
+  },
+  {
+    "index": 68,
+    "date": "2018-09-04T18:45:23.000Z",
+    "title": "You melt my heart",
+    "uri": "photos/201809/4d9f453f9a572446026080abdf4819d8.jpg",
+    "media_path": "media/2018-09-04/You-melt-my-heart.jpg",
+    "thumb_path": "media/2018-09-04/You-melt-my-heart-thumb.jpg"
+  },
+  {
+    "index": 69,
+    "date": "2018-09-04T17:03:45.000Z",
+    "title": "Our sun star, so bright it hides our moon",
+    "uri": "photos/201809/2fcb690878c317dddcc7bf40e58a1a71.jpg",
+    "media_path": "media/2018-09-04/Our-sun-star-so-bright-it-hides-our-moon.jpg",
+    "thumb_path": "media/2018-09-04/Our-sun-star-so-bright-it-hides-our-moon-thumb.jpg"
+  },
+  {
+    "index": 70,
+    "date": "2018-09-04T00:24:41.000Z",
+    "title": "Fruitfull",
+    "uri": "photos/201809/59c8e6f052aea10047e99c3c09aecda0.jpg",
+    "media_path": "media/2018-09-03/Fruitfull.jpg",
+    "thumb_path": "media/2018-09-03/Fruitfull-thumb.jpg"
+  },
+  {
+    "index": 71,
+    "date": "2018-09-01T00:31:01.000Z",
+    "title": "WTF is this? Found at whole food.",
+    "uri": "photos/201808/d40c5598596644459e8f95c56a8c1d09.jpg",
+    "media_path": "media/2018-08-31/WTF-is-this-Found-at-whole-food.jpg",
+    "thumb_path": "media/2018-08-31/WTF-is-this-Found-at-whole-food-thumb.jpg"
+  },
+  {
+    "index": 72,
+    "date": "2018-08-31T09:34:33.000Z",
+    "title": "Circle at the intersection",
+    "uri": "photos/201808/13eb1e8d8480d6f64fdebb55da320a8f.jpg",
+    "media_path": "media/2018-08-31/Circle-at-the-intersection.jpg",
+    "thumb_path": "media/2018-08-31/Circle-at-the-intersection-thumb.jpg"
+  },
+  {
+    "index": 73,
+    "date": "2018-08-28T21:31:19.000Z",
+    "title": "LIT’D",
+    "uri": "photos/201808/7f0a068e2a56b7a88dfd9858310c9866.jpg",
+    "media_path": "media/2018-08-28/LIT-D.jpg",
+    "thumb_path": "media/2018-08-28/LIT-D-thumb.jpg"
+  },
+  {
+    "index": 74,
+    "date": "2018-08-26T21:04:24.000Z",
+    "title": "DICE mazed",
+    "uri": "photos/201808/5512fb2984e70f14342726c7c05a9824.jpg",
+    "media_path": "media/2018-08-26/DICE-mazed.jpg",
+    "thumb_path": "media/2018-08-26/DICE-mazed-thumb.jpg"
+  },
+  {
+    "index": 75,
+    "date": "2018-08-26T20:57:27.000Z",
+    "title": "68% Dark Energy, 27% Dark Matter, 5% Observed. Living in the dark.",
+    "uri": "photos/201808/2e7712efdc5f1b26f79e11645e933e0a.jpg",
+    "media_path": "media/2018-08-26/68-Dark-Energy-27-Dark-Matter-5-Observed-Living-in-the-dark.jpg",
+    "thumb_path": "media/2018-08-26/68-Dark-Energy-27-Dark-Matter-5-Observed-Living-in-the-dark-thumb.jpg"
+  },
+  {
+    "index": 76,
+    "date": "2018-08-26T20:53:28.000Z",
+    "title": "DICE Raw light",
+    "uri": "photos/201808/6ce26643fd1ae4bad836fec0145ee4d7.jpg",
+    "media_path": "media/2018-08-26/DICE-Raw-light.jpg",
+    "thumb_path": "media/2018-08-26/DICE-Raw-light-thumb.jpg"
+  },
+  {
+    "index": 77,
+    "date": "2018-08-25T13:48:48.000Z",
+    "title": "Planet Earth",
+    "uri": "photos/201808/d573dcd0512c939bcf5a4fd3aacf8f23.jpg",
+    "media_path": "media/2018-08-25/Planet-Earth.jpg",
+    "thumb_path": "media/2018-08-25/Planet-Earth-thumb.jpg"
+  },
+  {
+    "index": 78,
+    "date": "2018-08-23T00:57:49.000Z",
+    "title": "Man vs nature",
+    "uri": "photos/201808/b7fb86799b83885b11995622b20a6670.jpg",
+    "media_path": "media/2018-08-22/Man-vs-nature.jpg",
+    "thumb_path": "media/2018-08-22/Man-vs-nature-thumb.jpg"
+  },
+  {
+    "index": 79,
+    "date": "2018-08-15T12:34:26.000Z",
+    "title": "DICE Colored mind: Mining dark energy. #2",
+    "uri": "photos/201808/5067ee1eeef4d9375fdf54ace2651d49.jpg",
+    "media_path": "media/2018-08-15/DICE-Colored-mind-Mining-dark-energy-2.jpg",
+    "thumb_path": "media/2018-08-15/DICE-Colored-mind-Mining-dark-energy-2-thumb.jpg"
+  },
+  {
+    "index": 80,
+    "date": "2018-08-13T19:17:16.000Z",
+    "title": "DICE Colored mind: 4 meta-dimensions: time, space, light, algorithm.",
+    "uri": "photos/201808/ebfc684a87000dd7e55eae874318508e.jpg",
+    "media_path": "media/2018-08-13/DICE-Colored-mind-4-meta-dimensions-time-space-light-algorithm.jpg",
+    "thumb_path": "media/2018-08-13/DICE-Colored-mind-4-meta-dimensions-time-space-light-algorithm-thumb.jpg"
+  },
+  {
+    "index": 81,
+    "date": "2018-08-12T19:50:38.000Z",
+    "title": "Noted",
+    "uri": "photos/201808/16faf54c7e40ec7c487e8323b62a08d0.jpg",
+    "media_path": "media/2018-08-12/Noted.jpg",
+    "thumb_path": "media/2018-08-12/Noted-thumb.jpg"
+  },
+  {
+    "index": 82,
+    "date": "2018-08-12T14:05:13.000Z",
+    "title": "DICE Colored mind: Mining dark energy.",
+    "uri": "photos/201808/788125a3e8bc7ae9e6ab6894220f889a.jpg",
+    "media_path": "media/2018-08-12/DICE-Colored-mind-Mining-dark-energy.jpg",
+    "thumb_path": "media/2018-08-12/DICE-Colored-mind-Mining-dark-energy-thumb.jpg"
+  },
+  {
+    "index": 83,
+    "date": "2018-08-12T13:59:51.000Z",
+    "title": "DICE Colored mind: Mutant #323",
+    "uri": "photos/201808/8cbea0e23d3f10d26e171a64af111b79.jpg",
+    "media_path": "media/2018-08-12/DICE-Colored-mind-Mutant-323.jpg",
+    "thumb_path": "media/2018-08-12/DICE-Colored-mind-Mutant-323-thumb.jpg"
+  },
+  {
+    "index": 84,
+    "date": "2018-08-10T10:19:26.000Z",
+    "title": "DICE Mind: on the spectrum.[=]",
+    "uri": "photos/201808/dcf22d0aa68be21b2309ece8fe18eb89.jpg",
+    "media_path": "media/2018-08-10/DICE-Mind-on-the-spectrum.jpg",
+    "thumb_path": "media/2018-08-10/DICE-Mind-on-the-spectrum-thumb.jpg"
+  },
+  {
+    "index": 85,
+    "date": "2018-08-09T23:42:05.000Z",
+    "title": "Four forces.",
+    "uri": "photos/201808/713e10536d9bd2ff36848434aa11a601.jpg",
+    "media_path": "media/2018-08-09/Four-forces.jpg",
+    "thumb_path": "media/2018-08-09/Four-forces-thumb.jpg"
+  },
+  {
+    "index": 86,
+    "date": "2018-08-07T22:10:26.000Z",
+    "title": "DICE Glitch",
+    "uri": "photos/201808/27acdb3f1022ef85d57afb0a268af320.jpg",
+    "media_path": "media/2018-08-07/DICE-Glitch.jpg",
+    "thumb_path": "media/2018-08-07/DICE-Glitch-thumb.jpg"
+  },
+  {
+    "index": 87,
+    "date": "2018-08-07T13:31:31.000Z",
+    "title": "JHT @ the Barnes by Judith Williams. Thanks big sis.",
+    "uri": "photos/201808/4467796451ff5a7a20fc45c65c997925.jpg",
+    "media_path": "media/2018-08-07/JHT-the-Barnes-by-Judith-Williams-Thanks-big-sis.jpg",
+    "thumb_path": "media/2018-08-07/JHT-the-Barnes-by-Judith-Williams-Thanks-big-sis-thumb.jpg"
+  },
+  {
+    "index": 88,
+    "date": "2018-08-07T02:31:39.000Z",
+    "title": "https://10print.org",
+    "uri": "photos/201808/106ffd3a526630f0b68d514a082ac170.jpg",
+    "media_path": "media/2018-08-06/https-10print-org.jpg",
+    "thumb_path": "media/2018-08-06/https-10print-org-thumb.jpg"
+  },
+  {
+    "index": 89,
+    "date": "2018-08-04T10:09:30.000Z",
+    "title": "Ardmore suburban station",
+    "uri": "photos/201808/37bd3846e100737b908afbf797fe7511.jpg",
+    "media_path": "media/2018-08-04/Ardmore-suburban-station.jpg",
+    "thumb_path": "media/2018-08-04/Ardmore-suburban-station-thumb.jpg"
+  },
+  {
+    "index": 90,
+    "date": "2018-08-04T09:29:20.000Z",
+    "title": "Smiling on the inside.",
+    "uri": "photos/201808/e12ac78a7af240d6b60fa93f2b39bbe4.jpg",
+    "media_path": "media/2018-08-04/Smiling-on-the-inside.jpg",
+    "thumb_path": "media/2018-08-04/Smiling-on-the-inside-thumb.jpg"
+  },
+  {
+    "index": 91,
+    "date": "2018-08-02T10:59:05.000Z",
+    "title": "Octonions: search for meaning.\nhttps://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720/",
+    "uri": "photos/201808/550317617bd2f20d905b2380931c8a07.jpg",
+    "media_path": "media/2018-08-02/Octonions-search-for-meaning-https-www-quantamagazine-org-the-oc.jpg",
+    "thumb_path": "media/2018-08-02/Octonions-search-for-meaning-https-www-quantamagazine-org-the-oc-thumb.jpg"
+  },
+  {
+    "index": 92,
+    "date": "2018-08-01T21:20:46.000Z",
+    "title": "Quantized",
+    "uri": "photos/201808/e6c56916df054c82389f066e6c97fe82.jpg",
+    "media_path": "media/2018-08-01/Quantized.jpg",
+    "thumb_path": "media/2018-08-01/Quantized-thumb.jpg"
+  },
+  {
+    "index": 93,
+    "date": "2018-08-01T20:20:03.000Z",
+    "title": "I am a black man?",
+    "uri": "photos/201808/c1c71c1a48602c6d8fa50927a8c7568e.jpg",
+    "media_path": "media/2018-08-01/I-am-a-black-man.jpg",
+    "thumb_path": "media/2018-08-01/I-am-a-black-man-thumb.jpg"
+  },
+  {
+    "index": 94,
+    "date": "2018-07-30T20:51:46.000Z",
+    "title": "Tree close up",
+    "uri": "photos/201807/4f4a9f5e9d677e4f60f185705ac1afe3.jpg",
+    "media_path": "media/2018-07-30/Tree-close-up.jpg",
+    "thumb_path": "media/2018-07-30/Tree-close-up-thumb.jpg"
+  },
+  {
+    "index": 95,
+    "date": "2018-07-29T15:20:29.000Z",
+    "title": "A few months ago.",
+    "uri": "photos/201807/38cc5a6dd82c1a925a1483c3a36adcd6.jpg",
+    "media_path": "media/2018-07-29/A-few-months-ago.jpg",
+    "thumb_path": "media/2018-07-29/A-few-months-ago-thumb.jpg"
+  },
+  {
+    "index": 96,
+    "date": "2018-07-29T13:36:27.000Z",
+    "title": "Tons of Fungus!",
+    "uri": "photos/201807/0869f1338f39fe6e3c307e1298ab8df5.jpg",
+    "media_path": "media/2018-07-29/Tons-of-Fungus.jpg",
+    "thumb_path": "media/2018-07-29/Tons-of-Fungus-thumb.jpg"
+  },
+  {
+    "index": 97,
+    "date": "2018-03-18T20:15:41.000Z",
+    "title": "http://www.johnhenrythompson.com/heros/professor-john-fray/thoth",
+    "uri": "photos/201803/a8dbc5c907b62043f1ebbed550fafe57.jpg",
+    "media_path": "media/2018-03-18/http-www-johnhenrythompson-com-heros-professor-john-fray-thoth.jpg",
+    "thumb_path": "media/2018-03-18/http-www-johnhenrythompson-com-heros-professor-john-fray-thoth-thumb.jpg"
+  },
+  {
+    "index": 98,
+    "date": "2018-03-04T03:20:28.000Z",
+    "title": "DICE Colored mind: take me home sweet one",
+    "uri": "photos/201803/5fe787b648769e468d649f142d5f4b3b.jpg",
+    "media_path": "media/2018-03-03/DICE-Colored-mind-take-me-home-sweet-one.jpg",
+    "thumb_path": "media/2018-03-03/DICE-Colored-mind-take-me-home-sweet-one-thumb.jpg"
+  },
+  {
+    "index": 99,
+    "date": "2018-03-04T00:44:18.000Z",
+    "title": "DICE Colored mind: in from the dark",
+    "uri": "photos/201803/53edfd5e4669cfa4177dffc5c3a45750.jpg",
+    "media_path": "media/2018-03-03/DICE-Colored-mind-in-from-the-dark.jpg",
+    "thumb_path": "media/2018-03-03/DICE-Colored-mind-in-from-the-dark-thumb.jpg"
+  },
+  {
+    "index": 100,
+    "date": "2018-03-03T19:25:06.000Z",
+    "title": "DICE is here! (For iOS devices)\nhttps://itunes.apple.com/us/app/dicecpu/id1347427207",
+    "uri": "photos/201803/ba9e91b66439c3376ec153fbb41f89b5.jpg",
+    "media_path": "media/2018-03-03/DICE-is-here-For-iOS-devices-https-itunes-apple-com-us-app-dicec.jpg",
+    "thumb_path": "media/2018-03-03/DICE-is-here-For-iOS-devices-https-itunes-apple-com-us-app-dicec-thumb.jpg"
+  },
+  {
+    "index": 101,
+    "date": "2018-03-02T18:14:38.000Z",
+    "title": "DICE Colored mind: power out in Ardmore.",
+    "uri": "photos/201803/cc4e2d4a2581b5179cafec643872fca4.jpg",
+    "media_path": "media/2018-03-02/DICE-Colored-mind-power-out-in-Ardmore.jpg",
+    "thumb_path": "media/2018-03-02/DICE-Colored-mind-power-out-in-Ardmore-thumb.jpg"
+  },
+  {
+    "index": 102,
+    "date": "2018-03-02T18:10:50.000Z",
+    "title": "DICE Colored mind: welcome to the DICE family.",
+    "uri": "photos/201803/daac863ef76ad4c9fa57cdf421b97bbb.jpg",
+    "media_path": "media/2018-03-02/DICE-Colored-mind-welcome-to-the-DICE-family.jpg",
+    "thumb_path": "media/2018-03-02/DICE-Colored-mind-welcome-to-the-DICE-family-thumb.jpg"
+  },
+  {
+    "index": 103,
+    "date": "2018-02-26T13:33:21.000Z",
+    "title": "DICE Colored mind: red faced",
+    "uri": "photos/201802/c744eeacc3c76f7d86646bb451856ff1.jpg",
+    "media_path": "media/2018-02-26/DICE-Colored-mind-red-faced.jpg",
+    "thumb_path": "media/2018-02-26/DICE-Colored-mind-red-faced-thumb.jpg"
+  },
+  {
+    "index": 104,
+    "date": "2018-02-24T13:21:36.000Z",
+    "title": "DICE Colored mind: food for thought 2",
+    "uri": "photos/201802/3dc1a2db9ea0a44c01a7bf8645b5f7d9.jpg",
+    "media_path": "media/2018-02-24/DICE-Colored-mind-food-for-thought-2.jpg",
+    "thumb_path": "media/2018-02-24/DICE-Colored-mind-food-for-thought-2-thumb.jpg"
+  },
+  {
+    "index": 105,
+    "date": "2018-02-24T02:36:20.000Z",
+    "title": "DICE Colored mind: food for thought",
+    "uri": "photos/201802/c23c9d292d619c2da51609d3aaf0c108.jpg",
+    "media_path": "media/2018-02-23/DICE-Colored-mind-food-for-thought.jpg",
+    "thumb_path": "media/2018-02-23/DICE-Colored-mind-food-for-thought-thumb.jpg"
+  },
+  {
+    "index": 106,
+    "date": "2018-02-23T23:16:14.000Z",
+    "title": "DICE Colored mind: Gravity mist",
+    "uri": "photos/201802/e48654d70455ea539dcb2c908dc6ec52.jpg",
+    "media_path": "media/2018-02-23/DICE-Colored-mind-Gravity-mist.jpg",
+    "thumb_path": "media/2018-02-23/DICE-Colored-mind-Gravity-mist-thumb.jpg"
+  },
+  {
+    "index": 107,
+    "date": "2018-02-23T20:42:14.000Z",
+    "title": "DICE Colored mind: Sirius B gravity beam transmission.",
+    "uri": "photos/201802/790d0b7d71e31c0903133fde2188b424.jpg",
+    "media_path": "media/2018-02-23/DICE-Colored-mind-Sirius-B-gravity-beam-transmission.jpg",
+    "thumb_path": "media/2018-02-23/DICE-Colored-mind-Sirius-B-gravity-beam-transmission-thumb.jpg"
+  },
+  {
+    "index": 108,
+    "date": "2018-02-23T17:21:47.000Z",
+    "title": "DICE Colored mind: alpha male",
+    "uri": "photos/201802/3985a73eaf320e581766d52f2db99514.jpg",
+    "media_path": "media/2018-02-23/DICE-Colored-mind-alpha-male.jpg",
+    "thumb_path": "media/2018-02-23/DICE-Colored-mind-alpha-male-thumb.jpg"
+  },
+  {
+    "index": 109,
+    "date": "2018-02-22T22:52:12.000Z",
+    "title": "DICE Colored mind: gravity soup.",
+    "uri": "photos/201802/3d9e2b7379fc1f7f1641c3ced7d88557.jpg",
+    "media_path": "media/2018-02-22/DICE-Colored-mind-gravity-soup.jpg",
+    "thumb_path": "media/2018-02-22/DICE-Colored-mind-gravity-soup-thumb.jpg"
+  },
+  {
+    "index": 110,
+    "date": "2018-02-20T13:07:58.000Z",
+    "title": "DICE Colored mind: RGB face bathed in light.",
+    "uri": "photos/201802/f63cdfb31065ba627496476838875e1f.jpg",
+    "media_path": "media/2018-02-20/DICE-Colored-mind-RGB-face-bathed-in-light.jpg",
+    "thumb_path": "media/2018-02-20/DICE-Colored-mind-RGB-face-bathed-in-light-thumb.jpg"
+  },
+  {
+    "index": 111,
+    "date": "2018-02-19T21:31:15.000Z",
+    "title": "DICE Colored mind: gravity on black",
+    "uri": "photos/201802/089740722b300213b524f9995a3f935a.jpg",
+    "media_path": "media/2018-02-19/DICE-Colored-mind-gravity-on-black.jpg",
+    "thumb_path": "media/2018-02-19/DICE-Colored-mind-gravity-on-black-thumb.jpg"
+  },
+  {
+    "index": 112,
+    "date": "2018-02-18T06:20:13.000Z",
+    "title": "DICE colored mind: gravity lines",
+    "uri": "photos/201802/59911fd6f7379638bbd0dda7874606d5.jpg",
+    "media_path": "media/2018-02-18/DICE-colored-mind-gravity-lines.jpg",
+    "thumb_path": "media/2018-02-18/DICE-colored-mind-gravity-lines-thumb.jpg"
+  },
+  {
+    "index": 113,
+    "date": "2018-02-18T06:19:19.000Z",
+    "title": "DICE colored mind: gravity lines",
+    "uri": "photos/201802/48ce3f931083361171f132f1f9cbce2e.jpg",
+    "media_path": "media/2018-02-18/DICE-colored-mind-gravity-lines-1.jpg",
+    "thumb_path": "media/2018-02-18/DICE-colored-mind-gravity-lines-1-thumb.jpg"
+  },
+  {
+    "index": 114,
+    "date": "2018-02-17T18:04:35.000Z",
+    "title": "DICE Colored mind: Team work with gravity lines.",
+    "uri": "photos/201802/e997aa4270d4c905540cde1f996c9d57.jpg",
+    "media_path": "media/2018-02-17/DICE-Colored-mind-Team-work-with-gravity-lines.jpg",
+    "thumb_path": "media/2018-02-17/DICE-Colored-mind-Team-work-with-gravity-lines-thumb.jpg"
+  },
+  {
+    "index": 115,
+    "date": "2018-02-17T12:03:05.000Z",
+    "title": "‪DICE Colored mind: digital mask‬",
+    "uri": "photos/201802/e43913c28dc0ee41db9122698e73b91a.jpg",
+    "media_path": "media/2018-02-17/-DICE-Colored-mind-digital-mask.jpg",
+    "thumb_path": "media/2018-02-17/-DICE-Colored-mind-digital-mask-thumb.jpg"
+  },
+  {
+    "index": 116,
+    "date": "2018-02-16T04:51:41.000Z",
+    "title": "Sirius B portal construction begins",
+    "uri": "photos/201802/327b20d81968d0e08bf43fcf41f32717.jpg",
+    "media_path": "media/2018-02-15/Sirius-B-portal-construction-begins.jpg",
+    "thumb_path": "media/2018-02-15/Sirius-B-portal-construction-begins-thumb.jpg"
+  },
+  {
+    "index": 117,
+    "date": "2018-02-15T14:23:20.000Z",
+    "title": "DICE Colored mind: moving into the light.",
+    "uri": "photos/201802/2d77cda2f907b0af15c8ee0217378bf9.jpg",
+    "media_path": "media/2018-02-15/DICE-Colored-mind-moving-into-the-light.jpg",
+    "thumb_path": "media/2018-02-15/DICE-Colored-mind-moving-into-the-light-thumb.jpg"
+  },
+  {
+    "index": 118,
+    "date": "2018-02-15T02:16:57.000Z",
+    "title": "DICE colored mind: out of darkness.",
+    "uri": "photos/201802/1a3b1123831ae30af68f22ce35f66950.jpg",
+    "media_path": "media/2018-02-14/DICE-colored-mind-out-of-darkness.jpg",
+    "thumb_path": "media/2018-02-14/DICE-colored-mind-out-of-darkness-thumb.jpg"
+  },
+  {
+    "index": 119,
+    "date": "2018-02-15T00:42:02.000Z",
+    "title": "DICE is coming.",
+    "uri": "photos/201802/7b5f9cc8a1fb27a9caf422a4ced58f60.jpg",
+    "media_path": "media/2018-02-14/DICE-is-coming.jpg",
+    "thumb_path": "media/2018-02-14/DICE-is-coming-thumb.jpg"
+  },
+  {
+    "index": 120,
+    "date": "2018-02-13T13:02:12.000Z",
+    "title": "DICE Colored mind: behind the pixel.",
+    "uri": "photos/201802/7ecd5f74a7e7146cd8dc98b44b4c6200.jpg",
+    "media_path": "media/2018-02-13/DICE-Colored-mind-behind-the-pixel.jpg",
+    "thumb_path": "media/2018-02-13/DICE-Colored-mind-behind-the-pixel-thumb.jpg"
+  },
+  {
+    "index": 121,
+    "date": "2018-02-11T13:19:19.000Z",
+    "title": "DICE colored mind: between the lines.",
+    "uri": "photos/201802/7275b377152d889e07e95cc10d271a62.jpg",
+    "media_path": "media/2018-02-11/DICE-colored-mind-between-the-lines.jpg",
+    "thumb_path": "media/2018-02-11/DICE-colored-mind-between-the-lines-thumb.jpg"
+  },
+  {
+    "index": 122,
+    "date": "2018-02-10T03:31:14.000Z",
+    "title": "DICE Colored mind: gravity lines.",
+    "uri": "photos/201802/43429936476deb7416e48f15fa2e2757.jpg",
+    "media_path": "media/2018-02-09/DICE-Colored-mind-gravity-lines.jpg",
+    "thumb_path": "media/2018-02-09/DICE-Colored-mind-gravity-lines-thumb.jpg"
+  },
+  {
+    "index": 123,
+    "date": "2018-02-08T18:07:37.000Z",
+    "title": "DICE colored mind: Am I not a black man?",
+    "uri": "photos/201802/fc4062ce555cad6b8f7d5c7d5196ff9a.jpg",
+    "media_path": "media/2018-02-08/DICE-colored-mind-Am-I-not-a-black-man.jpg",
+    "thumb_path": "media/2018-02-08/DICE-colored-mind-Am-I-not-a-black-man-thumb.jpg"
+  },
+  {
+    "index": 124,
+    "date": "2018-02-04T01:13:19.000Z",
+    "title": "Colored mind: I come in peace.",
+    "uri": "photos/201802/32888d6dc03026d7296a1105fc4d0a9f.jpg",
+    "media_path": "media/2018-02-03/Colored-mind-I-come-in-peace.jpg",
+    "thumb_path": "media/2018-02-03/Colored-mind-I-come-in-peace-thumb.jpg"
+  },
+  {
+    "index": 125,
+    "date": "2018-02-02T01:05:48.000Z",
+    "title": "Dice colored mind: selfie test",
+    "uri": "photos/201802/829718c445c6c053d2660e12267eda6e.jpg",
+    "media_path": "media/2018-02-01/Dice-colored-mind-selfie-test.jpg",
+    "thumb_path": "media/2018-02-01/Dice-colored-mind-selfie-test-thumb.jpg"
+  },
+  {
+    "index": 126,
+    "date": "2018-02-01T10:08:51.000Z",
+    "title": "DICE colored mind: Doll Test",
+    "uri": "photos/201802/f3875c385da3836d7511a93cd2c37fca.jpg",
+    "media_path": "media/2018-02-01/DICE-colored-mind-Doll-Test.jpg",
+    "thumb_path": "media/2018-02-01/DICE-colored-mind-Doll-Test-thumb.jpg"
+  },
+  {
+    "index": 127,
+    "date": "2018-01-16T08:14:42.000Z",
+    "title": "Think outside the box.",
+    "uri": "photos/201801/8ed0571fa916ae000dbe849710099fa2.jpg",
+    "media_path": "media/2018-01-16/Think-outside-the-box.jpg",
+    "thumb_path": "media/2018-01-16/Think-outside-the-box-thumb.jpg"
+  },
+  {
+    "index": 128,
+    "date": "2018-01-16T08:13:16.000Z",
+    "title": "Think outside the box.",
+    "uri": "photos/201801/b87bee2fab6517dbf9872fff0c782def.jpg",
+    "media_path": "media/2018-01-16/Think-outside-the-box-1.jpg",
+    "thumb_path": "media/2018-01-16/Think-outside-the-box-1-thumb.jpg"
+  },
+  {
+    "index": 129,
+    "date": "2018-01-16T00:53:00.000Z",
+    "title": "Transmissions resumes. Sirius B.",
+    "uri": "photos/201801/79e9baa6948a841b7cf15329206a1d13.jpg",
+    "media_path": "media/2018-01-15/Transmissions-resumes-Sirius-B.jpg",
+    "thumb_path": "media/2018-01-15/Transmissions-resumes-Sirius-B-thumb.jpg"
+  },
+  {
+    "index": 130,
+    "date": "2018-01-14T23:49:39.000Z",
+    "title": "2018=2*1009",
+    "uri": "photos/201801/8846f2f1fd6903db416b165d7ed37bff.jpg",
+    "media_path": "media/2018-01-14/2018-2-1009.jpg",
+    "thumb_path": "media/2018-01-14/2018-2-1009-thumb.jpg"
+  },
+  {
+    "index": 131,
+    "date": "2018-01-14T23:45:33.000Z",
+    "title": "http://www.scribe.org/events/youth-workshop-diy-photoshop",
+    "uri": "photos/201801/cbe4ea30fb4124993c063afa5d618a45.jpg",
+    "media_path": "media/2018-01-14/http-www-scribe-org-events-youth-workshop-diy-photoshop.jpg",
+    "thumb_path": "media/2018-01-14/http-www-scribe-org-events-youth-workshop-diy-photoshop-thumb.jpg"
+  },
+  {
+    "index": 132,
+    "date": "2018-01-13T18:01:05.000Z",
+    "title": "Science tells us that from the color spectrum from distant stars we know the universe: Praise ROY-G-BIV!",
+    "uri": "photos/201801/3677ef37149e120367f4a1672520e265.jpg",
+    "media_path": "media/2018-01-13/Science-tells-us-that-from-the-color-spectrum-from-distant-stars.jpg",
+    "thumb_path": "media/2018-01-13/Science-tells-us-that-from-the-color-spectrum-from-distant-stars-thumb.jpg"
+  },
+  {
+    "index": 133,
+    "date": "2018-01-13T17:56:34.000Z",
+    "title": "Stapled and worn - still standing strong.",
+    "uri": "photos/201801/59fe40c3bf9d712a4e240536063c7f6a.jpg",
+    "media_path": "media/2018-01-13/Stapled-and-worn-still-standing-strong.jpg",
+    "thumb_path": "media/2018-01-13/Stapled-and-worn-still-standing-strong-thumb.jpg"
+  },
+  {
+    "index": 134,
+    "date": "2018-01-13T17:55:06.000Z",
+    "title": "Lost cat",
+    "uri": "photos/201801/82945ad71ac2d724074dcd35e463418d.jpg",
+    "media_path": "media/2018-01-13/Lost-cat.jpg",
+    "thumb_path": "media/2018-01-13/Lost-cat-thumb.jpg"
+  },
+  {
+    "index": 135,
+    "date": "2017-12-22T11:54:25.000Z",
+    "title": "Chipped \"Chip\" on the run.",
+    "uri": "photos/201712/a4974a26494a556a7f47dbcf1a765734.jpg",
+    "media_path": "media/2017-12-22/Chipped-Chip-on-the-run.jpg",
+    "thumb_path": "media/2017-12-22/Chipped-Chip-on-the-run-thumb.jpg"
+  },
+  {
+    "index": 136,
+    "date": "2017-12-22T11:52:28.000Z",
+    "title": "Colored on the mind: given time the true nature of all is revealed.",
+    "uri": "photos/201712/4d08a3eca0a1bba8a88eeba2ee03aee4.jpg",
+    "media_path": "media/2017-12-22/Colored-on-the-mind-given-time-the-true-nature-of-all-is-reveale.jpg",
+    "thumb_path": "media/2017-12-22/Colored-on-the-mind-given-time-the-true-nature-of-all-is-reveale-thumb.jpg"
+  },
+  {
+    "index": 137,
+    "date": "2017-12-20T12:00:38.000Z",
+    "title": "Colored mind meditation: alignment.",
+    "uri": "photos/201712/eff7ff8544e71dd31999df351e0d5e85.jpg",
+    "media_path": "media/2017-12-20/Colored-mind-meditation-alignment.jpg",
+    "thumb_path": "media/2017-12-20/Colored-mind-meditation-alignment-thumb.jpg"
+  },
+  {
+    "index": 138,
+    "date": "2017-12-14T06:25:10.000Z",
+    "title": "In orbit in Ardmore.",
+    "uri": "photos/201712/62014c84e8f3d017f935d67ce58914b5.jpg",
+    "media_path": "media/2017-12-14/In-orbit-in-Ardmore.jpg",
+    "thumb_path": "media/2017-12-14/In-orbit-in-Ardmore-thumb.jpg"
+  },
+  {
+    "index": 139,
+    "date": "2017-12-13T13:16:15.000Z",
+    "title": "Mickey has turn his back on us.",
+    "uri": "photos/201712/f27407d26b967bb973e628101e9819c9.jpg",
+    "media_path": "media/2017-12-13/Mickey-has-turn-his-back-on-us.jpg",
+    "thumb_path": "media/2017-12-13/Mickey-has-turn-his-back-on-us-thumb.jpg"
+  },
+  {
+    "index": 140,
+    "date": "2017-12-13T10:08:34.000Z",
+    "title": "The colored mind meditates on DICE.",
+    "uri": "photos/201712/5bd01081264a6951b49ab16575c10170.jpg",
+    "media_path": "media/2017-12-13/The-colored-mind-meditates-on-DICE.jpg",
+    "thumb_path": "media/2017-12-13/The-colored-mind-meditates-on-DICE-thumb.jpg"
+  },
+  {
+    "index": 141,
+    "date": "2017-12-12T12:41:25.000Z",
+    "title": "It's about ALL, Mickey.",
+    "uri": "photos/201712/2b57b37443bfcf34cd0a5753b11471e3.jpg",
+    "media_path": "media/2017-12-12/It-s-about-ALL-Mickey.jpg",
+    "thumb_path": "media/2017-12-12/It-s-about-ALL-Mickey-thumb.jpg"
+  },
+  {
+    "index": 142,
+    "date": "2017-12-10T11:32:21.000Z",
+    "title": "Who cares about Mickey?",
+    "uri": "photos/201712/236d8408dbc69c6a33b1b01b165e7297.jpg",
+    "media_path": "media/2017-12-10/Who-cares-about-Mickey.jpg",
+    "thumb_path": "media/2017-12-10/Who-cares-about-Mickey-thumb.jpg"
+  },
+  {
+    "index": 143,
+    "date": "2017-12-05T12:24:12.000Z",
+    "title": "Colored mind: another  Sirius B portal marker.[{(.-.)}]",
+    "uri": "photos/201712/5d4532eeeddb6a303a6ebf6c476ea9b9.jpg",
+    "media_path": "media/2017-12-05/Colored-mind-another-Sirius-B-portal-marker.jpg",
+    "thumb_path": "media/2017-12-05/Colored-mind-another-Sirius-B-portal-marker-thumb.jpg"
+  },
+  {
+    "index": 144,
+    "date": "2017-12-05T12:16:10.000Z",
+    "title": "Heads up: It's all about Mickey.",
+    "uri": "photos/201712/9a1fcfa41395fdc2fc345ad86a323e98.jpg",
+    "media_path": "media/2017-12-05/Heads-up-It-s-all-about-Mickey.jpg",
+    "thumb_path": "media/2017-12-05/Heads-up-It-s-all-about-Mickey-thumb.jpg"
+  },
+  {
+    "index": 145,
+    "date": "2017-12-02T13:14:53.000Z",
+    "title": "Season greetings from Ardmore as we complete another orbit.",
+    "uri": "photos/201712/38264fda770070ae7fb223c7c4b353f1.jpg",
+    "media_path": "media/2017-12-02/Season-greetings-from-Ardmore-as-we-complete-another-orbit.jpg",
+    "thumb_path": "media/2017-12-02/Season-greetings-from-Ardmore-as-we-complete-another-orbit-thumb.jpg"
+  },
+  {
+    "index": 146,
+    "date": "2017-11-29T13:07:36.000Z",
+    "title": "Antennas to improve signal reception from Sirius B.",
+    "uri": "photos/201711/56d2a2cbad726eca7e2712bdacb65cb5.jpg",
+    "media_path": "media/2017-11-29/Antennas-to-improve-signal-reception-from-Sirius-B.jpg",
+    "thumb_path": "media/2017-11-29/Antennas-to-improve-signal-reception-from-Sirius-B-thumb.jpg"
+  },
+  {
+    "index": 147,
+    "date": "2017-11-23T23:52:16.000Z",
+    "title": "Transmissions from Sirius B.",
+    "uri": "photos/201711/1f43e6556bd0203381392203e7cf2428.jpg",
+    "media_path": "media/2017-11-23/Transmissions-from-Sirius-B.jpg",
+    "thumb_path": "media/2017-11-23/Transmissions-from-Sirius-B-thumb.jpg"
+  },
+  {
+    "index": 148,
+    "date": "2017-11-23T23:51:10.000Z",
+    "title": "Transmissions from Sirius B.",
+    "uri": "photos/201711/c9d48c17ceecd3d243a0f302f02ad828.jpg",
+    "media_path": "media/2017-11-23/Transmissions-from-Sirius-B-1.jpg",
+    "thumb_path": "media/2017-11-23/Transmissions-from-Sirius-B-1-thumb.jpg"
+  },
+  {
+    "index": 149,
+    "date": "2017-11-23T19:46:54.000Z",
+    "title": "In our community",
+    "uri": "photos/201711/e8644488ea37adee815f784c4e6c461a.jpg",
+    "media_path": "media/2017-11-23/In-our-community.jpg",
+    "thumb_path": "media/2017-11-23/In-our-community-thumb.jpg"
+  },
+  {
+    "index": 150,
+    "date": "2017-11-21T10:47:30.000Z",
+    "title": "Around 1986, Rubin and I made a video skit for fun at Lucas Film Droidworks. Rubin went on to write this book about that period and work at a high level at Netflix and Adobe.",
+    "uri": "photos/201711/5455d6ff8907cfbb6b27d4f9bd4bc372.jpg",
+    "media_path": "media/2017-11-21/Around-1986-Rubin-and-I-made-a-video-skit-for-fun-at-Lucas-Film.jpg",
+    "thumb_path": "media/2017-11-21/Around-1986-Rubin-and-I-made-a-video-skit-for-fun-at-Lucas-Film-thumb.jpg"
+  },
+  {
+    "index": 151,
+    "date": "2017-11-12T09:47:19.000Z",
+    "title": "The colored mind: somewhere in the creative energy cycle.",
+    "uri": "photos/201711/ee83741781068bbf6f5125aa6c3a5fa6.jpg",
+    "media_path": "media/2017-11-12/The-colored-mind-somewhere-in-the-creative-energy-cycle.jpg",
+    "thumb_path": "media/2017-11-12/The-colored-mind-somewhere-in-the-creative-energy-cycle-thumb.jpg"
+  },
+  {
+    "index": 152,
+    "date": "2017-11-12T09:45:10.000Z",
+    "title": "Learning up the youth.",
+    "uri": "photos/201711/cf37ece6842c02fc04fb760924900b41.jpg",
+    "media_path": "media/2017-11-12/Learning-up-the-youth.jpg",
+    "thumb_path": "media/2017-11-12/Learning-up-the-youth-thumb.jpg"
+  },
+  {
+    "index": 153,
+    "date": "2017-11-12T09:43:54.000Z",
+    "title": "Fond memories of languages of yesteryear.",
+    "uri": "photos/201711/32497d5d5e0154593bb2e8e69c25e279.jpg",
+    "media_path": "media/2017-11-12/Fond-memories-of-languages-of-yesteryear.jpg",
+    "thumb_path": "media/2017-11-12/Fond-memories-of-languages-of-yesteryear-thumb.jpg"
+  },
+  {
+    "index": 154,
+    "date": "2017-11-10T12:12:00.000Z",
+    "title": "Colored mind: RGB cactus.",
+    "uri": "photos/201711/807d5c49cf7561d2523ee05654d569d1.jpg",
+    "media_path": "media/2017-11-10/Colored-mind-RGB-cactus.jpg",
+    "thumb_path": "media/2017-11-10/Colored-mind-RGB-cactus-thumb.jpg"
+  },
+  {
+    "index": 155,
+    "date": "2017-11-09T11:24:34.000Z",
+    "title": "DICE 123. Good morning gravity.",
+    "uri": "photos/201711/f2f8d6d02554b921e2a963f34d88bd98.jpg",
+    "media_path": "media/2017-11-09/DICE-123-Good-morning-gravity.jpg",
+    "thumb_path": "media/2017-11-09/DICE-123-Good-morning-gravity-thumb.jpg"
+  },
+  {
+    "index": 156,
+    "date": "2017-11-09T11:22:57.000Z",
+    "title": "Colored mind: RGB bite force.",
+    "uri": "photos/201711/bef321037fc8f8beecd23d693a436c37.jpg",
+    "media_path": "media/2017-11-09/Colored-mind-RGB-bite-force.jpg",
+    "thumb_path": "media/2017-11-09/Colored-mind-RGB-bite-force-thumb.jpg"
+  },
+  {
+    "index": 157,
+    "date": "2017-11-08T11:59:20.000Z",
+    "title": "Between a rock and a...",
+    "uri": "photos/201711/bcc16c94a3af9eaec6694e3ddf74eec9.jpg",
+    "media_path": "media/2017-11-08/Between-a-rock-and-a.jpg",
+    "thumb_path": "media/2017-11-08/Between-a-rock-and-a-thumb.jpg"
+  },
+  {
+    "index": 158,
+    "date": "2017-11-08T09:51:03.000Z",
+    "title": "North America from above.",
+    "uri": "photos/201711/6fac5c4a6955ba67a81bb216eebaf843.jpg",
+    "media_path": "media/2017-11-08/North-America-from-above.jpg",
+    "thumb_path": "media/2017-11-08/North-America-from-above-thumb.jpg"
+  },
+  {
+    "index": 159,
+    "date": "2017-11-06T00:27:46.000Z",
+    "title": "Colored mind: DICE API - desktop and device debugging.",
+    "uri": "photos/201711/2d3afbe7a1e03cdf7c817cad8304d746.jpg",
+    "media_path": "media/2017-11-05/Colored-mind-DICE-API-desktop-and-device-debugging.jpg",
+    "thumb_path": "media/2017-11-05/Colored-mind-DICE-API-desktop-and-device-debugging-thumb.jpg"
+  },
+  {
+    "index": 160,
+    "date": "2017-11-05T12:44:07.000Z",
+    "title": "Colored mind: portal to Serius B.",
+    "uri": "photos/201711/4525e09bdb5551b68e8702712b241766.jpg",
+    "media_path": "media/2017-11-05/Colored-mind-portal-to-Serius-B.jpg",
+    "thumb_path": "media/2017-11-05/Colored-mind-portal-to-Serius-B-thumb.jpg"
+  },
+  {
+    "index": 161,
+    "date": "2017-11-03T14:54:24.000Z",
+    "title": "Colored mind: star tomatoe.",
+    "uri": "photos/201711/9fafdf1089db709c8cc9463ac8560e07.jpg",
+    "media_path": "media/2017-11-03/Colored-mind-star-tomatoe.jpg",
+    "thumb_path": "media/2017-11-03/Colored-mind-star-tomatoe-thumb.jpg"
+  },
+  {
+    "index": 162,
+    "date": "2017-11-03T12:37:01.000Z",
+    "title": "Colored mind: transmission from Serius B 4k",
+    "uri": "photos/201711/fa9ea48ee0d5149fb814658a172c5067.jpg",
+    "media_path": "media/2017-11-03/Colored-mind-transmission-from-Serius-B-4k.jpg",
+    "thumb_path": "media/2017-11-03/Colored-mind-transmission-from-Serius-B-4k-thumb.jpg"
+  },
+  {
+    "index": 163,
+    "date": "2017-11-03T12:36:19.000Z",
+    "title": "Colored mind: transmission from Serius B 1k-254",
+    "uri": "photos/201711/2ce44cc257b03b382832deec130c9e52.jpg",
+    "media_path": "media/2017-11-03/Colored-mind-transmission-from-Serius-B-1k-254.jpg",
+    "thumb_path": "media/2017-11-03/Colored-mind-transmission-from-Serius-B-1k-254-thumb.jpg"
+  },
+  {
+    "index": 164,
+    "date": "2017-11-03T12:35:36.000Z",
+    "title": "Colored mind: transmission from Serius B 1k-255",
+    "uri": "photos/201711/1dfe04602dcabb8dde7dbc24769608a3.jpg",
+    "media_path": "media/2017-11-03/Colored-mind-transmission-from-Serius-B-1k-255.jpg",
+    "thumb_path": "media/2017-11-03/Colored-mind-transmission-from-Serius-B-1k-255-thumb.jpg"
+  },
+  {
+    "index": 165,
+    "date": "2017-10-31T13:02:20.000Z",
+    "title": "Colored mind: end of month DICE doodle.",
+    "uri": "photos/201710/5301563aef881504631fe5b9fea07a40.jpg",
+    "media_path": "media/2017-10-31/Colored-mind-end-of-month-DICE-doodle.jpg",
+    "thumb_path": "media/2017-10-31/Colored-mind-end-of-month-DICE-doodle-thumb.jpg"
+  },
+  {
+    "index": 166,
+    "date": "2017-10-31T11:35:24.000Z",
+    "title": "Colored mind: end of month DICE doodle.",
+    "uri": "photos/201710/3063178378225d0191c1531a95f56bc7.jpg",
+    "media_path": "media/2017-10-31/Colored-mind-end-of-month-DICE-doodle-1.jpg",
+    "thumb_path": "media/2017-10-31/Colored-mind-end-of-month-DICE-doodle-1-thumb.jpg"
+  },
+  {
+    "index": 167,
+    "date": "2017-10-31T11:34:35.000Z",
+    "title": "Colored mind: end of month DICE doodle.",
+    "uri": "photos/201710/7cefafe6d9bf8cdee1a7705d4e046288.jpg",
+    "media_path": "media/2017-10-31/Colored-mind-end-of-month-DICE-doodle-2.jpg",
+    "thumb_path": "media/2017-10-31/Colored-mind-end-of-month-DICE-doodle-2-thumb.jpg"
+  },
+  {
+    "index": 168,
+    "date": "2017-10-29T22:48:01.000Z",
+    "title": "Proud father of Nile Thompson, trying out for Lacrosse Jamaica team. Forward lax JA!",
+    "uri": "photos/201710/2cda54261b9a6b7082050f2cf934fb92.jpg",
+    "media_path": "media/2017-10-29/Proud-father-of-Nile-Thompson-trying-out-for-Lacrosse-Jamaica-te.jpg",
+    "thumb_path": "media/2017-10-29/Proud-father-of-Nile-Thompson-trying-out-for-Lacrosse-Jamaica-te-thumb.jpg"
+  },
+  {
+    "index": 169,
+    "date": "2017-10-29T16:41:35.000Z",
+    "title": "Colored mind: wet memories of past seasons",
+    "uri": "photos/201710/3479fd62925cc4df95ab6dcba01f02af.jpg",
+    "media_path": "media/2017-10-29/Colored-mind-wet-memories-of-past-seasons.jpg",
+    "thumb_path": "media/2017-10-29/Colored-mind-wet-memories-of-past-seasons-thumb.jpg"
+  },
+  {
+    "index": 170,
+    "date": "2017-10-29T16:39:40.000Z",
+    "title": "Colored mind: new life peeking thru old.",
+    "uri": "photos/201710/7e1b34cf4e5b31848144d71e6afe4ffd.jpg",
+    "media_path": "media/2017-10-29/Colored-mind-new-life-peeking-thru-old.jpg",
+    "thumb_path": "media/2017-10-29/Colored-mind-new-life-peeking-thru-old-thumb.jpg"
+  },
+  {
+    "index": 171,
+    "date": "2017-10-27T20:28:10.000Z",
+    "title": "In shadow",
+    "uri": "photos/201710/3427756f8905af69d149ec65c43505fa.jpg",
+    "media_path": "media/2017-10-27/In-shadow.jpg",
+    "thumb_path": "media/2017-10-27/In-shadow-thumb.jpg"
+  },
+  {
+    "index": 172,
+    "date": "2017-10-27T20:25:36.000Z",
+    "title": "In light",
+    "uri": "photos/201710/c7e7a67f9f7e0e7e95ad910e952f0c40.jpg",
+    "media_path": "media/2017-10-27/In-light.jpg",
+    "thumb_path": "media/2017-10-27/In-light-thumb.jpg"
+  },
+  {
+    "index": 173,
+    "date": "2017-10-24T23:25:59.000Z",
+    "title": "Post storm",
+    "uri": "photos/201710/2bd5e6a9cfae6d9fe539def3530a7a1b.jpg",
+    "media_path": "media/2017-10-24/Post-storm.jpg",
+    "thumb_path": "media/2017-10-24/Post-storm-thumb.jpg"
+  },
+  {
+    "index": 174,
+    "date": "2017-10-22T14:33:38.000Z",
+    "title": "Metal odd couple in my hood.",
+    "uri": "photos/201710/9f69c2f3964fb48bad95e8e63ad9843b.jpg",
+    "media_path": "media/2017-10-22/Metal-odd-couple-in-my-hood.jpg",
+    "thumb_path": "media/2017-10-22/Metal-odd-couple-in-my-hood-thumb.jpg"
+  },
+  {
+    "index": 175,
+    "date": "2017-10-18T19:48:45.000Z",
+    "title": "Skype chat with my cosmic twin benjaminb on our next artistic adventure.",
+    "uri": "photos/201710/833ccd53a9690b0da213b2e9025d5c57.jpg",
+    "media_path": "media/2017-10-18/Skype-chat-with-my-cosmic-twin-benjaminb-on-our-next-artistic-ad.jpg",
+    "thumb_path": "media/2017-10-18/Skype-chat-with-my-cosmic-twin-benjaminb-on-our-next-artistic-ad-thumb.jpg"
+  },
+  {
+    "index": 176,
+    "date": "2017-10-15T09:47:50.000Z",
+    "title": "24 years later is it still true? \"On the Internet, nobody knows you're a dog\" is an adage about Internet anonymitywhich began as a cartoon caption by Peter Steiner and published by The New Yorker on July 5, 1993",
+    "uri": "photos/201710/7f274d37f3e6362e143ef12a120a7a06.jpg",
+    "media_path": "media/2017-10-15/24-years-later-is-it-still-true-On-the-Internet-nobody-knows-you.jpg",
+    "thumb_path": "media/2017-10-15/24-years-later-is-it-still-true-On-the-Internet-nobody-knows-you-thumb.jpg"
+  },
+  {
+    "index": 177,
+    "date": "2017-10-13T01:16:39.000Z",
+    "title": "Corners",
+    "uri": "photos/201710/b0cc059aea124be6a6ebb0b22749c3cd.jpg",
+    "media_path": "media/2017-10-12/Corners.jpg",
+    "thumb_path": "media/2017-10-12/Corners-thumb.jpg"
+  },
+  {
+    "index": 178,
+    "date": "2017-10-13T01:15:30.000Z",
+    "title": "Day moon. Tiny dot is moon visible during the daylight.",
+    "uri": "photos/201710/2b317351dd59b2952365dee52517aad1.jpg",
+    "media_path": "media/2017-10-12/Day-moon-Tiny-dot-is-moon-visible-during-the-daylight.jpg",
+    "thumb_path": "media/2017-10-12/Day-moon-Tiny-dot-is-moon-visible-during-the-daylight-thumb.jpg"
+  },
+  {
+    "index": 179,
+    "date": "2017-10-13T01:14:48.000Z",
+    "title": "Look up and be blissed!",
+    "uri": "photos/201710/28525a82da7a53bb2059e2ca8856c604.jpg",
+    "media_path": "media/2017-10-12/Look-up-and-be-blissed.jpg",
+    "thumb_path": "media/2017-10-12/Look-up-and-be-blissed-thumb.jpg"
+  },
+  {
+    "index": 180,
+    "date": "2017-10-08T11:30:15.000Z",
+    "title": "At Bed Bath and Beyond: look up to see the light.",
+    "uri": "photos/201710/e0bcb0fc91249a7751f628dfb8ac0995.jpg",
+    "media_path": "media/2017-10-08/At-Bed-Bath-and-Beyond-look-up-to-see-the-light.jpg",
+    "thumb_path": "media/2017-10-08/At-Bed-Bath-and-Beyond-look-up-to-see-the-light-thumb.jpg"
+  },
+  {
+    "index": 181,
+    "date": "2017-10-07T21:05:24.000Z",
+    "title": "I like it black and hairy.",
+    "uri": "photos/201710/1252eafe28349ae631a84ec4dc5d4df4.jpg",
+    "media_path": "media/2017-10-07/I-like-it-black-and-hairy.jpg",
+    "thumb_path": "media/2017-10-07/I-like-it-black-and-hairy-thumb.jpg"
+  },
+  {
+    "index": 182,
+    "date": "2017-10-07T11:33:47.000Z",
+    "title": "Cosmic! I have 108 friends some where! 108 is related to earth and sun!",
+    "uri": "photos/201710/b929cf629f86659b6bc4073987eacb70.jpg",
+    "media_path": "media/2017-10-07/Cosmic-I-have-108-friends-some-where-108-is-related-to-earth-and.jpg",
+    "thumb_path": "media/2017-10-07/Cosmic-I-have-108-friends-some-where-108-is-related-to-earth-and-thumb.jpg"
+  },
+  {
+    "index": 183,
+    "date": "2017-10-06T21:10:42.000Z",
+    "title": "1+1=4, second version in cork and paper clips. First version in chop sticks and fishing wire.",
+    "uri": "photos/201710/92f6f84c5daf59383fccfd9c89691033.jpg",
+    "media_path": "media/2017-10-06/1-1-4-second-version-in-cork-and-paper-clips-First-version-in-ch.jpg",
+    "thumb_path": "media/2017-10-06/1-1-4-second-version-in-cork-and-paper-clips-First-version-in-ch-thumb.jpg"
+  },
+  {
+    "index": 184,
+    "date": "2017-10-06T15:16:15.000Z",
+    "title": "Colored mind asks is color food? Yes, and i am hungry.",
+    "uri": "photos/201710/d12310a7c48070044ee868c7910502f8.jpg",
+    "media_path": "media/2017-10-06/Colored-mind-asks-is-color-food-Yes-and-i-am-hungry.jpg",
+    "thumb_path": "media/2017-10-06/Colored-mind-asks-is-color-food-Yes-and-i-am-hungry-thumb.jpg"
+  },
+  {
+    "index": 185,
+    "date": "2017-10-06T15:14:57.000Z",
+    "title": "Colored mind asks is color food?",
+    "uri": "photos/201710/702d54b586fd6b58b45a64e956a499fc.jpg",
+    "media_path": "media/2017-10-06/Colored-mind-asks-is-color-food.jpg",
+    "thumb_path": "media/2017-10-06/Colored-mind-asks-is-color-food-thumb.jpg"
+  },
+  {
+    "index": 186,
+    "date": "2017-10-06T15:14:29.000Z",
+    "title": "Colored mind asks is color food?",
+    "uri": "photos/201710/d8dd221571c875d594e564545b372dfa.jpg",
+    "media_path": "media/2017-10-06/Colored-mind-asks-is-color-food-1.jpg",
+    "thumb_path": "media/2017-10-06/Colored-mind-asks-is-color-food-1-thumb.jpg"
+  },
+  {
+    "index": 187,
+    "date": "2017-10-06T15:13:34.000Z",
+    "title": "Colored mind asks is color food?",
+    "uri": "photos/201710/e91d91dcf8257dc3b5333e747e36ff4b.jpg",
+    "media_path": "media/2017-10-06/Colored-mind-asks-is-color-food-2.jpg",
+    "thumb_path": "media/2017-10-06/Colored-mind-asks-is-color-food-2-thumb.jpg"
+  },
+  {
+    "index": 188,
+    "date": "2017-10-06T15:13:02.000Z",
+    "title": "Colored mind asks is color food?",
+    "uri": "photos/201710/5fb58cf1784c25bb76255eec2aefe2be.jpg",
+    "media_path": "media/2017-10-06/Colored-mind-asks-is-color-food-3.jpg",
+    "thumb_path": "media/2017-10-06/Colored-mind-asks-is-color-food-3-thumb.jpg"
+  },
+  {
+    "index": 189,
+    "date": "2017-10-06T15:11:06.000Z",
+    "title": "Colored mind asks is color food?",
+    "uri": "photos/201710/13de093b7e109a9d334178c5b4549194.jpg",
+    "media_path": "media/2017-10-06/Colored-mind-asks-is-color-food-4.jpg",
+    "thumb_path": "media/2017-10-06/Colored-mind-asks-is-color-food-4-thumb.jpg"
+  },
+  {
+    "index": 190,
+    "date": "2017-10-06T15:10:39.000Z",
+    "title": "Colored mind asks is color food?",
+    "uri": "photos/201710/33c2fcc0481922cb779f90b1554bbed8.jpg",
+    "media_path": "media/2017-10-06/Colored-mind-asks-is-color-food-5.jpg",
+    "thumb_path": "media/2017-10-06/Colored-mind-asks-is-color-food-5-thumb.jpg"
+  },
+  {
+    "index": 191,
+    "date": "2017-10-06T15:10:13.000Z",
+    "title": "Colored mind asks is color food?",
+    "uri": "photos/201710/8eb714c0fd3b9e121b6243f051748a06.jpg",
+    "media_path": "media/2017-10-06/Colored-mind-asks-is-color-food-6.jpg",
+    "thumb_path": "media/2017-10-06/Colored-mind-asks-is-color-food-6-thumb.jpg"
+  },
+  {
+    "index": 192,
+    "date": "2017-10-06T15:07:08.000Z",
+    "title": "Colored mind asks is color food?",
+    "uri": "photos/201710/17dc4077074b82a5a17dba4a6c5511db.jpg",
+    "media_path": "media/2017-10-06/Colored-mind-asks-is-color-food-7.jpg",
+    "thumb_path": "media/2017-10-06/Colored-mind-asks-is-color-food-7-thumb.jpg"
+  },
+  {
+    "index": 193,
+    "date": "2017-10-05T11:10:37.000Z",
+    "title": "Keep love shining.",
+    "uri": "photos/201710/6b1eb03668563277f382d042bacc555a.jpg",
+    "media_path": "media/2017-10-05/Keep-love-shining.jpg",
+    "thumb_path": "media/2017-10-05/Keep-love-shining-thumb.jpg"
+  },
+  {
+    "index": 194,
+    "date": "2017-10-05T11:09:14.000Z",
+    "title": "Sometimes you've got to work with what you've got.",
+    "uri": "photos/201710/5173c3eda018798945f15747c078ba60.jpg",
+    "media_path": "media/2017-10-05/Sometimes-you-ve-got-to-work-with-what-you-ve-got.jpg",
+    "thumb_path": "media/2017-10-05/Sometimes-you-ve-got-to-work-with-what-you-ve-got-thumb.jpg"
+  },
+  {
+    "index": 195,
+    "date": "2017-10-04T12:18:42.000Z",
+    "title": "You don't scare me.",
+    "uri": "photos/201710/8ab12e6fa8808301d07c20d2d0b1a4cd.jpg",
+    "media_path": "media/2017-10-04/You-don-t-scare-me.jpg",
+    "thumb_path": "media/2017-10-04/You-don-t-scare-me-thumb.jpg"
+  },
+  {
+    "index": 196,
+    "date": "2017-10-04T12:15:55.000Z",
+    "title": "Let the love shine thru!",
+    "uri": "photos/201710/f7a38f1164e91f95b84f5876208ee492.jpg",
+    "media_path": "media/2017-10-04/Let-the-love-shine-thru.jpg",
+    "thumb_path": "media/2017-10-04/Let-the-love-shine-thru-thumb.jpg"
+  },
+  {
+    "index": 197,
+    "date": "2017-10-04T12:14:14.000Z",
+    "title": "House guest.",
+    "uri": "photos/201710/80c9f2ac58f4ffe0b8b4ad3bbc0c3f69.jpg",
+    "media_path": "media/2017-10-04/House-guest.jpg",
+    "thumb_path": "media/2017-10-04/House-guest-thumb.jpg"
+  },
+  {
+    "index": 198,
+    "date": "2017-10-03T23:59:54.000Z",
+    "title": "DICE colored mind. Peering into the vortex🙏🏾.",
+    "uri": "photos/201710/c1588c3758e15a87ce73b8b5526b42c8.jpg",
+    "media_path": "media/2017-10-03/DICE-colored-mind-Peering-into-the-vortex.jpg",
+    "thumb_path": "media/2017-10-03/DICE-colored-mind-Peering-into-the-vortex-thumb.jpg"
+  },
+  {
+    "index": 199,
+    "date": "2017-10-03T18:00:01.000Z",
+    "title": "The colored mind: green into blue on the edge of the earth.",
+    "uri": "photos/201710/ca8f21b65f4a456d72592defc6104d77.jpg",
+    "media_path": "media/2017-10-03/The-colored-mind-green-into-blue-on-the-edge-of-the-earth.jpg",
+    "thumb_path": "media/2017-10-03/The-colored-mind-green-into-blue-on-the-edge-of-the-earth-thumb.jpg"
+  },
+  {
+    "index": 200,
+    "date": "2017-10-02T17:30:30.000Z",
+    "title": "Westmoreland jamaica 2013",
+    "uri": "photos/201710/f4da5117040472d37958afb4e7ad84ce.jpg",
+    "media_path": "media/2017-10-02/Westmoreland-jamaica-2013.jpg",
+    "thumb_path": "media/2017-10-02/Westmoreland-jamaica-2013-thumb.jpg"
+  },
+  {
+    "index": 201,
+    "date": "2017-10-01T08:46:06.000Z",
+    "title": "From the DICE lab: gravity in motion.",
+    "uri": "photos/201710/73fbf733800586bf4bc79c9cf6dc0167.jpg",
+    "media_path": "media/2017-10-01/From-the-DICE-lab-gravity-in-motion.jpg",
+    "thumb_path": "media/2017-10-01/From-the-DICE-lab-gravity-in-motion-thumb.jpg"
+  },
+  {
+    "index": 202,
+    "date": "2017-10-01T08:43:59.000Z",
+    "title": "What are they telling me?",
+    "uri": "photos/201710/a74db7963518e046012a4f9ce8bb7f37.jpg",
+    "media_path": "media/2017-10-01/What-are-they-telling-me.jpg",
+    "thumb_path": "media/2017-10-01/What-are-they-telling-me-thumb.jpg"
+  },
+  {
+    "index": 203,
+    "date": "2017-09-28T12:02:09.000Z",
+    "title": "Art *before* APIs!",
+    "uri": "photos/201709/cd812ed25a811c5ae9d3903501e24dd9.jpg",
+    "media_path": "media/2017-09-28/Art-before-APIs.jpg",
+    "thumb_path": "media/2017-09-28/Art-before-APIs-thumb.jpg"
+  },
+  {
+    "index": 204,
+    "date": "2017-09-28T12:00:50.000Z",
+    "title": "Sale • Sale • Sale",
+    "uri": "photos/201709/9f3a6f7eecaf369e16ab053017e3286b.jpg",
+    "media_path": "media/2017-09-28/Sale-Sale-Sale.jpg",
+    "thumb_path": "media/2017-09-28/Sale-Sale-Sale-thumb.jpg"
+  },
+  {
+    "index": 205,
+    "date": "2017-09-28T08:23:59.000Z",
+    "title": "\"More or less,\" she said quietly in the morning.",
+    "uri": "photos/201709/30afe2a7d4e287e47e6e597ff40d2631.jpg",
+    "media_path": "media/2017-09-28/-More-or-less-she-said-quietly-in-the-morning.jpg",
+    "thumb_path": "media/2017-09-28/-More-or-less-she-said-quietly-in-the-morning-thumb.jpg"
+  },
+  {
+    "index": 206,
+    "date": "2017-09-28T08:19:14.000Z",
+    "title": "Cosmic! Exactly 1.00 lbs of nutrition.",
+    "uri": "photos/201709/547ea256922cc1734adc84b7c68f80ba.jpg",
+    "media_path": "media/2017-09-28/Cosmic-Exactly-1-00-lbs-of-nutrition.jpg",
+    "thumb_path": "media/2017-09-28/Cosmic-Exactly-1-00-lbs-of-nutrition-thumb.jpg"
+  },
+  {
+    "index": 207,
+    "date": "2017-09-27T11:29:35.000Z",
+    "title": "Everything of substance changes. Grow. Decay. Evolve. Devolve. The colored mind makes the choice.",
+    "uri": "photos/201709/f8469d5c86f41b2e7c1d099279e4e01c.jpg",
+    "media_path": "media/2017-09-27/Everything-of-substance-changes-Grow-Decay-Evolve-Devolve-The-co.jpg",
+    "thumb_path": "media/2017-09-27/Everything-of-substance-changes-Grow-Decay-Evolve-Devolve-The-co-thumb.jpg"
+  },
+  {
+    "index": 208,
+    "date": "2017-09-27T11:27:15.000Z",
+    "title": "He's on the corner 7am to 9am",
+    "uri": "photos/201709/7deafe488b9c590441797dfc1e078b0b.jpg",
+    "media_path": "media/2017-09-27/He-s-on-the-corner-7am-to-9am.jpg",
+    "thumb_path": "media/2017-09-27/He-s-on-the-corner-7am-to-9am-thumb.jpg"
+  },
+  {
+    "index": 209,
+    "date": "2017-09-27T08:51:24.000Z",
+    "title": "The colored mind on DICE",
+    "uri": "photos/201709/d8ffd45d0fb430191dae95c624a1bc83.jpg",
+    "media_path": "media/2017-09-27/The-colored-mind-on-DICE.jpg",
+    "thumb_path": "media/2017-09-27/The-colored-mind-on-DICE-thumb.jpg"
+  },
+  {
+    "index": 210,
+    "date": "2017-09-26T09:34:10.000Z",
+    "title": "Nature will find away!",
+    "uri": "photos/201709/478ccaf2423f2f18bdb9c9589b7d0d21.jpg",
+    "media_path": "media/2017-09-26/Nature-will-find-away.jpg",
+    "thumb_path": "media/2017-09-26/Nature-will-find-away-thumb.jpg"
+  },
+  {
+    "index": 211,
+    "date": "2017-09-26T09:29:21.000Z",
+    "title": "The Lingo legacy.",
+    "uri": "photos/201709/9ac35362d0afd54af75548abc8117563.jpg",
+    "media_path": "media/2017-09-26/The-Lingo-legacy.jpg",
+    "thumb_path": "media/2017-09-26/The-Lingo-legacy-thumb.jpg"
+  },
+  {
+    "index": 212,
+    "date": "2017-09-26T09:28:57.000Z",
+    "title": "The Lingo legacy.",
+    "uri": "photos/201709/da7fe00a1a2bdfd33f575c0396dc461c.jpg",
+    "media_path": "media/2017-09-26/The-Lingo-legacy-1.jpg",
+    "thumb_path": "media/2017-09-26/The-Lingo-legacy-1-thumb.jpg"
+  },
+  {
+    "index": 213,
+    "date": "2017-09-26T09:24:02.000Z",
+    "title": "DICE color wave 2017-09-09",
+    "uri": "photos/201709/a098d3ea17db269574230b0e38763148.jpg",
+    "media_path": "media/2017-09-26/DICE-color-wave-2017-09-09.jpg",
+    "thumb_path": "media/2017-09-26/DICE-color-wave-2017-09-09-thumb.jpg"
+  },
+  {
+    "index": 214,
+    "date": "2017-09-26T09:23:43.000Z",
+    "title": "DICE color wave 2017-09-09",
+    "uri": "photos/201709/f00c41a0a4d016381852f06bd2a42f10.jpg",
+    "media_path": "media/2017-09-26/DICE-color-wave-2017-09-10.jpg",
+    "thumb_path": "media/2017-09-26/DICE-color-wave-2017-09-10-thumb.jpg"
+  },
+  {
+    "index": 215,
+    "date": "2017-09-26T09:23:23.000Z",
+    "title": "DICE color wave 2017-09-09",
+    "uri": "photos/201709/3b6f2c03d18bedc525f4109d90da1951.jpg",
+    "media_path": "media/2017-09-26/DICE-color-wave-2017-09-11.jpg",
+    "thumb_path": "media/2017-09-26/DICE-color-wave-2017-09-11-thumb.jpg"
+  },
+  {
+    "index": 216,
+    "date": "2017-09-23T14:14:41.000Z",
+    "title": "Colored mind at skysoup.org store front display",
+    "uri": "photos/201709/6d7855ea8351cc22cb70b2ae677026a4.jpg",
+    "media_path": "media/2017-09-23/Colored-mind-at-skysoup-org-store-front-display.jpg",
+    "thumb_path": "media/2017-09-23/Colored-mind-at-skysoup-org-store-front-display-thumb.jpg"
+  },
+  {
+    "index": 217,
+    "date": "2017-09-23T11:30:27.000Z",
+    "title": "DICE 3D from 1983. I will revive 3D man!",
+    "uri": "photos/201709/b91aa73cbd25b0c46b54024c71cf9022.jpg",
+    "media_path": "media/2017-09-23/DICE-3D-from-1983-I-will-revive-3D-man.jpg",
+    "thumb_path": "media/2017-09-23/DICE-3D-from-1983-I-will-revive-3D-man-thumb.jpg"
+  },
+  {
+    "index": 218,
+    "date": "2017-09-23T11:10:33.000Z",
+    "title": "Could not rest until  found",
+    "uri": "photos/201709/59915a69371fe73391597cc17fc4b237.jpg",
+    "media_path": "media/2017-09-23/Could-not-rest-until-found.jpg",
+    "thumb_path": "media/2017-09-23/Could-not-rest-until-found-thumb.jpg"
+  },
+  {
+    "index": 219,
+    "date": "2017-09-23T11:09:16.000Z",
+    "title": "DICE feedback: 1+1=4•5=20",
+    "uri": "photos/201709/ea4c3b82bc455da379c4391edc06d042.jpg",
+    "media_path": "media/2017-09-23/DICE-feedback-1-1-4-5-20.jpg",
+    "thumb_path": "media/2017-09-23/DICE-feedback-1-1-4-5-20-thumb.jpg"
+  },
+  {
+    "index": 220,
+    "date": "2017-09-23T10:59:22.000Z",
+    "title": "10 minutes for my solution. Am i right?",
+    "uri": "photos/201709/0d092142a54a5c218c04df3fdbfeb661.jpg",
+    "media_path": "media/2017-09-23/10-minutes-for-my-solution-Am-i-right.jpg",
+    "thumb_path": "media/2017-09-23/10-minutes-for-my-solution-Am-i-right-thumb.jpg"
+  },
+  {
+    "index": 221,
+    "date": "2017-09-23T02:47:30.000Z",
+    "title": "Hay! What's up?",
+    "uri": "photos/201709/e5aa7130216ab9e456ff0af83e2b05b0.jpg",
+    "media_path": "media/2017-09-22/Hay-What-s-up.jpg",
+    "thumb_path": "media/2017-09-22/Hay-What-s-up-thumb.jpg"
+  },
+  {
+    "index": 222,
+    "date": "2017-09-22T13:04:50.000Z",
+    "title": "Looking to the light",
+    "uri": "photos/201709/4ba7f6d2194d82d1ad75cc9feedfb4f6.jpg",
+    "media_path": "media/2017-09-22/Looking-to-the-light.jpg",
+    "thumb_path": "media/2017-09-22/Looking-to-the-light-thumb.jpg"
+  },
+  {
+    "index": 223,
+    "date": "2017-09-22T13:02:35.000Z",
+    "title": "Hips and figures",
+    "uri": "photos/201709/7abd87827100340ea5d6d13b641ccf53.jpg",
+    "media_path": "media/2017-09-22/Hips-and-figures.jpg",
+    "thumb_path": "media/2017-09-22/Hips-and-figures-thumb.jpg"
+  },
+  {
+    "index": 224,
+    "date": "2017-09-22T13:01:07.000Z",
+    "title": "Preparing for dinner",
+    "uri": "photos/201709/32624866e687ef1f210e7d809123d93a.jpg",
+    "media_path": "media/2017-09-22/Preparing-for-dinner.jpg",
+    "thumb_path": "media/2017-09-22/Preparing-for-dinner-thumb.jpg"
+  },
+  {
+    "index": 225,
+    "date": "2017-09-22T12:58:24.000Z",
+    "title": "DICE math: 1+1=4•5=20",
+    "uri": "photos/201709/80360eeebdd23585c27acb119f5971dd.jpg",
+    "media_path": "media/2017-09-22/DICE-math-1-1-4-5-20.jpg",
+    "thumb_path": "media/2017-09-22/DICE-math-1-1-4-5-20-thumb.jpg"
+  },
+  {
+    "index": 226,
+    "date": "2017-09-21T14:10:02.000Z",
+    "title": "Colored mind: many hats wear I and I self.",
+    "uri": "photos/201709/9f09538e2a8397f59e54303bacb2eca1.jpg",
+    "media_path": "media/2017-09-21/Colored-mind-many-hats-wear-I-and-I-self.jpg",
+    "thumb_path": "media/2017-09-21/Colored-mind-many-hats-wear-I-and-I-self-thumb.jpg"
+  },
+  {
+    "index": 227,
+    "date": "2017-09-19T11:53:48.000Z",
+    "title": "DICE color meter of Zulu Telephone Wire product.",
+    "uri": "photos/201709/a11749a13cf28c633352254fd5756060.jpg",
+    "media_path": "media/2017-09-19/DICE-color-meter-of-Zulu-Telephone-Wire-product.jpg",
+    "thumb_path": "media/2017-09-19/DICE-color-meter-of-Zulu-Telephone-Wire-product-thumb.jpg"
+  },
+  {
+    "index": 228,
+    "date": "2017-09-17T23:37:08.000Z",
+    "title": "From the DICE Lab: 1 + 1 = 4. Thoughts of Bhama the creator.",
+    "uri": "photos/201709/e77c922157075f2440c3d63083d41146.jpg",
+    "media_path": "media/2017-09-17/From-the-DICE-Lab-1-1-4-Thoughts-of-Bhama-the-creator.jpg",
+    "thumb_path": "media/2017-09-17/From-the-DICE-Lab-1-1-4-Thoughts-of-Bhama-the-creator-thumb.jpg"
+  },
+  {
+    "index": 229,
+    "date": "2017-09-17T23:35:47.000Z",
+    "title": "1 + 1 = 4. Thoughts of Bhama the creator.",
+    "uri": "photos/201709/4a7bb27957f611e03ad15886abf86a61.jpg",
+    "media_path": "media/2017-09-17/1-1-4-Thoughts-of-Bhama-the-creator.jpg",
+    "thumb_path": "media/2017-09-17/1-1-4-Thoughts-of-Bhama-the-creator-thumb.jpg"
+  },
+  {
+    "index": 230,
+    "date": "2017-09-17T23:26:32.000Z",
+    "title": "1 + 1 = 4",
+    "uri": "photos/201709/0562acfa23dd660f7210b6e8ca5abefe.jpg",
+    "media_path": "media/2017-09-17/1-1-4.jpg",
+    "thumb_path": "media/2017-09-17/1-1-4-thumb.jpg"
+  },
+  {
+    "index": 231,
+    "date": "2017-09-17T22:38:38.000Z",
+    "title": "DICE-age 1+1=4",
+    "uri": "photos/201709/95b5d46f5b14471212d5deb871a1eeb3.jpg",
+    "media_path": "media/2017-09-17/DICE-age-1-1-4.jpg",
+    "thumb_path": "media/2017-09-17/DICE-age-1-1-4-thumb.jpg"
+  },
+  {
+    "index": 232,
+    "date": "2017-09-17T17:17:19.000Z",
+    "title": "1 + 1 = 4",
+    "uri": "photos/201709/7eee930d46616f63d9fcd04564ba1d0f.jpg",
+    "media_path": "media/2017-09-17/1-1-5.jpg",
+    "thumb_path": "media/2017-09-17/1-1-5-thumb.jpg"
+  },
+  {
+    "index": 233,
+    "date": "2017-09-17T09:19:33.000Z",
+    "title": "Facebook bread crumbs",
+    "uri": "photos/201709/05c8dfe5e2b6a4500a680abde322c2ae.jpg",
+    "media_path": "media/2017-09-17/Facebook-bread-crumbs.jpg",
+    "thumb_path": "media/2017-09-17/Facebook-bread-crumbs-thumb.jpg"
+  },
+  {
+    "index": 234,
+    "date": "2017-09-17T09:12:25.000Z",
+    "title": "Dining and DICEing",
+    "uri": "photos/201709/eed2c18047659308e5cef3ed2adba39e.jpg",
+    "media_path": "media/2017-09-17/Dining-and-DICEing.jpg",
+    "thumb_path": "media/2017-09-17/Dining-and-DICEing-thumb.jpg"
+  },
+  {
+    "index": 235,
+    "date": "2017-09-15T15:46:38.000Z",
+    "title": "\"a water vendor before a monsoon\" A few years ago my daughter sent me this photo of my Indian double - maybe it applies to me: I'd aim to vend creative access to the computer as they rain down in all aspects of our lives.",
+    "uri": "photos/201709/7856e1161f78d706a7a34a4b78ca5ee1.jpg",
+    "media_path": "media/2017-09-15/-a-water-vendor-before-a-monsoon-A-few-years-ago-my-daughter-sen.jpg",
+    "thumb_path": "media/2017-09-15/-a-water-vendor-before-a-monsoon-A-few-years-ago-my-daughter-sen-thumb.jpg"
+  },
+  {
+    "index": 236,
+    "date": "2017-09-15T10:59:38.000Z",
+    "title": "DICE color bar.",
+    "uri": "photos/201709/330be87a7391f0462fac9dd64632ec7a.jpg",
+    "media_path": "media/2017-09-15/DICE-color-bar.jpg",
+    "thumb_path": "media/2017-09-15/DICE-color-bar-thumb.jpg"
+  },
+  {
+    "index": 237,
+    "date": "2017-09-15T10:58:07.000Z",
+    "title": "We are guests. Nature rules this planet.",
+    "uri": "photos/201709/4646b12ef84ea5fa38cf5fd2792a556f.jpg",
+    "media_path": "media/2017-09-15/We-are-guests-Nature-rules-this-planet.jpg",
+    "thumb_path": "media/2017-09-15/We-are-guests-Nature-rules-this-planet-thumb.jpg"
+  },
+  {
+    "index": 238,
+    "date": "2017-09-15T10:56:18.000Z",
+    "title": "DICE Greetings for a new day",
+    "uri": "photos/201709/e94ab274820ad049313eeff32953a60d.jpg",
+    "media_path": "media/2017-09-15/DICE-Greetings-for-a-new-day.jpg",
+    "thumb_path": "media/2017-09-15/DICE-Greetings-for-a-new-day-thumb.jpg"
+  },
+  {
+    "index": 239,
+    "date": "2017-09-11T05:50:25.000Z",
+    "title": "Colored mind - four by five",
+    "uri": "photos/201709/6b8efe20a1e3383b610a500ce5991abc.jpg",
+    "media_path": "media/2017-09-11/Colored-mind-four-by-five.jpg",
+    "thumb_path": "media/2017-09-11/Colored-mind-four-by-five-thumb.jpg"
+  },
+  {
+    "index": 240,
+    "date": "2017-09-11T05:41:29.000Z",
+    "title": "Colored mind - good morning world",
+    "uri": "photos/201709/e1f2b0fa5cea7cc44be0adeaf7bedd5b.jpg",
+    "media_path": "media/2017-09-11/Colored-mind-good-morning-world.jpg",
+    "thumb_path": "media/2017-09-11/Colored-mind-good-morning-world-thumb.jpg"
+  },
+  {
+    "index": 241,
+    "date": "2017-09-11T05:37:39.000Z",
+    "title": "Colored mind - good morning world",
+    "uri": "photos/201709/cb220518d6b0c34044418951b0e0f066.jpg",
+    "media_path": "media/2017-09-11/Colored-mind-good-morning-world-1.jpg",
+    "thumb_path": "media/2017-09-11/Colored-mind-good-morning-world-1-thumb.jpg"
+  },
+  {
+    "index": 242,
+    "date": "2017-09-09T18:03:27.000Z",
+    "title": "Colored mind - pepper or pupa",
+    "uri": "photos/201709/a9f957e1f3bad78c7e7bab8836d9c5e7.jpg",
+    "media_path": "media/2017-09-09/Colored-mind-pepper-or-pupa.jpg",
+    "thumb_path": "media/2017-09-09/Colored-mind-pepper-or-pupa-thumb.jpg"
+  },
+  {
+    "index": 243,
+    "date": "2017-09-09T18:01:26.000Z",
+    "title": "Colored mind - made in North America",
+    "uri": "photos/201709/8ff6730b1a90b032807feb0baddc925b.jpg",
+    "media_path": "media/2017-09-09/Colored-mind-made-in-North-America.jpg",
+    "thumb_path": "media/2017-09-09/Colored-mind-made-in-North-America-thumb.jpg"
+  },
+  {
+    "index": 244,
+    "date": "2017-09-09T17:58:52.000Z",
+    "title": "My neighborhood in transition - nobadistrict.com",
+    "uri": "photos/201709/886a83b06981edbc392b64ef98d7e800.jpg",
+    "media_path": "media/2017-09-09/My-neighborhood-in-transition-nobadistrict-com.jpg",
+    "thumb_path": "media/2017-09-09/My-neighborhood-in-transition-nobadistrict-com-thumb.jpg"
+  },
+  {
+    "index": 245,
+    "date": "2017-09-09T17:57:42.000Z",
+    "title": "My neighborhood in transition - nobadistrict.com",
+    "uri": "photos/201709/bfa6051d02cb0f19413934a2e7d4aa59.jpg",
+    "media_path": "media/2017-09-09/My-neighborhood-in-transition-nobadistrict-com-1.jpg",
+    "thumb_path": "media/2017-09-09/My-neighborhood-in-transition-nobadistrict-com-1-thumb.jpg"
+  },
+  {
+    "index": 246,
+    "date": "2017-09-09T17:57:02.000Z",
+    "title": "My neighborhood in transition - nobadistrict.com",
+    "uri": "photos/201709/27b9083ad9414ea689d76ddff9264a8b.jpg",
+    "media_path": "media/2017-09-09/My-neighborhood-in-transition-nobadistrict-com-2.jpg",
+    "thumb_path": "media/2017-09-09/My-neighborhood-in-transition-nobadistrict-com-2-thumb.jpg"
+  },
+  {
+    "index": 247,
+    "date": "2017-09-09T17:55:03.000Z",
+    "title": "Fresh palette at skysoup.orh",
+    "uri": "photos/201709/11888824b8049f1c8c7b464365b530a0.jpg",
+    "media_path": "media/2017-09-09/Fresh-palette-at-skysoup-orh.jpg",
+    "thumb_path": "media/2017-09-09/Fresh-palette-at-skysoup-orh-thumb.jpg"
+  },
+  {
+    "index": 248,
+    "date": "2017-09-09T17:52:49.000Z",
+    "title": "Getting my rocks off at skysoup.org",
+    "uri": "photos/201709/2ef8f7e1047d8cc082ad3c708d1614d8.jpg",
+    "media_path": "media/2017-09-09/Getting-my-rocks-off-at-skysoup-org.jpg",
+    "thumb_path": "media/2017-09-09/Getting-my-rocks-off-at-skysoup-org-thumb.jpg"
+  },
+  {
+    "index": 249,
+    "date": "2017-09-08T19:06:44.000Z",
+    "title": "DICE color meter brown bag test at nMAAHc",
+    "uri": "photos/201709/cd9d418ce727b00cd5230a8a2b4089ab.jpg",
+    "media_path": "media/2017-09-08/DICE-color-meter-brown-bag-test-at-nMAAHc.jpg",
+    "thumb_path": "media/2017-09-08/DICE-color-meter-brown-bag-test-at-nMAAHc-thumb.jpg"
+  },
+  {
+    "index": 250,
+    "date": "2017-09-07T00:04:37.000Z",
+    "title": "Orchestrated dice. Union of art and science (i hope)",
+    "uri": "photos/201709/5a6938a5e9813a955d7b8c2490c1bd59.jpg",
+    "media_path": "media/2017-09-06/Orchestrated-dice-Union-of-art-and-science-i-hope.jpg",
+    "thumb_path": "media/2017-09-06/Orchestrated-dice-Union-of-art-and-science-i-hope-thumb.jpg"
+  },
+  {
+    "index": 251,
+    "date": "2017-09-06T10:12:47.000Z",
+    "title": "",
+    "uri": "photos/201709/3ecaf512e49461165ea50db5a0f21b53.jpg",
+    "media_path": "media/2017-09-06/media-251.jpg",
+    "thumb_path": "media/2017-09-06/media-251-thumb.jpg"
+  },
+  {
+    "index": 252,
+    "date": "2017-09-06T10:12:30.000Z",
+    "title": "1988 preparing for the garden of interactive delights with bejamin b, my cosmic twin:",
+    "uri": "photos/201709/424cb59e5c22d07e3f819c3d247c6f1a.jpg",
+    "media_path": "media/2017-09-06/1988-preparing-for-the-garden-of-interactive-delights-with-bejam.jpg",
+    "thumb_path": "media/2017-09-06/1988-preparing-for-the-garden-of-interactive-delights-with-bejam-thumb.jpg"
+  },
+  {
+    "index": 253,
+    "date": "2017-09-05T07:05:20.000Z",
+    "title": "Morning colored mind",
+    "uri": "photos/201709/8c01e98648bf91dba821b32b531fe076.jpg",
+    "media_path": "media/2017-09-05/Morning-colored-mind.jpg",
+    "thumb_path": "media/2017-09-05/Morning-colored-mind-thumb.jpg"
+  },
+  {
+    "index": 254,
+    "date": "2017-09-04T23:52:38.000Z",
+    "title": "",
+    "uri": "photos/201709/67bb9deff389d9237a2a4f817b6f0671.jpg",
+    "media_path": "media/2017-09-04/media-254.jpg",
+    "thumb_path": "media/2017-09-04/media-254-thumb.jpg"
+  },
+  {
+    "index": 255,
+    "date": "2017-09-04T23:51:42.000Z",
+    "title": "",
+    "uri": "photos/201709/2984a9f0a149c5ae2ec6c7a8da7d19b4.jpg",
+    "media_path": "media/2017-09-04/media-255.jpg",
+    "thumb_path": "media/2017-09-04/media-255-thumb.jpg"
+  },
+  {
+    "index": 256,
+    "date": "2017-09-03T22:46:08.000Z",
+    "title": "Barnes gift shop",
+    "uri": "photos/201709/91e4a7dd4bfc3f8ffdda6121274fd970.jpg",
+    "media_path": "media/2017-09-03/Barnes-gift-shop.jpg",
+    "thumb_path": "media/2017-09-03/Barnes-gift-shop-thumb.jpg"
+  },
+  {
+    "index": 257,
+    "date": "2017-09-03T22:43:12.000Z",
+    "title": "",
+    "uri": "photos/201709/0179431768ad7a643243cbf8d4f78377.jpg",
+    "media_path": "media/2017-09-03/media-257.jpg",
+    "thumb_path": "media/2017-09-03/media-257-thumb.jpg"
+  },
+  {
+    "index": 258,
+    "date": "2017-09-03T22:41:38.000Z",
+    "title": "Sunday",
+    "uri": "photos/201709/12772ad105a570994fb47bd50e25692e.jpg",
+    "media_path": "media/2017-09-03/Sunday.jpg",
+    "thumb_path": "media/2017-09-03/Sunday-thumb.jpg"
+  },
+  {
+    "index": 259,
+    "date": "2017-08-27T07:48:24.000Z",
+    "title": "",
+    "uri": "photos/201708/a0247b8300d9ecc068b8da17f48510af.jpg",
+    "media_path": "media/2017-08-27/media-259.jpg",
+    "thumb_path": "media/2017-08-27/media-259-thumb.jpg"
+  }
+]

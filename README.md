@@ -38,11 +38,19 @@ July 2019
 
 ### Migration of www.facebook.com/johnhenrythompson to [jht-facebo-md](jht-facebo-md/README.md)
 
-[jht-facebo-md/README.md](jht-facebo-md/README.md) Markdown version of facebook posts exported from facebook.com 2019-08-23.
+[jht-facebo-md/README.md](jht-facebo-md/README.md) Markdown version of posts exported from facebook.com 2019-08-23.
 
 Created with scripts aa/js/facebo.js and face-md.js.
 
 Media uploaded 2019-11-22, 599,213,418 bytes (602.6 MB on disk) for 1,801 items.
+
+### Migration of www.instagram.com/johnhenrythompson1493 to [jht-instag-md](jht-instag-md/README.md)
+
+[jht-instag-md](jht-instag-md/README.md) Markdown version of instagram photos export from instagram 2018-11-05.
+
+Created with scrikpts aa/js/instag.js and json-to-md.js.
+
+Media 54,140,537 bytes (55.1 MB on disk) for 643 items.
 
 ### Migration of www.johnhenrythompson.com to [jht-md](jht-md/README.md)
 
@@ -57,8 +65,6 @@ Media uploaded 2019-11-22, 599,213,418 bytes (602.6 MB on disk) for 1,801 items.
 [j4u2_com](aa/j4u2_com) is migrated from [j4u2.com](http://j4u2.com), a site created using raw html and a few wordpress blogs. Site content extracted using ftp app.
 
 ### Migrations pending
-
-https://www.instagram.com/johnhenrythompson1493/
 
 https://twitter.com/jht1493
 
