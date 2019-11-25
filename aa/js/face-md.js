@@ -203,6 +203,8 @@ function write_pagemd(npost, thumb_posts, index) {
   mds.push(caption);
   mds.push('');
   mds.push(fdate);
+  mds.push('');
+  mds.push(nav.join(' '));
   // const folder = path.resolve(config.md_path, config.posts_folder);
   // fs.ensureDirSync(folder);
   const fpath = path.resolve(config.pofolder, pagemd + '.md');

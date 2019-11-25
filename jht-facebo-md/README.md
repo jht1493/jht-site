@@ -3,7 +3,7 @@ post Facebook.com
 
 Migrated from https://www.facebook.com/johnhenrythompson
 
-1099 Posts from 2008-04-02 to 2019-08-23
+1097 Posts from 2008-04-02 to 2019-08-23
 
 
 [https://en.m.wikipedia.org/wiki/Tsutomu_Yamaguchi](https://en.m.wikipedia.org/wiki/Tsutomu_Yamaguchi)
@@ -16,17 +16,7 @@ Migrated from https://www.facebook.com/johnhenrythompson
 
 [![](media/2019-08-23/Timeline-Photos-thaddeus-stevens-equality-IMG_0186-jpg-thumb.jpg)](posts/2019-08-23-1.md)
 
-[https://www.cnn.com/2019/07/24/tech/facebook-ftc-settlement/index.html](https://www.cnn.com/2019/07/24/tech/facebook-ftc-settlement/index.html)
-2019-08-17
-
-
-
-[https://www.cnn.com/2019/07/24/tech/facebook-ftc-settlement/index.html](https://www.cnn.com/2019/07/24/tech/facebook-ftc-settlement/index.html)
-2019-08-17
-
-
-
-[Post 6](https://www.tvguide.com/galleries/the-mtv-vmas-hottest-red-carpet-looks-of-all-time/8/?ftag=fbsoshares)
+[Post 4](https://www.tvguide.com/galleries/the-mtv-vmas-hottest-red-carpet-looks-of-all-time/8/?ftag=fbsoshares)
 2019-07-02
 
 [![](media/2018-11-05/Timeline-Photos-I-am-an-immigrant-thumb.jpg)](posts/2018-11-05-1.md) [![](media/2018-11-05/Timeline-Photos-Shadow-canvas-refelection-thumb.jpg)](posts/2018-11-05-2.md) [![](media/2018-11-05/Timeline-Photos-Yote-thumb.jpg)](posts/2018-11-05-3.md) [![](media/2018-11-05/Timeline-Photos-Past-my-prime-thumb.jpg)](posts/2018-11-05-4.md)
@@ -46,4 +36,4 @@ Migrated from https://www.facebook.com/johnhenrythompson
 
 [![](media/2018-10-17/DICE-pixel-smear-thumb.jpg)](posts/2018-10-17-3.md) [![](media/2018-10-17/DICE-pixel-smear-1-thumb.jpg)](posts/2018-10-17-4.md) [![](media/2018-10-13/Timeline-Photos-Why-vote-JHT-Personal-voter-promotion-campaign-2-thumb.jpg)](posts/2018-10-13-1.md) [![](media/2018-10-13/Timeline-Photos-Why-vote-JHT-Personal-voter-promotion-campaign-3-thumb.jpg)](posts/2018-10-13-2.md)
 
-[Next >](pages/2018-09-27-1.md)
+[Next >](pages/2018-09-24-1.md)
