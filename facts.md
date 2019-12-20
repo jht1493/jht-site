@@ -1,5 +1,21 @@
 # Facts
 
+https://theintercept.com/2019/12/19/a-z-trump-impeachment/
+
+"The A to Z of Things Trump Could and Should Have Been Impeached For" Dec 19 2019
+
+https://www.washingtonpost.com/politics/2019/12/16/president-trump-has-made-false-or-misleading-claims-over-days/
+
+"President Trump has made 15,413 false or misleading claims over 1,055 days" Dec. 16, 2019
+
+https://www.nytimes.com/interactive/2019/12/10/us/politics/articles-impeachment-document-pdf.html
+
+"Read the Articles of Impeachment Against President Trump" Dec 13, 2019
+
+https://www.needtoimpeach.com/impeachable-offenses/
+
+"TRUMP'S 10 IMPEACHABLE OFFENSES"
+
 https://www.cnn.com/2019/11/22/politics/donald-trump-fiona-hill-impeachment-ukraine/index.html
 
 "Washington (CNN)Fiona Hill, the last witness in two weeks of televised impeachment hearings,
