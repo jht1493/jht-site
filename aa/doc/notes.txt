@@ -1,4 +1,13 @@
 
+
+/Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/jht-md/_/rsrc/1295207567308/the-art-of-learning/reflections/colorized-jht_height=400&width=300.jpg
+/Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/jht-md/_/rsrc/1295207567308/the-art-of-learning/reflections/colorized-jht_height=320&width=240.jpg
+/Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/aa/media
+
+cp -a /Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/jht-md/_/rsrc/1295207567308/the-art-of-learning/reflections/* .
+
+-------------------------------------------------------------------------------
+
 /Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/aa/js
 
 mv ../../jht-md/index.md ../../jht-md/README.md

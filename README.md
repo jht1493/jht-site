@@ -2,7 +2,7 @@
 
 John Henry Thompson - A migration of my personal web sites
 
-[![](jht-md/_/rsrc/1295207567308/the-art-of-learning/reflections/colorized-jht-height=320&width=240.jpg)](http://www.johnhenrythompson.com/the-art-of-learning/reflections/colorized-jht.jpg?attredirects=0)
+[![](aa/media/colorized-jht_height=320&width=240.jpg)](aa/media/colorized-jht_height=320&width=240.jpg)
 
 ## [About me](jht-md/README.md)
 
