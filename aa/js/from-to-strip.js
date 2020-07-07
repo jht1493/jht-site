@@ -7,7 +7,8 @@ const turndownService = new TurndownService();
 // const markdown = turndownService.turndown('<h1>Hello world!</h1>');
 // console.log(markdown);
 
-const opath = '../../j4u2-md';
+// const opath = '../../j4u2-md';
+const opath = '../../jht-md';
 
 let fcount = 0;
 
@@ -39,44 +40,79 @@ function visit_files_at_path(rpath) {
   }
 }
 
-// const strip_from = 'Search this site\n\
-// \n\
-// *   ';
-// const strip_to = '*   [Sitemap](';
-
-// const strip_from = '//<!\\[CDATA\\[ function JOT';
-// const strip_to = '\\]\\]> ';
-
-// const strip_from = 'Comments\n\
-// \n\
-// [Sign in]';
-// const strip_to = ', this);';
-
-// const strip_from = "window.jstiming.load.tick('sjl');";
-// const strip_to = ', this);';
-
-// const strip_from = '[Sign in](https://accounts.google.com';
-// const strip_to = '**';
-
-const strip_from = '';
-const strip_to = 'Verdana; font-size: 12px; color: black';
+const strip_from_to = [
+  ['Search this site\n\
+\n\
+*   ', '*   [Sitemap]('],
+  ['//<!\\[CDATA\\[ function JOT', '\\]\\]> '],
+  ['Comments\n\
+  \n\
+  [Sign in]', ', this);'],
+  ["window.jstiming.load.tick('sjl');", ', this);'],
+  ['[Sign in](https://accounts.google.com', '**'],
+  ['', 'Verdana; font-size: 12px; color: black'],
+  ['', 'system/app/pages/sitemap/hierarchy.html)'],
+  ['Comments\n\
+\n\
+[Google Sites](http://sites.google.com/site)', '**'],
+];
 
 function strip(inpath, filename) {
   let str = fs.readFileSync(inpath) + '';
-  const index = str.indexOf(strip_from);
-  if (index >= 0) {
-    const tindex = str.indexOf(strip_to, index + strip_from.length);
-    if (tindex >= 0) {
-      str = str.substring(0, index) + str.substring(tindex + strip_to.length);
-      fs.writeFileSync(inpath, str);
-      console.log(filename);
-      fcount++;
+  let updated = 0;
+
+  for (ent of strip_from_to) {
+    const strip_from = ent[0];
+    const strip_to = ent[1];
+    const index = str.indexOf(strip_from);
+    if (index >= 0) {
+      const tindex = str.indexOf(strip_to, index + strip_from.length);
+      if (tindex >= 0) {
+        str = str.substring(0, index) + str.substring(tindex + strip_to.length);
+        updated = 1;
+      }
     }
+  }
+  const opt = { str, updated };
+  fix_links(opt);
+  if (opt.updated) {
+    fs.writeFileSync(inpath, opt.str);
+    console.log(filename);
+    fcount++;
   }
 }
 
-visit_files_at_path(opath);
-console.log('fcount=' + fcount);
-
 // fcount=419
 // window.jstiming.load.tick('scl');
+
+// Search for links (*.html) and convert to (*.md)
+const match = '\\([^\\(]*?\\.html\\)';
+let regx;
+let subcount = 0;
+let repcount = 0;
+
+function fix_links(opt) {
+  if (!regx) {
+    regx = new RegExp(match, 'g');
+  }
+  opt.str = opt.str.replace(regx, sub => {
+    // console.log('sub=' + sub);
+    subcount++;
+    if (!sub.startsWith('(http://')) {
+      repcount++;
+      sub = sub.substring(0, sub.length - 5) + 'md)';
+      opt.updated = 1;
+    } else {
+      console.log('http sub=' + sub);
+    }
+    return sub;
+  });
+}
+
+console.log('Starting...');
+
+visit_files_at_path(opath);
+
+console.log('fcount=' + fcount);
+console.log('subcount=' + fcount);
+console.log('repcount=' + fcount);

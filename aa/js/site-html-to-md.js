@@ -7,7 +7,22 @@ const turndownService = new TurndownService();
 // const markdown = turndownService.turndown('<h1>Hello world!</h1>');
 // console.log(markdown);
 
-const opath = '../../jht-md';
+const site = 'jht';
+// const site = 'j4u2';
+
+const sites = {
+  jht: {
+    rpath: '../johnhenrythompson_com',
+    opath: '../../jht-md',
+    hext: '.html',
+  },
+  j4u2: {
+    rpath: '../j4u2_com',
+    opath: '../j4u2-md',
+    hext: '.htm',
+  },
+};
+const { rpath, opath, hext } = sites[site];
 
 let fcount = 0;
 
@@ -30,29 +45,26 @@ function visit_files_at_path(rpath) {
         filenames.push(filename + '/' + dname);
       }
     } else {
-      if (fullpath.endsWith('.md')) {
+      console.log('fullpath=' + fullpath);
+      if (fullpath.endsWith(hext)) {
         console.log(filename);
-        strip(fullpath);
+        convert(fullpath, opath + '/' + filename);
         fcount++;
       }
-      // func({ path: fullpath, filename: filename });
     }
   }
 }
 
-// const strip_str = "window.jstiming.load.tick('scl');            ";
-const strip_str = 'system/app/pages/sitemap/hierarchy.html)';
-
-function strip(inpath) {
-  let str = fs.readFileSync(inpath) + '';
-  const index = str.indexOf(strip_str);
-  if (index >= 0) {
-    str = str.substring(index + strip_str.length);
-  }
-  fs.writeFileSync(inpath, str);
+function convert(inpath, outpath) {
+  outpath = path.resolve(outpath);
+  const str = fs.readFileSync(inpath) + '';
+  const mstr = turndownService.turndown(str);
+  pout = path.parse(outpath);
+  fs.ensureDirSync(pout.dir);
+  fs.writeFileSync(pout.dir + '/' + pout.name + '.md', mstr);
 }
 
-visit_files_at_path(opath);
+visit_files_at_path(rpath);
 console.log('fcount=' + fcount);
 
-// fcount=419
+// fcount=388
