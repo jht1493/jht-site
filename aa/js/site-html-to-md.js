@@ -45,7 +45,7 @@ function visit_files_at_path(rpath) {
         filenames.push(filename + '/' + dname);
       }
     } else {
-      console.log('fullpath=' + fullpath);
+      // console.log('fullpath=' + fullpath);
       if (fullpath.endsWith(hext)) {
         console.log(filename);
         convert(fullpath, opath + '/' + filename);

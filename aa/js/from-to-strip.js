@@ -41,17 +41,22 @@ function visit_files_at_path(rpath) {
 }
 
 const strip_from_to = [
-  ['Search this site\n\
+  ['', "];   window.jstiming.load.tick('scl');            "],
+  [
+    "window.jstiming.load.tick('cl')",
+    'system/app/pages/sitemap/hierarchy.html)',
+  ],
+  [('Search this site\n\
 \n\
-*   ', '*   [Sitemap]('],
+*   ', '*   [Sitemap](')],
   ['//<!\\[CDATA\\[ function JOT', '\\]\\]> '],
   ['Comments\n\
-  \n\
-  [Sign in]', ', this);'],
+\n\
+[Sign in]', ', this);'],
+  ['[Sign in](https://accounts.google.com/ServiceLogin', ', this);'],
   ["window.jstiming.load.tick('sjl');", ', this);'],
   ['[Sign in](https://accounts.google.com', '**'],
   ['', 'Verdana; font-size: 12px; color: black'],
-  ['', 'system/app/pages/sitemap/hierarchy.html)'],
   ['Comments\n\
 \n\
 [Google Sites](http://sites.google.com/site)', '**'],
