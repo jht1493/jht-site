@@ -1,4 +1,5 @@
-Solo practice video update 
+Solo practice video update - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

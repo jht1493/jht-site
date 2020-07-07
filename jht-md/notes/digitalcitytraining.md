@@ -1,4 +1,5 @@
-Digital City training 
+Digital City training - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-Learnable Programming 
+Learnable Programming - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

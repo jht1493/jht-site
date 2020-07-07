@@ -1,4 +1,5 @@
-JavaScript Books 
+JavaScript Books - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

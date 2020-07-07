@@ -1,4 +1,5 @@
-Philly company digitizes 25,000 old records 
+Philly company digitizes 25,000 old records - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

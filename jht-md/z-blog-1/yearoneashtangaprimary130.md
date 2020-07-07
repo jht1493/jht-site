@@ -1,4 +1,5 @@
-Year One Ashtanga Primary #130 
+Year One Ashtanga Primary #130 - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

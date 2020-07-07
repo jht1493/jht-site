@@ -1,4 +1,5 @@
-Goodbye and Giving Thanks 
+Goodbye and Giving Thanks - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

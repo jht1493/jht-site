@@ -1,4 +1,5 @@
-Love, Hope and Faith 
+Love, Hope and Faith - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-The Miracle of Life 
+The Miracle of Life - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-Videos 
+Videos - John Henry Thompson - Invent Your Future   
+    
 
 [Yoga](../yoga.md)‎ > ‎
 
@@ -43,10 +44,10 @@ My Practice of the The Ashtanga Primary Series**:
 [2016-07-18 \[10x10\] Outside the Barnes Foundation, Philadelphia.](https://youtu.be/GyTlLZ-Xkmk)  
 2 min 33 secs. 
 
-[![](../_/rsrc/1357253400321/yoga/videos/standing-height=400&width=160.png)](http://www.johnhenrythompson.com/yoga/videos/standing.png?attredirects=0)  
+[![](../_/rsrc/1357253400321/yoga/videos/standing_height=400&width=160.png)](http://www.johnhenrythompson.com/yoga/videos/standing.png?attredirects=0)  
   
 
-[![](../_/rsrc/1357253459670/yoga/videos/lotus-height=400&width=353.png)](http://www.johnhenrythompson.com/yoga/videos/lotus.png?attredirects=0)
+[![](../_/rsrc/1357253459670/yoga/videos/lotus_height=400&width=353.png)](http://www.johnhenrythompson.com/yoga/videos/lotus.png?attredirects=0)
 
   
 

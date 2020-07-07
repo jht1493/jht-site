@@ -1,4 +1,5 @@
-Rubix Cube 
+Rubix Cube - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

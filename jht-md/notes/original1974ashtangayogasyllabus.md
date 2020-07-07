@@ -1,4 +1,5 @@
-'Original' 1974 Ashtanga yoga Syllabus 
+'Original' 1974 Ashtanga yoga Syllabus - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

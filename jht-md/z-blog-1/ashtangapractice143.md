@@ -1,4 +1,5 @@
-Ashtanga Practice #143 
+Ashtanga Practice #143 - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

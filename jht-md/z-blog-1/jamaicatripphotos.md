@@ -1,4 +1,5 @@
-Jamaica Trip photos 
+Jamaica Trip photos - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

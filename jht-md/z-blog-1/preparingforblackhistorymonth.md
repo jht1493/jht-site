@@ -1,4 +1,5 @@
-Preparing for Black History Month 
+Preparing for Black History Month - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

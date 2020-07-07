@@ -1,4 +1,5 @@
-Make America One Again - 1956 
+Make America One Again - 1956 - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

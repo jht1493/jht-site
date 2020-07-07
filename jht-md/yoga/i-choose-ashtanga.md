@@ -1,4 +1,5 @@
-I Choose Ashtanga (2008) 
+I Choose Ashtanga (2008) - John Henry Thompson - Invent Your Future   
+    
 
 [Yoga](../yoga.md)‎ > ‎
 
@@ -213,7 +214,7 @@ its undisturbed calmness.
 [Translation by Sri Swami Satchidananda](http://www.amazon.com/Yoga-Sutras-Patanjali-Commentary-Satchidananda/dp/0932040381/ref=sr_1_1?ie=UTF8&qid=1311735074&sr=8-1)  
   
 
-[![](../_/rsrc/1357253273552/yoga/i-choose-ashtanga/lotus-height=320&width=283.png)](http://www.johnhenrythompson.com/yoga/i-choose-ashtanga/lotus.png?attredirects=0)
+[![](../_/rsrc/1357253273552/yoga/i-choose-ashtanga/lotus_height=320&width=283.png)](http://www.johnhenrythompson.com/yoga/i-choose-ashtanga/lotus.png?attredirects=0)
 
   
 

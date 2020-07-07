@@ -1,4 +1,5 @@
-Free Angela and All Political Prisoners 
+Free Angela and All Political Prisoners - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

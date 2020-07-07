@@ -1,4 +1,5 @@
-DICE is coming! 
+DICE is coming! - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

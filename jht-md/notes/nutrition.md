@@ -1,4 +1,5 @@
-Nutrition 
+Nutrition - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

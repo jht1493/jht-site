@@ -1,4 +1,5 @@
-News you can trust 
+News you can trust - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

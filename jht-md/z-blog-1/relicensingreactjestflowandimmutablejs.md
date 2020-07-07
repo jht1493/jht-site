@@ -1,4 +1,5 @@
-Relicensing React, Jest, Flow, and Immutable.js 
+Relicensing React, Jest, Flow, and Immutable.js - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

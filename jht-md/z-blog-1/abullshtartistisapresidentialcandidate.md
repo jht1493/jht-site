@@ -1,4 +1,5 @@
-Tr\*mp: Bullsh\*t artist, presidential candidate! 
+Tr\*mp: Bullsh\*t artist, presidential candidate! - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

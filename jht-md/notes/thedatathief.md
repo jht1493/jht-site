@@ -1,4 +1,5 @@
-The Data Thief 
+The Data Thief - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

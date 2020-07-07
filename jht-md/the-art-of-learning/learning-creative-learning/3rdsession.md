@@ -1,6 +1,4 @@
-03 Session - John Henry Thompson
-
-
+03 Session - John Henry Thompson - Invent Your Future   
     
 
 [2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Learning Creative Learning](../learning-creative-learning.md)‎ > ‎
@@ -78,7 +76,7 @@ my scratch projects](http://scratch.mit.edu/users/jht1900)
 
   
 
-[![](../../_/rsrc/1361806544319/the-art-of-learning/learning-creative-learning/3rdsession/heart-2013-02-25-height=151&width=200.jpg)](http://beta.scratch.mit.edu/projects/10061669/)
+[![](../../_/rsrc/1361806544319/the-art-of-learning/learning-creative-learning/3rdsession/heart-2013-02-25_height=151&width=200.jpg)](http://beta.scratch.mit.edu/projects/10061669/)
 
   
 

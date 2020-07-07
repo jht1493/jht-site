@@ -1,4 +1,5 @@
-Fragile Digital Memory 
+Fragile Digital Memory - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

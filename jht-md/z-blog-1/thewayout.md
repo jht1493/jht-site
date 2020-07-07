@@ -1,4 +1,5 @@
-The way out 
+The way out - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

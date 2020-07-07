@@ -1,4 +1,5 @@
-Walter Thompson Bio 
+Walter Thompson Bio - John Henry Thompson - Invent Your Future   
+    
 
 [5\. Respect](../heros.md)‎ > ‎
 
@@ -199,7 +200,7 @@ Walter Henry Thompson, proud of his African roots.
 
   
 
-[![](../_/rsrc/1481644266426/heros/walter-thompson-bio/Dad2-width=100-.jpg)](http://www.johnhenrythompson.com/heros/walter-thompson-bio/Dad2.jpg?attredirects=0)
+[![](../_/rsrc/1481644266426/heros/walter-thompson-bio/Dad2_width=100_.jpg)](http://www.johnhenrythompson.com/heros/walter-thompson-bio/Dad2.jpg?attredirects=0)
 
 The Thompson children with Walter Henry Thompson in the middle. I'm named after his father, John Henry Thompson.
 

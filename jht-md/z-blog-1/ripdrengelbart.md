@@ -1,4 +1,5 @@
-RIP Dr. Engelbart 
+RIP Dr. Engelbart - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

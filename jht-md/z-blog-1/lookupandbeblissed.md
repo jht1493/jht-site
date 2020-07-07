@@ -1,4 +1,5 @@
-Look up and be Blissed! 
+Look up and be Blissed! - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

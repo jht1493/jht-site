@@ -1,4 +1,5 @@
-A game to play 
+A game to play - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

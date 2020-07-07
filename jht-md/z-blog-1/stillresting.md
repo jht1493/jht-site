@@ -1,4 +1,5 @@
-Still Resting 
+Still Resting - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

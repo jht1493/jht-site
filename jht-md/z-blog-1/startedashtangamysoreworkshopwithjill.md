@@ -1,4 +1,5 @@
-Started Ashtanga Mysore Workshop with Jill 
+Started Ashtanga Mysore Workshop with Jill - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

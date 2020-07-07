@@ -1,4 +1,5 @@
-The Paris Exposition of 1900 
+The Paris Exposition of 1900 - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

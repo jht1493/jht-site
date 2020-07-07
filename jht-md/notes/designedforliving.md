@@ -1,4 +1,5 @@
-Designed For Living 
+Designed For Living - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

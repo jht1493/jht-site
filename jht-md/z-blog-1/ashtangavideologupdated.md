@@ -1,4 +1,5 @@
-Ashtanga Video Log Updated 
+Ashtanga Video Log Updated - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

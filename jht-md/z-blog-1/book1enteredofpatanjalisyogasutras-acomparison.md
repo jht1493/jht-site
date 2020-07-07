@@ -1,4 +1,5 @@
-Book 1 Entered of Patanjali's Yoga Sutras - A Comparison 
+Book 1 Entered of Patanjali's Yoga Sutras - A Comparison - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

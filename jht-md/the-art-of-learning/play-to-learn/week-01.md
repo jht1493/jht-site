@@ -1,6 +1,4 @@
-Play To Learn - Week 01 - John Henry Thompson
-
-
+Play To Learn - Week 01 - John Henry Thompson - Invent Your Future   
     
 
 [2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Play to Learn](../play-to-learn.md)‎ > ‎
@@ -64,10 +62,10 @@ Scratch Activities:
 \- Find an interesting Scratch project and modify  
   
 
-[![](../../_/rsrc/1481644980214/the-art-of-learning/play-to-learn/week-01/jht-half-color-height=200&width=150.png)](http://www.johnhenrythompson.com/the-art-of-learning/play-to-learn/week-01/jht-half-color.png?attredirects=0)  
+[![](../../_/rsrc/1481644980214/the-art-of-learning/play-to-learn/week-01/jht-half-color_height=200&width=150.png)](http://www.johnhenrythompson.com/the-art-of-learning/play-to-learn/week-01/jht-half-color.png?attredirects=0)  
   
 
-[![](../../_/rsrc/1481644980214/the-art-of-learning/play-to-learn/week-01/Vision-Explore-Create-Reflect-height=177&width=400.png)](http://www.johnhenrythompson.com/the-art-of-learning/play-to-learn/week-01/Vision-Explore-Create-Reflect.png?attredirects=0)
+[![](../../_/rsrc/1481644980214/the-art-of-learning/play-to-learn/week-01/Vision-Explore-Create-Reflect_height=177&width=400.png)](http://www.johnhenrythompson.com/the-art-of-learning/play-to-learn/week-01/Vision-Explore-Create-Reflect.png?attredirects=0)
 
   
 [![](../../_/rsrc/1481644980214/the-art-of-learning/play-to-learn/week-01/Imagine-Create-Play-Share-Reflect.png)](http://www.johnhenrythompson.com/the-art-of-learning/play-to-learn/week-01/Imagine-Create-Play-Share-Reflect.png?attredirects=0)

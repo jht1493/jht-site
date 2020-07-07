@@ -1,4 +1,5 @@
-Big Numbers 
+Big Numbers - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 
@@ -6,7 +7,7 @@ Big Numbers
 
 posted Jun 11, 2011, 6:33 PM by John Henry Thompson   \[ updated Mar 5, 2016, 7:35 AM \]
 
-[![](../_/rsrc/1307842980243/z-blog-1/bignumbers/10x10x10-height=149&width=200.jpg)](http://www.johnhenrythompson.com/z-blog-1/bignumbers/10x10x10.jpg?attredirects=0)
+[![](../_/rsrc/1307842980243/z-blog-1/bignumbers/10x10x10_height=149&width=200.jpg)](http://www.johnhenrythompson.com/z-blog-1/bignumbers/10x10x10.jpg?attredirects=0)
 
 10x10x10 = 1,000 = One thousand balls = 103
 

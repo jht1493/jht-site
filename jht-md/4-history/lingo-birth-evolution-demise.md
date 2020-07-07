@@ -1,4 +1,5 @@
-Lingo: Birth, Evolution, Demise. 
+Lingo: Birth, Evolution, Demise. - John Henry Thompson - Invent Your Future   
+    
 
 [4\. History](../4-history.md)‎ > ‎
 

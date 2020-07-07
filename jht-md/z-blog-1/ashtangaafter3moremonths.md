@@ -1,4 +1,5 @@
-Ashtanga after 3 more months 
+Ashtanga after 3 more months - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

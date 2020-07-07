@@ -1,4 +1,5 @@
-The University Community Collaborative 
+The University Community Collaborative - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

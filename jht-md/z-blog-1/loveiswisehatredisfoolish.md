@@ -1,4 +1,5 @@
-Love is wise, hatred is foolish 
+Love is wise, hatred is foolish - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

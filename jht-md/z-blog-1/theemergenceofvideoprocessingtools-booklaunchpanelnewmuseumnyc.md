@@ -1,4 +1,5 @@
-The Emergence of Video Processing Tools 
+The Emergence of Video Processing Tools - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

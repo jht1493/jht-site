@@ -1,4 +1,5 @@
-Africans in The Americas 
+Africans in The Americas - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

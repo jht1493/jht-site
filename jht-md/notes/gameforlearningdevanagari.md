@@ -1,4 +1,5 @@
-GAME FOR LEARNING DEVANAGARI 
+GAME FOR LEARNING DEVANAGARI - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

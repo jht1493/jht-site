@@ -1,6 +1,4 @@
-02 Session - John Henry Thompson
-
-
+02 Session - John Henry Thompson - Invent Your Future   
     
 
 [2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Learning Creative Learning](../learning-creative-learning.md)‎ > ‎
@@ -119,7 +117,7 @@ How to find your talent?
 [http://www.youtube.com/watch?v=82kpgGSbmJY](http://www.youtube.com/watch?v=82kpgGSbmJY)  
   
 
-[![](../../_/rsrc/1361807919160/the-art-of-learning/learning-creative-learning/2ndsession/session%202-height=224&width=320.jpg)](https://plus.google.com/u/0/108280441638894577853/posts)
+[![](../../_/rsrc/1361807919160/the-art-of-learning/learning-creative-learning/2ndsession/session%202_height=224&width=320.jpg)](https://plus.google.com/u/0/108280441638894577853/posts)
 
   
 

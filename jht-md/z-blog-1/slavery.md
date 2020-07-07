@@ -1,4 +1,5 @@
-Slavery in North America 
+Slavery in North America - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-Gone but not forgotten 
+Gone but not forgotten - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 
@@ -20,7 +21,7 @@ Compare to current: [https://www.whitehouse.gov](https://www.whitehouse.gov/)
 
   
 
-[![](../_/rsrc/1486147852403/z-blog-1/gonebutnotforgotten/Issues%20-%20The%20White%20House.png)](http://www.johnhenrythompson.com/z-blog-1/gonebutnotforgotten/Issues%20%7C%20The%20White%20House.png?attredirects=0)
+[![](../_/rsrc/1486147852403/z-blog-1/gonebutnotforgotten/Issues%20_%20The%20White%20House.png)](http://www.johnhenrythompson.com/z-blog-1/gonebutnotforgotten/Issues%20%7C%20The%20White%20House.png?attredirects=0)
 
   
 

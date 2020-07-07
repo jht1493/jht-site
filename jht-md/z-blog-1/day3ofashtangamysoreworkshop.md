@@ -1,4 +1,5 @@
-Day 3 of Ashtanga Mysore workshop 
+Day 3 of Ashtanga Mysore workshop - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

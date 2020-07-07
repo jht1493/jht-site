@@ -1,4 +1,5 @@
-Re-Birth by Black Hole: And Other Cosmic Quandaries 
+Re-Birth by Black Hole: And Other Cosmic Quandaries - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

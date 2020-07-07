@@ -1,4 +1,5 @@
-DICE-demo 
+DICE-demo - John Henry Thompson - Invent Your Future   
+    
 
 [3\. DICE](../3-dice.md)‎ > ‎
 

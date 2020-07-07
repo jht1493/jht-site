@@ -1,4 +1,5 @@
-DICE presentation at NYU-ITP 
+DICE presentation at NYU-ITP - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

@@ -1,6 +1,4 @@
-Play To Learn - Week 04 - John Henry Thompson
-
-
+Play To Learn - Week 04 - John Henry Thompson - Invent Your Future   
     
 
 [2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Play to Learn](../play-to-learn.md)‎ > ‎

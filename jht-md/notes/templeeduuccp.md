@@ -1,4 +1,5 @@
-temple.edu/uccp/ 
+temple.edu/uccp/ - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-NARI WARD - 'Iris Hope Keeper' 
+NARI WARD - 'Iris Hope Keeper' - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

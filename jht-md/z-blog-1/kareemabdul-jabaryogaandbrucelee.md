@@ -1,4 +1,5 @@
-Kareem Abdul-Jabar, Yoga and Bruce lee 
+Kareem Abdul-Jabar, Yoga and Bruce lee - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-SongClips update 
+SongClips update - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 
@@ -8,9 +9,9 @@ posted Nov 19, 2011, 9:04 PM by John Henry Thompson   \[ updated Nov 19, 2011, 
 
 Updated SongClips pages.  
   
-[SongClips for Kirtan](../system/errors/NodeNotFound-suri=wuid-gx-41886dafe698f15b.md)  
+[SongClips for Kirtan](../system/errors/NodeNotFound_suri=wuid_gx_41886dafe698f15b.md)  
   
-[SongClips User Guide](../system/errors/NodeNotFound-suri=wuid-gx-4efdccfc3fb2f788.md)  
+[SongClips User Guide](../system/errors/NodeNotFound_suri=wuid_gx_4efdccfc3fb2f788.md)  
   
 
   

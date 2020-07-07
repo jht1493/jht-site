@@ -1,4 +1,5 @@
-Patanjali's Yoga Sutras - A Comparison 
+Patanjali's Yoga Sutras - A Comparison - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

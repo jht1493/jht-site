@@ -1,4 +1,5 @@
-Discovering an Enslaved Artist and His Masterpiece 
+Discovering an Enslaved Artist and His Masterpiece - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

@@ -1,6 +1,4 @@
-01 Session - Feb 11, 2013 - John Henry Thompson
-
-
+01 Session - Feb 11, 2013 - John Henry Thompson - Invent Your Future   
     
 
 [2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Learning Creative Learning](../learning-creative-learning.md)‎ > ‎
@@ -22,7 +20,7 @@ I was heading in a similar direction when I prepared for an mobile application d
 [http://www.j4u2.com/breadfruit/workshop/vision-page/](http://www.j4u2.com/breadfruit/workshop/vision-page/)  
   
 
-[![](../../_/rsrc/1360465209333/the-art-of-learning/learning-creative-learning/session1-feb11/Vision-Explore-Create-Reflect-height=142&width=320.png)](http://www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning/session1-feb11/Vision-Explore-Create-Reflect.png?attredirects=0)
+[![](../../_/rsrc/1360465209333/the-art-of-learning/learning-creative-learning/session1-feb11/Vision-Explore-Create-Reflect_height=142&width=320.png)](http://www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning/session1-feb11/Vision-Explore-Create-Reflect.png?attredirects=0)
 
   
 My cycle is Vision-Explore-Create-Reflect  

@@ -1,4 +1,5 @@
-Nile Thompson - 2014 Ursinus College 
+Nile Thompson - 2014 Ursinus College - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-african-americans-many-rivers-to-cross 
+african-americans-many-rivers-to-cross - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

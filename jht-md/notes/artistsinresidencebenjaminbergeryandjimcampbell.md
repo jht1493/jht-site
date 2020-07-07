@@ -1,4 +1,5 @@
-Artists in Residence – Benjamin Bergery and Jim Campbell 
+Artists in Residence – Benjamin Bergery and Jim Campbell - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-Entered Book 2 
+Entered Book 2 - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

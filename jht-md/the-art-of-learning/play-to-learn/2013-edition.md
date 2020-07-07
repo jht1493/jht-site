@@ -1,6 +1,4 @@
-2013 Edition - John Henry Thompson
-
-
+2013 Edition - John Henry Thompson - Invent Your Future   
     
 
 [2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Play to Learn](../play-to-learn.md)‎ > ‎
@@ -47,7 +45,7 @@ Present favorite projects
   
   
 
-[![](../../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/Play-To-Learn-11-height=400&width=365.png)](http://www.johnhenrythompson.com/the-art-of-learning/play-to-learn/Play-To-Learn-11.png?attredirects=0)
+[![](../../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/Play-To-Learn-11_height=400&width=365.png)](http://www.johnhenrythompson.com/the-art-of-learning/play-to-learn/Play-To-Learn-11.png?attredirects=0)
 
   
 

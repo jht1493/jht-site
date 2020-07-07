@@ -1,4 +1,5 @@
-Professor John Fray 
+Professor John Fray - John Henry Thompson - Invent Your Future   
+    
 
 [5\. Respect](../heros.md)‎ > ‎
 
@@ -36,7 +37,7 @@ Subpages (1): [Thoth](professor-john-fray/thoth.md)
 
 Č
 
-![](http://www.gstatic.com/sites/p/fb83f7/system/app/images/spinner.gif)
+![](http://www.gstatic.com/sites/p/e8d00c/system/app/images/spinner.gif)
 
 Updating...
 

@@ -1,4 +1,5 @@
-Programming circles on Khan Academy 
+Programming circles on Khan Academy - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

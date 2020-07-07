@@ -1,4 +1,5 @@
-What my mother's genes says about me 
+What my mother's genes says about me - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 
@@ -9,7 +10,7 @@ posted Nov 26, 2012, 12:52 PM by John Henry Thompson   \[ updated Jan 31, 2013,
 According to https://genographic.nationalgeographic.com  
   
 
-[![](../_/rsrc/1359630140253/notes/whatmymothersgenesay/maternal-genes-height=212&width=400.png)](http://www.johnhenrythompson.com/notes/whatmymothersgenesay/maternal-genes.png?attredirects=0)
+[![](../_/rsrc/1359630140253/notes/whatmymothersgenesay/maternal-genes_height=212&width=400.png)](http://www.johnhenrythompson.com/notes/whatmymothersgenesay/maternal-genes.png?attredirects=0)
 
   
 BRANCH: L3  

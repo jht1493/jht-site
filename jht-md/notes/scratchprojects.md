@@ -1,4 +1,5 @@
-Scratch Projects 
+Scratch Projects - John Henry Thompson - Invent Your Future   
+    
 
 [Notes](../notes.md)‎ > ‎
 

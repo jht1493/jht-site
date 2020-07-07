@@ -1,4 +1,5 @@
-Augmentation not replacement. 
+Augmentation not replacement. - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

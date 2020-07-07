@@ -1,4 +1,5 @@
-Summer Jobs 
+Summer Jobs - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

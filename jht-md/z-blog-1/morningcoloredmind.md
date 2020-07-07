@@ -1,4 +1,5 @@
-Morning colored mind... 
+Morning colored mind... - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

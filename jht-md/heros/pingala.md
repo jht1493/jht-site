@@ -1,4 +1,5 @@
-Pingala 
+Pingala - John Henry Thompson - Invent Your Future   
+    
 
 [5\. Respect](../heros.md)‎ > ‎
 

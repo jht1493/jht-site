@@ -1,8 +1,19 @@
 
+/Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/aa/js
+
+mv ../../jht-md/index.md ../../jht-md/README.md
+ls ../../jht-md/index.md
+
+cp -a ../johnhenrythompson_com/_/rsrc ../../jht-md/_
+
+ls -la ../johnhenrythompson_com/_/rsrc/
+
+rm -rf  ../../jht-md/_/rsrc
+
+ls -la ../../jht-md/_/rsrc
 
 node from-to-strip.js 
 
-/Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/aa/js
 node site-html-to-md.js
 
 -------------------------------------------------------------------------------

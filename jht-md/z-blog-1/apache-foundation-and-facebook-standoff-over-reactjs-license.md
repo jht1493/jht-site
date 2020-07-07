@@ -1,4 +1,5 @@
-apache-foundation-and-facebook-standoff-over-reactjs-license 
+apache-foundation-and-facebook-standoff-over-reactjs-license - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

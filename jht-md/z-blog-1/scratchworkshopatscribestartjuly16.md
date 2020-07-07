@@ -1,4 +1,5 @@
-Scratch Workshop at Scribe, July 16, 23, 30, Aug 6 
+Scratch Workshop at Scribe, July 16, 23, 30, Aug 6 - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

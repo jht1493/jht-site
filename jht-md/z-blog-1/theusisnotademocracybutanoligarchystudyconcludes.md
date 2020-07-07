@@ -1,4 +1,5 @@
-The US is not a democracy but an oligarchy, study concludes 
+The US is not a democracy but an oligarchy, study concludes - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-Patanjali Yoga Sutra 1•33 
+Patanjali Yoga Sutra 1•33 - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

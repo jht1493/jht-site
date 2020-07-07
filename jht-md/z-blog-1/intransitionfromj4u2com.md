@@ -1,4 +1,5 @@
-In transition from j4u2.com 
+In transition from j4u2.com - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

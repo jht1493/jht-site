@@ -1,4 +1,5 @@
-Ashtanga (Eight Limb) Yoga 
+Ashtanga (Eight Limb) Yoga - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

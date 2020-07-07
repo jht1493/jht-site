@@ -1,4 +1,5 @@
-More Neil DeGrasse Tyson 
+More Neil DeGrasse Tyson - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

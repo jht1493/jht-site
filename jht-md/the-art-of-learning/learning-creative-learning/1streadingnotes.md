@@ -1,6 +1,4 @@
-01 Session Reading Notes - John Henry Thompson
-
-
+01 Session Reading Notes - John Henry Thompson - Invent Your Future   
     
 
 [2\. The Art of Learning](../../the-art-of-learning.md)‎ > ‎[Learning Creative Learning](../learning-creative-learning.md)‎ > ‎

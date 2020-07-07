@@ -1,4 +1,5 @@
-Updated My Yoga Journey Page 
+Updated My Yoga Journey Page - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

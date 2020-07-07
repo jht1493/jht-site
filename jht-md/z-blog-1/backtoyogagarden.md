@@ -1,4 +1,5 @@
-Back to Yoga Garden 
+Back to Yoga Garden - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 
@@ -10,7 +11,7 @@ First time back to [Yoga Garden's](http://www.yogagardennarberth.com/) Sunday mo
 This is my Ashtanga primary series practice number 151.  
 Mark introduced me to another translation and commentary on the Yoga Sutras:  
 
-[![](../_/rsrc/1331048962281/z-blog-1/backtoyogagarden/edwin-bryant-yoga-sutras-height=200&width=149.jpg)](http://www.amazon.com/Yoga-Sutras-Patanjali-Translation-Commentary/dp/0865477361/ref=sr_1_1?ie=UTF8&s=books&qid=1250508322&sr=1-1)
+[![](../_/rsrc/1331048962281/z-blog-1/backtoyogagarden/edwin-bryant-yoga-sutras_height=200&width=149.jpg)](http://www.amazon.com/Yoga-Sutras-Patanjali-Translation-Commentary/dp/0865477361/ref=sr_1_1?ie=UTF8&s=books&qid=1250508322&sr=1-1)
 
   
 

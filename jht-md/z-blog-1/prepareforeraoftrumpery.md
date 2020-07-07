@@ -1,4 +1,5 @@
-Prepare for era of trumpery 
+Prepare for era of trumpery - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-Play to Learn 
+Play to Learn - John Henry Thompson - Invent Your Future   
+    
 
 [2\. The Art of Learning](../the-art-of-learning.md)‎ > ‎
 
@@ -48,13 +49,13 @@ Present favorite projects
   
   
 
-[![http://scribe.org/workshops/playlearncreativeapproachlearningappdevelopment0-11.png?attredirects=0](../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/Play-To-Learn-11-height=400&width=365.png)](http://scribe.org/workshops/playlearncreativeapproachlearningappdevelopment0-11.png?attredirects=0)
+[![http://scribe.org/workshops/playlearncreativeapproachlearningappdevelopment0-11.png?attredirects=0](../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/Play-To-Learn-11_height=400&width=365.png)](http://scribe.org/workshops/playlearncreativeapproachlearningappdevelopment0-11.png?attredirects=0)
 
   
 
   
 
-[![](../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/jht-shadow-crop-height=320&width=295.jpg)](http://www.johnhenrythompson.com/the-art-of-learning/play-to-learn/jht-shadow-crop.jpg?attredirects=0)
+[![](../_/rsrc/1481644980212/the-art-of-learning/play-to-learn/jht-shadow-crop_height=320&width=295.jpg)](http://www.johnhenrythompson.com/the-art-of-learning/play-to-learn/jht-shadow-crop.jpg?attredirects=0)
 
   
   

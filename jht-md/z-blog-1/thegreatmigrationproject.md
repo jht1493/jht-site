@@ -1,4 +1,5 @@
-The Great Migration Project 
+The Great Migration Project - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 

@@ -1,4 +1,5 @@
-Color Wheel - the beauty of javascript 
+Color Wheel - the beauty of javascript - John Henry Thompson - Invent Your Future   
+    
 
 [Blog](../z-blog-1.md)‎ > ‎
 
