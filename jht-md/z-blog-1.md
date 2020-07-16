@@ -9,15 +9,109 @@ Blog - John Henry Thompson - Invent Your Future
 
 ![](_/rsrc/1592465244000/system/app/images/icon_feed.gif) [ Subscribe to posts](http://www.johnhenrythompson.com/z-blog-1/posts.xml)
 
+#### [Frontline Workers Pay the Price](z-blog-1/frontlineworkerspaytheprice.md)
+
+posted Jul 14, 2020, 7:32 AM by John Henry Thompson   \[ updated Jul 14, 2020, 7:36 AM \]
+
+[https://www.thecity.nyc/health/2020/4/7/21216831/bus-drivers-hardest-hit-by-deaths-as-covid-19-devastates-mta](https://www.thecity.nyc/health/2020/4/7/21216831/bus-drivers-hardest-hit-by-deaths-as-covid-19-devastates-mta)
+
+**Bus Drivers Hardest Hit by Deaths as COVID-19 Devastates MTA**
+
+"...Ernesto Hernandez became one of the MTA’s first COVID-19 fatalities during the pandemic — and one of seven bus operators, so far, to die from coronavirus...
+
+...Among the at least 33 subway and bus workers who have died from COVID-19,  the MTA’s bus drivers have taken the biggest hit in an agency with more than 74,000 employees..."
+
+  
+
+#### [Multi-generational Assault on America](z-blog-1/multi-generationalassaultonamerica.md)
+
+posted Jul 14, 2020, 7:19 AM by John Henry Thompson   \[ updated JOT\_insertRelDate(1594837188960, "Jul 15, 2020, 11:19 AM", true, "ltr");
+
+Jul 15, 2020, 11:19 AM
+
+\]
+
+[https://www.cnn.com/2020/07/14/politics/trump-administration-coronavirus-hospital-data-cdc/index.html](https://www.cnn.com/2020/07/14/politics/trump-administration-coronavirus-hospital-data-cdc/index.md)
+
+Coronavirus hospital data will now be sent to Trump administration instead of CDC
+
+  
+
+[https://www.nytimes.com/2020/07/14/climate/trump-climate-change-carbon-cost.html](https://www.nytimes.com/2020/07/14/climate/trump-climate-change-carbon-cost.md)
+
+"...G.A.O.: Trump Boosts Deregulation by Undervaluing Cost of Climate Change..."
+
+  
+
+[https://www.washingtonpost.com/politics/2020/06/01/president-trump-made-19127-false-or-misleading-claims-1226-days/](https://www.washingtonpost.com/politics/2020/06/01/president-trump-made-19127-false-or-misleading-claims-1226-days/)
+
+  
+
+[https://www.federaltimes.com/management/2019/10/24/these-senators-want-to-move-agency-headquarters-out-of-dc/](https://www.federaltimes.com/management/2019/10/24/these-senators-want-to-move-agency-headquarters-out-of-dc/)
+
+Senators want to move these agency headquarters out of DC
+
+  
+
+  
+
+#### [At a time like this](z-blog-1/atatimelikethis.md)
+
+posted Jul 8, 2020, 8:13 PM by John Henry Thompson
+
+#### frederick-douglass-red-yellow-green
+
+  
+
+[https://teachingamericanhistory.org/library/document/what-to-the-slave-is-the-fourth-of-july/](https://teachingamericanhistory.org/library/document/what-to-the-slave-is-the-fourth-of-july/)
+
+At a time like this, scorching irony, 
+
+not convincing argument, is needed. 
+
+O! had I the ability, 
+
+and could I reach the nation’s ear, 
+
+I would, to-day, 
+
+pour out a fiery stream of biting ridicule, 
+
+blasting reproach, 
+
+withering sarcasm, 
+
+and stern rebuke. 
+
+For it is not light that is needed, but fire; 
+
+it is not the gentle shower, but thunder. 
+
+We need the storm, 
+
+the whirlwind, 
+
+and the earthquake. 
+
+The feeling of the nation must be quickened; 
+
+the conscience of the nation must be roused; 
+
+the propriety of the nation must be startled; 
+
+the hypocrisy of the nation must be exposed; 
+
+and its crimes against God 
+
+and man must be proclaimed and denounced.
+
+  
+
 #### [Brooklyn Flatlands Covid19 stats](z-blog-1/brooklynflatlandscovid19stats.md)
 
-posted JOT\_insertRelDate(1593790287107, "Jul 3, 2020, 8:31 AM", true, "ltr");
+posted Jul 3, 2020, 8:31 AM by John Henry Thompson   \[ updated JOT\_insertRelDate(1594903558772, "Jul 16, 2020, 5:45 AM", true, "ltr");
 
-Jul 3, 2020, 8:31 AM
-
-by John Henry Thompson   \[ updated JOT\_insertRelDate(1593790756169, "Jul 3, 2020, 8:39 AM", true, "ltr");
-
-Jul 3, 2020, 8:39 AM
+Jul 16, 2020, 5:45 AM
 
 \]
 
@@ -27,17 +121,25 @@ From
 
   
 
-11234, Brooklyn Flatlands, Mill Basin and Bergen Beach
+Zip code: 11234
+
+Brooklyn Flatlands, Mill Basin and Bergen Beach
+
+  
+
+ Date
 
  cases
 
-Per  
+ Per   
 100,000
 
  **Deaths**
 
-Per  
+ Per  
 100,000
+
+ 07/03
 
  2,291
 
@@ -47,19 +149,115 @@ Per
 
  200
 
+ 07/06
+
+ 2,307
+
+ 2,421
+
+ 
+
+ 
+
+ 07/08
+
+ 2,313
+
+ 2,427
+
+ **192**
+
+ 201
+
+ 07/10
+
+ 2,316
+
+ 2,430
+
+ 
+
+   
+
+ 07/12
+
+ 2,318
+
+ 2,432
+
+ 
+
+ 
+
+ 07/14
+
+ 2,323
+
+ 2,437
+
+ 
+
+ 
+
+ 07/15
+
+ 2,326
+
+ 2,441
+
+ 
+
+ 
+
+ 07/16
+
+ 2,327
+
+ 2,442
+
+ 
+
+ 
+
+  
+
+New York City Coronavirus Map and Case Count
+
+ Date
+
+ TOTAL CASES 
+
+ DEATHS
+
+ 07/10
+
+222,723
+
+22,719  
+
+ 07/14
+
+223,382
+
+22,750 
+
+ 07/15
+
+224,293
+
+22,808
+
+ 07/16
+
+224,662
+
+22,825
+
   
 
 #### [Director Revival](z-blog-1/directorrevival.md)
 
-posted JOT\_insertRelDate(1593726587423, "Jul 2, 2020, 2:49 PM", true, "ltr");
-
-Jul 2, 2020, 2:49 PM
-
-by John Henry Thompson   \[ updated JOT\_insertRelDate(1593773019903, "Jul 3, 2020, 3:43 AM", true, "ltr");
-
-Jul 3, 2020, 3:43 AM
-
-by John Henry Thompson \]
+posted Jul 2, 2020, 2:49 PM by John Henry Thompson   \[ updated Jul 3, 2020, 3:43 AM by John Henry Thompson \]
 
 The Director Revival continues!
 
@@ -253,63 +451,5 @@ Coincidentally, JT was the keynote speaker at a conference which I along with[Ma
 
   
 
-#### [Augmentation not replacement.](z-blog-1/augmentationnotreplacement.md)
-
-posted Sep 26, 2017, 4:59 AM by John Henry Thompson
-
-"the most effective way to solve problems was to augment human intelligence and develop ways of building collective intelligence"  
-
-[https://en.wikipedia.org/wiki/Douglas\_Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
-
-  
-
-  
-
-  
-
-#### [Relicensing React, Jest, Flow, and Immutable.js](z-blog-1/relicensingreactjestflowandimmutablejs.md)
-
-posted Sep 25, 2017, 9:43 AM by John Henry Thompson
-
-  
-
-[https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/)
-
-#### [JavaScript Books](z-blog-1/javascriptbooks.md)
-
-posted Sep 25, 2017, 6:44 AM by John Henry Thompson
-
-Phil's recommendation for javascript books.
-
-  
-
-[https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
-
-  
-
-[https://abookapart.com/products/javascript-for-web-designers](https://abookapart.com/products/javascript-for-web-designers)
-
-  
-
-[https://www.barnesandnoble.com/w/murachs-javascript-and-jquery-zak-ruvalcaba/1120735152?ean=9781890774707&pcta=u&st=PLA&sid=BNB\_DRS\_Core+Shopping+Textbooks\_00000000&2sid=Google\_&sourceId=PLGoP62412](https://www.barnesandnoble.com/w/murachs-javascript-and-jquery-zak-ruvalcaba/1120735152?ean=9781890774707&pcta=u&st=PLA&sid=BNB_DRS_Core+Shopping+Textbooks_00000000&2sid=Google_&sourceId=PLGoP62412)
-
-  
-
-[https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/ref=pd\_lpo\_sbs\_14\_t\_0?\_encoding=UTF8&psc=1&refRID=939C4RVGB33HGS45HNQY](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=939C4RVGB33HGS45HNQY)
-
-  
-
-I also have the ES6 for Everyone video series shown here (pretty informative and well organized):
-
-  
-
-[http://wesbos.com/courses/](http://wesbos.com/courses/)
-
-  
-
-  
-
-  
-
-1-10 of 121
+1-10 of 124
 

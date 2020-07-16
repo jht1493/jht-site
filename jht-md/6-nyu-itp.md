@@ -7,7 +7,7 @@
 
   
 
-Beginning Jan 2020, I accepted a position at NYU-ITP as a visiting scholar.  
+Beginning Jan 2020, I accepted a position at [NYU-ITP](https://tisch.nyu.edu/itp) as a visiting scholar.  
 
 In March 2020 the covid19 pandemic hit and I had to adjust.
 

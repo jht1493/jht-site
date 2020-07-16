@@ -5,15 +5,7 @@ Director Revival - John Henry Thompson - Invent Your Future
 
 ### Director Revival
 
-posted JOT\_insertRelDate(1593726587423, "Jul 2, 2020, 2:49 PM", true, "ltr");
-
-Jul 2, 2020, 2:49 PM
-
-by John Henry Thompson   \[ updated JOT\_insertRelDate(1593773019903, "Jul 3, 2020, 3:43 AM", true, "ltr");
-
-Jul 3, 2020, 3:43 AM
-
-by John Henry Thompson \]
+posted Jul 2, 2020, 2:49 PM by John Henry Thompson   \[ updated Jul 3, 2020, 3:43 AM by John Henry Thompson \]
 
 The Director Revival continues!
 

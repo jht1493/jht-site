@@ -79,7 +79,13 @@ The rough plan is to extend along this roadmap:
 
   
 
-[https://www.nytimes.com/interactive/2020/nyregion/new-york-city-coronavirus-cases.html](https://www.nytimes.com/interactive/2020/nyregion/new-york-city-coronavirus-cases.md)
+[New York City Coronavirus Map and Case Count](https://www.nytimes.com/interactive/2020/nyregion/new-york-city-coronavirus-cases.md)
+
+  
+
+[See Who Is In The Crowd](https://www.june2020.org/)
+
+Example of crowd source photo wall and commentary. Would like to apply to covid19 online memorial.
 
   
 
