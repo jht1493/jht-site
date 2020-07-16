@@ -11,7 +11,8 @@ cp -a /Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/jht-md/_/rsrc/1
 /Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/aa/js
 
 mv ../../jht-md/index.md ../../jht-md/README.md
-ls ../../jht-md/index.md
+ls -l ../../jht-md/index.md
+ls -l ../../jht-md/README.md
 
 cp -a ../johnhenrythompson_com/_/rsrc ../../jht-md/_
 
