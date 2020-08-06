@@ -1,5 +1,9 @@
 # Facts
 
+https://www.washingtonpost.com/politics/2020/07/13/president-trump-has-made-more-than-20000-false-or-misleading-claims/
+
+"President Trump has made more than 20,000 false or misleading claims" July 13, 2020
+
 https://theintercept.com/2019/12/19/a-z-trump-impeachment/
 
 "The A to Z of Things Trump Could and Should Have Been Impeached For" Dec 19 2019
