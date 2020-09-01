@@ -44,7 +44,7 @@ Created with scripts aa/js/facebo.js and face-md.js.
 
 Media uploaded 2019-11-22, 599,213,418 bytes (602.6 MB on disk) for 1,801 items.
 
-### Migration of www.instagram.com/johnhenrythompson1493 to [jht-instag-md](jht-instag-md/README.md)
+### Migration of www.instagram.com/jht1493/ to [jht-instag-md](jht-instag-md/README.md)
 
 [jht-instag-md](jht-instag-md/README.md) Markdown version of instagram photos export from instagram 2018-11-05.
 
