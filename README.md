@@ -48,7 +48,7 @@ Media uploaded 2019-11-22, 599,213,418 bytes (602.6 MB on disk) for 1,801 items.
 
 [jht-instag-md](jht-instag-md/README.md) Markdown version of instagram photos export from instagram 2018-11-05.
 
-Created with scrikpts aa/js/instag.js and json-to-md.js.
+Created with scripts aa/js/instag.js and json-to-md.js.
 
 Media 54,140,537 bytes (55.1 MB on disk) for 643 items.
 
