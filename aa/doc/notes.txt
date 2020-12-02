@@ -1,4 +1,14 @@
 
+/Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/aa/js/instag.js
+
+  instag_root_path: '/Volumes/GSPOT/jht/DICE-archived/web/johnhenrythompson1493_20191025/',
+
+/Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/aa/js/facebo.js
+
+  fb_root_path:
+    '/Volumes/GSPOT/jht/DICE-archived/web/facebook-johnhenrythompson-2019-10-25/',
+
+-------------------------------------------------------------------------------
 
 /Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/jht-md/_/rsrc/1295207567308/the-art-of-learning/reflections/colorized-jht_height=400&width=300.jpg
 /Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/jht-md/_/rsrc/1295207567308/the-art-of-learning/reflections/colorized-jht_height=320&width=240.jpg
