@@ -1,4 +1,20 @@
 
+
+
+https://www.instagram.com/download/request/
+Profile > Privacy & Security > Data download
+
+It can take up to 48 hours to collect this data and send it to you, and you can
+only request a file every four days. Please wait before requesting another
+download.
+Request Download
+
+2021-07-09 Requestion JSON
+
+/Volumes/GSPOT/jht-g/projects/jht-uber-sites/web/jht1493_20210709
+
+-------------------------------------------------------------------------------
+
 /Volumes/GSPOT/jht/DICE-archived/web/johnhenrythompson1493_20191025/media.json
   "photos": [
     {
@@ -22,3 +38,5 @@
       "path": "profile/201708/4aa0959fc2f0b85af4eedd9b92b3f769.jpg"
     }
   ]
+
+  -------------------------------------------------------------------------------
