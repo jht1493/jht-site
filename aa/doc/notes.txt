@@ -11,6 +11,9 @@ Files Downloaded 851
 1/19/23, 1:56:01 AM - ERROR: Download of "http://www.johnhenrythompson.com/yoga/patanjani/goog_1633545483", referred from "/Users/jht2/Downloads/us.sitesucker.mac.sitesucker/www.johnhenrythompson.com/yoga/patanjani/book-1.html", failed with error code 404 (not found)
 1/19/23, 1:59:25 AM - ERROR: Download of "http://www.johnhenrythompson.com/heros/walter-thompson-bio/Dad%20%26%20Children%201990?attredirects=0", referred from "/Users/jht2/Downloads/us.sitesucker.mac.sitesucker/www.johnhenrythompson.com/system/app/pages/recentChanges﹖offset=3500.html", failed with error code 404 (not found)
 
+<img border="0" height="320" src="_/rsrc/1519494183908/3-dice/IMG_2235%EF%B9%96height=320&amp;width=179.jpg" width="179">
+
+
 # --
 /Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/aa/js/instag.js
 /Volumes/GSPOT/jht-g/projects/jht-uber-sites/jht-site/aa/js/instag.js
