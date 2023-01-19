@@ -1,9 +1,17 @@
 notes.txt
 
+
+# --
+2023-01-19 07:57:03
+[] files permission 666
+sftp://j4u2.com//home/uaxcom/domains/j4u2.com/public_html/johnhenrythompson
+
 # --
 2023-01-19 01:58:16
 http://www.johnhenrythompson.com/
 Files Downloaded 851
+54,859,494 bytes (56.5 MB on disk) for 1,385 items
+48,247,513 bytes (49.8 MB on disk) for 1,303 items
 
 1/19/23, 1:55:21 AM - ERROR: Download of "http://www.johnhenrythompson.com/goog_1903235010", referred from "/Users/jht2/Downloads/us.sitesucker.mac.sitesucker/www.johnhenrythompson.com/learning-to-program.html", failed with error code 404 (not found)
 1/19/23, 1:55:48 AM - ERROR: Download of "http://www.johnhenrythompson.com/the-art-of-learning/goog_2049212945", referred from "/Users/jht2/Downloads/us.sitesucker.mac.sitesucker/www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning.html", failed with error code 404 (not found)
@@ -12,7 +20,11 @@ Files Downloaded 851
 1/19/23, 1:59:25 AM - ERROR: Download of "http://www.johnhenrythompson.com/heros/walter-thompson-bio/Dad%20%26%20Children%201990?attredirects=0", referred from "/Users/jht2/Downloads/us.sitesucker.mac.sitesucker/www.johnhenrythompson.com/system/app/pages/recentChanges﹖offset=3500.html", failed with error code 404 (not found)
 
 <img border="0" height="320" src="_/rsrc/1519494183908/3-dice/IMG_2235%EF%B9%96height=320&amp;width=179.jpg" width="179">
+/Users/jht2/Documents/projects/jht-site/aa/johnhenrythompson_com/_/rsrc/1519494183908/3-dice/IMG_2235﹖height=320&width=179.jpg
 
+<img border="0" height="320" src="_/rsrc/1519494183908/3-dice/IMG_2235_height=320&amp;width=179.jpg" width="179">
+
+https://github.com/jht1493/jht-site/blob/master/aa/johnhenrythompson_com/_/rsrc/1519494183908/3-dice/IMG_2235﹖height%3D320%26width%3D179.jpg
 
 # --
 /Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/aa/js/instag.js
