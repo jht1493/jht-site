@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /feeds
 Allow: /_/rsrc/
+Allow: /_/atari/*
 Disallow: /_/
 Sitemap: http://www.johnhenrythompson.com:80/system/feeds/sitemap

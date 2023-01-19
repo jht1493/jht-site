@@ -1,4 +1,17 @@
+notes.txt
 
+# --
+2023-01-19 01:58:16
+http://www.johnhenrythompson.com/
+Files Downloaded 851
+
+1/19/23, 1:55:21 AM - ERROR: Download of "http://www.johnhenrythompson.com/goog_1903235010", referred from "/Users/jht2/Downloads/us.sitesucker.mac.sitesucker/www.johnhenrythompson.com/learning-to-program.html", failed with error code 404 (not found)
+1/19/23, 1:55:48 AM - ERROR: Download of "http://www.johnhenrythompson.com/the-art-of-learning/goog_2049212945", referred from "/Users/jht2/Downloads/us.sitesucker.mac.sitesucker/www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning.html", failed with error code 404 (not found)
+1/19/23, 1:55:58 AM - ERROR: Download of "http://www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning/goog_2049212945", referred from "/Users/jht2/Downloads/us.sitesucker.mac.sitesucker/www.johnhenrythompson.com/the-art-of-learning/learning-creative-learning/10session.html", failed with error code 404 (not found)
+1/19/23, 1:56:01 AM - ERROR: Download of "http://www.johnhenrythompson.com/yoga/patanjani/goog_1633545483", referred from "/Users/jht2/Downloads/us.sitesucker.mac.sitesucker/www.johnhenrythompson.com/yoga/patanjani/book-1.html", failed with error code 404 (not found)
+1/19/23, 1:59:25 AM - ERROR: Download of "http://www.johnhenrythompson.com/heros/walter-thompson-bio/Dad%20%26%20Children%201990?attredirects=0", referred from "/Users/jht2/Downloads/us.sitesucker.mac.sitesucker/www.johnhenrythompson.com/system/app/pages/recentChanges﹖offset=3500.html", failed with error code 404 (not found)
+
+# --
 /Volumes/GSPOT/jht-g/projects/2020-06-27-jht-site/jht-site/aa/js/instag.js
 /Volumes/GSPOT/jht-g/projects/jht-uber-sites/jht-site/aa/js/instag.js
 
