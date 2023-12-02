@@ -8,15 +8,16 @@ VS Code reformating after global search and replace
 >> next time try disable Prettier
 
 435 updates
+Terminal Synchronize
 
 # --
 
- aa/jht-20231028T124938Z-001/index.html
+aa/jht-20231028T124938Z-001/index.html
 
-                                          href="http://www.j4u2.com/jht/images/jt_cu.jpg"
+ href="http://www.j4u2.com/jht/images/jt_cu.jpg"
 href="jht-pixled-me.jpg"
-                                          ><img border="0" src="http://www.j4u2.com/jht/images/jt_cu.jpg" /></a
-                                          ><img border="0" src="jht-pixled-me.jpg" /></a
+ ><img border="0" src="http://www.j4u2.com/jht/images/jt_cu.jpg" /></a
+ ><img border="0" src="jht-pixled-me.jpg" /></a
 
 
 # --
