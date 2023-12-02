@@ -1,6 +1,13 @@
 notes.txt
 
- # --
+# --
+2023-12-02 07:27:35
+Formerly Powered By
+
+VS Code reformating after global search and replace
+>> next time try disable Prettier
+
+# --
 
  aa/jht-20231028T124938Z-001/index.html
 
