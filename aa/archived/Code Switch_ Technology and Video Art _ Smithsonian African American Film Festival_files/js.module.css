@@ -1,0 +1,43 @@
+/**
+ * @file
+ * Utility classes to assist with Javascript functionality.
+ */
+
+/**
+ * For anything you want to hide on page load when JS is enabled, so
+ * that you can use the JS to control visibility and avoid flicker.
+ */
+.js .js-hide {
+  display: none;
+}
+
+/**
+ * For anything you want to show on page load only when JS is enabled.
+ */
+.js-show {
+  display: none;
+}
+.js .js-show {
+  display: block;
+}
+
+/*
+     FILE ARCHIVED ON 05:06:29 Nov 14, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:18:29 Nov 11, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.512
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.009
+  esindex: 0.011
+  cdx.remote: 73.192
+  LoadShardBlock: 320.568 (3)
+  PetaboxLoader3.datanode: 146.621 (5)
+  load_resource: 144.983 (2)
+  PetaboxLoader3.resolve: 79.585
+*/

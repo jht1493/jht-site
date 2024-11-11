@@ -1,0 +1,39 @@
+/**
+ * @file
+ * Visual styles for a nested tree child.
+ */
+
+div.tree-child {
+  background: url(/web/20181114050632im_/https://aafilmfest.si.edu/core/themes/stable/images/core/tree.png) no-repeat 11px center; /* LTR */
+}
+div.tree-child-last {
+  background: url(/web/20181114050632im_/https://aafilmfest.si.edu/core/themes/stable/images/core/tree-bottom.png) no-repeat 11px center; /* LTR */
+}
+[dir="rtl"] div.tree-child,
+[dir="rtl"] div.tree-child-last {
+  background-position: -65px center;
+}
+div.tree-child-horizontal {
+  background: url(/web/20181114050632im_/https://aafilmfest.si.edu/core/themes/stable/images/core/tree.png) no-repeat -11px center;
+}
+
+/*
+     FILE ARCHIVED ON 05:06:32 Nov 14, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:18:29 Nov 11, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.615
+  exclusion.robots: 0.023
+  exclusion.robots.policy: 0.011
+  esindex: 0.016
+  cdx.remote: 7.521
+  LoadShardBlock: 72.801 (3)
+  PetaboxLoader3.datanode: 111.609 (5)
+  load_resource: 154.856 (2)
+  PetaboxLoader3.resolve: 110.562
+*/

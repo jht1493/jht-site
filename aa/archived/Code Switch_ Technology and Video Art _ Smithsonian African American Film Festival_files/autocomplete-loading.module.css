@@ -1,0 +1,43 @@
+/**
+ * @file
+ * Visual styles for animated throbber.
+ *
+ * @see autocomplete.js
+ */
+
+.js input.form-autocomplete {
+  background-image: url(/web/20181114050629im_/https://aafilmfest.si.edu/core/themes/stable/images/core/throbber-inactive.png);
+  background-position: 100% center; /* LTR */
+  background-repeat: no-repeat;
+}
+.js[dir="rtl"] input.form-autocomplete {
+  background-position: 0% center;
+}
+.js input.form-autocomplete.ui-autocomplete-loading {
+  background-image: url(/web/20181114050629im_/https://aafilmfest.si.edu/core/themes/stable/images/core/throbber-active.gif);
+  background-position: 100% center; /* LTR */
+}
+.js[dir="rtl"] input.form-autocomplete.ui-autocomplete-loading {
+  background-position: 0% center;
+}
+
+/*
+     FILE ARCHIVED ON 05:06:29 Nov 14, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:18:29 Nov 11, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.525
+  exclusion.robots: 0.022
+  exclusion.robots.policy: 0.014
+  esindex: 0.009
+  cdx.remote: 4.669
+  LoadShardBlock: 185.508 (3)
+  PetaboxLoader3.datanode: 184.755 (5)
+  PetaboxLoader3.resolve: 56.34 (2)
+  load_resource: 77.864 (2)
+*/

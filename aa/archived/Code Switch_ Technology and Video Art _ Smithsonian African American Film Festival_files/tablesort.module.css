@@ -1,0 +1,39 @@
+/**
+ * @file
+ * Table sort indicator.
+ *
+ * @see tablesort-indicator.html.twig
+ */
+
+.tablesort {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  background-size: 100%;
+}
+.tablesort--asc {
+  background-image: url(/web/20181114050631im_/https://aafilmfest.si.edu/core/themes/stable/images/core/icons/787878/twistie-down.svg);
+}
+.tablesort--desc {
+  background-image: url(/web/20181114050631im_/https://aafilmfest.si.edu/core/themes/stable/images/core/icons/787878/twistie-up.svg);
+}
+
+/*
+     FILE ARCHIVED ON 05:06:31 Nov 14, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:18:29 Nov 11, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.715
+  exclusion.robots: 0.021
+  exclusion.robots.policy: 0.009
+  esindex: 0.013
+  cdx.remote: 13.006
+  LoadShardBlock: 282.798 (6)
+  PetaboxLoader3.datanode: 304.976 (8)
+  load_resource: 227.055 (2)
+*/
