@@ -1,4 +1,4 @@
-# jht-site
+# [jht-site](https://github.com/jht1493/jht-site.git)
 
 John Henry Thompson - A migration of my personal web sites
 
@@ -70,4 +70,6 @@ https://twitter.com/jht1493
 
 ## Contact me
 
-[@jht1493](https://twitter.com/jht1493)
+<!-- [@jht1493](https://twitter.com/jht1493) -->
+
+[create an issues here](https://github.com/jht1493/jht-site/issues)
