@@ -8,7 +8,9 @@ John Henry Thompson - A migration of my personal web sites
 
 ## Why
 
-• **Facebook.com** should be boycotted for their crimes against democracy and on going [threat to democracy](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way). **Facebook.com** users should move all their content to a free hosting site like **github.com**.
+• **Facebook.com** should be boycotted for their crimes against democracy and on going 
+[threat to democracy](https://www.kqed.org/news/11782019/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way). 
+**Facebook.com** users should move all their content to a free hosting site like **github.com**.
 
 • You should have full control of your content and social network, and not give it away for free to **Facebook.com**, an ethically compromised corporation.
 
@@ -73,3 +75,14 @@ https://twitter.com/jht1493
 <!-- [@jht1493](https://twitter.com/jht1493) -->
 
 [create an issues here](https://github.com/jht1493/jht-site/issues)
+
+## Updates
+
+-  threat to democracy links:
+  - [threat to democracy 1](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way)
+  - [threat to democracy 2](https://www.kqed.org/news/11782019/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way)
+  - [reich on trump](https://open.substack.com/pub/robertreich/p/how-trump-is-seeking-to-destroy-the)
+  - 
+   
+
+ 
