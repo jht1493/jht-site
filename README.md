@@ -81,7 +81,7 @@ https://twitter.com/jht1493
 -  threat to democracy links:
   - [threat to democracy 1](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way)
   - [threat to democracy 2](https://www.kqed.org/news/11782019/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way)
-  - [reich on trump](https://open.substack.com/pub/robertreich/p/how-trump-is-seeking-to-destroy-the)
+  - [robert reich on trump](https://open.substack.com/pub/robertreich/p/how-trump-is-seeking-to-destroy-the)
   - 
    
 
